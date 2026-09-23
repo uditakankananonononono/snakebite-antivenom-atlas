@@ -32,3 +32,14 @@ DONE (run 2 contd): deploy key rotated 23:17 IST; cloned; all manifest checksums
 - SSH push pending: my ed25519 public key sent to parent 23:14 IST; clone+push blocked until
   deploy key rotates. UniProt TSV/FASTA (>1MB) not retrievable via GitHub file API - exact
   manifest-verified bytes need the clone. All run-2 code+outputs preserved in this commit.
+
+## Done (run 2 contd, ~23:38 IST)
+- Step 4 (part): AFDB availability per accession re-pulled via UniProt database:alphafolddb
+  (one bulk query, 4644/5131, data/alphafold/...tsv, sha256 c321e055...). Structure coverage
+  recomputed on corrected inventory: in-scope 3644, AFDB 3331 (91.5%), PDB 222 (6.1%).
+- Step 5 DONE: code/cross_reactivity.py - uncovered-species toxins (CRITICAL+HIGH) vs
+  covered-species toxins within family; 8-mer prefilter + edlib global identity; thresholds
+  60/70/80/90 as sensitivity analysis. 290 toxins / 38 species scored. At T=80: 55.5% of
+  toxins and 24/38 species have >=50% inventory inferred-covered. Honest negatives:
+  8 species lack even a 90%-identity homolog for half their inventory; heuristic stated
+  as upper bound, not clinical efficacy.

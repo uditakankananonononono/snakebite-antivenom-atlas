@@ -1,0 +1,7 @@
+Cross-reactivity heuristic summary (uncovered species = CRITICAL+HIGH gap class)
+uncovered-species toxins scored: 290 across 38 species
+
+T=60%: toxins inferred-covered 211/290 (72.8%), species with >=50% inventory inferred-covered: 29/38
+T=70%: toxins inferred-covered 194/290 (66.9%), species with >=50% inventory inferred-covered: 27/38
+T=80%: toxins inferred-covered 161/290 (55.5%), species with >=50% inventory inferred-covered: 24/38
+T=90%: toxins inferred-covered 55/290 (19.0%), species with >=50% inventory inferred-covered: 8/38
