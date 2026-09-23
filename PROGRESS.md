@@ -43,3 +43,7 @@ DONE (run 2 contd): deploy key rotated 23:17 IST; cloned; all manifest checksums
   toxins and 24/38 species have >=50% inventory inferred-covered. Honest negatives:
   8 species lack even a 90%-identity homolog for half their inventory; heuristic stated
   as upper bound, not clinical efficacy.
+- Step 6 (part): code/stats_analysis.py -> results/stats_summary.txt. Findings:
+  region x gap-class chi2 p=0.085 (NOT significant - honest negative, kept);
+  toxin richness vs coverage Spearman rho=0.560 p=1.3e-25 (research-attention bias);
+  Cat1 less likely than Cat2 to lack toxin records (Fisher OR=0.44, p=0.0035).

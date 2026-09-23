@@ -1,0 +1,15 @@
+== 1. region x gap-class contingency (species counted per region of occurrence) ==
+rows: Africa and the Middle East, Asia and Australasia, Europe, The Americas
+cols: CRITICAL (Cat1, no antivenom listed), HIGH (no antivenom listed), DATA GAP (covered, but no toxin records), covered
+[[4, 24, 5, 27], [4, 17, 15, 55], [1, 4, 0, 4], [4, 34, 8, 42]]
+chi2=15.2 dof=9 p=0.0852
+
+== 2. toxin richness vs antivenom coverage (per species) ==
+Spearman rho(n_toxins, n_products)=0.560 p=1.25e-25 n=294
+median toxins covered=10 (n=162), uncovered=0 (n=132)
+Mann-Whitney U p=1.72e-18
+
+== 3. WHO category vs absence of toxin records ==
+Cat1: 23 zero-toxin / 80 species; Cat2: 101 zero-toxin / 211
+Fisher exact odds ratio=0.44 p=0.00348
+
