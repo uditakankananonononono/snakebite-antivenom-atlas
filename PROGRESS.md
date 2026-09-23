@@ -22,9 +22,18 @@
   16 CRITICAL (Cat1 + no antivenom listed), 113 HIGH (no antivenom), 41 DATA GAP
   (covered but zero toxin records), 121 covered.
 
+## Done (contd, run 1 end)
+- NCBI taxonomy pass over all 114 orphan toxin organisms (raw esearch/esummary JSON
+  cached in data/ncbi/): 5 are WHO-2017 appendix species MISSED by Longbottom
+  (T. stejnegeri 68 toxins, T. albolabris 18, Gloydius blomhoffii 12,
+  T. purpureomaculatus 5, Lachesis stenophrys 1) - reintegrated; 109 confirmed
+  non-listed negatives; 0 direct synonyms (lebetinus/ikaheca are NCBI-accepted
+  distinct spellings - taxonomy split, documented). Key paper finding:
+  WHO-2017 vs Longbottom-2018 species-list drift.
+- Tables re-run: 296 species, 3620/5131 toxins matched, 168 species with toxin data.
+
 ## Next (in order)
-1. Synonym pass: join 114 orphan toxin organism names (e.g. Macrovipera lebetinus,
-   Trimeresurus stejnegeri) to listed species via NCBI taxonomy eutils; re-run tables.
+1. (done - see above)
 2. Clean who_species_not_in_longbottom negatives (bare genera / 'complex' phrases vs
    true taxonomy drift like Gloydius blomhoffii) -> disagreement table for paper.
 3. Quiet region_validation.txt noise (277 flags are name-fragment false alarms,

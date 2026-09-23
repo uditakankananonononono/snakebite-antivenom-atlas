@@ -2,7 +2,6 @@
 150	Laticauda laticaudata
 147	Python bivittatus
 79	Thamnophis sirtalis
-68	Trimeresurus stejnegeri
 63	Macrovipera lebetinus
 55	Crotalus helleri
 54	Pseudonaja modesta
@@ -16,7 +15,6 @@
 20	Demansia vestigiata
 19	Micrurus altirostris
 18	Gloydius brevicauda
-18	Trimeresurus albolabris
 17	Vermicella annulata
 16	Ovophis okinavensis
 15	Echiopsis curta
@@ -31,7 +29,6 @@
 13	Laticauda colubrina
 13	Bothrops fonsecai
 13	Suta fasciata
-12	Gloydius blomhoffii
 12	Hydrophis hardwickii
 12	Spilotes sulphureus
 12	Denisonia devisi
@@ -52,7 +49,6 @@
 6	Python regius
 6	Micrurus frontalis
 6	Brachyurophis roperi
-5	Trimeresurus purpureomaculatus
 5	Crotalus mitchellii
 5	Crotalus concolor
 5	Crotalus tigris
@@ -104,7 +100,6 @@
 1	Hydrophis torquatus
 1	Metlapilcoatlus mexicanus
 1	Coelognathus radiatus
-1	Lachesis stenophrys
 1	Psammophis mossambicus
 1	Cylindrophis ruffus
 1	Helicops angulatus

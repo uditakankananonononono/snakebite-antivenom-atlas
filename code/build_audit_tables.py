@@ -23,6 +23,14 @@ with open("data/longbottom/repo/snake_list.csv") as f:
             "category": r["majority_cat"], "countries": r["countries_occ"].strip('"'),
             "in_who_appendix": "yes" if hit else "no",
             "who_match_name": "|".join(hit), "notes": (r["notes"] or "").strip()})
+# reintegrate WHO-only species confirmed by NCBI pass as consolidated rows
+if os.path.exists("results/ncbi_synonym_resolution.csv"):
+    have = {r["species"] for r in species_rows}
+    for r in csv.DictReader(open("results/ncbi_synonym_resolution.csv")):
+        if r["rule"] == "2_who_listed" and r["mapped_species"] not in have:
+            species_rows.append({"lb_id": "", "species": r["mapped_species"], "split_spp": "",
+                "category": "WHO2017", "countries": "", "in_who_appendix": "yes",
+                "who_match_name": r["mapped_species"], "notes": "WHO-2017 appendix species absent from Longbottom list; reintegrated via NCBI resolution"})
 with open("results/consolidated_species.csv","w",newline="") as f:
     w = csv.DictWriter(f, fieldnames=list(species_rows[0])); w.writeheader(); w.writerows(species_rows)
 open("results/negatives/who_species_not_in_longbottom.txt","w").write("\n".join(sorted(unmatched_who))+"\n")
@@ -58,6 +66,13 @@ by_name = {}
 for r in species_rows:
     for n in {r["species"], r["split_spp"]}:
         if n: by_name[n] = r["species"]
+# NCBI-resolved WHO-listed organisms join to their accepted WHO name (match source: who_appendix)
+import os
+who2lb = {}
+if os.path.exists("results/ncbi_synonym_resolution.csv"):
+    for r in csv.DictReader(open("results/ncbi_synonym_resolution.csv")):
+        if r["rule"] == "2_who_listed":
+            by_name[r["uniprot_name"]] = r["mapped_species"]
 
 inv, orphans = [], collections.Counter()
 with open("data/uniprot/serpentes_toxins.tsv") as f:

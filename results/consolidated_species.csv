@@ -290,3 +290,8 @@ lb_id,species,split_spp,category,countries,in_who_appendix,who_match_name,notes
 2016_15,Trimeresurus cardamomensis,Trimeresurus cardamomensis,2,,yes,Trimeresurus cardamomensis|Trimeresurus cardamomensis,Previously part of Trimeresurus macrops (Cryptelytrops macrops)
 2016_16,Trimeresurus hageni,Trimeresurus hageni,2,,yes,Trimeresurus hageni|Trimeresurus hageni,
 2016_17,Trimeresurus rubeus,Trimeresurus rubeus,2,,yes,Trimeresurus rubeus|Trimeresurus rubeus,Previously part of Trimeresurus macrops (Cryptelytrops macrops)
+,Trimeresurus stejnegeri,,WHO2017,,yes,Trimeresurus stejnegeri,WHO-2017 appendix species absent from Longbottom list; reintegrated via NCBI resolution
+,Trimeresurus albolabris,,WHO2017,,yes,Trimeresurus albolabris,WHO-2017 appendix species absent from Longbottom list; reintegrated via NCBI resolution
+,Gloydius blomhoffii,,WHO2017,,yes,Gloydius blomhoffii,WHO-2017 appendix species absent from Longbottom list; reintegrated via NCBI resolution
+,Trimeresurus purpureomaculatus,,WHO2017,,yes,Trimeresurus purpureomaculatus,WHO-2017 appendix species absent from Longbottom list; reintegrated via NCBI resolution
+,Lachesis stenophrys,,WHO2017,,yes,Lachesis stenophrys,WHO-2017 appendix species absent from Longbottom list; reintegrated via NCBI resolution
