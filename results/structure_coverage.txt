@@ -1,0 +1,3 @@
+Structure coverage of toxin inventory (UniProt xrefs, retrieved 2026-09-23)
+all toxins: 5131, with AlphaFoldDB: 4644, with PDB: 238
+matched (in-scope species): 3620, AFDB: 3307, PDB: 221, either: 3308
