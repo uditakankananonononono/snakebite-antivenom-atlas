@@ -1,0 +1,9 @@
+variant_name,lb_canonical,evidence
+Eristicophis macmahonii,Eristocophis macmahoni,WHO-2017 appendix spelling; Longbottom row 118 previous_sp_name lists 'Eristicophis_macmahonii'; NCBI txid 110227
+Gloydius blomhoffii,Gloydius blomhoffi,WHO-2017 + UniProt + NCBI txid 242054 spelling 'blomhoffii'; Longbottom row 119 uses orthographic variant 'blomhoffi' (prev. Agkistrodon blomhoffi)
+Lachesis stenophrys,Lachesis stenophyrs,WHO-2017 + UniProt + NCBI txid 88085 spelling 'stenophrys'; Longbottom row 135 misspells species as 'stenophyrs' (prev. Lachesis muta stenophrys)
+Naja senegelensis,Naja senegalensis,WHO-2017 appendix misspells 'senegelensis'; Longbottom row 175 'Naja senegalensis' (prev. Naja haje)
+Porthidium ophrymegas,Porthidium ophryomegas,WHO-2017 appendix spells 'ophrymegas'; Longbottom row 189 'Porthidium ophryomegas' (prev. Bothrops lansbergii annectans)
+Naja morgani,Walterinnesia morgani,WHO-2017 lists Naja morgani; genus transfer - Longbottom row 237 'Walterinnesia morgani' (prev. Walterinnesia aegyptia)
+Gloydius brevicauda,Gloydius brevicaudus,UniProt/NCBI txid 3148161 'brevicauda'; Longbottom row 120 orthographic variant 'brevicaudus' (prev. Agkistrodon blomhoffi brevicaudus)
+Eristicophis macmahoni,Eristocophis macmahoni,UniProt/NCBI txid 110227 genus 'Eristicophis'; Longbottom row 118 misspells genus 'Eristocophis'

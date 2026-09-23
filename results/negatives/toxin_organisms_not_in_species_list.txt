@@ -14,7 +14,6 @@
 22	Furina ornata
 20	Demansia vestigiata
 19	Micrurus altirostris
-18	Gloydius brevicauda
 17	Vermicella annulata
 16	Ovophis okinavensis
 15	Echiopsis curta
@@ -42,7 +41,6 @@
 6	Trimeresurus gracilis
 6	Azemiops feae
 6	Crotalus lutosus
-6	Eristicophis macmahoni
 6	Laticauda semifasciata
 6	Craspedocephalus puniceus
 6	Echis multisquamatus

@@ -1,0 +1,31 @@
+who_entry,class,resolves_to,evidence
+Agkistrodon,genus_header,,WHO appendix genus-level grouping line split from its species by two-column layout
+Agkistrodon complex,complex_phrase,,"species-complex/group phrase in WHO appendix, not a binomial"
+Bothrops,genus_header,,WHO appendix genus-level grouping line split from its species by two-column layout
+Bothrops atrox species,complex_phrase,,"species-complex/group phrase in WHO appendix, not a binomial"
+Bothrops neuwiedi complex,complex_phrase,,"species-complex/group phrase in WHO appendix, not a binomial"
+Crotalus durissus complex,complex_phrase,,"species-complex/group phrase in WHO appendix, not a binomial"
+Daboia,genus_header,,WHO appendix genus-level grouping line split from its species by two-column layout
+Echis,genus_header,,WHO appendix genus-level grouping line split from its species by two-column layout
+Echis coloratus complex,complex_phrase,,"species-complex/group phrase in WHO appendix, not a binomial"
+Eristicophis macmahonii,spelling_variant,Eristocophis macmahoni,WHO-2017 appendix spelling; Longbottom row 118 previous_sp_name lists 'Eristicophis_macmahonii'; NCBI txid 110227
+Gloydius blomhoffii,spelling_variant,Gloydius blomhoffi,WHO-2017 + UniProt + NCBI txid 242054 spelling 'blomhoffii'; Longbottom row 119 uses orthographic variant 'blomhoffi' (prev. Agkistrodon blomhoffi)
+Naja,genus_header,,WHO appendix genus-level grouping line split from its species by two-column layout
+Naja morgani,taxonomic_synonym,Walterinnesia morgani,WHO-2017 lists Naja morgani; genus transfer - Longbottom row 237 'Walterinnesia morgani' (prev. Walterinnesia aegyptia)
+Naja nigricollis complex,complex_phrase,,"species-complex/group phrase in WHO appendix, not a binomial"
+Naja senegelensis,spelling_variant,Naja senegalensis,WHO-2017 appendix misspells 'senegelensis'; Longbottom row 175 'Naja senegalensis' (prev. Naja haje)
+Oxyuranus,genus_header,,WHO appendix genus-level grouping line split from its species by two-column layout
+Porthidium ophrymegas,spelling_variant,Porthidium ophryomegas,WHO-2017 appendix spells 'ophrymegas'; Longbottom row 189 'Porthidium ophryomegas' (prev. Bothrops lansbergii annectans)
+Protobothrops,genus_header,,WHO appendix genus-level grouping line split from its species by two-column layout
+Pseudechis australis is,prose_bleed,Pseudechis australis,sentence 'Pseudechis australis is common and widespread...' bled into the two-column extraction
+Pseudonaja textilis pughi,prose_bleed,Pseudonaja textilis,"subspecies 'pughi' appears only inside a reference citation (Williams et al. 2008, Zootaxa 1703)"
+Tropidolaemus,genus_header,,WHO appendix genus-level grouping line split from its species by two-column layout
+Tropidolaemus wagleri-complex,complex_phrase,,"species-complex/group phrase in WHO appendix, not a binomial"
+brazili,fragment_duplicate,Bothrops brazili,bare epithet from a column-split binomial; full name present in WHO list
+halys,fragment_duplicate,Gloydius halys,bare epithet from a column-split binomial; full name present in WHO list
+leucogaster,fragment_duplicate,Echis leucogaster,bare epithet from a column-split binomial; full name present in WHO list
+mauritanica,fragment_duplicate,Daboia mauritanica,bare epithet from a column-split binomial; full name present in WHO list
+melanoleuca,fragment_duplicate,Naja melanoleuca,bare epithet from a column-split binomial; full name present in WHO list
+mucrosquamatus,fragment_duplicate,Protobothrops mucrosquamatus,bare epithet from a column-split binomial; full name present in WHO list
+scutellatus,fragment_duplicate,Oxyuranus scutellatus,bare epithet from a column-split binomial; full name present in WHO list
+wagleri,fragment_duplicate,,bare epithet from a column-split binomial; full name present in WHO list

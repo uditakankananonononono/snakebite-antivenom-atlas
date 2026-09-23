@@ -4,7 +4,9 @@ Regions = the four WHO appendix sections. ISO3->region validated against the WHO
 PDF: each country's name must appear inside its assigned section's line range;
 mismatches dumped to results/negatives/region_validation.txt."""
 import csv, re, collections
-lines = open("data/who/who_trs1004_annex5.txt", encoding="utf-8").read().splitlines()
+# NOTE: split("\n"), not splitlines() - the PDF text has form-feed page breaks;
+# splitlines() splits at \f and shifts every line index past page 1 off the SECT ranges.
+lines = open("data/who/who_trs1004_annex5.txt", encoding="utf-8").read().split("\n")
 SECT = [(7595,8166,"Africa and the Middle East"),(8166,8461,"Asia and Australasia"),
         (8461,8600,"Europe"),(8600,len(lines),"The Americas")]
 sectext = {name:" ".join(lines[a-1:b-1]).lower() for a,b,name in SECT}

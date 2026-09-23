@@ -13,10 +13,21 @@ def norm(s): return (s or "").strip().replace("_", " ")
 # ---- consolidated species (Longbottom primary) ----
 who_species = {l.strip() for l in open("data/who/who_appendix_species.txt") if l.strip()}
 species_rows, unmatched_who = [], set(who_species)
+# curated WHO->LB spelling/synonym bridge (see code/build_synonym_map.py for evidence)
+SYN = {}
+if os.path.exists("results/synonym_map_applied.csv"):
+    for r in csv.DictReader(open("results/synonym_map_applied.csv")):
+        SYN[r["variant_name"]] = r["lb_canonical"]
 with open("data/longbottom/repo/snake_list.csv") as f:
     for r in csv.DictReader(f):
-        names = [norm(r[c]) for c in ("species","split_spp","previous_sp_name","alternate_sp_name","new_sp_name") if norm(r[c])]
-        hit = [n for n in names if n in who_species]
+        names = [norm(r["species"]), norm(r["split_spp"])]
+        for c in ("previous_sp_name","alternate_sp_name","new_sp_name"):
+            names += [norm(x) for x in re.split(r"[,;]", r[c] or "") if norm(x)]
+        # curated WHO names bind ONLY to their synonym target row (a LB synonym field
+        # may coincidentally contain the same string, e.g. acrochorda 'prev. stenophrys')
+        hit = [n for n in names if n in who_species and (n not in SYN or SYN[n] == norm(r["species"]))]
+        # WHO variants that curated synonyms equate with this LB species
+        hit += [w for w in list(unmatched_who) if SYN.get(w) == norm(r["species"])]
         for h in hit: unmatched_who.discard(h)
         species_rows.append({
             "lb_id": r["id"], "species": norm(r["species"]), "split_spp": norm(r["split_spp"]),
@@ -27,6 +38,8 @@ with open("data/longbottom/repo/snake_list.csv") as f:
 if os.path.exists("results/ncbi_synonym_resolution.csv"):
     have = {r["species"] for r in species_rows}
     for r in csv.DictReader(open("results/ncbi_synonym_resolution.csv")):
+        if r["rule"] == "2_who_listed" and SYN.get(r["mapped_species"]) in have:
+            continue  # duplicate of an existing LB row under a spelling variant - merged via SYN
         if r["rule"] == "2_who_listed" and r["mapped_species"] not in have:
             species_rows.append({"lb_id": "", "species": r["mapped_species"], "split_spp": "",
                 "category": "WHO2017", "countries": "", "in_who_appendix": "yes",
@@ -72,6 +85,10 @@ who2lb = {}
 if os.path.exists("results/ncbi_synonym_resolution.csv"):
     for r in csv.DictReader(open("results/ncbi_synonym_resolution.csv")):
         if r["rule"] == "2_who_listed":
+            by_name[r["uniprot_name"]] = SYN.get(r["mapped_species"], r["mapped_species"])
+if os.path.exists("results/lb_synonym_resolution.csv"):
+    for r in csv.DictReader(open("results/lb_synonym_resolution.csv")):
+        if r["rule"] == "4_lb_listed":
             by_name[r["uniprot_name"]] = r["mapped_species"]
 
 inv, orphans = [], collections.Counter()

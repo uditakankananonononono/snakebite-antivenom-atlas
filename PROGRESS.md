@@ -1,53 +1,34 @@
-# PROGRESS - venom-toxin data audit slice
-2026-09-23 (run 1, replacement builder). Gates locked standalone in commit 4c965fe BEFORE any results.
 
-## Done
-- GATES_LOCKED.md committed standalone and pushed.
-- Sources pulled, checksummed (manifests/checksums-2026-09-23.partial.txt):
-  WHO TRS1004 Annex5 PDF (official Cat1/Cat2 appendix), Longbottom2018 supp data
-  (294 species + 99-antivenom matrix), UniProt Serpentes toxin pull (5131 entries, TSV+FASTA).
-- WHO appendix species extraction: 256 species (code/extract_who_species.py,
-  genus whitelist = Longbottom + UniProt genera; rejects dumped to results/negatives/).
-- Methods decision (recorded negative): WHO PDF two-column layout makes automated
-  country attribution unreliable -> species-level extraction only; country/category
-  per species comes from Longbottom structured CSV. Old country-parser attempt kept
-  at git history, superseded.
+## Done (run 2, replacement builder, 2026-09-23 ~23:30 IST)
+- Step 2 DONE: code/build_synonym_map.py classifies all 30 who_species_not_in_longbottom
+  entries -> results/who_longbottom_disagreement_table.csv: 8 column-split fragments,
+  8 genus headers, 7 complex phrases, 2 prose/citation bleeds (parse artifacts);
+  4 spelling variants + 1 genus transfer resolved to Longbottom rows (evidence per row).
+  ZERO true WHO-only species among the 30. Paper finding strengthened.
+- Root-caused two consolidated_species bugs: (a) comma-separated Longbottom synonym
+  fields were never split -> false in_who=no (Eristocophis macmahoni 118);
+  (b) NCBI reintegration added synonym duplicates -> Gloydius blomhoffii/blomhoffi and
+  Lachesis stenophrys/stenophyrs double-counted (296 -> 294 unique species).
+- results/synonym_map_applied.csv: 8 curated pairs w/ evidence; build_audit_tables.py
+  patched to apply them (comma-split fix, WHO->LB bridge, dedupe, toxin joins).
+- results/lb_synonym_resolution.csv: Gloydius brevicauda (18) + Eristicophis macmahoni (6)
+  toxins join LB (rule 4_lb_listed); Echis multisquamatus + Tropidolaemus wagleri joins
+  REJECTED (name only in a synonym field = taxonomy drift, kept as honest negative, rule 5).
+- Step 3 DONE: region_validation noise root-caused - build_gap_table.py used splitlines();
+  pdftotext form feeds split lines, shifting SECT ranges off by up to 191 lines.
+  Fixed to split('\n'); region map itself was correct.
 
-## Done (contd, run 1)
-- results/consolidated_species.csv: 291 species; 232 both sources, 30 WHO-only, 59 LB-only.
-- results/toxin_inventory.csv: 5131 toxins, 3516 matched to in-scope species, 18-family
-  rule-based classification (mapping documented in code/build_audit_tables.py).
-- results/antivenom_coverage_long.csv: 94 products, 451 species-product pairs.
-- results/gap_table.csv: per-species gap class by WHO region:
-  16 CRITICAL (Cat1 + no antivenom listed), 113 HIGH (no antivenom), 41 DATA GAP
-  (covered but zero toxin records), 121 covered.
-
-## Done (contd, run 1 end)
-- NCBI taxonomy pass over all 114 orphan toxin organisms (raw esearch/esummary JSON
-  cached in data/ncbi/): 5 are WHO-2017 appendix species MISSED by Longbottom
-  (T. stejnegeri 68 toxins, T. albolabris 18, Gloydius blomhoffii 12,
-  T. purpureomaculatus 5, Lachesis stenophrys 1) - reintegrated; 109 confirmed
-  non-listed negatives; 0 direct synonyms (lebetinus/ikaheca are NCBI-accepted
-  distinct spellings - taxonomy split, documented). Key paper finding:
-  WHO-2017 vs Longbottom-2018 species-list drift.
-- Tables re-run: 296 species, 3620/5131 toxins matched, 168 species with toxin data.
-
-## Done (structure coverage)
-- results/structure_coverage.txt: in-scope toxins 3620; PDB experimental structures
-  221 (6.1%); AlphaFoldDB models 3307 (91.4%). Experimental-structure gap is a
-  paper finding; AlphaFold used as predicted-structure layer (documented as such).
-
-## Next (in order)
-1. (synonym pass done - see above)
-2. Clean who_species_not_in_longbottom negatives (bare genera / 'complex' phrases vs
-   true taxonomy drift like Gloydius blomhoffii) -> disagreement table for paper.
-3. Quiet region_validation.txt noise (277 flags are name-fragment false alarms,
-   e.g. subsection ordering; verify section line ranges) - region map itself stands.
-4. AlphaFold DB availability per toxin accession + RCSB PDB detail pull.
-5. Cross-reactivity heuristic: cluster toxins by family (3FTx/PLA2/...), pairwise
-   identity of uncovered-species toxins vs antivenom-covered species -> inferred coverage.
-6. Stats (region x gap contingency, toxin-richness vs coverage correlation),
-   coverage_atlas.py tool, paper (Times font, blue borders), full slice manifest, seal.
-
-## Blockers/notes
-- Deploy key rotated to this builder; push works (4c965fe on origin/main).
+## Next (updated)
+DONE (run 2 contd): deploy key rotated 23:17 IST; cloned; all manifest checksums verified OK.
+   Pipeline rerun (synonyms -> audit tables -> gap table): 294 species (242 both sources /
+   25 artifact-only WHO unmatched / 52 LB-only), 3644/5131 toxins matched (+24), 170 species
+   with toxin data. Gap classes: 16 CRITICAL, 116 HIGH, 38 DATA GAP, 124 covered.
+   region_validation flags 277 -> 25 (form-feed fix). One binding-order bug caught in review:
+   curated WHO names now bind only to their synonym target row (acrochorda/stenophrys).
+1. Update structure_coverage numbers for the +24 matched toxins (AFDB/PDB pull, next-step 4).
+2. AlphaFold/PDB detail pull; 3. cross-reactivity heuristic; 4. stats + coverage_atlas.py
+   + paper + full slice manifest + seal.
+## Blockers
+- SSH push pending: my ed25519 public key sent to parent 23:14 IST; clone+push blocked until
+  deploy key rotates. UniProt TSV/FASTA (>1MB) not retrievable via GitHub file API - exact
+  manifest-verified bytes need the clone. All run-2 code+outputs preserved in this commit.

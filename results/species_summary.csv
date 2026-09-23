@@ -70,7 +70,7 @@ Bothrops spp,2,COL,no,10,10,5,3FTx:4|SVSP:2|SVMP:2|LAAO:1|PLA2:1,0,1,Antibotropi
 Bothrops spp,2,ECU,no,10,10,5,3FTx:4|SVSP:2|SVMP:2|LAAO:1|PLA2:1,0,1,Antibotropico Polivalente
 Bothrops spp,2,ECU,no,10,10,5,3FTx:4|SVSP:2|SVMP:2|LAAO:1|PLA2:1,0,1,Antibotropico Polivalente
 Bothrops spp,2,PER,no,10,10,5,3FTx:4|SVSP:2|SVMP:2|LAAO:1|PLA2:1,0,1,Antibotropico Polivalente
-Bothrops spp,2,,no,10,10,5,3FTx:4|SVSP:2|SVMP:2|LAAO:1|PLA2:1,0,1,Antibotropico Polivalente
+Bothrops spp,2,,yes,10,10,5,3FTx:4|SVSP:2|SVMP:2|LAAO:1|PLA2:1,0,1,Antibotropico Polivalente
 Bothrops spp,2,PER,no,10,10,5,3FTx:4|SVSP:2|SVMP:2|LAAO:1|PLA2:1,0,1,Antibotropico Polivalente
 Bothrops spp,2,,no,10,10,5,3FTx:4|SVSP:2|SVMP:2|LAAO:1|PLA2:1,0,1,Antibotropico Polivalente
 Bothrops spp,2,,no,10,10,5,3FTx:4|SVSP:2|SVMP:2|LAAO:1|PLA2:1,0,1,Antibotropico Polivalente
@@ -140,9 +140,9 @@ Echis megalocephalus,2,,yes,0,0,0,,0,0,
 Echis ocellatus,1,"NGA, BEN, TGO, GHA, SDN, CIV, NER, BFA, SEN",yes,77,20,7,SVMP:49|SVSP:10|Disintegrin:8|CTL:5|OTHER:3|PLA2:1|LAAO:1,0,2,FAV Afrique|SAIMR Echis antivenom
 Echis omanensis,1,"ARE, OMN",yes,0,0,0,,0,1,Polyvalent Snake Antivenom
 Echis pyramidum,1,"SDN, CIV, ERI, ARE, DZA, NER, MRT, KEN, EGY",yes,79,9,5,SVMP:64|SVSP:6|Disintegrin:4|CTL:4|PLA2:1,0,2,Polyvalent Anti viper Venom VACSERA|SAIMR Echis antivenom
-Eristocophis macmahoni,2,,no,0,0,0,,0,0,
-Gloydius blomhoffi,1,"JPN, RUS",no,0,0,0,,0,1,Mamushi Antivenom Kaketsuken
-Gloydius brevicaudus,1,"KOR, CHN, PRK",yes,0,0,0,,0,2,Agkistrodon Salmusa Antivenom|Mamushi Antivenom Kaketsuken
+Eristocophis macmahoni,2,,yes,6,6,3,Disintegrin:4|LAAO:1|SVSP:1,0,0,
+Gloydius blomhoffi,1,"JPN, RUS",yes,12,9,6,SVSP:5|3FTx:2|OTHER:2|SVMP:1|LAAO:1|Disintegrin:1,1,1,Mamushi Antivenom Kaketsuken
+Gloydius brevicaudus,1,"KOR, CHN, PRK",yes,18,18,3,SVMP:12|SVSP:4|OTHER:2,1,2,Agkistrodon Salmusa Antivenom|Mamushi Antivenom Kaketsuken
 Gloydius halys,1,"IRN, MNG, RUS, KAZ, TKM, JPN",yes,29,27,7,SVSP:10|SVMP:7|OTHER:5|PLA2:2|3FTx:2|Disintegrin:2|LAAO:1,5,1,Agkistrodon halys antivenin
 Gloydius halys caucasicus,2,,yes,0,0,0,,0,1,Polyvalent Snake Antivenom Razi
 Gloydius himalayanus,2,,yes,0,0,0,,0,0,
@@ -159,7 +159,7 @@ Hypnale nepa,2,LKA,yes,0,0,0,,0,0,
 Lachesis acrochorda,2,"COL, ECU",yes,0,0,0,,0,0,
 Lachesis melanocephala,2,"CRI, BRA, ECU, COL",yes,0,0,0,,0,1,Polyvalent Antivenom ICP
 Lachesis muta,2,"BRA, BOL, PER, COL, PAN, GUY, ECU, TTO, CRI, SUR, GUF",yes,21,21,6,SVSP:7|SVMP:5|3FTx:3|PLA2:3|OTHER:2|Disintegrin:1,0,7,Antibotropico laquetico Butantan|Antibotropico laquetico FUNED|Antibotropico laquetico IVB|Antilachesico Monovalente|Antiofidico Polivalente Botropico Laquetico|Antiofidico Polivalente CDBiotecnologia|Antivipmyn TRI
-Lachesis stenophyrs,2,,no,0,0,0,,0,1,Polyvalent Antivenom ICP
+Lachesis stenophyrs,2,,yes,1,1,1,SVSP:1,0,1,Polyvalent Antivenom ICP
 Macrovipera lebetina,1,"ARM, IRN, CYP",yes,4,4,1,Disintegrin:4,1,3,Anti viperin|Gamma Vip|Polyvalent Snake Antivenom Razi
 Macrovipera schweizeri,2,,yes,0,0,0,,0,0,
 Micropechis ikaheka,2,"PNG, IDN",yes,0,0,0,,0,1,CSL Polyvalent antivenom
@@ -247,7 +247,7 @@ Pseudonaja nuchalis,1,AUS,yes,0,0,0,,0,2,CSL Brown Snake antivenom|CSL Polyvalen
 Pseudonaja spp,2,AUS,no,0,0,0,,0,2,CSL Brown Snake antivenom|CSL Polyvalent antivenom
 Pseudonaja spp,2,AUS,no,0,0,0,,0,2,CSL Brown Snake antivenom|CSL Polyvalent antivenom
 Pseudonaja spp,2,AUS,no,0,0,0,,0,2,CSL Brown Snake antivenom|CSL Polyvalent antivenom
-Pseudonaja spp,2,AUS,no,0,0,0,,0,2,CSL Brown Snake antivenom|CSL Polyvalent antivenom
+Pseudonaja spp,2,AUS,yes,0,0,0,,0,2,CSL Brown Snake antivenom|CSL Polyvalent antivenom
 Pseudonaja textilis,2,"AUS, PNG",yes,208,26,8,3FTx:96|SVMP:34|OTHER:31|SVSP:23|PDE:12|LAAO:6|CNP:4|PLA2:2,4,2,CSL Brown Snake antivenom|CSL Polyvalent antivenom
 Rhabdophis tigrinus,2,"KOR, JPN, CHN, PRK, THA, RUS",yes,1,1,1,CNP:1,0,1,Anti Yamakagashi Antivenom
 Sistrurus catenatus,2,"USA, CAN, MEX",yes,18,9,7,SVMP:7|CTL:3|SVSP:2|VEGF:2|3FTx:2|LAAO:1|OTHER:1,0,1,Antivipmyn
@@ -271,9 +271,9 @@ Vipera nikolskii,2,DEU,yes,5,5,2,3FTx:4|SVSP:1,1,0,
 Vipera renardi,2,"KAZ, UKR, ARM",yes,7,7,3,PLA2:4|3FTx:2|SVSP:1,0,0,
 Vipera seoanei,2,"ESP, FRA, PRT",yes,0,0,0,,0,0,
 Vipera spp,2,"TUR, RUS",yes,0,0,0,,0,0,
-Vipera spp,2,,no,0,0,0,,0,0,
+Vipera spp,2,,yes,0,0,0,,0,0,
 Vipera spp,2,GEO,no,0,0,0,,0,0,
-Vipera spp,2,,no,0,0,0,,0,0,
+Vipera spp,2,,yes,0,0,0,,0,0,
 Vipera ursinii,2,"HUN, ROU, CHN, AUT",no,1,0,1,SVMP:1,0,1,Viper venom antitoxin European
 Viridovipera stejnegeri,2,,yes,0,0,0,,0,1,Antivenom Tr mucrosquamatus stejnegeri
 Walterinnesia aegyptia,2,"TUR, ISR, SAU, IRN, EGY",yes,11,10,4,3FTx:4|SVSP:4|PLA2:2|SVMP:1,0,2,Bivalent Naja Walterinnesia Snake AV|Polyvalent Snake Antivenom
@@ -292,6 +292,4 @@ Trimeresurus hageni,2,,yes,0,0,0,,0,1,Green Pit Viper Antivenin QSMI
 Trimeresurus rubeus,2,,yes,0,0,0,,0,0,
 Trimeresurus stejnegeri,WHO2017,,yes,68,62,6,SVSP:26|PLA2:22|OTHER:11|SVMP:4|3FTx:4|LAAO:1,4,0,
 Trimeresurus albolabris,WHO2017,,yes,18,18,4,OTHER:9|SVSP:6|SVMP:2|Disintegrin:1,0,0,
-Gloydius blomhoffii,WHO2017,,yes,12,9,6,SVSP:5|3FTx:2|OTHER:2|SVMP:1|LAAO:1|Disintegrin:1,1,0,
 Trimeresurus purpureomaculatus,WHO2017,,yes,5,4,3,OTHER:3|SVSP:1|3FTx:1,0,0,
-Lachesis stenophrys,WHO2017,,yes,1,1,1,SVSP:1,0,0,

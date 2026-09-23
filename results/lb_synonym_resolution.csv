@@ -1,0 +1,5 @@
+toxin_count,uniprot_name,ncbi_accepted,rule,mapped_species
+18,Gloydius brevicauda,Gloydius brevicauda,4_lb_listed,Gloydius brevicaudus
+6,Eristicophis macmahoni,Eristicophis macmahoni,4_lb_listed,Eristocophis macmahoni
+6,Echis multisquamatus,Echis multisquamatus,5_drift_kept_orphan,REJECTED join to Echis carinatus: name appears only in a Longbottom synonym field
+4,Tropidolaemus wagleri,Tropidolaemus wagleri,5_drift_kept_orphan,REJECTED join to Tropidolaemus philippensis: name appears only in a Longbottom synonym field
