@@ -1,0 +1,292 @@
+species,category,countries,in_who_appendix,n_toxins,n_toxins_reviewed,n_toxin_families,families,n_with_pdb,n_antivenom_products,antivenoms
+Acanthophis antarcticus,2,"AUS, IDN, PNG",yes,10,10,2,3FTx:8|PLA2:2,0,2,CSL Death Adder antivenom|CSL Polyvalent antivenom
+Acanthophis laevis,1,"PNG, IDN, AUS",yes,0,0,0,,0,2,CSL Death Adder antivenom|CSL Polyvalent antivenom
+Acanthophis rugosus,2,"AUS, IDN",yes,1,1,1,PLA2:1,0,2,CSL Death Adder antivenom|CSL Polyvalent antivenom
+Acanthophis spp,2,"AUS, PNG, IDN",no,15,0,3,3FTx:11|OTHER:3|SVMP:1,0,2,CSL Death Adder antivenom|CSL Polyvalent antivenom
+Acanthophis spp,2,AUS,no,15,0,3,3FTx:11|OTHER:3|SVMP:1,0,2,CSL Death Adder antivenom|CSL Polyvalent antivenom
+Acanthophis spp,2,AUS,no,15,0,3,3FTx:11|OTHER:3|SVMP:1,0,2,CSL Death Adder antivenom|CSL Polyvalent antivenom
+Acanthophis spp,2,,no,15,0,3,3FTx:11|OTHER:3|SVMP:1,0,2,CSL Death Adder antivenom|CSL Polyvalent antivenom
+Agkistrodon bilineatus,2,"MEX, HND, CRI, SLV",yes,6,6,4,OTHER:2|SVSP:2|SVMP:1|PLA2:1,0,2,Faboterapico Polivalente Antiviperino|Polyvalent Antivenom ICP
+Agkistrodon contortrix,1,"USA, MEX",yes,28,12,6,Disintegrin:16|SVMP:7|SVSP:2|LAAO:1|PLA2:1|OTHER:1,4,1,Polyvalent crotalid antivenom CroFab
+Agkistrodon piscivorus,1,"USA, MEX",yes,14,14,6,SVMP:4|PLA2:3|Disintegrin:3|3FTx:2|VEGF:1|SVSP:1,1,2,Antivipmyn|Polyvalent crotalid antivenom CroFab
+Agkistrodon taylori,1,MEX,yes,0,0,0,,0,0,
+Atheris broadleyi,2,,yes,0,0,0,,0,0,
+Atheris chlorechis,2,"GHA, CIV, LBR, GIN",yes,1,1,1,Disintegrin:1,0,0,
+Atheris squamigera,2,"CMR, GAB, COG, GNQ, COD, UGA, KEN, AGO",yes,1,1,1,Disintegrin:1,0,0,
+Atractaspis andersonii,1,,yes,2,0,1,SVMP:2,0,0,
+Atractaspis bibronii,2,"MOZ, ZAF, COD, BWA, NAM, SWZ, TZA, KEN, AGO, ZWE, ZMB, GHA, MLI",yes,1,1,1,3FTx:1,0,0,
+Atractaspis engaddensis,2,"ISR, EGY, SAU",yes,3,2,2,3FTx:2|SVMP:1,1,0,
+Atractaspis fallax,2,KEN,yes,0,0,0,,0,0,
+Atractaspis irregularis,2,"BEN, NGA, TZA, COG, COD, KEN, UGA, GHA, CMR, CAF, RWA",yes,2,2,1,3FTx:2,1,0,
+Atropoides mexicanus,2,"MEX, HND, GTM, SLV, CRI",yes,0,0,0,,0,1,Polyvalent Antivenom ICP
+Atropoides occiduus,2,,yes,0,0,0,,0,0,
+Atropoides spp,2,HND,no,2,0,1,OTHER:2,0,0,
+Atropoides spp,2,"MEX, CRI, HND, SLV, BLZ, GTM",no,2,0,1,OTHER:2,0,0,
+Atropoides spp,2,MEX,no,2,0,1,OTHER:2,0,0,
+Atropoides spp,2,CRI,yes,2,0,1,OTHER:2,0,0,
+Austrelaps spp,2,AUS,no,63,33,5,3FTx:25|PLA2:22|OTHER:14|SVMP:1|CNP:1,0,2,CSL Polyvalent antivenom|CSL Tiger Snake antivenom
+Austrelaps spp,2,AUS,no,63,33,5,3FTx:25|PLA2:22|OTHER:14|SVMP:1|CNP:1,0,2,CSL Polyvalent antivenom|CSL Tiger Snake antivenom
+Austrelaps spp,2,AUS,no,63,33,5,3FTx:25|PLA2:22|OTHER:14|SVMP:1|CNP:1,0,2,CSL Polyvalent antivenom|CSL Tiger Snake antivenom
+Bitis arietans,1,"NAM, ZAF, MAR, SSD, BWA, GMB, MOZ, BEN, TGO, ZMB, TZA, KEN, ZWE, GNB, MWI, COG, GIN, GHA, OMN, SWZ, LSO, SAU, SOM, ETH, COD, UGA, CIV, BFA, AGO, SDN, SEN, BDI",yes,20,16,7,CTL:7|Disintegrin:4|OTHER:3|SVSP:2|SVMP:2|VEGF:1|3FTx:1,3,4,FAV Afrique|Favirept|Polyvalent Snake Antivenom|SAIMR Polyvalent Snake antivenom
+Bitis gabonica,1,"UGA, NGA, COD, TZA, BEN, CMR, KEN, COG, MOZ, LBR, GNQ, GIN, GAB, ZAF, CIV, TGO, GHA, ZMB, MLI",yes,11,9,5,SVMP:4|SVSP:2|Disintegrin:2|CTL:2|LAAO:1,0,2,FAV Afrique|SAIMR Polyvalent Snake antivenom
+Bitis nasicornis,2,"CMR, BEN, KEN, TZA, COG, COD, GAB, GNQ, UGA, CIV, GHA, NGA, RWA",yes,3,3,1,SVMP:3,0,0,
+Bitis parviocula,2,ETH,yes,0,0,0,,0,0,
+Bitis rhinoceros,2,"BEN, GIN, GHA, LBR",yes,10,10,4,SVSP:5|CTL:2|OTHER:2|SVMP:1,0,0,
+Bothriechis lateralis,2,"CRI, PAN",yes,4,1,2,SVMP:2|OTHER:2,0,1,Polyvalent Antivenom ICP
+Bothriechis marchi,2,HND,yes,0,0,0,,0,0,
+Bothriechis schlegelii,2,"CRI, COL, PAN, ECU, GTM, HND, NIC, BLZ, MEX",yes,3,2,2,PLA2:2|3FTx:1,0,1,Polyvalent Antivenom ICP
+Bothriechis spp,2,"MEX, GTM",no,1,1,1,PLA2:1,0,0,
+Bothriechis spp,2,CRI,no,1,1,1,PLA2:1,0,0,
+Bothriechis spp,2,MEX,no,1,1,1,PLA2:1,0,0,
+Bothriechis spp,2,,no,1,1,1,PLA2:1,0,0,
+Bothriechis spp,2,"GTM, MEX",no,1,1,1,PLA2:1,0,0,
+Bothriechis spp,2,HND,no,1,1,1,PLA2:1,0,0,
+Bothrocophias hyoprora,2,"PER, ECU, BRA, COL",yes,2,2,1,PLA2:2,0,1,Antibotropico Polivalente
+Bothrocophias microphthalmus,2,"COL, PER, ECU",yes,0,0,0,,0,0,
+Bothrocophias spp,2,ECU,no,0,0,0,,0,0,
+Bothrocophias spp,2,COL,no,0,0,0,,0,0,
+Bothrocophias spp,2,COL,no,0,0,0,,0,0,
+Bothrops alternatus,1,"BRA, ARG, URY, PRY",yes,11,11,7,SVMP:4|SVSP:2|3FTx:1|LAAO:1|PLA2:1|OTHER:1|Disintegrin:1,0,16,Antibotropico Butantan|Antibotropico CPPI|Antibotropico FUNED|Antibotropico IVB|Antibotropico bivalente|Antibotropico crotalico Butantan|Antibotropico crotalico FUNED|Antibotropico crotalico IVB|Antibotropico laquetico Butantan|Antibotropico laquetico FUNED|Antibotropico laquetico IVB|Antiofidico Bivalente Antibothropico|Antiofidico Polivalente BIOL|Antiveneno Bothropico Bivalente|Antiveneno Bothropico Crotalico|Antiveneno Bothropico Tetravalente
+Bothrops ammodytoides,2,ARG,yes,1,1,1,PLA2:1,0,2,Antiveneno Bothropico Bivalente|Antiveneno Bothropico Tetravalente
+Bothrops asper,1,"CRI, ECU, MEX, COL, BLZ, VEN, PAN, TTO, NIC, HND, GTM, BRA",yes,13,11,4,PLA2:5|OTHER:4|SVMP:3|SVSP:1,3,6,Antiofidico Bothropico Polivalente|Antiofidico Polivalente CDBiotecnologia|Antivipmyn|Antivipmyn TRI|Faboterapico Polivalente Antiviperino|Polyvalent Antivenom ICP
+Bothrops atrox,1,"ECU, GUY, PER, COL, GUF, TTO, BRA, SUR, BOL, VEN, MEX, CRI, HND, PAN, CUB, URY, BLZ",yes,145,13,7,OTHER:71|SVMP:51|SVSP:19|LAAO:1|PLA2:1|Disintegrin:1|3FTx:1,1,15,Antibotropico Butantan|Antibotropico CPPI|Antibotropico FUNED|Antibotropico IVB|Antibotropico Polivalente|Antibotropico crotalico Butantan|Antibotropico crotalico FUNED|Antibotropico crotalico IVB|Antibotropico laquetico Butantan|Antibotropico laquetico FUNED|Antibotropico laquetico IVB|Antiofidico Bothropico Polivalente|Antiofidico Polivalente Botropico Crotalico|Antiofidico Polivalente Botropico Laquetico|Antiofidico Polivalente CDBiotecnologia
+Bothrops bilineatus,1,"ECU, GUY, BRA, GUF, BOL, PER",yes,1,1,1,3FTx:1,0,0,
+Bothrops brazili,2,"GUY, PER, ECU, VEN, GUF",yes,6,6,1,PLA2:6,2,1,Antibotropico Polivalente
+Bothrops caribbaeus,1,,yes,0,0,0,,0,1,BothroFAV
+Bothrops cf atrox,1,,yes,0,0,0,,0,1,Antiofidico Polivalente CDBiotecnologia
+Bothrops diporus,2,"ARG, PRY, BRA",yes,4,4,2,PLA2:3|OTHER:1,0,5,Antibotropico bivalente|Antiofidico Polivalente BIOL|Antiveneno Bothropico Bivalente|Antiveneno Bothropico Crotalico|Antiveneno Bothropico Tetravalente
+Bothrops jararaca,2,"BRA, ARG, BOL, PRY, PER",yes,109,56,8,SVMP:63|SVSP:20|OTHER:17|CTL:5|LAAO:1|PLA2:1|VEGF:1|3FTx:1,4,11,Antibotropico Butantan|Antibotropico CPPI|Antibotropico FUNED|Antibotropico IVB|Antibotropico crotalico Butantan|Antibotropico crotalico FUNED|Antibotropico crotalico IVB|Antibotropico laquetico Butantan|Antibotropico laquetico FUNED|Antibotropico laquetico IVB|Antiveneno Bothropico Tetravalente
+Bothrops jararacussu,2,"BRA, PRY, ARG, COL",yes,19,16,5,SVMP:7|SVSP:4|PLA2:4|LAAO:2|OTHER:2,5,11,Antibotropico Butantan|Antibotropico CPPI|Antibotropico FUNED|Antibotropico IVB|Antibotropico crotalico Butantan|Antibotropico crotalico FUNED|Antibotropico crotalico IVB|Antibotropico laquetico Butantan|Antibotropico laquetico FUNED|Antibotropico laquetico IVB|Antiveneno Bothropico Tetravalente
+Bothrops jonathani,2,,yes,0,0,0,,0,0,
+Bothrops lanceolatus,1,"CRI, BRA",yes,0,0,0,,0,1,BothroFAV
+Bothrops leucurus,1,BRA,yes,10,10,4,SVMP:5|PLA2:3|LAAO:1|SVSP:1,1,0,
+Bothrops mattogrossensis,2,"BOL, PRY, BRA",yes,5,5,2,PLA2:4|LAAO:1,0,2,Antiofidico Polivalente Botropico Crotalico|Antiofidico Polivalente Botropico Laquetico
+Bothrops moojeni,2,"BRA, ARG, PRY",yes,17,11,8,SVMP:5|3FTx:3|PLA2:2|OTHER:2|CTL:2|LAAO:1|VEGF:1|Disintegrin:1,3,10,Antibotropico Butantan|Antibotropico CPPI|Antibotropico FUNED|Antibotropico IVB|Antibotropico crotalico Butantan|Antibotropico crotalico FUNED|Antibotropico crotalico IVB|Antibotropico laquetico Butantan|Antibotropico laquetico FUNED|Antibotropico laquetico IVB
+Bothrops neuwiedi,2,"PRY, ARG, BRA, BOL, URY",yes,12,3,3,OTHER:9|SVMP:2|PLA2:1,0,17,Antibotropico Butantan|Antibotropico CPPI|Antibotropico FUNED|Antibotropico IVB|Antibotropico bivalente|Antibotropico crotalico Butantan|Antibotropico crotalico FUNED|Antibotropico crotalico IVB|Antibotropico laquetico Butantan|Antibotropico laquetico FUNED|Antibotropico laquetico IVB|Antiofidico Polivalente BIOL|Antiofidico Polivalente Botropico Crotalico|Antiofidico Polivalente Botropico Laquetico|Antiveneno Bothropico Bivalente|Antiveneno Bothropico Crotalico|Antiveneno Bothropico Tetravalente
+Bothrops pictus,1,PER,yes,3,2,3,OTHER:1|SVSP:1|SVMP:1,0,1,Antibotropico Polivalente
+Bothrops pubescens,2,"BRA, URY",yes,0,0,0,,0,1,Antiofidico Bivalente Antibothropico
+Bothrops sanctaecrucis,2,"BRA, BOL",yes,0,0,0,,0,0,
+Bothrops spp,2,COL,no,10,10,5,3FTx:4|SVSP:2|SVMP:2|LAAO:1|PLA2:1,0,1,Antibotropico Polivalente
+Bothrops spp,2,ECU,no,10,10,5,3FTx:4|SVSP:2|SVMP:2|LAAO:1|PLA2:1,0,1,Antibotropico Polivalente
+Bothrops spp,2,ECU,no,10,10,5,3FTx:4|SVSP:2|SVMP:2|LAAO:1|PLA2:1,0,1,Antibotropico Polivalente
+Bothrops spp,2,PER,no,10,10,5,3FTx:4|SVSP:2|SVMP:2|LAAO:1|PLA2:1,0,1,Antibotropico Polivalente
+Bothrops spp,2,,no,10,10,5,3FTx:4|SVSP:2|SVMP:2|LAAO:1|PLA2:1,0,1,Antibotropico Polivalente
+Bothrops spp,2,PER,no,10,10,5,3FTx:4|SVSP:2|SVMP:2|LAAO:1|PLA2:1,0,1,Antibotropico Polivalente
+Bothrops spp,2,,no,10,10,5,3FTx:4|SVSP:2|SVMP:2|LAAO:1|PLA2:1,0,1,Antibotropico Polivalente
+Bothrops spp,2,,no,10,10,5,3FTx:4|SVSP:2|SVMP:2|LAAO:1|PLA2:1,0,1,Antibotropico Polivalente
+Bothrops taeniatus,2,,yes,0,0,0,,0,0,
+Bothrops venezuelensis,1,VEN,yes,0,0,0,,0,1,Antiofidico Polivalente CDBiotecnologia
+Bungarus bungaroides,2,MMR,yes,0,0,0,,0,0,
+Bungarus caeruleus,1,"PAK, IND, LKA, MMR",yes,7,7,2,3FTx:6|PLA2:1,4,4,Polyvalent Antisnake Venom|Polyvalent Snake Antivenin Asia|Snake Venom Antiserum IP Asia|Snake antivenin IP Asia
+Bungarus candidus,1,"IDN, LAO, KHM, THA, SGP, MYS, IND",yes,35,33,2,3FTx:32|OTHER:3,4,2,Malayan krait antivenin QSMI|Neuro polyvalent snake antivenom QSMI
+Bungarus ceylonicus,2,LKA,yes,0,0,0,,0,0,
+Bungarus fasciatus,2,"IDN, LAO, HKG, CHN, MMR, KHM, VNM, PHL, THA, BGD, MYS",yes,25,24,6,3FTx:18|PLA2:2|SVMP:2|LAAO:1|AChE:1|SVSP:1,2,3,Banded krait antivenin QSMI|Neuro polyvalent snake antivenom QSMI|Polyvalent Anti Snake Venom
+Bungarus flaviceps,2,"IDN, MYS",yes,22,6,4,3FTx:19|SVSP:1|CNP:1|OTHER:1,0,0,
+Bungarus lividus,2,,yes,0,0,0,,0,0,
+Bungarus magnimaculatus,1,"MMR, IND",yes,0,0,0,,0,0,
+Bungarus multicinctus,1,"CHN, HKG, VNM, LAO, MMR, THA, IND",yes,48,46,5,3FTx:43|SVMP:2|LAAO:1|SVSP:1|CNP:1,6,3,Antivenom B multicinctus N n naja|Bungarus Antivenom|Bungarus multicinctus antivenin
+Bungarus niger,2,MMR,yes,0,0,0,,0,0,
+Bungarus sindanus,2,,yes,0,0,0,,0,0,
+Bungarus slowinskii,1,,yes,0,0,0,,0,0,
+Bungarus walli,2,,yes,0,0,0,,0,0,
+Calliophis bivirgatus,2,,yes,22,4,5,SVMP:8|SVSP:7|3FTx:5|PDE:1|CNP:1,0,0,
+Calliophis intestinalis,2,"IDN, MYS, SGP, PHL",yes,0,0,0,,0,0,
+Calloselasma rhodostoma,1,"IDN, MYS, VNM, THA, LAO",yes,19,17,6,PLA2:6|OTHER:6|SVMP:3|SVSP:2|LAAO:1|3FTx:1,8,3,Haemato polyvalent snake antivenom QSMI|Malayan pit viper antivenin QSMI|Polyvalent Anti Snake Venom
+Cerastes cerastes,2,"MAR, ISR, TUN, EGY, YEM, MRT, IRQ, SAU, DZA, ESH, MLI, ARE, LBY, SDN",yes,15,15,5,SVSP:5|PLA2:4|Disintegrin:3|OTHER:2|SVMP:1,0,6,Anti viperin|Favirept|Gamma Vip|Polyvalent Anti viper Venom VACSERA|Polyvalent Snake Antivenom|Polyvalent Snake Antivenom VACSERA
+Cerastes gasperettii,2,"ARE, JOR, ISR, SAU",yes,0,0,0,,0,1,Polyvalent Snake Antivenom
+Cerrophidion godmani,2,"MEX, CRI, HND, GTM, SLV",yes,8,4,3,PLA2:4|OTHER:3|3FTx:1,1,1,Polyvalent Antivenom ICP
+Cerrophidion spp,2,MEX,no,0,0,0,,0,0,
+Cerrophidion spp,2,MEX,no,0,0,0,,0,0,
+Cerrophidion spp,2,MEX,no,0,0,0,,0,0,
+Crotalus adamanteus,1,"USA, MEX",yes,298,35,9,SVMP:108|3FTx:65|CTL:50|OTHER:46|SVSP:16|PDE:7|CNP:3|LAAO:2|PLA2:1,0,1,Polyvalent crotalid antivenom CroFab
+Crotalus atrox,1,"USA, MEX",yes,45,33,9,SVMP:14|OTHER:14|SVSP:8|PLA2:3|Disintegrin:2|VEGF:1|LAAO:1|3FTx:1|CNP:1,4,2,Antivipmyn|Polyvalent crotalid antivenom CroFab
+Crotalus basiliscus,2,"MEX, COL",yes,5,2,3,OTHER:3|3FTx:1|Disintegrin:1,0,1,Faboterapico Polivalente Antiviperino
+Crotalus durissus,1,"BRA, MEX, PRY, COL, BOL, ARG, SLV, NIC, GUY, BLZ, HND, VEN, GTM, CRI, ABW, TTO, USA",yes,61,55,9,3FTx:27|SVSP:12|SVMP:8|OTHER:6|PLA2:4|VEGF:1|PDE:1|CNP:1|Disintegrin:1,9,13,Antibotropico crotalico Butantan|Antibotropico crotalico FUNED|Antibotropico crotalico IVB|Anticrotalico Butantan|Anticrotalico FUNED|Anticrotalico IVB|Anticrotalico Monovalente|Antiofidico Polivalente|Antiofidico Polivalente BIOL|Antiofidico Polivalente Botropico Crotalico|Antiveneno Bothropico Crotalico|Antiveneno Crotalico|Antivipmyn TRI
+Crotalus horridus,1,"USA, BRA, CAN, GTM, MEX, ARG, VEN",yes,47,7,8,OTHER:13|CTL:11|3FTx:10|SVMP:7|PLA2:2|PDE:2|Disintegrin:1|VEGF:1,0,1,Polyvalent crotalid antivenom CroFab
+Crotalus molossus,2,"MEX, USA",yes,9,3,3,SVMP:5|OTHER:3|Disintegrin:1,0,2,Antivipmyn|Polyvalent crotalid antivenom CroFab
+Crotalus oreganus,2,"USA, MEX, CAN",yes,0,0,0,,0,1,Polyvalent crotalid antivenom CroFab
+Crotalus ruber,2,"USA, MEX",yes,3,3,2,SVMP:2|Disintegrin:1,0,0,
+Crotalus scutulatus,1,"USA, MEX",yes,14,4,5,OTHER:9|3FTx:2|Disintegrin:1|SVSP:1|SVMP:1,0,2,Antivipmyn|Polyvalent crotalid antivenom CroFab
+Crotalus simus,1,"MEX, CRI, HND",yes,1,1,1,Disintegrin:1,0,2,Antivipmyn|Polyvalent Antivenom ICP
+Crotalus spp,2,MEX,no,0,0,0,,0,0,
+Crotalus totonacus,1,MEX,yes,0,0,0,,0,0,
+Crotalus tzabcan,2,MEX,yes,8,2,4,OTHER:3|CTL:3|3FTx:1|Disintegrin:1,0,0,
+Crotalus viridis,2,"USA, MEX, CAN",yes,23,22,6,PLA2:8|SVMP:7|3FTx:4|Disintegrin:2|SVSP:1|OTHER:1,0,2,Antivipmyn|Polyvalent crotalid antivenom CroFab
+Cryptelytrops albolabris,1,"LAO, IDN, HKG",yes,0,0,0,,0,3,Green Pit Viper Antivenin QSMI|Haemato polyvalent snake antivenom QSMI|SAV Tri
+Cryptelytrops erythrurus,2,,yes,0,0,0,,0,0,
+Cryptelytrops insularis,2,,yes,0,0,0,,0,2,Green Pit Viper Antivenin QSMI|Haemato polyvalent snake antivenom QSMI
+Cryptelytrops macrops,2,"LAO, THA",yes,0,0,0,,0,1,Green Pit Viper Antivenin QSMI
+Cryptelytrops purpureomaculatus,2,SGP,yes,0,0,0,,0,2,Green Pit Viper Antivenin QSMI|Haemato polyvalent snake antivenom QSMI
+Cryptelytrops septentrionalis,2,,yes,0,0,0,,0,0,
+Daboia deserti,2,,yes,0,0,0,,0,1,Favirept
+Daboia mauritanica,1,MAR,yes,0,0,0,,0,0,
+Daboia palaestinae,1,"SYR, ISR",yes,7,7,4,PLA2:3|OTHER:2|VEGF:1|Disintegrin:1,0,0,
+Daboia russelii,1,"LKA, MMR, IND, PAK",yes,50,24,8,3FTx:11|SVMP:10|OTHER:9|PLA2:7|SVSP:6|LAAO:3|CTL:3|VEGF:1,3,4,Polyvalent Antisnake Venom|Polyvalent Snake Antivenin Asia|Snake Venom Antiserum IP Asia|Snake antivenin IP Asia
+Daboia siamensis,1,"MMR, CHN, THA, IDN",yes,39,28,9,OTHER:9|CTL:8|SVSP:7|3FTx:6|PLA2:3|SVMP:2|Disintegrin:2|LAAO:1|VEGF:1,8,3,Haemato polyvalent snake antivenom QSMI|Russells viper antivenin QSMI|Viper antivenin
+Deinagkistrodon acutus,1,"CHN, VNM",yes,51,41,8,SVMP:18|OTHER:16|SVSP:9|3FTx:3|PLA2:2|LAAO:1|Disintegrin:1|CTL:1,13,2,Agkistrodon Acutus antivenin|Monovalent Antivenin Snorkel Viper
+Dendroaspis angusticeps,1,"KEN, TZA, ZAF, UGA, AGO, ZWE",yes,34,34,4,3FTx:17|OTHER:14|CNP:2|SVSP:1,11,1,SAIMR Polyvalent Snake antivenom
+Dendroaspis jamesoni,1,"CMR, BEN, TGO, KEN, GAB, COD, GNQ, UGA, COG, NGA, NER",yes,11,11,2,OTHER:6|3FTx:5,2,2,FAV Afrique|SAIMR Polyvalent Snake antivenom
+Dendroaspis polylepis,1,"BWA, NAM, ZWE, ZAF, SEN, SWZ, TZA, KEN, SOM, ZMB, COD, MOZ",yes,21,21,3,3FTx:15|OTHER:4|SVSP:2,11,2,FAV Afrique|SAIMR Polyvalent Snake antivenom
+Dendroaspis viridis,1,"CMR, BEN, TGO, GHA, GIN, CIV",yes,8,8,2,OTHER:5|3FTx:3,0,1,FAV Afrique
+Dispholidus typus,2,"TZA, SSD, ZAF, UGA, KEN, ZWE, NAM, GHA, COD, SEN, ZMB, SOM",yes,4,4,2,3FTx:3|OTHER:1,0,1,SAIMR Boomslang antivenom
+Echis borkini,1,SAU,yes,0,0,0,,0,1,Polyvalent Snake Antivenom
+Echis carinatus,1,"ETH, SOM, ARE, OMN, GHA, SAU, AFG, IRN, IND, KEN, EGY, YEM, NER, SSD, SDN, PAK",yes,66,25,6,SVMP:40|Disintegrin:8|OTHER:8|SVSP:4|CTL:4|PLA2:2,10,6,Polyvalent Antisnake Venom|Polyvalent Snake Antivenin Asia|Polyvalent Snake Antivenom Asia|Polyvalent Snake Antivenom Razi|Snake Venom Antiserum IP Asia|Snake antivenin IP Asia
+Echis coloratus,1,"ISR, OMN, SAU, BHR, IRN, EGY, ARE",yes,147,2,6,SVMP:108|SVSP:18|CTL:11|OTHER:7|3FTx:2|PLA2:1,0,1,Polyvalent Snake Antivenom
+Echis hughesi,2,SOM,yes,0,0,0,,0,0,
+Echis jogeri,1,,yes,0,0,0,,0,0,
+Echis khosatzkii,2,,yes,0,0,0,,0,0,
+Echis leucogaster,2,"MAR, MLI, NER, SEN, MRT, DZA",yes,2,2,1,Disintegrin:2,0,2,FAV Afrique|Favirept
+Echis megalocephalus,2,,yes,0,0,0,,0,0,
+Echis ocellatus,1,"NGA, BEN, TGO, GHA, SDN, CIV, NER, BFA, SEN",yes,77,20,7,SVMP:49|SVSP:10|Disintegrin:8|CTL:5|OTHER:3|PLA2:1|LAAO:1,0,2,FAV Afrique|SAIMR Echis antivenom
+Echis omanensis,1,"ARE, OMN",yes,0,0,0,,0,1,Polyvalent Snake Antivenom
+Echis pyramidum,1,"SDN, CIV, ERI, ARE, DZA, NER, MRT, KEN, EGY",yes,79,9,5,SVMP:64|SVSP:6|Disintegrin:4|CTL:4|PLA2:1,0,2,Polyvalent Anti viper Venom VACSERA|SAIMR Echis antivenom
+Eristocophis macmahoni,2,,no,0,0,0,,0,0,
+Gloydius blomhoffi,1,"JPN, RUS",no,0,0,0,,0,1,Mamushi Antivenom Kaketsuken
+Gloydius brevicaudus,1,"KOR, CHN, PRK",yes,0,0,0,,0,2,Agkistrodon Salmusa Antivenom|Mamushi Antivenom Kaketsuken
+Gloydius halys,1,"IRN, MNG, RUS, KAZ, TKM, JPN",yes,29,27,7,SVSP:10|SVMP:7|OTHER:5|PLA2:2|3FTx:2|Disintegrin:2|LAAO:1,5,1,Agkistrodon halys antivenin
+Gloydius halys caucasicus,2,,yes,0,0,0,,0,1,Polyvalent Snake Antivenom Razi
+Gloydius himalayanus,2,,yes,0,0,0,,0,0,
+Gloydius intermedius,2,"KOR, IRN, CHN, PRK",yes,19,4,6,SVSP:9|SVMP:4|3FTx:2|CTL:2|OTHER:1|PLA2:1,1,1,Agkistrodon Salmusa Antivenom
+Gloydius tsushimaensis,2,,yes,1,1,1,VEGF:1,0,0,
+Gloydius ussuriensis,2,"KOR, CHN, PRK, RUS",yes,12,12,5,SVSP:7|Disintegrin:2|3FTx:1|PLA2:1|SVMP:1,0,1,Agkistrodon Salmusa Antivenom
+Hemachatus haemachatus,2,"ZAF, SWZ, LSO",yes,15,15,4,3FTx:8|OTHER:5|PLA2:1|CRISP:1,2,1,SAIMR Polyvalent Snake antivenom
+Himalayophis tibetanus,2,,yes,0,0,0,,0,0,
+Hoplocephalus spp,2,AUS,no,49,7,6,SVMP:24|OTHER:16|SVSP:3|3FTx:3|CNP:2|LAAO:1,0,2,CSL Polyvalent antivenom|CSL Tiger Snake antivenom
+Hoplocephalus spp,2,AUS,no,49,7,6,SVMP:24|OTHER:16|SVSP:3|3FTx:3|CNP:2|LAAO:1,0,2,CSL Polyvalent antivenom|CSL Tiger Snake antivenom
+Hoplocephalus spp,2,AUS,no,49,7,6,SVMP:24|OTHER:16|SVSP:3|3FTx:3|CNP:2|LAAO:1,0,2,CSL Polyvalent antivenom|CSL Tiger Snake antivenom
+Hypnale hypnale,1,"LKA, IND",yes,0,0,0,,0,0,
+Hypnale nepa,2,LKA,yes,0,0,0,,0,0,
+Lachesis acrochorda,2,"COL, ECU",yes,0,0,0,,0,0,
+Lachesis melanocephala,2,"CRI, BRA, ECU, COL",yes,0,0,0,,0,1,Polyvalent Antivenom ICP
+Lachesis muta,2,"BRA, BOL, PER, COL, PAN, GUY, ECU, TTO, CRI, SUR, GUF",yes,21,21,6,SVSP:7|SVMP:5|3FTx:3|PLA2:3|OTHER:2|Disintegrin:1,0,7,Antibotropico laquetico Butantan|Antibotropico laquetico FUNED|Antibotropico laquetico IVB|Antilachesico Monovalente|Antiofidico Polivalente Botropico Laquetico|Antiofidico Polivalente CDBiotecnologia|Antivipmyn TRI
+Lachesis stenophyrs,2,,no,0,0,0,,0,1,Polyvalent Antivenom ICP
+Macrovipera lebetina,1,"ARM, IRN, CYP",yes,4,4,1,Disintegrin:4,1,3,Anti viperin|Gamma Vip|Polyvalent Snake Antivenom Razi
+Macrovipera schweizeri,2,,yes,0,0,0,,0,0,
+Micropechis ikaheka,2,"PNG, IDN",yes,0,0,0,,0,1,CSL Polyvalent antivenom
+Micruroides euryxanthus,2,"USA, MEX",yes,0,0,0,,0,0,
+Micrurus circinalis,2,"TTO, VEN",yes,0,0,0,,0,0,
+Micrurus corallinus,2,"BRA, ARG, PRY, TTO",yes,9,9,4,3FTx:6|PLA2:1|SVMP:1|CNP:1,0,3,Antielapidico Butantan|Antielapidico FUNED|Antiveneno Micrurus
+Micrurus fulvius,2,"USA, MEX, HND, PAN, NIC, BRA",yes,29,3,5,3FTx:14|SVMP:7|OTHER:3|CNP:3|PDE:2,1,1,Antivenin Micrurus fulvius
+Micrurus lemniscatus,2,"PER, ECU, BRA, GUY, BOL, TTO, SUR, VEN, COL, GUF",yes,1,1,1,3FTx:1,0,0,
+Micrurus mipartitus,2,"VEN, COL, CRI, PER, ECU, PAN",yes,15,8,4,3FTx:7|LAAO:5|SVSP:2|OTHER:1,0,0,
+Micrurus nigrocinctus,2,"HND, MEX, CRI, SLV, PAN, NIC, COL, GTM, BLZ",yes,9,9,2,3FTx:7|PLA2:2,0,2,Anticoral monovalent|Coralmyn
+Micrurus spixii,2,"BRA, PER, COL, ECU, BOL",yes,0,0,0,,0,0,
+Micrurus spp,2,MEX,no,0,0,0,,0,3,Antielapidico Butantan|Antielapidico FUNED|Antiveneno Micrurus
+Micrurus surinamensis,2,"PER, BRA, GUY, ECU, COL, GUF",yes,6,6,1,3FTx:6,0,0,
+Micrurus tener,2,"USA, MEX",yes,2,2,2,3FTx:1|PLA2:1,2,2,Antivenin Micrurus fulvius|Coralmyn
+Montivipera raddei,2,"ARM, GEO",yes,1,0,1,SVMP:1,0,1,Polyvalent Snake Antivenom Razi
+Montivipera xanthina,1,"GRC, ARM",yes,0,0,0,,0,0,
+Naja anchietae,1,"BWA, AGO, NAM",yes,1,1,1,3FTx:1,0,0,
+Naja annulata,2,"COG, TZA",yes,2,2,1,3FTx:2,0,0,
+Naja annulifera,1,"ZWE, ZAF, MOZ, NAM, SWZ",yes,20,20,3,3FTx:15|OTHER:3|CRISP:2,0,1,SAIMR Polyvalent Snake antivenom
+Naja arabica,2,"SAU, OMN",yes,0,0,0,,0,2,Bivalent Naja Walterinnesia Snake AV|Polyvalent Snake Antivenom
+Naja ashei,1,"KEN, SOM",yes,0,0,0,,0,0,
+Naja atra,1,"HKG, CHN, VNM",yes,61,61,7,3FTx:48|SVMP:7|SVSP:2|PDE:1|LAAO:1|CNP:1|CRISP:1,18,2,Antivenom B multicinctus N n naja|Naja naja atra antivenom
+Naja christyi,2,,yes,1,1,1,3FTx:1,0,0,
+Naja haje,1,"TUN, MLI, SAU, OMN, ZAF, ZWE, COG, UGA, EGY, SEN, NAM, TZA, BFA, KEN",yes,11,11,4,3FTx:5|CRISP:3|OTHER:2|PLA2:1,0,5,Bivalent Naja Walterinnesia Snake AV|FAV Afrique|Favirept|Polyvalent Snake Antivenom|Polyvalent Snake Antivenom VACSERA
+Naja kaouthia,1,"BGD, MMR, VNM, IND",yes,32,32,5,3FTx:23|SVMP:3|CRISP:3|OTHER:2|LAAO:1,7,4,Cobra Antivenin QSMI|Cobra antivenin|Neuro polyvalent snake antivenom QSMI|SAV Naja
+Naja katiensis,2,SEN,yes,0,0,0,,0,0,
+Naja mandalayensis,1,MMR,yes,0,0,0,,0,0,
+Naja melanoleuca,2,"CMR, BEN, ZAF, KEN, GMB, TZA, MOZ, COD, COG, GHA, TGO, GIN, CIV, STP, GAB, GNQ, UGA, NGA, ZMB, SSD, AGO, NAM, SEN, LBR",yes,10,10,2,3FTx:9|OTHER:1,0,2,FAV Afrique|SAIMR Polyvalent Snake antivenom
+Naja mossambica,1,"ZAF, ZWE, TZA, NAM, BWA, ZMB, MOZ, SWZ, LSO",yes,12,12,3,3FTx:10|SVMP:1|CRISP:1,2,1,SAIMR Polyvalent Snake antivenom
+Naja naja,1,"IND, VNM, CHN, TKM, LKA, PHL, ZWE, SGP, MYS, EGY, IDN, ZAF, UGA, MNG, PAK",yes,233,27,7,3FTx:101|OTHER:47|SVMP:46|SVSP:19|LAAO:8|PDE:7|CNP:5,2,5,Polyvalent Antisnake Venom|Polyvalent Snake Antivenin Asia|Polyvalent Snake Antivenom Asia|Snake Venom Antiserum IP Asia|Snake antivenin IP Asia
+Naja nigricincta,2,"NAM, ZAF",yes,0,0,0,,0,0,
+Naja nigricollis,1,"CMR, BEN, SLE, KEN, COD, TZA, TGO, GHA, GIN, NGA, NAM, GMB, ZAF, ETH, BFA, ZMB, UGA, AGO, EGY, MLI, NER, SOM, SEN, ZWE",yes,4,4,2,PLA2:3|3FTx:1,0,3,FAV Afrique|Favirept|Polyvalent Snake Antivenom VACSERA
+Naja nivea,1,"NAM, BWA, ZAF",yes,7,7,2,3FTx:6|OTHER:1,1,1,SAIMR Polyvalent Snake antivenom
+Naja nubiae,2,"EGY, KEN, TZA, COD",yes,0,0,0,,0,0,
+Naja oxiana,1,"UZB, TKM",yes,9,9,4,3FTx:6|LAAO:1|SVMP:1|AChE:1,4,1,Polyvalent Snake Antivenom Razi
+Naja pallida,2,"TZA, SOM, KEN, GHA",yes,3,3,1,3FTx:3,2,0,
+Naja philippinensis,1,PHL,yes,1,1,1,3FTx:1,0,1,Monovalent Naja philippinensis Cobra Antivenin
+Naja sagittifera,1,,yes,2,2,2,PLA2:1|3FTx:1,1,0,
+Naja samarensis,1,PHL,yes,1,1,1,3FTx:1,0,1,Monovalent Naja philippinensis Cobra Antivenin
+Naja senegalensis,1,"SEN, BEN",yes,0,0,0,,0,1,FAV Afrique
+Naja siamensis,1,LAO,yes,0,0,0,,0,2,Cobra Antivenin QSMI|Neuro polyvalent snake antivenom QSMI
+Naja sputatrix,1,"IDN, SGP",yes,31,31,3,3FTx:25|PLA2:4|SVMP:2,0,1,Polyvalent Anti Snake Venom
+Naja sumatrana,1,"IDN, MYS, SGP, IND",yes,1,1,1,3FTx:1,0,3,Cobra Antivenin QSMI|Monovalent Naja philippinensis Cobra Antivenin|Neuro polyvalent snake antivenom QSMI
+Notechis scutatus,1,AUS,yes,190,16,8,3FTx:85|SVMP:42|OTHER:30|SVSP:12|LAAO:8|CNP:7|PDE:4|CRISP:2,2,2,CSL Polyvalent antivenom|CSL Tiger Snake antivenom
+Ophiophagus hannah,2,"HKG, IDN, THA, LAO, IND, MYS, SGP, CHN, KHM, MMR, VNM, PHL",yes,144,56,9,3FTx:85|OTHER:22|SVMP:20|SVSP:6|LAAO:4|CNP:3|PLA2:2|PDE:1|Disintegrin:1,7,2,King cobra antivenin QSMI|Neuro polyvalent snake antivenom QSMI
+Ophryacus spp,2,MEX,no,0,0,0,,0,0,
+Ophryacus spp,2,MEX,no,0,0,0,,0,0,
+Oxyuranus microlepidotus,2,AUS,yes,23,20,5,3FTx:11|CNP:5|SVMP:3|SVSP:3|OTHER:1,1,2,CSL Polyvalent antivenom|CSL Taipan antivenom
+Oxyuranus scutellatus,1,"PNG, AUS",yes,26,23,6,3FTx:15|CNP:6|SVMP:2|OTHER:1|SVSP:1|LAAO:1,1,2,CSL Polyvalent antivenom|CSL Taipan antivenom
+Oxyuranus temporalis,2,AUS,yes,0,0,0,,0,2,CSL Polyvalent antivenom|CSL Taipan antivenom
+Parias flavomaculatus,2,,yes,0,0,0,,0,0,
+Parias sumatranus,2,,yes,0,0,0,,0,0,
+Porthidium lansbergii,2,"COL, PAN, VEN",yes,0,0,0,,0,1,Antiofidico Polivalente
+Porthidium nasutum,2,"HND, CRI, MEX, GTM, COL, ECU, NIC, PAN",yes,1,1,1,PLA2:1,0,2,Antivipmyn|Polyvalent Antivenom ICP
+Porthidium ophryomegas,2,"CRI, HND, SLV, MEX",yes,1,1,1,PLA2:1,0,1,Polyvalent Antivenom ICP
+Porthidium spp,2,MEX,no,0,0,0,,0,0,
+Porthidium spp,2,"MEX, PER",no,0,0,0,,0,0,
+Porthidium spp,2,"MEX, BLZ",no,0,0,0,,0,0,
+Porthidium spp,2,,no,0,0,0,,0,0,
+Porthidium spp,2,CRI,no,0,0,0,,0,0,
+Porthidium spp,2,,no,0,0,0,,0,0,
+Proatheris superciliaris,2,"MWI, TZA",yes,2,2,1,SVMP:2,0,0,
+Protobothrops elegans,2,,yes,23,6,7,SVMP:10|SVSP:3|OTHER:3|CTL:3|PLA2:2|PDE:1|3FTx:1,0,0,
+Protobothrops flavoviridis,1,JPN,yes,75,31,10,SVMP:21|OTHER:13|CTL:13|PLA2:11|SVSP:5|3FTx:4|PDE:4|Disintegrin:2|LAAO:1|VEGF:1,9,1,Habu antivenom
+Protobothrops jerdonii,2,"CHN, MMR, VNM, NPL",yes,19,19,7,SVSP:7|SVMP:4|OTHER:4|VEGF:1|Disintegrin:1|PLA2:1|3FTx:1,1,0,
+Protobothrops kaulbacki,2,MMR,yes,0,0,0,,0,0,
+Protobothrops mangshanensis,2,,yes,2,2,2,PLA2:1|3FTx:1,1,0,
+Protobothrops mucrosquamatus,2,"CHN, VNM, MMR",yes,29,28,7,OTHER:9|SVSP:7|SVMP:5|PLA2:4|3FTx:2|VEGF:1|LAAO:1,3,1,Antivenom Tr mucrosquamatus stejnegeri
+Pseudechis australis,1,"AUS, IDN",yes,18,16,5,SVMP:5|SVSP:5|3FTx:4|CNP:3|LAAO:1,1,2,CSL Black Snake antivenom|CSL Polyvalent antivenom
+Pseudechis papuanus,2,"AUS, PNG",yes,5,1,3,3FTx:3|SVMP:1|PLA2:1,0,2,CSL Black Snake antivenom|CSL Polyvalent antivenom
+Pseudechis rossignolii,2,PNG,yes,5,3,2,SVSP:3|3FTx:2,0,2,CSL Black Snake antivenom|CSL Polyvalent antivenom
+Pseudechis spp,2,AUS,no,14,12,6,3FTx:4|PLA2:2|SVMP:2|SVSP:2|CRISP:2|CNP:2,1,3,CSL Black Snake antivenom|CSL Polyvalent antivenom|CSL Tiger Snake antivenom
+Pseudechis spp,2,AUS,no,14,12,6,3FTx:4|PLA2:2|SVMP:2|SVSP:2|CRISP:2|CNP:2,1,3,CSL Black Snake antivenom|CSL Polyvalent antivenom|CSL Tiger Snake antivenom
+Pseudechis spp,2,AUS,no,14,12,6,3FTx:4|PLA2:2|SVMP:2|SVSP:2|CRISP:2|CNP:2,1,3,CSL Black Snake antivenom|CSL Polyvalent antivenom|CSL Tiger Snake antivenom
+Pseudechis spp,2,AUS,no,14,12,6,3FTx:4|PLA2:2|SVMP:2|SVSP:2|CRISP:2|CNP:2,1,3,CSL Black Snake antivenom|CSL Polyvalent antivenom|CSL Tiger Snake antivenom
+Pseudechis spp,2,AUS,no,14,12,6,3FTx:4|PLA2:2|SVMP:2|SVSP:2|CRISP:2|CNP:2,1,3,CSL Black Snake antivenom|CSL Polyvalent antivenom|CSL Tiger Snake antivenom
+Pseudocerastes fieldi,2,ISR,yes,3,3,1,3FTx:3,0,0,
+Pseudocerastes persicus,2,"IRN, ARE, ISR",yes,2,2,2,CNP:1|SVSP:1,1,1,Polyvalent Snake Antivenom Razi
+Pseudohaje goldii,2,"CMR, GHA, UGA, KEN, COD",yes,0,0,0,,0,0,
+Pseudohaje nigra,2,"NGA, CIV, TGO, GHA",yes,0,0,0,,0,0,
+Pseudonaja affinis,1,AUS,yes,0,0,0,,0,2,CSL Brown Snake antivenom|CSL Polyvalent antivenom
+Pseudonaja aspidorhyncha,2,AUS,yes,0,0,0,,0,2,CSL Brown Snake antivenom|CSL Polyvalent antivenom
+Pseudonaja mengdeni,1,AUS,yes,0,0,0,,0,2,CSL Brown Snake antivenom|CSL Polyvalent antivenom
+Pseudonaja nuchalis,1,AUS,yes,0,0,0,,0,2,CSL Brown Snake antivenom|CSL Polyvalent antivenom
+Pseudonaja spp,2,AUS,no,0,0,0,,0,2,CSL Brown Snake antivenom|CSL Polyvalent antivenom
+Pseudonaja spp,2,AUS,no,0,0,0,,0,2,CSL Brown Snake antivenom|CSL Polyvalent antivenom
+Pseudonaja spp,2,AUS,no,0,0,0,,0,2,CSL Brown Snake antivenom|CSL Polyvalent antivenom
+Pseudonaja spp,2,AUS,no,0,0,0,,0,2,CSL Brown Snake antivenom|CSL Polyvalent antivenom
+Pseudonaja textilis,2,"AUS, PNG",yes,208,26,8,3FTx:96|SVMP:34|OTHER:31|SVSP:23|PDE:12|LAAO:6|CNP:4|PLA2:2,4,2,CSL Brown Snake antivenom|CSL Polyvalent antivenom
+Rhabdophis tigrinus,2,"KOR, JPN, CHN, PRK, THA, RUS",yes,1,1,1,CNP:1,0,1,Anti Yamakagashi Antivenom
+Sistrurus catenatus,2,"USA, CAN, MEX",yes,18,9,7,SVMP:7|CTL:3|SVSP:2|VEGF:2|3FTx:2|LAAO:1|OTHER:1,0,1,Antivipmyn
+Sistrurus miliarius,2,"USA, CAN, CHN",yes,3,3,2,PLA2:2|Disintegrin:1,0,1,Polyvalent crotalid antivenom CroFab
+Thelotornis capensis,2,"ZMB, AGO, ZAF, KEN, TZA, GNQ, NAM, ZWE, SWZ, BWA, MOZ, CMR, UGA, COD, SOM",yes,0,0,0,,0,0,
+Thelotornis kirtlandii,2,"NGA, ZMB, CMR, BEN, GHA, GNQ, TGO, GIN, CIV, GAB, UGA, COG, TZA, KEN, COD, ZAF, ZWE",yes,0,0,0,,0,0,
+Thelotornis mossambicanus,2,"MOZ, TZA, KEN",yes,0,0,0,,0,0,
+Thelotornis usambaricus,2,TZA,yes,0,0,0,,0,0,
+Trimeresurus gramineus,2,"IND, VNM, CHN, IDN",yes,0,0,0,,0,0,
+Trimeresurus malabaricus,2,IND,yes,0,0,0,,0,0,
+Trimeresurus trigonocephalus,2,LKA,yes,0,0,0,,0,0,
+Tropidechis carinatus,2,AUS,yes,22,19,6,SVMP:6|PLA2:6|3FTx:5|SVSP:3|CNP:1|OTHER:1,1,2,CSL Polyvalent antivenom|CSL Tiger Snake antivenom
+Tropidolaemus philippensis,2,PHL,yes,0,0,0,,0,0,
+Tropidolaemus subannulatus,2,"MYS, IDN, BRN, PHL",yes,0,0,0,,0,0,
+Vipera ammodytes,1,"ITA, ALB, GRC, HRV, SVN, TUR, BGR, AUT, POL, ROU, BIH",yes,66,22,8,3FTx:25|SVMP:19|SVSP:9|OTHER:7|Disintegrin:3|VEGF:1|LAAO:1|CTL:1,8,3,Viper Venom Antitoxin|Viper venom antitoxin European|Viperfav
+Vipera aspis,2,"ITA, CHE, FRA, ESP, AND, DEU, BEL",yes,34,7,4,3FTx:31|VEGF:1|SVMP:1|OTHER:1,0,3,Viper Venom Antitoxin|Viper venom antitoxin European|Viperfav
+Vipera berus,2,"RUS, NOR, GBR, DEU, FRA, BEL, ITA, SWE, AUT, BGR, ROU, HRV",yes,13,5,4,3FTx:9|Disintegrin:2|LAAO:1|PLA2:1,0,4,Anti viper anti adder venom|Viper Venom Antitoxin|Viper venom antitoxin European|Viperfav
+Vipera eriwanensis,2,ARM,yes,0,0,0,,0,0,
+Vipera latastei,2,"ESP, PRT",yes,0,0,0,,0,0,
+Vipera nikolskii,2,DEU,yes,5,5,2,3FTx:4|SVSP:1,1,0,
+Vipera renardi,2,"KAZ, UKR, ARM",yes,7,7,3,PLA2:4|3FTx:2|SVSP:1,0,0,
+Vipera seoanei,2,"ESP, FRA, PRT",yes,0,0,0,,0,0,
+Vipera spp,2,"TUR, RUS",yes,0,0,0,,0,0,
+Vipera spp,2,,no,0,0,0,,0,0,
+Vipera spp,2,GEO,no,0,0,0,,0,0,
+Vipera spp,2,,no,0,0,0,,0,0,
+Vipera ursinii,2,"HUN, ROU, CHN, AUT",no,1,0,1,SVMP:1,0,1,Viper venom antitoxin European
+Viridovipera stejnegeri,2,,yes,0,0,0,,0,1,Antivenom Tr mucrosquamatus stejnegeri
+Walterinnesia aegyptia,2,"TUR, ISR, SAU, IRN, EGY",yes,11,10,4,3FTx:4|SVSP:4|PLA2:2|SVMP:1,0,2,Bivalent Naja Walterinnesia Snake AV|Polyvalent Snake Antivenom
+Walterinnesia morgani,2,,yes,0,0,0,,0,2,Bivalent Naja Walterinnesia Snake AV|Polyvalent Snake Antivenom
+Acanthophis cryptamydros,2,,yes,0,0,0,,0,1,CSL Death Adder antivenom
+Agkistrodon howardgloydi,2,,yes,0,0,0,,0,0,
+Agkistrodon russeolus,2,,yes,0,0,0,,0,0,
+Bitis harenna,2,,yes,0,0,0,,0,0,
+Bungarus persicus,2,,yes,0,0,0,,0,0,
+Cerrophidion sasai,2,,yes,1,1,1,Disintegrin:1,0,0,
+Cerrophidion wilsoni,2,,yes,0,0,0,,0,0,
+Crotalus ornatus,2,,yes,0,0,0,,0,2,Antivipmyn|Polyvalent crotalid antivenom CroFab
+Hypnale zara,2,,yes,0,0,0,,0,0,
+Trimeresurus cardamomensis,2,,yes,0,0,0,,0,0,
+Trimeresurus hageni,2,,yes,0,0,0,,0,1,Green Pit Viper Antivenin QSMI
+Trimeresurus rubeus,2,,yes,0,0,0,,0,0,

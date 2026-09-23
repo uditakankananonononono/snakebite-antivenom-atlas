@@ -1,0 +1,452 @@
+product,lb_id,species,no_specific_antivenom
+No specific antivenom,8,Agkistrodon taylori,yes
+No specific antivenom,9,Atheris broadleyi,yes
+No specific antivenom,10,Atheris chlorechis,yes
+No specific antivenom,11,Atheris squamigera,yes
+No specific antivenom,12,Atractaspis andersonii,yes
+No specific antivenom,13,Atractaspis bibronii,yes
+No specific antivenom,14,Atractaspis engaddensis,yes
+No specific antivenom,15,Atractaspis fallax,yes
+No specific antivenom,16,Atractaspis irregularis,yes
+No specific antivenom,18,Atropoides occiduus,yes
+No specific antivenom,19,Atropoides spp,yes
+No specific antivenom,23,Bitis nasicornis,yes
+No specific antivenom,24,Bitis parviocula,yes
+No specific antivenom,25,Bitis rhinoceros,yes
+No specific antivenom,27,Bothriechis marchi,yes
+No specific antivenom,29,Bothriechis spp,yes
+No specific antivenom,31,Bothrocophias microphthalmus,yes
+No specific antivenom,32,Bothrocophias spp,yes
+No specific antivenom,37,Bothrops bilineatus,yes
+No specific antivenom,44,Bothrops jonathani,yes
+No specific antivenom,46,Bothrops leucurus,yes
+No specific antivenom,52,Bothrops sanctaecrucis,yes
+No specific antivenom,54,Bothrops taeniatus,yes
+No specific antivenom,56,Bungarus bungaroides,yes
+No specific antivenom,59,Bungarus ceylonicus,yes
+No specific antivenom,61,Bungarus flaviceps,yes
+No specific antivenom,62,Bungarus lividus,yes
+No specific antivenom,63,Bungarus magnimaculatus,yes
+No specific antivenom,65,Bungarus niger,yes
+No specific antivenom,66,Bungarus sindanus,yes
+No specific antivenom,67,Bungarus slowinskii,yes
+No specific antivenom,68,Bungarus walli,yes
+No specific antivenom,69,Calliophis bivirgatus,yes
+No specific antivenom,70,Calliophis intestinalis,yes
+No specific antivenom,75,Cerrophidion spp,yes
+No specific antivenom,83,Crotalus ruber,yes
+No specific antivenom,86,Crotalus spp,yes
+No specific antivenom,87,Crotalus totonacus,yes
+No specific antivenom,88,Crotalus tzabcan,yes
+No specific antivenom,91,Cryptelytrops erythrurus,yes
+No specific antivenom,95,Cryptelytrops septentrionalis,yes
+No specific antivenom,97,Daboia mauritanica,yes
+No specific antivenom,98,Daboia palaestinae,yes
+No specific antivenom,110,Echis hughesi,yes
+No specific antivenom,111,Echis jogeri,yes
+No specific antivenom,112,Echis khosatzkii,yes
+No specific antivenom,114,Echis megalocephalus,yes
+No specific antivenom,118,Eristocophis macmahoni,yes
+No specific antivenom,123,Gloydius himalayanus,yes
+No specific antivenom,125,Gloydius tsushimaensis,yes
+No specific antivenom,128,Himalayophis tibetanus,yes
+No specific antivenom,130,Hypnale hypnale,yes
+No specific antivenom,131,Hypnale nepa,yes
+No specific antivenom,132,Lachesis acrochorda,yes
+No specific antivenom,137,Macrovipera schweizeri,yes
+No specific antivenom,139,Micruroides euryxanthus,yes
+No specific antivenom,140,Micrurus circinalis,yes
+No specific antivenom,143,Micrurus lemniscatus,yes
+No specific antivenom,144,Micrurus mipartitus,yes
+No specific antivenom,146,Micrurus spixii,yes
+No specific antivenom,148,Micrurus surinamensis,yes
+No specific antivenom,151,Montivipera xanthina,yes
+No specific antivenom,152,Naja anchietae,yes
+No specific antivenom,153,Naja annulata,yes
+No specific antivenom,156,Naja ashei,yes
+No specific antivenom,158,Naja christyi,yes
+No specific antivenom,161,Naja katiensis,yes
+No specific antivenom,162,Naja mandalayensis,yes
+No specific antivenom,166,Naja nigricincta,yes
+No specific antivenom,169,Naja nubiae,yes
+No specific antivenom,171,Naja pallida,yes
+No specific antivenom,173,Naja sagittifera,yes
+No specific antivenom,181,Ophryacus spp,yes
+No specific antivenom,185,Parias flavomaculatus,yes
+No specific antivenom,186,Parias sumatranus,yes
+No specific antivenom,190,Porthidium spp,yes
+No specific antivenom,191,Proatheris superciliaris,yes
+No specific antivenom,192,Protobothrops elegans,yes
+No specific antivenom,194,Protobothrops jerdonii,yes
+No specific antivenom,195,Protobothrops kaulbacki,yes
+No specific antivenom,196,Protobothrops mangshanensis,yes
+No specific antivenom,202,Pseudocerastes fieldi,yes
+No specific antivenom,204,Pseudohaje goldii,yes
+No specific antivenom,205,Pseudohaje nigra,yes
+No specific antivenom,215,Thelotornis capensis,yes
+No specific antivenom,216,Thelotornis kirtlandii,yes
+No specific antivenom,217,Thelotornis mossambicanus,yes
+No specific antivenom,218,Thelotornis usambaricus,yes
+No specific antivenom,219,Trimeresurus gramineus,yes
+No specific antivenom,220,Trimeresurus malabaricus,yes
+No specific antivenom,221,Trimeresurus trigonocephalus,yes
+No specific antivenom,223,Tropidolaemus philippensis,yes
+No specific antivenom,224,Tropidolaemus subannulatus,yes
+No specific antivenom,228,Vipera eriwanensis,yes
+No specific antivenom,229,Vipera latastei,yes
+No specific antivenom,230,Vipera nikolskii,yes
+No specific antivenom,231,Vipera renardi,yes
+No specific antivenom,232,Vipera seoanei,yes
+No specific antivenom,233,Vipera spp,yes
+CSL Polyvalent antivenom,1,Acanthophis antarcticus,no
+CSL Polyvalent antivenom,2,Acanthophis laevis,no
+CSL Polyvalent antivenom,3,Acanthophis rugosus,no
+CSL Polyvalent antivenom,4,Acanthophis spp,no
+CSL Polyvalent antivenom,20,Austrelaps spp,no
+CSL Polyvalent antivenom,129,Hoplocephalus spp,no
+CSL Polyvalent antivenom,138,Micropechis ikaheka,no
+CSL Polyvalent antivenom,179,Notechis scutatus,no
+CSL Polyvalent antivenom,182,Oxyuranus microlepidotus,no
+CSL Polyvalent antivenom,183,Oxyuranus scutellatus,no
+CSL Polyvalent antivenom,184,Oxyuranus temporalis,no
+CSL Polyvalent antivenom,198,Pseudechis australis,no
+CSL Polyvalent antivenom,199,Pseudechis papuanus,no
+CSL Polyvalent antivenom,200,Pseudechis rossignolii,no
+CSL Polyvalent antivenom,201,Pseudechis spp,no
+CSL Polyvalent antivenom,206,Pseudonaja affinis,no
+CSL Polyvalent antivenom,207,Pseudonaja aspidorhyncha,no
+CSL Polyvalent antivenom,208,Pseudonaja mengdeni,no
+CSL Polyvalent antivenom,209,Pseudonaja nuchalis,no
+CSL Polyvalent antivenom,210,Pseudonaja spp,no
+CSL Polyvalent antivenom,211,Pseudonaja textilis,no
+CSL Polyvalent antivenom,222,Tropidechis carinatus,no
+Polyvalent Antivenom ICP,5,Agkistrodon bilineatus,no
+Polyvalent Antivenom ICP,17,Atropoides mexicanus,no
+Polyvalent Antivenom ICP,26,Bothriechis lateralis,no
+Polyvalent Antivenom ICP,28,Bothriechis schlegelii,no
+Polyvalent Antivenom ICP,35,Bothrops asper,no
+Polyvalent Antivenom ICP,74,Cerrophidion godmani,no
+Polyvalent Antivenom ICP,85,Crotalus simus,no
+Polyvalent Antivenom ICP,133,Lachesis melanocephala,no
+Polyvalent Antivenom ICP,135,Lachesis stenophyrs,no
+Polyvalent Antivenom ICP,188,Porthidium nasutum,no
+Polyvalent Antivenom ICP,189,Porthidium ophryomegas,no
+FAV Afrique,21,Bitis arietans,no
+FAV Afrique,22,Bitis gabonica,no
+FAV Afrique,103,Dendroaspis jamesoni,no
+FAV Afrique,104,Dendroaspis polylepis,no
+FAV Afrique,105,Dendroaspis viridis,no
+FAV Afrique,113,Echis leucogaster,no
+FAV Afrique,115,Echis ocellatus,no
+FAV Afrique,159,Naja haje,no
+FAV Afrique,163,Naja melanoleuca,no
+FAV Afrique,167,Naja nigricollis,no
+FAV Afrique,175,Naja senegalensis,no
+Polyvalent Snake Antivenom,21,Bitis arietans,no
+Polyvalent Snake Antivenom,72,Cerastes cerastes,no
+Polyvalent Snake Antivenom,73,Cerastes gasperettii,no
+Polyvalent Snake Antivenom,107,Echis borkini,no
+Polyvalent Snake Antivenom,109,Echis coloratus,no
+Polyvalent Snake Antivenom,116,Echis omanensis,no
+Polyvalent Snake Antivenom,155,Naja arabica,no
+Polyvalent Snake Antivenom,159,Naja haje,no
+Polyvalent Snake Antivenom,236,Walterinnesia aegyptia,no
+Polyvalent Snake Antivenom,237,Walterinnesia morgani,no
+SAIMR Polyvalent Snake antivenom,21,Bitis arietans,no
+SAIMR Polyvalent Snake antivenom,22,Bitis gabonica,no
+SAIMR Polyvalent Snake antivenom,102,Dendroaspis angusticeps,no
+SAIMR Polyvalent Snake antivenom,103,Dendroaspis jamesoni,no
+SAIMR Polyvalent Snake antivenom,104,Dendroaspis polylepis,no
+SAIMR Polyvalent Snake antivenom,127,Hemachatus haemachatus,no
+SAIMR Polyvalent Snake antivenom,154,Naja annulifera,no
+SAIMR Polyvalent Snake antivenom,163,Naja melanoleuca,no
+SAIMR Polyvalent Snake antivenom,164,Naja mossambica,no
+SAIMR Polyvalent Snake antivenom,168,Naja nivea,no
+Polyvalent crotalid antivenom CroFab,6,Agkistrodon contortrix,no
+Polyvalent crotalid antivenom CroFab,7,Agkistrodon piscivorus,no
+Polyvalent crotalid antivenom CroFab,76,Crotalus adamanteus,no
+Polyvalent crotalid antivenom CroFab,77,Crotalus atrox,no
+Polyvalent crotalid antivenom CroFab,80,Crotalus horridus,no
+Polyvalent crotalid antivenom CroFab,81,Crotalus molossus,no
+Polyvalent crotalid antivenom CroFab,82,Crotalus oreganus,no
+Polyvalent crotalid antivenom CroFab,84,Crotalus scutulatus,no
+Polyvalent crotalid antivenom CroFab,89,Crotalus viridis,no
+Polyvalent crotalid antivenom CroFab,214,Sistrurus miliarius,no
+Polyvalent crotalid antivenom CroFab,2016_9,Crotalus ornatus,no
+Antivipmyn,7,Agkistrodon piscivorus,no
+Antivipmyn,35,Bothrops asper,no
+Antivipmyn,77,Crotalus atrox,no
+Antivipmyn,81,Crotalus molossus,no
+Antivipmyn,84,Crotalus scutulatus,no
+Antivipmyn,85,Crotalus simus,no
+Antivipmyn,89,Crotalus viridis,no
+Antivipmyn,188,Porthidium nasutum,no
+Antivipmyn,213,Sistrurus catenatus,no
+Antivipmyn,2016_9,Crotalus ornatus,no
+Antibotropico crotalico Butantan,33,Bothrops alternatus,no
+Antibotropico crotalico Butantan,36,Bothrops atrox,no
+Antibotropico crotalico Butantan,42,Bothrops jararaca,no
+Antibotropico crotalico Butantan,43,Bothrops jararacussu,no
+Antibotropico crotalico Butantan,48,Bothrops moojeni,no
+Antibotropico crotalico Butantan,49,Bothrops neuwiedi,no
+Antibotropico crotalico Butantan,79,Crotalus durissus,no
+Antibotropico crotalico FUNED,33,Bothrops alternatus,no
+Antibotropico crotalico FUNED,36,Bothrops atrox,no
+Antibotropico crotalico FUNED,42,Bothrops jararaca,no
+Antibotropico crotalico FUNED,43,Bothrops jararacussu,no
+Antibotropico crotalico FUNED,48,Bothrops moojeni,no
+Antibotropico crotalico FUNED,49,Bothrops neuwiedi,no
+Antibotropico crotalico FUNED,79,Crotalus durissus,no
+Antibotropico crotalico IVB,33,Bothrops alternatus,no
+Antibotropico crotalico IVB,36,Bothrops atrox,no
+Antibotropico crotalico IVB,42,Bothrops jararaca,no
+Antibotropico crotalico IVB,43,Bothrops jararacussu,no
+Antibotropico crotalico IVB,48,Bothrops moojeni,no
+Antibotropico crotalico IVB,49,Bothrops neuwiedi,no
+Antibotropico crotalico IVB,79,Crotalus durissus,no
+Antibotropico laquetico Butantan,33,Bothrops alternatus,no
+Antibotropico laquetico Butantan,36,Bothrops atrox,no
+Antibotropico laquetico Butantan,42,Bothrops jararaca,no
+Antibotropico laquetico Butantan,43,Bothrops jararacussu,no
+Antibotropico laquetico Butantan,48,Bothrops moojeni,no
+Antibotropico laquetico Butantan,49,Bothrops neuwiedi,no
+Antibotropico laquetico Butantan,134,Lachesis muta,no
+Antibotropico laquetico FUNED,33,Bothrops alternatus,no
+Antibotropico laquetico FUNED,36,Bothrops atrox,no
+Antibotropico laquetico FUNED,42,Bothrops jararaca,no
+Antibotropico laquetico FUNED,43,Bothrops jararacussu,no
+Antibotropico laquetico FUNED,48,Bothrops moojeni,no
+Antibotropico laquetico FUNED,49,Bothrops neuwiedi,no
+Antibotropico laquetico FUNED,134,Lachesis muta,no
+Antibotropico laquetico IVB,33,Bothrops alternatus,no
+Antibotropico laquetico IVB,36,Bothrops atrox,no
+Antibotropico laquetico IVB,42,Bothrops jararaca,no
+Antibotropico laquetico IVB,43,Bothrops jararacussu,no
+Antibotropico laquetico IVB,48,Bothrops moojeni,no
+Antibotropico laquetico IVB,49,Bothrops neuwiedi,no
+Antibotropico laquetico IVB,134,Lachesis muta,no
+CSL Brown Snake antivenom,206,Pseudonaja affinis,no
+CSL Brown Snake antivenom,207,Pseudonaja aspidorhyncha,no
+CSL Brown Snake antivenom,208,Pseudonaja mengdeni,no
+CSL Brown Snake antivenom,209,Pseudonaja nuchalis,no
+CSL Brown Snake antivenom,210,Pseudonaja spp,no
+CSL Brown Snake antivenom,211,Pseudonaja textilis,no
+Polyvalent Snake Antivenom Razi,108,Echis carinatus,no
+Polyvalent Snake Antivenom Razi,122,Gloydius halys caucasicus,no
+Polyvalent Snake Antivenom Razi,136,Macrovipera lebetina,no
+Polyvalent Snake Antivenom Razi,150,Montivipera raddei,no
+Polyvalent Snake Antivenom Razi,170,Naja oxiana,no
+Polyvalent Snake Antivenom Razi,203,Pseudocerastes persicus,no
+Antibotropico CPPI,33,Bothrops alternatus,no
+Antibotropico CPPI,36,Bothrops atrox,no
+Antibotropico CPPI,42,Bothrops jararaca,no
+Antibotropico CPPI,43,Bothrops jararacussu,no
+Antibotropico CPPI,48,Bothrops moojeni,no
+Antibotropico CPPI,49,Bothrops neuwiedi,no
+Antibotropico IVB,33,Bothrops alternatus,no
+Antibotropico IVB,36,Bothrops atrox,no
+Antibotropico IVB,42,Bothrops jararaca,no
+Antibotropico IVB,43,Bothrops jararacussu,no
+Antibotropico IVB,48,Bothrops moojeni,no
+Antibotropico IVB,49,Bothrops neuwiedi,no
+Antibotropico FUNED,33,Bothrops alternatus,no
+Antibotropico FUNED,36,Bothrops atrox,no
+Antibotropico FUNED,42,Bothrops jararaca,no
+Antibotropico FUNED,43,Bothrops jararacussu,no
+Antibotropico FUNED,48,Bothrops moojeni,no
+Antibotropico FUNED,49,Bothrops neuwiedi,no
+Favirept,21,Bitis arietans,no
+Favirept,72,Cerastes cerastes,no
+Favirept,96,Daboia deserti,no
+Favirept,113,Echis leucogaster,no
+Favirept,159,Naja haje,no
+Favirept,167,Naja nigricollis,no
+Antibotropico Butantan,33,Bothrops alternatus,no
+Antibotropico Butantan,36,Bothrops atrox,no
+Antibotropico Butantan,42,Bothrops jararaca,no
+Antibotropico Butantan,43,Bothrops jararacussu,no
+Antibotropico Butantan,48,Bothrops moojeni,no
+Antibotropico Butantan,49,Bothrops neuwiedi,no
+Antiveneno Bothropico Tetravalente,33,Bothrops alternatus,no
+Antiveneno Bothropico Tetravalente,34,Bothrops ammodytoides,no
+Antiveneno Bothropico Tetravalente,41,Bothrops diporus,no
+Antiveneno Bothropico Tetravalente,42,Bothrops jararaca,no
+Antiveneno Bothropico Tetravalente,43,Bothrops jararacussu,no
+Antiveneno Bothropico Tetravalente,49,Bothrops neuwiedi,no
+Neuro polyvalent snake antivenom QSMI,58,Bungarus candidus,no
+Neuro polyvalent snake antivenom QSMI,60,Bungarus fasciatus,no
+Neuro polyvalent snake antivenom QSMI,160,Naja kaouthia,no
+Neuro polyvalent snake antivenom QSMI,176,Naja siamensis,no
+Neuro polyvalent snake antivenom QSMI,178,Naja sumatrana,no
+Neuro polyvalent snake antivenom QSMI,180,Ophiophagus hannah,no
+Antibotropico Polivalente,30,Bothrocophias hyoprora,no
+Antibotropico Polivalente,36,Bothrops atrox,no
+Antibotropico Polivalente,38,Bothrops brazili,no
+Antibotropico Polivalente,50,Bothrops pictus,no
+Antibotropico Polivalente,53,Bothrops spp,no
+CSL Tiger Snake antivenom,20,Austrelaps spp,no
+CSL Tiger Snake antivenom,129,Hoplocephalus spp,no
+CSL Tiger Snake antivenom,179,Notechis scutatus,no
+CSL Tiger Snake antivenom,201,Pseudechis spp,no
+CSL Tiger Snake antivenom,222,Tropidechis carinatus,no
+Antiofidico Polivalente CDBiotecnologia,35,Bothrops asper,no
+Antiofidico Polivalente CDBiotecnologia,36,Bothrops atrox,no
+Antiofidico Polivalente CDBiotecnologia,40,Bothrops cf atrox,no
+Antiofidico Polivalente CDBiotecnologia,55,Bothrops venezuelensis,no
+Antiofidico Polivalente CDBiotecnologia,134,Lachesis muta,no
+CSL Death Adder antivenom,1,Acanthophis antarcticus,no
+CSL Death Adder antivenom,2,Acanthophis laevis,no
+CSL Death Adder antivenom,3,Acanthophis rugosus,no
+CSL Death Adder antivenom,4,Acanthophis spp,no
+CSL Death Adder antivenom,2016_1,Acanthophis cryptamydros,no
+Antiveneno Bothropico Bivalente,33,Bothrops alternatus,no
+Antiveneno Bothropico Bivalente,34,Bothrops ammodytoides,no
+Antiveneno Bothropico Bivalente,41,Bothrops diporus,no
+Antiveneno Bothropico Bivalente,49,Bothrops neuwiedi,no
+Antiveneno Bothropico Crotalico,33,Bothrops alternatus,no
+Antiveneno Bothropico Crotalico,41,Bothrops diporus,no
+Antiveneno Bothropico Crotalico,49,Bothrops neuwiedi,no
+Antiveneno Bothropico Crotalico,79,Crotalus durissus,no
+Antiofidico Polivalente Botropico Crotalico,36,Bothrops atrox,no
+Antiofidico Polivalente Botropico Crotalico,47,Bothrops mattogrossensis,no
+Antiofidico Polivalente Botropico Crotalico,49,Bothrops neuwiedi,no
+Antiofidico Polivalente Botropico Crotalico,79,Crotalus durissus,no
+Antiofidico Polivalente Botropico Laquetico,36,Bothrops atrox,no
+Antiofidico Polivalente Botropico Laquetico,47,Bothrops mattogrossensis,no
+Antiofidico Polivalente Botropico Laquetico,49,Bothrops neuwiedi,no
+Antiofidico Polivalente Botropico Laquetico,134,Lachesis muta,no
+Polyvalent Antisnake Venom,57,Bungarus caeruleus,no
+Polyvalent Antisnake Venom,99,Daboia russelii,no
+Polyvalent Antisnake Venom,108,Echis carinatus,no
+Polyvalent Antisnake Venom,165,Naja naja,no
+Polyvalent Snake Antivenin Asia,57,Bungarus caeruleus,no
+Polyvalent Snake Antivenin Asia,99,Daboia russelii,no
+Polyvalent Snake Antivenin Asia,108,Echis carinatus,no
+Polyvalent Snake Antivenin Asia,165,Naja naja,no
+Snake antivenin IP Asia,57,Bungarus caeruleus,no
+Snake antivenin IP Asia,99,Daboia russelii,no
+Snake antivenin IP Asia,108,Echis carinatus,no
+Snake antivenin IP Asia,165,Naja naja,no
+Snake Venom Antiserum IP Asia,57,Bungarus caeruleus,no
+Snake Venom Antiserum IP Asia,99,Daboia russelii,no
+Snake Venom Antiserum IP Asia,108,Echis carinatus,no
+Snake Venom Antiserum IP Asia,165,Naja naja,no
+Green Pit Viper Antivenin QSMI,90,Cryptelytrops albolabris,no
+Green Pit Viper Antivenin QSMI,92,Cryptelytrops insularis,no
+Green Pit Viper Antivenin QSMI,93,Cryptelytrops macrops,no
+Green Pit Viper Antivenin QSMI,94,Cryptelytrops purpureomaculatus,no
+Green Pit Viper Antivenin QSMI,2016_16,Trimeresurus hageni,no
+Haemato polyvalent snake antivenom QSMI,90,Cryptelytrops albolabris,no
+Haemato polyvalent snake antivenom QSMI,92,Cryptelytrops insularis,no
+Haemato polyvalent snake antivenom QSMI,94,Cryptelytrops purpureomaculatus,no
+Haemato polyvalent snake antivenom QSMI,100,Daboia siamensis,no
+Haemato polyvalent snake antivenom QSMI,71,Calloselasma rhodostoma,no
+Bivalent Naja Walterinnesia Snake AV,155,Naja arabica,no
+Bivalent Naja Walterinnesia Snake AV,159,Naja haje,no
+Bivalent Naja Walterinnesia Snake AV,236,Walterinnesia aegyptia,no
+Bivalent Naja Walterinnesia Snake AV,237,Walterinnesia morgani,no
+CSL Black Snake antivenom,198,Pseudechis australis,no
+CSL Black Snake antivenom,199,Pseudechis papuanus,no
+CSL Black Snake antivenom,200,Pseudechis rossignolii,no
+CSL Black Snake antivenom,201,Pseudechis spp,no
+Viper venom antitoxin European,225,Vipera ammodytes,no
+Viper venom antitoxin European,226,Vipera aspis,no
+Viper venom antitoxin European,227,Vipera berus,no
+Viper venom antitoxin European,234,Vipera ursinii,no
+Viperfav,225,Vipera ammodytes,no
+Viperfav,226,Vipera aspis,no
+Viperfav,227,Vipera berus,no
+CSL Taipan antivenom,182,Oxyuranus microlepidotus,no
+CSL Taipan antivenom,183,Oxyuranus scutellatus,no
+CSL Taipan antivenom,184,Oxyuranus temporalis,no
+Antibotropico bivalente,33,Bothrops alternatus,no
+Antibotropico bivalente,41,Bothrops diporus,no
+Antibotropico bivalente,49,Bothrops neuwiedi,no
+Faboterapico Polivalente Antiviperino,5,Agkistrodon bilineatus,no
+Faboterapico Polivalente Antiviperino,35,Bothrops asper,no
+Faboterapico Polivalente Antiviperino,78,Crotalus basiliscus,no
+Antiofidico Polivalente BIOL,33,Bothrops alternatus,no
+Antiofidico Polivalente BIOL,41,Bothrops diporus,no
+Antiofidico Polivalente BIOL,49,Bothrops neuwiedi,no
+Antiofidico Polivalente BIOL,79,Crotalus durissus,no
+Polyvalent Anti Snake Venom,60,Bungarus fasciatus,no
+Polyvalent Anti Snake Venom,71,Calloselasma rhodostoma,no
+Polyvalent Anti Snake Venom,177,Naja sputatrix,no
+Polyvalent Snake Antivenom VACSERA,72,Cerastes cerastes,no
+Polyvalent Snake Antivenom VACSERA,159,Naja haje,no
+Polyvalent Snake Antivenom VACSERA,167,Naja nigricollis,no
+Agkistrodon Salmusa Antivenom,120,Gloydius brevicaudus,no
+Agkistrodon Salmusa Antivenom,124,Gloydius intermedius,no
+Agkistrodon Salmusa Antivenom,126,Gloydius ussuriensis,no
+Cobra Antivenin QSMI,160,Naja kaouthia,no
+Cobra Antivenin QSMI,176,Naja siamensis,no
+Cobra Antivenin QSMI,178,Naja sumatrana,no
+Monovalent Naja philippinensis Cobra Antivenin,172,Naja philippinensis,no
+Monovalent Naja philippinensis Cobra Antivenin,174,Naja samarensis,no
+Monovalent Naja philippinensis Cobra Antivenin,178,Naja sumatrana,no
+Viper Venom Antitoxin,225,Vipera ammodytes,no
+Viper Venom Antitoxin,226,Vipera aspis,no
+Viper Venom Antitoxin,227,Vipera berus,no
+Antiofidico Bothropico Polivalente,35,Bothrops asper,no
+Antiofidico Bothropico Polivalente,36,Bothrops atrox,no
+Antiofidico Bivalente Antibothropico,33,Bothrops alternatus,no
+Antiofidico Bivalente Antibothropico,51,Bothrops pubescens,no
+Antivipmyn TRI,35,Bothrops asper,no
+Antivipmyn TRI,134,Lachesis muta,no
+Antivipmyn TRI,79,Crotalus durissus,no
+BothroFAV,39,Bothrops caribbaeus,no
+BothroFAV,45,Bothrops lanceolatus,no
+Anti viperin,72,Cerastes cerastes,no
+Anti viperin,136,Macrovipera lebetina,no
+Gamma Vip,72,Cerastes cerastes,no
+Gamma Vip,136,Macrovipera lebetina,no
+Polyvalent Anti viper Venom VACSERA,72,Cerastes cerastes,no
+Polyvalent Anti viper Venom VACSERA,117,Echis pyramidum,no
+Antiofidico Polivalente,79,Crotalus durissus,no
+Antiofidico Polivalente,187,Porthidium lansbergii,no
+Polyvalent Snake Antivenom Asia,108,Echis carinatus,no
+Polyvalent Snake Antivenom Asia,165,Naja naja,no
+SAIMR Echis antivenom,115,Echis ocellatus,no
+SAIMR Echis antivenom,117,Echis pyramidum,no
+Mamushi Antivenom Kaketsuken,119,Gloydius blomhoffi,no
+Mamushi Antivenom Kaketsuken,120,Gloydius brevicaudus,no
+Antielapidico Butantan,141,Micrurus corallinus,no
+Antielapidico Butantan,147,Micrurus spp,no
+Antielapidico FUNED,141,Micrurus corallinus,no
+Antielapidico FUNED,147,Micrurus spp,no
+Antiveneno Micrurus,141,Micrurus corallinus,no
+Antiveneno Micrurus,147,Micrurus spp,no
+Antivenin Micrurus fulvius,142,Micrurus fulvius,no
+Antivenin Micrurus fulvius,149,Micrurus tener,no
+Coralmyn,145,Micrurus nigrocinctus,no
+Coralmyn,149,Micrurus tener,no
+Antivenom Tr mucrosquamatus stejnegeri,197,Protobothrops mucrosquamatus,no
+Antivenom Tr mucrosquamatus stejnegeri,235,Viridovipera stejnegeri,no
+Banded krait antivenin QSMI,60,Bungarus fasciatus,no
+Malayan krait antivenin QSMI,58,Bungarus candidus,no
+Antivenom B multicinctus N n naja,64,Bungarus multicinctus,no
+Antivenom B multicinctus N n naja,157,Naja atra,no
+Bungarus Antivenom,64,Bungarus multicinctus,no
+Bungarus multicinctus antivenin,64,Bungarus multicinctus,no
+Malayan pit viper antivenin QSMI,71,Calloselasma rhodostoma,no
+Anticrotalico Butantan,79,Crotalus durissus,no
+Anticrotalico FUNED,79,Crotalus durissus,no
+Anticrotalico IVB,79,Crotalus durissus,no
+Anticrotalico Monovalente,79,Crotalus durissus,no
+Antiveneno Crotalico,79,Crotalus durissus,no
+SAV Tri,90,Cryptelytrops albolabris,no
+Russells viper antivenin QSMI,100,Daboia siamensis,no
+Viper antivenin,100,Daboia siamensis,no
+Agkistrodon Acutus antivenin,101,Deinagkistrodon acutus,no
+Monovalent Antivenin Snorkel Viper,101,Deinagkistrodon acutus,no
+SAIMR Boomslang antivenom,106,Dispholidus typus,no
+Agkistrodon halys antivenin,121,Gloydius halys,no
+Antilachesico Monovalente,134,Lachesis muta,no
+Anticoral monovalent,145,Micrurus nigrocinctus,no
+Naja naja atra antivenom,157,Naja atra,no
+Cobra antivenin,160,Naja kaouthia,no
+SAV Naja,160,Naja kaouthia,no
+King cobra antivenin QSMI,180,Ophiophagus hannah,no
+Habu antivenom,193,Protobothrops flavoviridis,no
+Anti Yamakagashi Antivenom,212,Rhabdophis tigrinus,no
+Anti viper anti adder venom,227,Vipera berus,no
