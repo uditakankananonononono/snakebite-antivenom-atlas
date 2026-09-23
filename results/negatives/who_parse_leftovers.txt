@@ -1,0 +1,504 @@
+ORPHAN|None|None|This Appendix lists venomous snake species considered to represent the
+ORPHAN|None|None|greatest threat to public health in various countries, territories and other areas or
+ORPHAN|None|None|regions around the world. Only species which fall into one of the two categories
+ORPHAN|None|None|listed below are shown, and category listings are in alphabetical order according
+ORPHAN|None|None|to taxonomic family, genus and species. The intention in categorizing these
+ORPHAN|None|None|medically important snakes into two groups is to provide users of these WHO
+ORPHAN|None|None|Guidelines with a prioritized listing. Snakes in both Category 1 and Category 2
+ORPHAN|None|None|are species for which antivenom production is important; however species
+ORPHAN|None|None|listed in Category 1 within a country, territory or area should be considered as
+ORPHAN|None|None|being of highest priority for antivenom production on the basis that available
+ORPHAN|None|None|knowledge implicates them as being responsible for the greater burden in that
+ORPHAN|None|None|particular setting.
+ORPHAN|None|None|Definitions of the categories used in this listing are:
+ORPHAN|None|None|■■ CATEGORY 1 (CAT 1): Highest medical importance
+ORPHAN|None|None|Definition: highly venomous snakes which are common or widespread
+ORPHAN|None|None|and cause numerous snake-bites, resulting in high levels of morbidity,
+ORPHAN|None|None|disability or mortality.
+ORPHAN|None|None|■■ CATEGORY 2 (CAT 2): Secondary medical importance
+ORPHAN|None|None|Definition: highly venomous snakes capable of causing morbidity,
+ORPHAN|None|None|disability or death, but: (a) for which exact epidemiological or clinical
+ORPHAN|None|None|data may be lacking; and/or (b) are less frequently implicated (owing
+ORPHAN|None|None|to their activity cycles, behaviour, habitat preferences or occurrence in
+ORPHAN|None|None|areas remote from large human populations).
+ORPHAN|None|None|There are numerous other venomous species that rank as lesser threats
+ORPHAN|None|None|in countries territories and other areas listed here, and interested readers should
+ORPHAN|None|None|refer to the herpetological references provided in these Guidelines. It should be
+ORPHAN|None|None|noted that over time, as more information becomes available, new species will
+ORPHAN|None|None|doubtlessly be added to these lists, and some species, currently defined within
+ORPHAN|None|None|Category 1 or Category 2 will be re-ranked.
+ORPHAN|None|None|It should also be noted that the organization of countries, territories and
+ORPHAN|None|None|other areas in this Appendix does not follow the WHO regional organization, but
+ORPHAN|None|None|instead is arranged biogeographically in alphabetical order of country, territory
+ORPHAN|None|None|or geographical area. This approach was necessary to reflect the geographical
+ORPHAN|None|None|distribution of major groups of venomous snakes throughout the world. For
+ORPHAN|None|None|example, the venomous snakes of the eastern Indonesian Province of Papua have
+ORPHAN|None|None|biogeographical origins in Australo-Papua, and are evolutionarily distinct from
+ORPHAN|None|None|the venomous snakes of Asian origin that occur west of Wallace’s Line, which runs
+ORPHAN|None|None|south of the Philippines, between Borneo and Sulawesi, and between Bali and
+ORPHAN|None|None|Lombok, and which separates the zoogeographical regions of Asia and Australia.
+ORPHAN|None|None|For this reason, the medically important snakes of Indonesian Papua are listed in
+ORPHAN|None|None|the Australo-Papuan region, rather than the South-East Asian region.
+ORPHAN|None|None|Users of this Appendix should also recognize that the relative risk of
+ORPHAN|None|None|injury from a particular species may vary from one country, territory or area to
+ORPHAN|None|None|another. For this reason, some species that have been listed under Category 1
+ORPHAN|None|None|in one country, territory or area may have been listed under Category 2 in
+ORPHAN|None|None|another country, territory or area to reflect the different risk posed by that species
+ORPHAN|None|None|in different locations. Assignment to Category 1 or Category 2 was based in some
+ORPHAN|None|None|cases on the relative importance of a species as a cause of snake-bite. In Europe,
+ORPHAN|None|None|for example, the overall incidence of snake-bite is trivial compared to that in
+ORPHAN|None|None|West Africa or India, but where a European species (such as Vipera berus) is a
+ORPHAN|None|None|major (or sole) cause of envenoming where it occurs, this warrants ranking it as
+ORPHAN|None|None|a medically important species in that setting.
+ORPHAN|None|None|AFRICA AND THE MIDDLE EAST
+ORPHAN|None|None|Island populations
+ORPHAN|None|None|Off the coast of Africa, there are no medically important snakes in Mauritius,
+ORPHAN|None|None|Réunion, Rodrigues, the Comoros, the Canary Islands, the Cabo Verde Islands
+ORPHAN|None|None|or the Seychelles. The islands that do have venomous snakes include the Lamu
+ORPHAN|None|None|group, Zanzibar, Pemba and Mafia Islands, the Bazaruto Archipelago and Inhaca
+ORPHAN|None|None|Island, São Tomé, Principe, Bioko (Fernando Po) and Dahlak Islands. The
+ORPHAN|None|None|venomous snakes on these islands tend to be similar to those on the adjacent
+ORPHAN|None|None|mainland. A colubrid, Madagascarophis meridionalis, and perhaps other species
+ORPHAN|None|None|of the same genus, are the only terrestrial snakes of possible, if minimal, medical
+ORPHAN|None|None|importance found in Madagascar.
+ORPHAN|None|None|North Africa/Middle East
+ORPHAN|None|None|Algeria:
+NOSPECIES|None|None|Cat2|Viperidae|Vipera latastei Cyprus:
+NOSPECIES|None|None|Cat2|Viperidae|Macrovipera lebetina Egypt:
+NOSPECIES|None|None|Cat2|Viperidae|Pseudocerastes fieldi Iraq:
+NOSPECIES|None|None|Cat2|Viperidae|Pseudocerastes persicus Iran :
+NOSPECIES|None|None|Cat2|Viperidae|Vipera spp. Israel:
+NOSPECIES|None|None|Cat2|Viperidae|Pseudocerastes fieldi Jordan:
+NOSPECIES|None|Syrian Arab Republic|Cat2|Viperidae|Pseudocerastes fieldi Tunisia:
+NOSPECIES|None|Syrian Arab Republic|Cat2|Viperidae|Vipera latastei Turkey:
+NOSPECIES|None|Syrian Arab Republic|Cat2|Viperidae|Vipera spp. United Arab Emirates:
+NOSPECIES|None|Syrian Arab Republic|Cat2|Viperidae|Pseudocerastes persicus West Bank and Gaza Strip:
+NOSPECIES|None|Syrian Arab Republic|Cat2|Viperidae|Pseudocerastes fieldi Western Sahara:
+NOSPECIES|None|Syrian Arab Republic|Cat2|Viperidae|Bitis arietans Yemen:
+NOSPECIES|None|Syrian Arab Republic|Cat2|Viperidae|Echis khosatzkii Central sub-Saharan Africa Angola:
+NOSPECIES|None|Central African Republic|Cat2|Elapidae|1 Pseudohaje goldii
+NOSPECIES|None|Democratic Republic of the Congo|Cat2|Viperidae|Atheris squamigera The medical importance of this species may be higher in the primary forest zone of the south-western Central African Republic
+NOSPECIES|None|Democratic Republic of the Congo|Cat2|Viperidae|and in some secondary forest mosaic zones elsewhere in the Central African Republic. Equatorial Guinea:
+NOSPECIES|None|Democratic Republic of the Congo|Cat2|Viperidae|Atheris squamigera Gabon:
+NOSPECIES|None|Democratic Republic of the Congo|Cat2|Viperidae|Bitis arietans Rwanda:
+NOSPECIES|None|Democratic Republic of the Congo|Cat2|Viperidae|Bitis nasicornis East sub-Saharan Africa Djibouti:
+NOSPECIES|None|Democratic Republic of the Congo|Cat2|Viperidae|Bitis arietans Eritrea:
+NOSPECIES|None|Democratic Republic of the Congo|Cat2|Viperidae|Echis megalocephalus Ethiopia:
+NOSPECIES|None|South Sudan|Cat2|Viperidae|Bitis nasicornis Sudan:
+NOSPECIES|None|South Sudan|Cat2|Viperidae|Echis coloratus  United Republic of Tanzania:
+NOSPECIES|None|South Sudan|Cat2|Viperidae|Proatheris superciliaris Uganda:
+NOSPECIES|None|South Sudan|Cat2|Viperidae|Bitis nasicornis Zambia:
+NOSPECIES|None|South Sudan|Cat2|Elapidae|Naja melanoleuca South sub-Saharan Africa Botswana:
+NOSPECIES|None|Zimbabwe|Cat2|Viperidae|Bitis gabonica  West sub-Saharan Africa Benin:
+NOSPECIES|None|Zimbabwe|Cat2|Viperidae|Echis leucogaster  Burkina Faso:
+NOSPECIES|None|Zimbabwe|Cat2|Viperidae|Echis leucogaster Cameroon:
+NOSPECIES|None|Zimbabwe|Cat1|Elapidae|2
+NOSPECIES|None|Zimbabwe|Cat2|Viperidae|Atheris squamigera Côte d’Ivoire:
+NOSPECIES|None|Zimbabwe|Cat2|Viperidae|Atheris chlorechis Gambia:
+NOSPECIES|None|Zimbabwe|Cat2|Elapidae|Naja senegalensis This large
+NOSPECIES|None|Zimbabwe|Cat2|Elapidae|highly venomous snake is common in forested areas of south-west Cameroon and a high burden of injury may be expected
+NOSPECIES|None|Zimbabwe|Cat2|Elapidae|although clinical data with direct attribution are not yet available
+NOSPECIES|None|Ghana|Cat2|Elapidae|3 Pseudohaje goldii
+NOSPECIES|None|Mauritania|Cat2|Viperidae|Bitis arietans The medical importance of this species may be higher in the forested zone of southern Ghana. Niger:
+NOSPECIES|None|Mauritania|Cat2|Viperidae|Cerastes cerastes Nigeria:
+NOSPECIES|None|Mauritania|Cat2|Elapidae|4 Naja senegalensis
+NOSPECIES|None|Mauritania|Cat2|Viperidae|Echis leucogaster  Sao Tome and Principe:
+NOFAMILY|None|Mauritania|Cat2|None Senegal:
+NOSPECIES|None|Mauritania|Cat2|Elapidae|Naja senegalensis Sierra Leone:
+NOSPECIES|None|Mauritania|Cat2|Elapidae|5 Pseudohaje nigra
+NOSPECIES|None|Mauritania|Cat2|Viperidae|Bitis rhinoceros The medical importance of this species may be higher in the southern rainforest belt of Nigeria
+NOSPECIES|None|Mauritania|Cat2|Viperidae|from Ibadan in the west to Oban and Eket in the east
+NOSPECIES|None|Mauritania|Cat2|Viperidae|and in the forested southern quarter of Sierra Leone. The medical importance of this species may be higher in the forested southern quarter of Sierra Leone
+NOSPECIES|None|Togo|Cat2|Viperidae|Bitis rhinoceros ASIA AND AUSTRALASIA Central Asia
+NOSPECIES|None|Mongolia|Cat2|Viperidae|Vipera renardi East Asia China: China mainland
+NOSPECIES|None|Mongolia|Cat2|Viperidae|Trimeresurus stejnegeri Hong Kong
+NOSPECIES|None|Mongolia|Cat2|Viperidae|Special Administrative Region
+NOFAMILY|None|Mongolia|Cat2|None Taiwan Province
+NOSPECIES|None|Mongolia|Cat2|Viperidae|Daboia siamensis Democratic People’s Republic of Korea:
+NOSPECIES|None|Mongolia|Cat2|Viperidae|Vipera berus Japan :
+NOSPECIES|None|Mongolia|Cat2|Viperidae|Protobothrops elegans Republic of Korea:
+NOSPECIES|None|Mongolia|Cat2|Viperidae|Gloydius ussuriensis South Asia
+FAMILY_UNSPECIFIED|None|India|Cat2|Bungarus bungaroides, Bungarus fasciatus, Bungarus lividus, Bungarus niger, Bungarus sindanus, Bungarus walli; Naja oxiana , Naja sagittifera ; Ophiophagus hannah ;
+NOSPECIES|None|Nepal|Cat2|Viperidae|Protobothrops jerdonii Pakistan:
+NOSPECIES|None|Nepal|Cat2|Viperidae|Macrovipera lebetina  Sri Lanka:
+NOSPECIES|None|Nepal|Cat2|Viperidae|Trimeresurus trigonocephalus South-East Asia Brunei Darussalam:
+NOSPECIES|None|Nepal|Cat2|Viperidae|Tropidolaemus subannulatus Cambodia:
+NOSPECIES|None|Nepal|Cat2|Viperidae|Trimeresurus cardamomensis Indonesia :
+NOSPECIES|None|Nepal|Cat2|Viperidae|Tropidolaemus subannulatus Lao People’s Democratic Republic:
+NOSPECIES|None|Singapore|Cat2|Viperidae|Trimeresurus purpureomaculatus Thailand:
+NOSPECIES|None|Singapore|Cat2|Viperidae|Trimeresurus hageni Timor-Leste:
+NOFAMILY|None|Singapore|Cat2|None Viet Nam:
+NOSPECIES|None|Singapore|Cat2|Viperidae|Deinagkistrodon acutus Australo-Papua : There are no medically important land snakes in American Samoa
+NOSPECIES|None|Singapore|Cat2|Viperidae|Cook Islands
+NOSPECIES|None|Singapore|Cat2|Viperidae|Fiji
+NOSPECIES|None|Singapore|Cat2|Viperidae|French Polynesia
+NOSPECIES|None|Singapore|Cat2|Viperidae|Guam
+NOSPECIES|None|Singapore|Cat2|Viperidae|Kiribati
+NOSPECIES|None|Singapore|Cat2|Viperidae|Marshall Islands
+NOSPECIES|None|Singapore|Cat2|Viperidae|Nauru
+NOSPECIES|None|Singapore|Cat2|Viperidae|New Caledonia
+NOSPECIES|None|Singapore|Cat2|Viperidae|New Zealand
+NOSPECIES|None|Singapore|Cat2|Viperidae|Northern Mariana Islands
+NOSPECIES|None|Singapore|Cat2|Viperidae|Pitcairn Island
+NOSPECIES|None|Singapore|Cat2|Viperidae|Samoa
+NOSPECIES|None|Singapore|Cat2|Viperidae|Tokelau
+NOSPECIES|None|Singapore|Cat2|Viperidae|Tonga
+NOSPECIES|None|Singapore|Cat2|Viperidae|Tuvalu
+NOSPECIES|None|Singapore|Cat2|Viperidae|or Wallis and Futuna Islands. Fiji possesses a single terrestrial venomous snake species  while the Solomon Islands possess three terrestrial venomous species  associated with no and few snake-bites
+NOSPECIES|None|Singapore|Cat2|Viperidae|respectively. Australia:
+NOSPECIES|None|Singapore|Cat1|Elapidae|6 Pseudonaja affinis
+NOSPECIES|None|Singapore|Cat2|Elapidae|Tropidechis carinatus Pseudechis australis is common and widespread and causes numerous snake-bites
+NOSPECIES|None|Singapore|Cat2|Elapidae|bites may be severe
+NOSPECIES|None|Singapore|Cat2|Elapidae|although this species has not caused a fatality in Australia since 1968
+NOSPECIES|None|Papua New Guinea|Cat2|Elapidae|Pseudechis rossignolii EUROPE There are no venomous snakes in Iceland
+NOSPECIES|None|Papua New Guinea|Cat2|Elapidae|Ireland
+NOSPECIES|None|Papua New Guinea|Cat2|Elapidae|Isle of Man
+NOSPECIES|None|Papua New Guinea|Cat2|Elapidae|Outer Hebrides
+NOSPECIES|None|Papua New Guinea|Cat2|Elapidae|Orkney or the Shetland Islands. Crete and most of the islands of the western Mediterranean are also free of venomous snakes. Central Europe Albania
+NOSPECIES|None|Papua New Guinea|Cat2|Elapidae|Bulgaria
+NOSPECIES|None|Papua New Guinea|Cat2|Elapidae|Romania
+NOSPECIES|None|Papua New Guinea|Cat2|Elapidae|Serbia
+NOSPECIES|None|Papua New Guinea|Cat2|Elapidae|Montenegro
+NOSPECIES|None|Papua New Guinea|Cat2|Elapidae|Slovenia
+NOSPECIES|None|Papua New Guinea|Cat2|Elapidae|The former Yugoslav
+NOSPECIES|None|Greece|Cat2|Viperidae|Vipera berus Hungary:
+NOSPECIES|None|Greece|Cat2|Viperidae|Vipera berus Poland:
+NOSPECIES|None|Greece|Cat2|Viperidae|Vipera berus Slovakia:
+NOSPECIES|None|Greece|Cat2|Viperidae|Vipera berus Eastern Europe Belarus
+NOSPECIES|None|Greece|Cat2|Viperidae|Estonia
+NOSPECIES|None|Greece|Cat2|Viperidae|Latvia
+NOSPECIES|None|Greece|Cat2|Viperidae|Lithuania
+NOSPECIES|None|Greece|Cat2|Viperidae|Republic of Moldova:
+NOSPECIES|None|Greece|Cat2|Viperidae|Vipera nikolskii  Russian Federation:
+NOSPECIES|None|Greece|Cat2|Viperidae|Vipera spp. Ukraine:
+NOSPECIES|None|Greece|Cat2|Viperidae|Vipera renardi Western Europe Austria:
+NOSPECIES|None|Greece|Cat2|Viperidae|Vipera berus Belgium:
+NOSPECIES|None|Italy|Cat2|Viperidae|Vipera berus the Netherlands:
+NOSPECIES|None|Spain|Cat2|Viperidae|Vipera seoanei Sweden:
+NOFAMILY|None|Spain|Cat2|None Switzerland:
+NOSPECIES|None|Spain|Cat2|Viperidae|Vipera berus United Kingdom of Great Britain and Northern Ireland:
+NOFAMILY|None|Spain|Cat2|None THE AMERICAS North America Canada:
+NOSPECIES|None|Spain|Cat2|Viperidae|Sistrurus catenatus Mexico:
+NOSPECIES|None|Spain|Cat2|Viperidae|Sistrurus catenatus United States of America:
+NOSPECIES|None|Spain|Cat2|Viperidae|Sistrurus miliarius Central America The most medically important species are Crotalus simus and Bothrops asper
+NOSPECIES|None|Honduras|Cat2|Viperidae|Porthidium ophryomegas Nicaragua:
+NOSPECIES|None|Honduras|Cat2|Viperidae|Porthidium ophryomegas Panama:
+NOSPECIES|None|Honduras|Cat2|Viperidae|Porthidium spp. Caribbean No medically important snakes occur naturally in Anguilla
+NOSPECIES|None|Honduras|Cat2|Viperidae|Antigua and Barbuda
+NOSPECIES|None|Honduras|Cat2|Viperidae|the Bahamas
+NOSPECIES|None|Honduras|Cat2|Viperidae|Barbados
+NOSPECIES|None|Honduras|Cat2|Viperidae|Bermuda
+NOSPECIES|None|Honduras|Cat2|Viperidae|The British Virgin Islands
+NOSPECIES|None|Honduras|Cat2|Viperidae|Cayman Islands
+NOSPECIES|None|Honduras|Cat2|Viperidae|Cuba
+NOSPECIES|None|Honduras|Cat2|Viperidae|Dominica
+NOSPECIES|None|Honduras|Cat2|Viperidae|the Dominican Republic
+NOSPECIES|None|Honduras|Cat2|Viperidae|Grenada
+NOSPECIES|None|Honduras|Cat2|Viperidae|Guadeloupe
+NOSPECIES|None|Honduras|Cat2|Viperidae|Haiti
+NOSPECIES|None|Honduras|Cat2|Viperidae|Jamaica
+NOSPECIES|None|Honduras|Cat2|Viperidae|Montserrat
+NOSPECIES|None|Honduras|Cat2|Viperidae|the Netherlands Antilles
+NOSPECIES|None|Honduras|Cat2|Viperidae|Saint Kitts and Nevis
+NOSPECIES|None|Honduras|Cat2|Viperidae|Saint Vincent and the Grenadines
+NOSPECIES|None|Honduras|Cat2|Viperidae|and Turks and Caicos Islands. Aruba
+NOSPECIES|None|Honduras|Cat2|Viperidae|Martinique
+NOSPECIES|None|Honduras|Cat2|Viperidae|Saint Lucia
+NOSPECIES|None|Honduras|Cat2|Viperidae|Trinidad and Tobago
+NOSPECIES|None|Honduras|Cat2|Viperidae|and offshore islands:
+NOSPECIES|None|Honduras|Cat1|Viperidae|Bothrops cf. atrox
+NOSPECIES|None|Honduras|Cat2|Viperidae|Lachesis muta  South America No venomous snakes are occur naturally in the Falkland Islands and no dangerously venomous snakes occur naturally in Chile. Argentina:
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Lachesis muta Guyana:
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Lachesis muta Paraguay:
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Bothrops spp. Peru:
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Bothrops spp. Suriname:
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Lachesis muta Uruguay:
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Crotalus durissus Venezuela :
+NOSPECIES|None|French Guiana (France)|Cat1|Viperidae|Bothrops cf. atrox
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Porthidium lansbergii Herpetological references 7 Abtin E
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Nilson G
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Mobaraki A
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Hosseini AA
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Dehgannejhad M. A new species of Krait
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Bungarus  and the first record of that genus in Iran. Russ J Herpetol. 2014
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|21:243–50. Ananjeva NB
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Orlov NL
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Khalikov RG
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Darevsky IS
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Ryabov IS et al. The reptiles of Northern Eurasia. Sofia: Pensoft
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|2006. Anderson CG
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Greenbaum E. Phylogeography of northern populations of the Black-Tailed Rattlesnake
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|with the revalidation of C. ornatus Hallowell
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1854. Herpetol Monogr. 2012
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|26:19–57. Ashton KG
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|de Querioz A. Molecular systematics of the western rattlesnake
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|with comments on the utility of the D-loop in phylogenetic studies of snakes. Mol Phylogenet Evol. 2001
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|21:176–89. Babocsay G. A new species of saw-scaled viper of the Echis coloratus complex  from Oman
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Eastern Arabia. Syst Biodivers. 2004
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1:503–14. Basoglu M
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Baran I. The reptiles of Turkey. Part II. The snakes. Izmir: University of Matbaasi
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1980. Buys PJ
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Buys PJC. Snakes of Namibia. Windhoek
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Gamsberg Macmillan
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1983. Bons J
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Geniez P. Amphibiens et reptiles du Maroc. Barcelona
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Asociación Herpetológica Española
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1996. Boycott RC. A herpetological survey of Swaziland [MSc thesis]. Durban: University of Natal
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1992. Branch B. Field guide to the snakes and other reptiles of Southern Africa. Cape Town: Sruik
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1988. Broadley DG
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Doria CT
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Wigge J. Snakes of Zambia: An atlas and field guide. Frankfurt am Main: Edition Chimair
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|2003. Broadley DG. FitzSimons snakes of Southern Africa. Cape Town: Delta Books
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1983. Broadley DG. The herpetofaunas of the islands off the coast of south Moçambique. Arnoldia Zimbabwe. 1990
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|9:469–93. Broadley DG. Reptiles and amphibians from the Bazaruto Archipelago
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Mozambique. Arnoldia Zimbabwe. 1992
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|9:539–48. Broadley DG. Review of the Dispholidini
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|with the description of a new genus and species from Tanzania . Bull Br Mus Nat Hist Zool. 2002
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|68:57–74. Broadley DG. A review of the genus Thelotornis A. Smith in eastern Africa
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|with the description of a new species from the Usambara Mountains . Afr J Herpetol. 2001
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|50:53–70. Broadley DG. The herpetofaunas of the islands off the coast of south Moçambique. Arnoldia Zimbabwe. 1990
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|9:469–493. Campbell JA
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Lamar WW. The venomous snakes of the western hemisphere. Vols. I and II. Ithaca
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|NY: Comstock-Cornell
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|2004. Creer S
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Malhotra A
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Thorpe RS
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Stöcklin RS
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Favreau PS
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Hao Chou WS. Genetic and ecological correlates of intraspecific variation in pitviper venom composition detected using matrix-assisted laser desorption time-of-flight mass spectrometry  and isoelectric focusing. J Mol Evol. 2003
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|56:317–29. da Silva VX. The Bothrops neuwiedi complex. In: Campbell JA
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Lamar WW
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|editors. The venomous reptiles of the Western Hemisphere. Vol. I. Ithaca : Comstock Publishing
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|2004:410–22. Major regional guides have author names italicized. David P
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Ineich I. Les serpents venimeux du monde: systématique et répartition. Dumerilia. 1999
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|3:3–499. David P
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Vogel G
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Dubois A. On the need to follow rigorously the Rules of the Code for the subsequent designation of a nucleospecies  for a nominal genus which lacked one: the case of the nominal genus Trimeresurus Lacépède
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1804 . Zootaxa. 2011
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|2992:1–51. De Smedt J. The vipers of Europe. Hablech: JDS Verlag
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|2001. Dobiey M
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Vogel G. Venomous snakes of Africa. Frankfurt am Main: Terralog Edition Chimaira
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|2006. El Din SB. A guide to the reptiles and amphibians of Egypt. Cairo: American University of Cairo Press
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|2006. Gasperetti J. Snakes of Arabia. Fauna Saudi Arabia. 1988
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|9:169–450. Geniez P
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Mateo A
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Geniez M
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Pether J. The amphibians and reptiles of the Western Sahara. Frankfurt am Main: Edition Chimaira
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|2004. Gloyd HK
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Conant R. Snakes of the Agkistrodon complex. Oxford: OH
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|SSAR
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1990. Gower DJ
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Wade EOZ
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Spaels S
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Böhme W
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Buechley ER
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Sykes D
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Colston TJ. A new large species of Bitis Gray
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1842  from the Bale Mountains of Ethiopia. Zootaxa. 2016
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|4093:41–63. Guo P
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Malhotra A
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Li PP
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Creer S. New evidence on the phylogenetic position of the poorly known Asian pitviper Protobothrops kaulbacki  with a redescription of the species and a revision of the genus Protobothrops. Herpetol J. 2007
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|17:237–46. Gumprecht A et al. Asian Pitvipers. Berlin: Geitje Books
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|2004. Gutberlet RL Jr
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Campbell JA. Generic recognition of a neglected lineage of South American pitvipers
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|with the description of a new species from the Colombian Chocó. Am Museum Novitates. 2001
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|3316:1–15. Jadin
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|RC
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Townsend
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|JH
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Castoe TA
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Campbell JA. Cryptic diversity in disjunct populations of Middle American Montane Pitvipers: a systematic reassessment of Cerrophidion godmani. Zool Scripta. 2012
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|41:455–70. Kästle W
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Rai K
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Schleich H. Amphibians and reptiles of Nepal. Ruggall: Gantner Verlag
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|2002. Khan MS. A guide to the snakes of Pakistan. Khan MS. A guide to the snakes of Pakistan. Frankfurt am Main: Edition Chimaira
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|2002. Kreiner G. The snakes of Europe. Frankfurt am Main: Edition Chimaira
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|2007. Latifi M. The snakes of Iran. Oxford: OH:SSAR
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1985. Le Berre M. Faune du Sahara 1: Poissons-amphibiens-reptiles. Paris: Editions Raymond Chabaud
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1989. Lenk P
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Herrmann H-W
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Joger U
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Wink M. Phylogeny and taxonomic subdivision of Bitis  based on molecular evidence. In: Joger U
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|editor. Phylogeny and systematics of the Viperidae. Kaupia
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Darmstädter Beiträge zur Naturgeschichte. 1999
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|8:31–8. Lenk P
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Kalyabina S
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Wink M
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Joger U. Evolutionary relationships among the true vipers  inferred from mitochondrial DNA sequences. Mol Phylogenet Evol
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|2001
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|19:94–104. Leviton AE
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Anderson SE
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Adler K
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Minton SA. Handbook to Middle East amphibians and reptiles. Oxford: OH
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|SSAR
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1992. Leviton AE
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Wogan G
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Koo M
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Zug GR
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Lucas R
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Vindum J. The dangerously venomous snakes of Myanmar. Illustrated checklist with keys. Proc Calif Acad Sci. 2003
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|54:407–62. Maddock ST
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Ellis RJ
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Doughty P
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Smith LA
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Wuster W. A new species of death adder  from north-western Australia. Zootaxa. 2015
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|4007:301–26 Maduwage K
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Silva A
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Manamendra-Arachchi K
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Pethiyagoda R. A taxonomic revision of the South Asian hump-nosed pit vipers . Zootaxa. 2009
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|2232:1–28. Malhotra A
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Thorpe RS. A phylogeny of four mitochondrial gene regions suggests a revised taxonomy for Asian pitvipers . Mol Phylogenet Evol. 2004
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|32:83–100. McDiarmid RW
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Campbell JA
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Toure T. Snake species of the world: A taxonomic and geographical reference. Vol. 1. Wahington
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|DC: Herpetologists’ League: 1999. Murphy JC. Amphibians and Reptiles of Trinidad and Tobago. Malabar
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|FL: Krieger
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1997. Nilson G
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Rastegar-Pouyani N. Walterinnesia aegyptia Lataste
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1887  and the status of Naja morgani Mocquard 1905. Russ J Herpetol. 2007
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|14:7–14. Orlov NL
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Barabanov AV. Analysis of nomenclature
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|classification
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|and distribution of the Agkistrodon halys – intermedius complexes: a critical review. Russ J Herpetol. 1999
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|6:167–92. O’Shea M. A guide to the snakes of Papua New Guinea. Port Moresby: Independent Publishing
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1996. Parkinson CL Zamudio KR
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Greene HW. Phylogeography of the pitviper clade Agkistrodon: historical ecology
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|species status
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|and conservation of cantils. Mol Ecol. 2000
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|9:411–20. Pitman CRS. A guide to the snakes of Uganda
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|second edition. Codicote
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Wheldon & Wesley
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1974. Porras LW
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Wilson LD
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Schuett GW
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Reiserer R.S. A taxonomic reevaluation and conservation assessment of the common cantil
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Agkistrodon bilineatus : a race against time. Amphib Reptile Conserv. 2013
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|7:48–73. Pyron RA
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Burbrink FT
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Colli GR
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|de Oca AN
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Vitt LJ
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Kuczynski CA et al. The phylogeny of advanced snakes
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|with discovery of a new subfamily and comparison of support methods for likelihood trees. Mol Phylogenet Evol. 2011
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|58:329–42. doi:10.1016/j.ympev.2010.11.006. Pyron RA
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Dushantha Kandambi HK
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Hendry CR
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Pushpamal V
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Burbrink FT
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Somaweera R. Genus- level phylogeny of snakes reveals the origins of species richness in Sri Lanka. Mol Phylogenet Evol. 2013
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|66:969–78 Pyron RA
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Burbrink FT
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Wiens JJ. A phylogeny and revised classification of Squamata
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|including 4161 species of lizards and snakes. BMC Evol Biol. 2013
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|13:93. Quijada-Mascareñas JA Ferguson JE
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Pook CE
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Da Graca Saloma M
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Thorpe RS
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Wuester W. Phylogeographic patterns of trans-Amazonian vicariants and Amazonian biogeography: the Neotropical rattlesnake  as an example. J Biogeogr 2007
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|34:1296–312. Roman B. Serpents de Haute-Volta. Ouagadougou: CNRST
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1980. Schleich HH
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Kastle W
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Kabish K. Amphibians and reptiles of North Africa. Koenigstein: Koeltz
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1996. Spawls S
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Branch B. The dangerous snakes of Africa. London: Blandford
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1995. Spawls S
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Howell A
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Drewes R. A field guide to the reptiles of East Africa: Kenya
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Tanzania
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Uganda
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Rwanda and Burundi. London: Academic Press
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Natural World
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|2002. Steward JW. The snakes of Europe. Newton Abbott: David & Charles
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1971. Street D. Reptiles of northern and central Europe. London: Batsford
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1979. Sweeney RCH. Snakes of Nyasaland. Amsterdam: Asher & Co
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1971. Thorpe RS
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Pook CE
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Malhotra A. Phylogeography of the Russell’s viper  complex in relation to variation in the colour pattern and symptoms of envenoming. Herpetol J. 2007
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|17:209–18. Visser J
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Chapman DS. Snakes and snakebite. Cape Town: Struik
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1978. Vogel G. Venomous snakes of Asia. Frankfurt am Main: Terralog Edition Chimaira
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|2006. Vogel G
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|David P
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Lutz M
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|van Rooijen
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Vidal N. Revision of the Tropidolaemus wagleri-complex . I. Definition of included taxa and redescription of Tropidolaemus wagleri . Zootaxa. 2007
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1644:1–40. Wallach V
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Williams KL
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Boundy J. Snakes of the world: A catalogue of living and extinct species. CRC Press: London
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|2014. Whitaker R
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Captain A. Snakes of India: The field guide. Chennai: Draco Books
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|2004. Williams DJ
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|O’Shea M
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Daguerre RL. Origin of the eastern brownsnake
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Pseudonaja textilis   in New Guinea: evidence of multiple dispersals from Australia
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|and comments on the status of Pseudonaja textilis pughi Hoser 2003. Zootaxa. 2008
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1703:47–61. Williams DJ
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Wüster W. Snakes of Papua New Guinea. In: Willliams DJ et al
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|editors. Venomous bites and stings in Papua New Guinea. Melbourne: AVRU University of Melbourne
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|2005:33–64. Wüster W et al. Snakes across the strait: trans-Torresian phylogenetic relationships in three genera of Australo-Papuan snakes . Molecular Phylogenetics and Evolution
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|2005
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|34:1–14. Wuster W
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Broadley DG. A new species of spitting cobra from north-eastern Africa . J Zool London. 2003
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|259:345–59. Wüster W
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Broadley DG. Get an eyeful of this: a new species of giant spitting cobra from eastern and north-eastern Africa . Zootaxa. 2007
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1532:51–68. Wuster W
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Wüster W
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Salomao MG
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Quijada-Mascarenas JA
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Thorpe RS. Origin and evolution of the South American pitviper fauna: evidence from mitochondrial DNA sequence analysis. In: Schuett GW
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Höggren M
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Douglas ME
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Greene HW
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|editors. Biology of the vipers. Eagle Mountain
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Utah: Eagle Mountain Publishing
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|2002:111–128. Wüster W
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Thorpe RS
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|da Graça Salomão M
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Thomas L. Origin and phylogenetic position of the Lesser Antillean species of Bothrops : biogeographical and medical implications. Bull. Nat. Hist. Mus. London
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Zool. 2002
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|68:101–6. Wüster W
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Warrell DA
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Cox MJ
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Jintakune P
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Nabhitabhata J. Redescription of Naja siamensis Laurenti
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|a widely overlooked spitting cobra from Southeast Asia: geographic variation
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|medical importance and designation of a neotype. J Zool
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1997
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|243:771–88. Wüster W Salomão MG
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Thorpe RS
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Puorto G
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Furtado MFD
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Hoge SA
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|et al. Systematics of the Bothrops atrox species complex: insights from multivariate analysis and mitochondrial DNA sequence information. In: Thorpe RS
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Wüster W
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Malhotra A. editors. Venomous snakes: ecology
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|evolution and snakebite. Oxford: Clarendon Press
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1997:99–113 . Wüster W
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Crookes S
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Ineich I
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Mane Y
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Pook CE
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Trape J-F et al. The phylogeny of cobras inferred from mitochondrial DNA sequences: evolution of venom spitting and the phylogeography of the African spitting cobras . Mol Phylogenet Evol. 2007
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|45:437–53. Wüster W
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Golay P
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Warrell DA. Synopsis of recent developments in venomous snake systematics. Toxicon. 1997
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|35:319–40. Wüster W
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Golay P
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Warrell DA. Synopsis of recent developments in venomous snake systematics
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|No. 2. Toxicon. 1998
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|36:299–307. Wüster W
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Golay P
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Warrell DA. Synopsis of recent developments in venomous snake systematics
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|No. 3. Toxicon. 1999
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|37:1123–29. Wüster W
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|McCarthy CJ. Venomous snake systematics: Implications for snake bite treatment and toxinology. In: Bon C
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Goyffon M
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|editors. Envenomings and their treatments. Lyon: Fondation Mérieux
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1996:13–23. Zhao E
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Adler K. Herpetology of China. Oxford: OH
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|SSAR
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|1993. Appendix 2 Model protocol for the production and testing of snake antivenom immunoglobulins Identification of the lot Name and address of manufacturer Lot number of antivenom Date of filling Liquid or freeze-dried Expiry date Number of vials or ampoules Temperature of storage Control of the venom batch used for animal immunization Producer of venom and location Information on the snake contributing to the venom batch Scientific names of the snake species Number of snakes Geographical origins of the snakes Dates of collection of the venoms Expiry date of the venoms preparation Biochemical and biological characterization of the venoms –– Test performed –– Results Control of plasma donor animals Location of the animal herd Animal species used for immunization Vaccinations performed on animals Dates of immunization Control of antivenom antibody titre of animal Veterinary certificate of health of animal donor Collection and storage of plasma Method of collection Date of collection Date of storage Type of containers Temperature of storage Type and content of preservatives added  Transport of plasma to fractionation facility Date of transport Temperature of transport Date of arrival Plasma pooling and fractionation Temperature of plasma storage at fractionation facility Volume of plasmas of different specificity pooled for the production of polyspecific antivenoms  Date of plasma pooling Volume of the manufacturing plasma pool Number of animal donors contributing to the manufacturing plasma pool Quality control of manufacturing plasma pool –– Test performed –– Results Type of active substance  Preparation and control of final bulk Volume of bulk antivenoms of different specificity pooled for the production of polyspecific antivenoms  Concentration of preservatives  –– Type –– Method –– Result Quality control of manufacturing plasma pool –– Test performed –– Results Filling and containers Date of filling Quantity of containers Volume of antivenoms per container Date of freeze-drying  Control tests on final product Appearance Solubility  Extractable volume Venom-neutralizing potency assay –– Method –– Venom used –– Results Osmolality Identity test –– Method –– Result Protein concentration –– Method –– Result Purity –– Method –– Result Molecular size distribution –– Method –– Result Test for pyrogenic substances –– Method –– Result Sterility test No. of containers examined –– Method –– Date at start of test –– Date at end of test Concentration of sodium chloride and other excipients –– Method –– Result Determination of pH –– Result Concentration of preservatives  –– Type –– Method –– Result Chemical agents used in plasma fractionation –– Type –– Method –– Result Inspection of final containers –– Results Residual moisture in freeze-dried antivenoms –– Method –– Result Internal certification Certification by person taking overall responsibility for production of the antivenom I certify that batch no. of snake antivenom immunoglobulin meets all national requirements and/or satisfies the 2016 WHO Guidelines for the production
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|control and regulation of snake antivenom immunoglobulins.1 Signature Name  Date WHO Technical Report Series
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|No. 1004
+NOSPECIES|None|French Guiana (France)|Cat2|Viperidae|Annex 5

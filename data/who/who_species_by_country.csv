@@ -1,0 +1,1218 @@
+region,country,category,family,species,qualifier
+,,Cat 1,Elapidae,Naja haje,
+,,Cat 1,Viperidae,Cerastes cerastes,
+,,Cat 1,Viperidae,Daboia mauritanica,
+,,Cat 2,Viperidae,Daboia deserti,
+,,Cat 2,Viperidae,Echis leucogaster,
+,,Cat 2,Viperidae,Macrovipera lebetina,
+,,Cat 1,Elapidae,Naja haje,east
+,,Cat 1,Viperidae,Cerastes cerastes,east
+,,Cat 1,Viperidae,Echis coloratus,east
+,,Cat 1,Viperidae,Echis pyramidum,east
+,,Cat 2,Atractaspididae,Atractaspis engaddensis,Sinai;Sinai
+,,Cat 2,Elapidae,Naja nubiae,Sinai;Sinai
+,,Cat 2,Elapidae,Walterinnesia aegyptia,Sinai;Sinai
+,,Cat 1,Viperidae,Echis carinatus,
+,,Cat 1,Viperidae,Macrovipera lebetina,
+,,Cat 2,Elapidae,Walterinnesia morgani,Islamic Republic of
+,,Cat 2,Viperidae,Cerastes gasperettii,Islamic Republic of
+,,Cat 2,Viperidae,Pseudocerastes fieldi,Islamic Republic of
+,,Cat 1,Elapidae,Naja oxiana,
+,,Cat 1,Viperidae,Echis carinatus,
+,,Cat 1,Viperidae,Macrovipera lebetina,
+,,Cat 1,Viperidae,Pseudocerastes persicus,
+,,Cat 2,Elapidae,Bungarus persicus,south-east;west;east
+,,Cat 2,Elapidae,Walterinnesia morgani,south-east;west;east
+,,Cat 2,Viperidae,Eristicophis macmahonii,south-east;west;east
+,,Cat 2,Viperidae,Gloydius halys caucasicus,south-east;west;east
+,,Cat 2,Viperidae,Montivipera raddei,south-east;west;east
+,,Cat 1,Viperidae,Daboia palaestinae,
+,,Cat 1,Viperidae,Echis coloratus,
+,,Cat 2,Atractaspididae,Atractaspis engaddensis,
+,,Cat 2,Elapidae,Walterinnesia aegyptia,
+,,Cat 2,Viperidae,Cerastes cerastes,
+,,Cat 2,Viperidae,Cerastes gasperettii,
+,,Cat 1,Viperidae,Daboia palaestinae,
+,,Cat 1,Viperidae,Echis coloratus,
+,,Cat 2,Atractaspididae,Atractaspis engaddensis,
+,,Cat 2,Elapidae,Walterinnesia aegyptia,
+,,Cat 2,Viperidae,Cerastes gasperettii,
+,,Cat 2,Viperidae,Macrovipera lebetina,
+,,Cat 2,Viperidae,Pseudocerastes fieldi,
+,Kuwait and Qatar,Cat 1,Viperidae,Cerastes gasperettii,
+,Kuwait and Qatar,Cat 2,Elapidae,Walterinnesia morgani,Kuwait only
+,Lebanon,Cat 1,Viperidae,Daboia palaestinae,
+,Lebanon,Cat 1,Viperidae,Macrovipera lebetina,
+,Libya,Cat 1,Elapidae,Naja haje,
+,Libya,Cat 1,Viperidae,Cerastes cerastes,
+,Libya,Cat 1,Viperidae,Echis pyramidum,
+,Libya,Cat 2,Viperidae,Daboia deserti,
+,Morocco,Cat 1,Elapidae,Naja haje,
+,Morocco,Cat 1,Viperidae,Bitis arietans,
+,Morocco,Cat 1,Viperidae,Cerastes cerastes,
+,Morocco,Cat 1,Viperidae,Daboia mauritanica,
+,Morocco,Cat 2,Viperidae,Echis leucogaster,
+,Morocco,Cat 2,Viperidae,Vipera latastei,
+,Oman,Cat 1,Atractaspididae,Atractaspis andersonii,south-west;south-west;south-west;north
+,Oman,Cat 1,Viperidae,Bitis arietans,south-west;south-west;south-west;north
+,Oman,Cat 1,Viperidae,Echis coloratus,south-west;south-west;south-west;north
+,Oman,Cat 1,Viperidae,Echis carinatus,south-west;south-west;south-west;north
+,Oman,Cat 1,Viperidae,Echis omanensis,south-west;south-west;south-west;north
+,Oman,Cat 2,Elapidae,Naja arabica,south-west;south-west
+,Oman,Cat 2,Viperidae,Cerastes gasperettii,south-west;south-west
+,Oman,Cat 2,Viperidae,Echis khosatzkii,south-west;south-west
+,Oman,Cat 2,Viperidae,Pseudocerastes persicus,south-west;south-west
+,Saudi Arabia,Cat 1,Atractaspididae,Atractaspis andersonii,south-west;south-west
+,Saudi Arabia,Cat 1,Viperidae,Cerastes gasperettii,south-west;south-west
+,Saudi Arabia,Cat 1,Viperidae,Echis coloratus,south-west;south-west
+,Saudi Arabia,Cat 1,Viperidae,Echis borkini,south-west;south-west
+,Saudi Arabia,Cat 2,Atractaspididae,Atractaspis engaddensis,north-west;south-west;west;central and south;south-west;south- west
+,Saudi Arabia,Cat 2,Elapidae,Naja arabica,north-west;south-west;west;central and south;south-west;south- west
+,Saudi Arabia,Cat 2,Elapidae,Walterinnesia aegyptia,north-west;south-west;west;central and south;south-west;south- west
+,Saudi Arabia,Cat 2,Elapidae,Walterinnesia morgani,north-west;south-west;west;central and south;south-west;south- west
+,Saudi Arabia,Cat 2,Viperidae,Bitis arietans,north-west;south-west;west;central and south;south-west;south- west
+,Saudi Arabia,Cat 2,Viperidae,Cerastes cerastes,north-west;south-west;west;central and south;south-west;south- west
+,Saudi Arabia,Cat 2,Viperidae,Pseudocerastes fieldi,north-west;south-west;west;central and south;south-west;south- west
+,Syrian Arab Republic,Cat 1,Viperidae,Daboia palaestinae,
+,Syrian Arab Republic,Cat 1,Viperidae,Macrovipera lebetina,
+,Syrian Arab Republic,Cat 1,Viperidae,Daboia mauritanica,
+,Syrian Arab Republic,Cat 2,Elapidae,Naja haje,
+,Syrian Arab Republic,Cat 2,Viperidae,Cerastes cerastes,
+,Syrian Arab Republic,Cat 2,Viperidae,Daboia deserti,
+,Syrian Arab Republic,Cat 2,Viperidae,Echis leucogaster,
+,Syrian Arab Republic,Cat 2,Viperidae,Macrovipera lebetina,
+,Syrian Arab Republic,Cat 1,Viperidae,Macrovipera lebetina,
+,Syrian Arab Republic,Cat 1,Viperidae,Montivipera xanthina,
+,Syrian Arab Republic,Cat 2,Elapidae,Walterinnesia morgani,south
+,Syrian Arab Republic,Cat 2,Viperidae,Montivipera raddei,south
+,Syrian Arab Republic,Cat 2,Viperidae,Vipera ammodytes,south
+,Syrian Arab Republic,Cat 2,Viperidae,Vipera eriwanensis,south
+,Syrian Arab Republic,Cat 1,Viperidae,Echis carinatus,east
+,Syrian Arab Republic,Cat 1,Viperidae,Echis omanensis,east
+,Syrian Arab Republic,Cat 2,Viperidae,Cerastes gasperettii,
+,Syrian Arab Republic,Cat 1,Viperidae,Daboia palaestinae,
+,Syrian Arab Republic,Cat 1,Viperidae,Echis coloratus,
+,Syrian Arab Republic,Cat 2,Atractaspididae,Atractaspis engaddensis,
+,Syrian Arab Republic,Cat 2,Elapidae,Walterinnesia aegyptia,
+,Syrian Arab Republic,Cat 2,Viperidae,Cerastes cerastes,
+,Syrian Arab Republic,Cat 1,Viperidae,Cerastes cerastes,
+,Syrian Arab Republic,Cat 2,Elapidae,Naja haje,
+,Syrian Arab Republic,Cat 1,Atractaspididae,Atractaspis andersonii,
+,Syrian Arab Republic,Cat 1,Elapidae,Naja arabica,
+,Syrian Arab Republic,Cat 1,Viperidae,Bitis arietans,
+,Syrian Arab Republic,Cat 1,Viperidae,Echis borkini,
+,Syrian Arab Republic,Cat 1,Viperidae,Echis coloratus,
+,Syrian Arab Republic,Cat 2,Viperidae,Cerastes cerastes,
+,Syrian Arab Republic,Cat 2,Viperidae,Cerastes gasperettii,
+,Syrian Arab Republic,Cat 1,Elapidae,Dendroaspis jamesoni,
+,Syrian Arab Republic,Cat 1,Elapidae,Dendroaspis polylepis,
+,Syrian Arab Republic,Cat 1,Elapidae,Naja anchietae,
+,Syrian Arab Republic,Cat 1,Elapidae,Naja melanoleuca,
+,Syrian Arab Republic,Cat 1,Elapidae,Naja nigricollis,
+,Syrian Arab Republic,Cat 1,Viperidae,Bitis arietans,
+,Syrian Arab Republic,Cat 1,Viperidae,Bitis gabonica,
+,Syrian Arab Republic,Cat 2,Atractaspididae,Atractaspis bibronii,north;Cabinda;south;south-west;Cabinda
+,Syrian Arab Republic,Cat 2,Atractaspididae,Atractaspis irregularis,north;Cabinda;south;south-west;Cabinda
+,Syrian Arab Republic,Cat 2,Colubridae,Dispholidus typus,north;Cabinda;south;south-west;Cabinda
+,Syrian Arab Republic,Cat 2,Colubridae,Thelotornis capensis,north;Cabinda;south;south-west;Cabinda
+,Syrian Arab Republic,Cat 2,Colubridae,Thelotornis kirtlandii,north;Cabinda;south;south-west;Cabinda
+,Syrian Arab Republic,Cat 2,Elapidae,Naja christyi,north;Cabinda;south;south-west;Cabinda
+,Syrian Arab Republic,Cat 2,Elapidae,Naja mossambica,north;Cabinda;south;south-west;Cabinda
+,Syrian Arab Republic,Cat 2,Elapidae,Naja nigricincta,north;Cabinda;south;south-west;Cabinda
+,Syrian Arab Republic,Cat 2,Elapidae,Pseudohaje goldii,north;Cabinda;south;south-west;Cabinda
+,Syrian Arab Republic,Cat 2,Viperidae,Atheris squamigera,north;Cabinda;south;south-west;Cabinda
+,Syrian Arab Republic,Cat 2,Viperidae,Bitis nasicornis,north;Cabinda;south;south-west;Cabinda
+,Burundi,Cat 1,Elapidae,Naja nigricollis,
+,Burundi,Cat 1,Elapidae,Naja melanoleuca,
+,Burundi,Cat 1,Viperidae,Bitis arietans,
+,Burundi,Cat 2,Atractaspididae,Atractaspis bibronii,
+,Burundi,Cat 2,Atractaspididae,Atractaspis irregularis,
+,Burundi,Cat 2,Colubridae,Dispholidus typus,
+,Burundi,Cat 2,Colubridae,Thelotornis mossambicanus,
+,Burundi,Cat 2,Elapidae,Dendroaspis jamesoni,
+,Burundi,Cat 2,Viperidae,Bitis gabonica,
+,Burundi,Cat 2,Viperidae,Bitis nasicornis,
+,Central African Republic,Cat 1,Elapidae,Dendroaspis jamesoni,
+,Central African Republic,Cat 1,Elapidae,Dendroaspis polylepis,
+,Central African Republic,Cat 1,Elapidae,Naja haje,
+,Central African Republic,Cat 1,Elapidae,Naja nigricollis,
+,Central African Republic,Cat 1,Viperidae,Bitis arietans,
+,Central African Republic,Cat 1,Viperidae,Bitis gabonica,
+,Central African Republic,Cat 1,Viperidae,Echis ocellatus,
+,Central African Republic,Cat 1,Viperidae,Echis pyramidum,
+,Central African Republic,Cat 2,Atractaspididae,Atractaspis irregularis,
+,Central African Republic,Cat 2,Colubridae,Dispholidus typus,
+,Central African Republic,Cat 2,Colubridae,Thelotornis kirtlandii,
+,Central African Republic,Cat 2,Elapidae,Naja annulata,
+,Central African Republic,Cat 2,Elapidae,Naja melanoleuca,
+,Central African Republic,Cat 2,Viperidae,Atheris broadleyi,
+,Central African Republic,Cat 2,Viperidae,Atheris squamigera,
+,Central African Republic,Cat 2,Viperidae,Bitis nasicornis,
+,Chad,Cat 1,Elapidae,Naja haje,south;south
+,Chad,Cat 1,Elapidae,Naja nigricollis,south;south
+,Chad,Cat 1,Viperidae,Bitis arietans,south;south
+,Chad,Cat 1,Viperidae,Echis ocellatus,south;south
+,Chad,Cat 2,Colubridae,Dispholidus typus,
+,Chad,Cat 2,Elapidae,Naja katiensis,
+,Chad,Cat 2,Elapidae,Naja nubiae,
+,Chad,Cat 2,Viperidae,Cerastes cerastes,
+,Republic of the Congo,Cat 1,Elapidae,Dendroaspis jamesoni,
+,Republic of the Congo,Cat 1,Elapidae,Naja melanoleuca,
+,Republic of the Congo,Cat 1,Viperidae,Bitis gabonica,
+,Republic of the Congo,Cat 1,Viperidae,Bitis nasicornis,
+,Republic of the Congo,Cat 2,Atractaspididae,Atractaspis irregularis,
+,Republic of the Congo,Cat 2,Colubridae,Dispholidus typus,
+,Republic of the Congo,Cat 2,Colubridae,Thelotornis kirtlandii,
+,Republic of the Congo,Cat 2,Elapidae,Naja annulata,
+,Republic of the Congo,Cat 2,Elapidae,Naja christyi,
+,Republic of the Congo,Cat 2,Elapidae,Naja nigricollis,
+,Republic of the Congo,Cat 2,Elapidae,Pseudohaje goldii,
+,Republic of the Congo,Cat 2,Viperidae,Atheris squamigera,
+,Republic of the Congo,Cat 2,Viperidae,Bitis arietans,
+,Democratic Republic of the Congo,Cat 1,Elapidae,Dendroaspis jamesoni,
+,Democratic Republic of the Congo,Cat 1,Elapidae,Naja melanoleuca,
+,Democratic Republic of the Congo,Cat 1,Elapidae,Naja nigricollis,
+,Democratic Republic of the Congo,Cat 1,Viperidae,Bitis arietans,
+,Democratic Republic of the Congo,Cat 1,Viperidae,Bitis gabonica,
+,Democratic Republic of the Congo,Cat 1,Viperidae,Bitis nasicornis,
+,Democratic Republic of the Congo,Cat 2,Atractaspididae,Atractaspis bibronii,Katanga pedicle;north
+,Democratic Republic of the Congo,Cat 2,Atractaspididae,Atractaspis irregularis,Katanga pedicle;north
+,Democratic Republic of the Congo,Cat 2,Colubridae,Dispholidus typus,Katanga pedicle;north
+,Democratic Republic of the Congo,Cat 2,Colubridae,Thelotornis capensis,Katanga pedicle;north
+,Democratic Republic of the Congo,Cat 2,Colubridae,Thelotornis kirtlandii,Katanga pedicle;north
+,Democratic Republic of the Congo,Cat 2,Elapidae,Dendroaspis polylepis,Katanga pedicle;north
+,Democratic Republic of the Congo,Cat 2,Elapidae,Naja anchietae,Katanga pedicle;north
+,Democratic Republic of the Congo,Cat 2,Elapidae,Naja annulata,Katanga pedicle;north
+,Democratic Republic of the Congo,Cat 2,Elapidae,Naja christyi,Katanga pedicle;north
+,Democratic Republic of the Congo,Cat 2,Elapidae,Naja haje,Katanga pedicle;north
+,Democratic Republic of the Congo,Cat 2,Elapidae,Pseudohaje goldii,Katanga pedicle;north
+,Democratic Republic of the Congo,Cat 1,Elapidae,Dendroaspis jamesoni,
+,Democratic Republic of the Congo,Cat 1,Elapidae,Naja melanoleuca,
+,Democratic Republic of the Congo,Cat 1,Viperidae,Bitis gabonica,
+,Democratic Republic of the Congo,Cat 1,Viperidae,Bitis nasicornis,
+,Democratic Republic of the Congo,Cat 2,Atractaspididae,Atractaspis irregularis,
+,Democratic Republic of the Congo,Cat 2,Colubridae,Thelotornis kirtlandii,
+,Democratic Republic of the Congo,Cat 2,Elapidae,Naja annulata,
+,Democratic Republic of the Congo,Cat 2,Elapidae,Pseudohaje goldii,
+,Democratic Republic of the Congo,Cat 1,Elapidae,Dendroaspis jamesoni,
+,Democratic Republic of the Congo,Cat 1,Elapidae,Naja melanoleuca,
+,Democratic Republic of the Congo,Cat 1,Elapidae,Naja nigricollis,
+,Democratic Republic of the Congo,Cat 1,Viperidae,Bitis gabonica,
+,Democratic Republic of the Congo,Cat 1,Viperidae,Bitis nasicornis,
+,Democratic Republic of the Congo,Cat 2,Atractaspididae,Atractaspis irregularis,
+,Democratic Republic of the Congo,Cat 2,Colubridae,Thelotornis kirtlandii,
+,Democratic Republic of the Congo,Cat 2,Elapidae,Naja annulata,
+,Democratic Republic of the Congo,Cat 2,Elapidae,Pseudohaje goldii,
+,Democratic Republic of the Congo,Cat 2,Viperidae,Atheris squamigera,
+,Democratic Republic of the Congo,Cat 1,Elapidae,Dendroaspis jamesoni,
+,Democratic Republic of the Congo,Cat 1,Elapidae,Naja nigricollis,
+,Democratic Republic of the Congo,Cat 1,Viperidae,Bitis arietans,
+,Democratic Republic of the Congo,Cat 2,Atractaspididae,Atractaspis bibronii,
+,Democratic Republic of the Congo,Cat 2,Atractaspididae,Atractaspis irregularis,
+,Democratic Republic of the Congo,Cat 2,Colubridae,Dispholidus typus,
+,Democratic Republic of the Congo,Cat 2,Colubridae,Thelotornis kirtlandii,
+,Democratic Republic of the Congo,Cat 2,Elapidae,Dendroaspis polylepis,
+,Democratic Republic of the Congo,Cat 2,Elapidae,Naja annulata,
+,Democratic Republic of the Congo,Cat 2,Elapidae,Naja melanoleuca,
+,Democratic Republic of the Congo,Cat 2,Elapidae,Pseudohaje goldii,
+,Democratic Republic of the Congo,Cat 2,Viperidae,Bitis gabonica,
+,Democratic Republic of the Congo,Cat 1,Viperidae,Echis pyramidum,
+,Democratic Republic of the Congo,Cat 2,Atractaspididae,Atractaspis fallax,
+,Democratic Republic of the Congo,Cat 2,Colubridae,Dispholidus typus,
+,Democratic Republic of the Congo,Cat 2,Elapidae,Naja pallida,
+,Democratic Republic of the Congo,Cat 1,Elapidae,Dendroaspis polylepis,
+,Democratic Republic of the Congo,Cat 1,Elapidae,Naja haje,
+,Democratic Republic of the Congo,Cat 1,Viperidae,Bitis arietans,
+,Democratic Republic of the Congo,Cat 1,Viperidae,Echis pyramidum,
+,Democratic Republic of the Congo,Cat 2,Atractaspididae,Atractaspis irregularis,
+,Democratic Republic of the Congo,Cat 2,Colubridae,Dispholidus typus,
+,Democratic Republic of the Congo,Cat 2,Elapidae,Naja nubiae,
+,Democratic Republic of the Congo,Cat 1,Elapidae,Dendroaspis polylepis,south-east
+,Democratic Republic of the Congo,Cat 1,Elapidae,Naja ashei,south-east
+,Democratic Republic of the Congo,Cat 1,Elapidae,Naja haje,south-east
+,Democratic Republic of the Congo,Cat 1,Elapidae,Naja nigricollis,south-east
+,Democratic Republic of the Congo,Cat 1,Viperidae,Bitis arietans,south-east
+,Democratic Republic of the Congo,Cat 1,Viperidae,Echis pyramidum,south-east
+,Democratic Republic of the Congo,Cat 2,Atractaspididae,Atractaspis fallax,Mt Bizen
+,Democratic Republic of the Congo,Cat 2,Atractaspididae,Atractaspis irregularis,Mt Bizen
+,Democratic Republic of the Congo,Cat 2,Colubridae,Dispholidus typus,Mt Bizen
+,Democratic Republic of the Congo,Cat 2,Elapidae,Naja melanoleuca,Mt Bizen
+,Democratic Republic of the Congo,Cat 2,Elapidae,Naja pallida,Mt Bizen
+,Democratic Republic of the Congo,Cat 2,Viperidae,Bitis parviocula,Mt Bizen
+,Democratic Republic of the Congo,Cat 2,Viperidae,Bitis harenna,Mt Bizen
+,Kenya,Cat 1,Elapidae,Dendroaspis angusticeps,north & east
+,Kenya,Cat 1,Elapidae,Dendroaspis polylepis,north & east
+,Kenya,Cat 1,Elapidae,Naja ashei,north & east
+,Kenya,Cat 1,Elapidae,Naja haje,north & east
+,Kenya,Cat 1,Elapidae,Naja nigricollis,north & east
+,Kenya,Cat 1,Viperidae,Bitis arietans,north & east
+,Kenya,Cat 1,Viperidae,Echis pyramidum,north & east
+,Kenya,Cat 2,Atractaspididae,Atractaspis bibronii,east coast;west and coastal forest;north and east;west
+,Kenya,Cat 2,Atractaspididae,Atractaspis fallax,east coast;west and coastal forest;north and east;west
+,Kenya,Cat 2,Atractaspididae,Atractaspis irregularis,east coast;west and coastal forest;north and east;west
+,Kenya,Cat 2,Colubridae,Dispholidus typus,east coast;west and coastal forest;north and east;west
+,Kenya,Cat 2,Colubridae,Thelotornis mossambicanus,east coast;west and coastal forest;north and east;west
+,Kenya,Cat 2,Colubridae,Thelotornis usambaricus,east coast;west and coastal forest;north and east;west
+,Kenya,Cat 2,Elapidae,Dendroaspis jamesoni,east coast;west and coastal forest;north and east;west
+,Kenya,Cat 2,Elapidae,Naja melanoleuca,east coast;west and coastal forest;north and east;west
+,Kenya,Cat 2,Elapidae,Naja pallida,east coast;west and coastal forest;north and east;west
+,Kenya,Cat 2,Elapidae,Pseudohaje goldii,east coast;west and coastal forest;north and east;west
+,Kenya,Cat 2,Viperidae,Atheris squamigera,east coast;west and coastal forest;north and east;west
+,Kenya,Cat 2,Viperidae,Bitis nasicornis,east coast;west and coastal forest;north and east;west
+,Kenya,Cat 2,Viperidae,Bitis gabonica,east coast;west and coastal forest;north and east;west
+,Malawi,Cat 1,Elapidae,Dendroaspis angusticeps,
+,Malawi,Cat 1,Elapidae,Dendroaspis polylepis,
+,Malawi,Cat 1,Elapidae,Naja annulifera,
+,Malawi,Cat 1,Elapidae,Naja mossambica,
+,Malawi,Cat 1,Elapidae,Naja nigricollis,
+,Malawi,Cat 1,Viperidae,Bitis arietans,
+,Malawi,Cat 2,Atractaspididae,Atractaspis bibronii,
+,Malawi,Cat 2,Colubridae,Dispholidus typus,
+,Malawi,Cat 2,Colubridae,Thelotornis capensis,
+,Malawi,Cat 2,Colubridae,Thelotornis mossambicanus,
+,Malawi,Cat 2,Elapidae,Naja melanoleuca,
+,Malawi,Cat 2,Viperidae,Proatheris superciliaris,
+,Mozambique,Cat 1,Elapidae,Dendroaspis angusticeps,
+,Mozambique,Cat 1,Elapidae,Dendroaspis polylepis,
+,Mozambique,Cat 1,Elapidae,Naja annulifera,
+,Mozambique,Cat 1,Elapidae,Naja mossambica,
+,Mozambique,Cat 1,Viperidae,Bitis arietans,
+,Mozambique,Cat 1,Viperidae,Bitis gabonica,
+,Mozambique,Cat 2,Atractaspididae,Atractaspis bibronii,
+,Mozambique,Cat 2,Colubridae,Dispholidus typus,
+,Mozambique,Cat 2,Colubridae,Thelotornis capensis,
+,Mozambique,Cat 2,Colubridae,Thelotornis mossambicanus,
+,Mozambique,Cat 2,Elapidae,Hemachatus haemachatus,
+,Mozambique,Cat 2,Elapidae,Naja melanoleuca,
+,Mozambique,Cat 2,Viperidae,Proatheris superciliaris,
+,Somalia,Cat 1,Elapidae,Dendroaspis polylepis,south
+,Somalia,Cat 1,Elapidae,Naja ashei,south
+,Somalia,Cat 1,Elapidae,Naja haje,south
+,Somalia,Cat 1,Viperidae,Bitis arietans,south
+,Somalia,Cat 1,Viperidae,Echis pyramidum,south
+,Somalia,Cat 2,Atractaspididae,Atractaspis fallax,north
+,Somalia,Cat 2,Colubridae,Dispholidus typus,north
+,Somalia,Cat 2,Colubridae,Thelotornis mossambicanus,north
+,Somalia,Cat 2,Elapidae,Naja pallida,north
+,Somalia,Cat 2,Elapidae,Naja melanoleuca,north
+,Somalia,Cat 2,Viperidae,Echis hughesi,north
+,South Sudan,Cat 1,Elapidae,Naja haje,
+,South Sudan,Cat 1,Elapidae,Naja nigricollis,
+,South Sudan,Cat 1,Viperidae,Bitis arietans,
+,South Sudan,Cat 1,Viperidae,Echis pyramidum,
+,South Sudan,Cat 2,Atractaspididae,Atractaspis fallax,
+,South Sudan,Cat 2,Atractaspididae,Atractaspis irregularis,
+,South Sudan,Cat 2,Colubridae,Dispholidus typus,
+,South Sudan,Cat 2,Elapidae,Dendroaspis jamesoni,
+,South Sudan,Cat 2,Elapidae,Dendroaspis polylepis,
+,South Sudan,Cat 2,Elapidae,Naja melanoleuca,
+,South Sudan,Cat 2,Elapidae,Naja nubiae,
+,South Sudan,Cat 2,Elapidae,Naja pallida,
+,South Sudan,Cat 2,Viperidae,Bitis gabonica,
+,South Sudan,Cat 1,Elapidae,Naja haje,
+,South Sudan,Cat 1,Viperidae,Bitis arietans,
+,South Sudan,Cat 1,Viperidae,Echis pyramidum,
+,South Sudan,Cat 2,Colubridae,Dispholidus typus,east;east
+,South Sudan,Cat 2,Elapidae,Dendroaspis polylepis,east;east
+,South Sudan,Cat 2,Elapidae,Naja nubiae,east;east
+,South Sudan,Cat 2,Viperidae,Cerastes cerastes,east;east
+,South Sudan,Cat 1,Elapidae,Dendroaspis angusticeps,including Pemba Island
+,South Sudan,Cat 1,Elapidae,Dendroaspis polylepis,including Pemba Island
+,South Sudan,Cat 1,Elapidae,Naja mossambica,including Pemba Island
+,South Sudan,Cat 1,Elapidae,Naja nigricollis,including Pemba Island
+,South Sudan,Cat 1,Viperidae,Bitis arietans,including Pemba Island
+,South Sudan,Cat 2,Atractaspididae,Atractaspis bibronii,"north;north-east;Mahali and Udzungwa Mountains;East Usambara Mountains;poss. north-east;north;west and coast, including Mafia Island;west and south- east;north"
+,South Sudan,Cat 2,Atractaspididae,Atractaspis fallax,"north;north-east;Mahali and Udzungwa Mountains;East Usambara Mountains;poss. north-east;north;west and coast, including Mafia Island;west and south- east;north"
+,South Sudan,Cat 2,Atractaspididae,Atractaspis irregularis,"north;north-east;Mahali and Udzungwa Mountains;East Usambara Mountains;poss. north-east;north;west and coast, including Mafia Island;west and south- east;north"
+,South Sudan,Cat 2,Colubridae,Dispholidus typus,"north;north-east;Mahali and Udzungwa Mountains;East Usambara Mountains;poss. north-east;north;west and coast, including Mafia Island;west and south- east;north"
+,South Sudan,Cat 2,Colubridae,Thelotornis capensis,"north;north-east;Mahali and Udzungwa Mountains;East Usambara Mountains;poss. north-east;north;west and coast, including Mafia Island;west and south- east;north"
+,South Sudan,Cat 2,Colubridae,Thelotornis kirtlandii,"north;north-east;Mahali and Udzungwa Mountains;East Usambara Mountains;poss. north-east;north;west and coast, including Mafia Island;west and south- east;north"
+,South Sudan,Cat 2,Colubridae,Thelotornis mossambicanus,"north;north-east;Mahali and Udzungwa Mountains;East Usambara Mountains;poss. north-east;north;west and coast, including Mafia Island;west and south- east;north"
+,South Sudan,Cat 2,Colubridae,Thelotornis usambaricus,"north;north-east;Mahali and Udzungwa Mountains;East Usambara Mountains;poss. north-east;north;west and coast, including Mafia Island;west and south- east;north"
+,South Sudan,Cat 2,Elapidae,Naja ashei,"north;north-east;Mahali and Udzungwa Mountains;East Usambara Mountains;poss. north-east;north;west and coast, including Mafia Island;west and south- east;north"
+,South Sudan,Cat 2,Elapidae,Naja annulata,"north;north-east;Mahali and Udzungwa Mountains;East Usambara Mountains;poss. north-east;north;west and coast, including Mafia Island;west and south- east;north"
+,South Sudan,Cat 2,Elapidae,Naja haje,"north;north-east;Mahali and Udzungwa Mountains;East Usambara Mountains;poss. north-east;north;west and coast, including Mafia Island;west and south- east;north"
+,South Sudan,Cat 2,Elapidae,Naja melanoleuca,"north;north-east;Mahali and Udzungwa Mountains;East Usambara Mountains;poss. north-east;north;west and coast, including Mafia Island;west and south- east;north"
+,South Sudan,Cat 2,Elapidae,Naja pallida,"north;north-east;Mahali and Udzungwa Mountains;East Usambara Mountains;poss. north-east;north;west and coast, including Mafia Island;west and south- east;north"
+,South Sudan,Cat 2,Viperidae,Atheris squamigera,"north;north-east;Mahali and Udzungwa Mountains;East Usambara Mountains;poss. north-east;north;west and coast, including Mafia Island;west and south- east;north"
+,South Sudan,Cat 2,Viperidae,Bitis gabonica,"north;north-east;Mahali and Udzungwa Mountains;East Usambara Mountains;poss. north-east;north;west and coast, including Mafia Island;west and south- east;north"
+,South Sudan,Cat 2,Viperidae,Bitis nasicornis,"north;north-east;Mahali and Udzungwa Mountains;East Usambara Mountains;poss. north-east;north;west and coast, including Mafia Island;west and south- east;north"
+,South Sudan,Cat 1,Elapidae,Naja ashei,north-east;north
+,South Sudan,Cat 1,Elapidae,Naja haje,north-east;north
+,South Sudan,Cat 1,Elapidae,Naja nigricollis,north-east;north
+,South Sudan,Cat 1,Elapidae,Dendroaspis jamesoni,north-east;north
+,South Sudan,Cat 1,Elapidae,Dendroaspis polylepis,north-east;north
+,South Sudan,Cat 1,Viperidae,Bitis arietans,north-east;north
+,South Sudan,Cat 1,Viperidae,Bitis gabonica,north-east;north
+,South Sudan,Cat 2,Atractaspididae,Atractaspis irregularis,
+,South Sudan,Cat 2,Colubridae,Dispholidus typus,
+,South Sudan,Cat 2,Colubridae,Thelotornis kirtlandii,
+,South Sudan,Cat 2,Elapidae,Naja melanoleuca,
+,South Sudan,Cat 2,Elapidae,Pseudohaje goldii,
+,South Sudan,Cat 2,Viperidae,Atheris squamigera,
+,South Sudan,Cat 1,Elapidae,Dendroaspis polylepis,
+,South Sudan,Cat 1,Elapidae,Naja anchietae,
+,South Sudan,Cat 1,Elapidae,Naja annulifera,
+,South Sudan,Cat 1,Elapidae,Naja mossambica,
+,South Sudan,Cat 1,Elapidae,Naja nigricollis,
+,South Sudan,Cat 1,Viperidae,Bitis arietans,
+,South Sudan,Cat 1,Viperidae,Bitis gabonica,
+,South Sudan,Cat 2,Atractaspididae,Atractaspis bibronii,
+,South Sudan,Cat 2,Colubridae,Dispholidus typus,
+,South Sudan,Cat 2,Colubridae,Thelotornis capensis,
+,South Sudan,Cat 2,Colubridae,Thelotornis kirtlandii,
+,South Sudan,Cat 2,Colubridae,Thelotornis mossambicanus,
+,South Sudan,Cat 2,Elapidae,Naja annulata,
+,South Sudan,Cat 1,Elapidae,Dendroaspis polylepis,west;east;south-west
+,South Sudan,Cat 1,Elapidae,Naja anchietae,west;east;south-west
+,South Sudan,Cat 1,Elapidae,Naja annulifera,west;east;south-west
+,South Sudan,Cat 1,Elapidae,Naja mossambica,west;east;south-west
+,South Sudan,Cat 1,Elapidae,Naja nivea,west;east;south-west
+,South Sudan,Cat 1,Viperidae,Bitis arietans,west;east;south-west
+,South Sudan,Cat 2,Atractaspididae,Atractaspis bibronii,
+,South Sudan,Cat 2,Colubridae,Dispholidus typus,
+,South Sudan,Cat 2,Colubridae,Thelotornis capensis,
+,Lesotho,Cat 1,Elapidae,Naja nivea,
+,Lesotho,Cat 1,Viperidae,Bitis arietans,
+,Lesotho,Cat 2,Elapidae,Hemachatus haemachatus,
+,Namibia,Cat 1,Elapidae,Dendroaspis polylepis,central and southern;north-east
+,Namibia,Cat 1,Elapidae,Naja anchietae,central and southern;north-east
+,Namibia,Cat 1,Elapidae,Naja nivea,central and southern;north-east
+,Namibia,Cat 1,Elapidae,Naja mossambica,central and southern;north-east
+,Namibia,Cat 1,Elapidae,Naja nigricincta,central and southern;north-east
+,Namibia,Cat 1,Viperidae,Bitis arietans,central and southern;north-east
+,Namibia,Cat 2,Atractaspididae,Atractaspis bibronii,Caprivi
+,Namibia,Cat 2,Colubridae,Dispholidus typus,Caprivi
+,Namibia,Cat 2,Colubridae,Thelotornis capensis,Caprivi
+,Namibia,Cat 2,Elapidae,Naja nigricollis,Caprivi
+,South Africa,Cat 1,Elapidae,Dendroaspis angusticeps,Natal;north-east;north-east
+,South Africa,Cat 1,Elapidae,Dendroaspis polylepis,Natal;north-east;north-east
+,South Africa,Cat 1,Elapidae,Naja annulifera,Natal;north-east;north-east
+,South Africa,Cat 1,Elapidae,Naja nivea,Natal;north-east;north-east
+,South Africa,Cat 1,Elapidae,Naja mossambica,Natal;north-east;north-east
+,South Africa,Cat 1,Viperidae,Bitis arietans,Natal;north-east;north-east
+,South Africa,Cat 2,Atractaspididae,Atractaspis bibronii,KwaZulu-Natal;north-west;KwaZulu-Natal
+,South Africa,Cat 2,Colubridae,Dispholidus typus,KwaZulu-Natal;north-west;KwaZulu-Natal
+,South Africa,Cat 2,Colubridae,Thelotornis capensis,KwaZulu-Natal;north-west;KwaZulu-Natal
+,South Africa,Cat 2,Elapidae,Hemachatus haemachatus,KwaZulu-Natal;north-west;KwaZulu-Natal
+,South Africa,Cat 2,Elapidae,Naja melanoleuca,KwaZulu-Natal;north-west;KwaZulu-Natal
+,South Africa,Cat 2,Elapidae,Naja nigricincta,KwaZulu-Natal;north-west;KwaZulu-Natal
+,South Africa,Cat 2,Viperidae,Bitis gabonica,KwaZulu-Natal;north-west;KwaZulu-Natal
+,Swaziland,Cat 1,Elapidae,Dendroaspis polylepis,
+,Swaziland,Cat 1,Elapidae,Naja annulifera,
+,Swaziland,Cat 1,Elapidae,Naja mossambica,
+,Swaziland,Cat 1,Viperidae,Bitis arietans,
+,Swaziland,Cat 2,Atractaspididae,Atractaspis bibronii,
+,Swaziland,Cat 2,Colubridae,Dispholidus typus,
+,Swaziland,Cat 2,Colubridae,Thelotornis capensis,
+,Swaziland,Cat 2,Elapidae,Hemachatus haemachatus,
+,Zimbabwe,Cat 1,Elapidae,Dendroaspis polylepis,west
+,Zimbabwe,Cat 1,Elapidae,Naja anchietae,west
+,Zimbabwe,Cat 1,Elapidae,Naja annulifera,west
+,Zimbabwe,Cat 1,Elapidae,Naja mossambica,west
+,Zimbabwe,Cat 1,Viperidae,Bitis arietans,west
+,Zimbabwe,Cat 2,Atractaspididae,Atractaspis bibronii,east;Nyanga Mountains;east;east
+,Zimbabwe,Cat 2,Colubridae,Dispholidus typus,east;Nyanga Mountains;east;east
+,Zimbabwe,Cat 2,Colubridae,Thelotornis capensis,east;Nyanga Mountains;east;east
+,Zimbabwe,Cat 2,Colubridae,Thelotornis mossambicanus,east;Nyanga Mountains;east;east
+,Zimbabwe,Cat 2,Elapidae,Dendroaspis angusticeps,east;Nyanga Mountains;east;east
+,Zimbabwe,Cat 2,Elapidae,Hemachatus haemachatus,east;Nyanga Mountains;east;east
+,Zimbabwe,Cat 2,Elapidae,Naja melanoleuca,east;Nyanga Mountains;east;east
+,Zimbabwe,Cat 1,Elapidae,Naja nigricollis,
+,Zimbabwe,Cat 1,Viperidae,Bitis arietans,
+,Zimbabwe,Cat 1,Viperidae,Echis ocellatus,
+,Zimbabwe,Cat 2,Atractaspididae,Atractaspis irregularis,far north
+,Zimbabwe,Cat 2,Colubridae,Dispholidus typus,far north
+,Zimbabwe,Cat 2,Elapidae,Dendroaspis jamesoni,far north
+,Zimbabwe,Cat 2,Elapidae,Naja katiensis,far north
+,Zimbabwe,Cat 2,Elapidae,Naja melanoleuca,far north
+,Zimbabwe,Cat 2,Elapidae,Naja senegalensis,far north
+,Zimbabwe,Cat 2,Elapidae,Pseudohaje nigra,far north
+,Zimbabwe,Cat 2,Viperidae,Bitis rhinoceros,far north
+,Zimbabwe,Cat 1,Elapidae,Naja nigricollis,
+,Zimbabwe,Cat 1,Elapidae,Naja katiensis,
+,Zimbabwe,Cat 1,Viperidae,Bitis arietans,
+,Zimbabwe,Cat 1,Viperidae,Echis ocellatus,
+,Zimbabwe,Cat 2,Colubridae,Dispholidus typus,
+,Zimbabwe,Cat 2,Elapidae,Dendroaspis polylepis,
+,Zimbabwe,Cat 2,Elapidae,Naja melanoleuca,
+,Zimbabwe,Cat 2,Elapidae,Naja senegalensis,
+,Zimbabwe,Cat 1,Elapidae,Dendroaspis jamesoni,
+,Zimbabwe,Cat 1,Elapidae,Naja haje,
+,Zimbabwe,Cat 1,Elapidae,Naja nigricollis,
+,Zimbabwe,Cat 1,Elapidae,Naja melanoleuca,
+,Zimbabwe,Cat 1,Viperidae,Bitis arietans,
+,Zimbabwe,Cat 1,Viperidae,Bitis gabonica,
+,Zimbabwe,Cat 1,Viperidae,Bitis nasicornis,
+,Zimbabwe,Cat 1,Viperidae,Echis ocellatus,
+,Zimbabwe,Cat 2,Atractaspididae,Atractaspis irregularis,East Province
+,Zimbabwe,Cat 2,Colubridae,Dispholidus typus,East Province
+,Zimbabwe,Cat 2,Colubridae,Thelotornis kirtlandii,East Province
+,Zimbabwe,Cat 2,Elapidae,Dendroaspis polylepis,East Province
+,Zimbabwe,Cat 2,Elapidae,Naja annulata,East Province
+,Zimbabwe,Cat 2,Elapidae,Naja katiensis,East Province
+,Zimbabwe,Cat 2,Elapidae,Pseudohaje goldii,East Province
+,Zimbabwe,Cat 2,Viperidae,Atheris broadleyi,East Province
+,Zimbabwe,Cat 1,Elapidae,Dendroaspis viridis,
+,Zimbabwe,Cat 1,Elapidae,Naja nigricollis,
+,Zimbabwe,Cat 1,Elapidae,Naja melanoleuca,
+,Zimbabwe,Cat 1,Elapidae,Naja senegalensis,
+,Zimbabwe,Cat 1,Viperidae,Bitis arietans,
+,Zimbabwe,Cat 1,Viperidae,Bitis nasicornis,
+,Zimbabwe,Cat 1,Viperidae,Bitis rhinoceros,
+,Zimbabwe,Cat 1,Viperidae,Echis ocellatus,
+,Zimbabwe,Cat 2,Atractaspididae,Atractaspis irregularis,
+,Zimbabwe,Cat 2,Colubridae,Dispholidus typus,
+,Zimbabwe,Cat 2,Colubridae,Thelotornis kirtlandii,
+,Zimbabwe,Cat 2,Elapidae,Dendroaspis polylepis,
+,Zimbabwe,Cat 2,Elapidae,Naja katiensis,
+,Zimbabwe,Cat 2,Elapidae,Pseudohaje goldii,
+,Zimbabwe,Cat 2,Elapidae,Pseudohaje nigra,
+,Zimbabwe,Cat 1,Elapidae,Dendroaspis viridis,
+,Zimbabwe,Cat 1,Elapidae,Naja nigricollis,
+,Zimbabwe,Cat 1,Viperidae,Bitis arietans,
+,Zimbabwe,Cat 1,Viperidae,Echis jogeri,
+,Zimbabwe,Cat 2,Colubridae,Dispholidus typus,
+,Zimbabwe,Cat 2,Elapidae,Naja katiensis,
+,Zimbabwe,Cat 2,Elapidae,Naja melanoleuca,
+,Ghana,Cat 1,Elapidae,Dendroaspis viridis,
+,Ghana,Cat 1,Elapidae,Naja nigricollis,
+,Ghana,Cat 1,Elapidae,Naja senegalensis,
+,Ghana,Cat 1,Viperidae,Bitis arietans,
+,Ghana,Cat 1,Viperidae,Echis ocellatus,
+,Ghana,Cat 2,Atractaspididae,Atractaspis irregularis,
+,Ghana,Cat 2,Colubridae,Dispholidus typus,
+,Ghana,Cat 2,Colubridae,Thelotornis kirtlandii,
+,Ghana,Cat 2,Elapidae,Naja katiensis,
+,Ghana,Cat 2,Elapidae,Naja melanoleuca,
+,Ghana,Cat 2,Elapidae,Pseudohaje nigra,
+,Ghana,Cat 2,Viperidae,Atheris chlorechis,
+,Ghana,Cat 2,Viperidae,Bitis nasicornis,
+,Ghana,Cat 2,Viperidae,Bitis rhinoceros,
+,Guinea,Cat 1,Elapidae,Dendroaspis polylepis,
+,Guinea,Cat 1,Elapidae,Dendroaspis viridis,
+,Guinea,Cat 1,Elapidae,Naja katiensis,
+,Guinea,Cat 1,Elapidae,Naja nigricollis,
+,Guinea,Cat 1,Elapidae,Naja melanoleuca,
+,Guinea,Cat 1,Elapidae,Naja senegalensis,
+,Guinea,Cat 1,Viperidae,Bitis arietans,
+,Guinea,Cat 1,Viperidae,Echis jogeri,
+,Guinea,Cat 2,Atractaspididae,Atractaspis irregularis,
+,Guinea,Cat 2,Colubridae,Dispholidus typus,
+,Guinea,Cat 2,Colubridae,Thelotornis kirtlandii,
+,Guinea,Cat 2,Elapidae,Pseudohaje nigra,
+,Guinea,Cat 2,Viperidae,Atheris chlorechis,
+,Guinea,Cat 2,Viperidae,Bitis nasicornis,
+,Guinea,Cat 2,Viperidae,Bitis rhinoceros,
+,Guinea-Bissau,Cat 1,Elapidae,Dendroaspis viridis,
+,Guinea-Bissau,Cat 1,Elapidae,Naja nigricollis,
+,Guinea-Bissau,Cat 1,Elapidae,Naja melanoleuca,
+,Guinea-Bissau,Cat 1,Elapidae,Naja senegalensis,
+,Guinea-Bissau,Cat 1,Viperidae,Bitis arietans,
+,Guinea-Bissau,Cat 1,Viperidae,Echis jogeri,
+,Guinea-Bissau,Cat 2,Colubridae,Dispholidus typus,
+,Guinea-Bissau,Cat 2,Colubridae,Thelotornis kirtlandii,
+,Guinea-Bissau,Cat 2,Viperidae,Bitis rhinoceros,
+,Liberia,Cat 1,Elapidae,Dendroaspis viridis,
+,Liberia,Cat 1,Elapidae,Naja melanoleuca,
+,Liberia,Cat 1,Elapidae,Naja nigricollis,
+,Liberia,Cat 2,Atractaspididae,Atractaspis irregularis,
+,Liberia,Cat 2,Colubridae,Thelotornis kirtlandii,
+,Liberia,Cat 2,Elapidae,Pseudohaje nigra,
+,Liberia,Cat 2,Viperidae,Atheris chlorechis,
+,Liberia,Cat 2,Viperidae,Bitis nasicornis,
+,Liberia,Cat 2,Viperidae,Bitis rhinoceros,
+,Mali,Cat 1,Elapidae,Naja katiensis,west
+,Mali,Cat 1,Elapidae,Naja nigricollis,west
+,Mali,Cat 1,Elapidae,Naja senegalensis,west
+,Mali,Cat 1,Viperidae,Bitis arietans,west
+,Mali,Cat 1,Viperidae,Echis jogeri,west
+,Mali,Cat 1,Viperidae,Echis leucogaster,west
+,Mali,Cat 1,Viperidae,Echis ocellatus,west
+,Mali,Cat 2,Colubridae,Dispholidus typus,
+,Mali,Cat 2,Elapidae,Naja melanoleuca,
+,Mali,Cat 2,Viperidae,Cerastes cerastes,
+,Mauritania,Cat 1,Elapidae,Naja senegalensis,south-east
+,Mauritania,Cat 1,Viperidae,Cerastes cerastes,south-east
+,Mauritania,Cat 1,Viperidae,Echis leucogaster,south-east
+,Mauritania,Cat 1,Elapidae,Naja nigricollis,
+,Mauritania,Cat 1,Viperidae,Bitis arietans,
+,Mauritania,Cat 1,Viperidae,Echis leucogaster,
+,Mauritania,Cat 1,Viperidae,Echis ocellatus,
+,Mauritania,Cat 2,Colubridae,Dispholidus typus,south-central;south-west
+,Mauritania,Cat 2,Elapidae,Naja haje,south-central;south-west
+,Mauritania,Cat 2,Elapidae,Naja katiensis,south-central;south-west
+,Mauritania,Cat 2,Elapidae,Naja nubiae,south-central;south-west
+,Mauritania,Cat 2,Elapidae,Naja senegelensis,south-central;south-west
+,Mauritania,Cat 1,Elapidae,Dendroaspis jamesoni,north-east
+,Mauritania,Cat 1,Elapidae,Naja haje,north-east
+,Mauritania,Cat 1,Elapidae,Naja nigricollis,north-east
+,Mauritania,Cat 1,Viperidae,Bitis arietans,north-east
+,Mauritania,Cat 1,Viperidae,Bitis gabonica,north-east
+,Mauritania,Cat 1,Viperidae,Echis ocellatus,north-east
+,Mauritania,Cat 2,Atractaspididae,Atractaspis irregularis,north-west;north
+,Mauritania,Cat 2,Colubridae,Dispholidus typus,north-west;north
+,Mauritania,Cat 2,Colubridae,Thelotornis kirtlandii,north-west;north
+,Mauritania,Cat 2,Elapidae,Naja katiensis,north-west;north
+,Mauritania,Cat 2,Elapidae,Naja melanoleuca,north-west;north
+,Mauritania,Cat 2,Elapidae,Pseudohaje goldii,north-west;north
+,Mauritania,Cat 2,Elapidae,Pseudohaje nigra,north-west;north
+,Mauritania,Cat 2,Viperidae,Atheris squamigera,north-west;north
+,Mauritania,Cat 2,Viperidae,Bitis nasicornis,north-west;north
+,Mauritania,Cat 1,Elapidae,Dendroaspis jamesoni,
+,Mauritania,Cat 1,Elapidae,Naja melanoleuca,
+,Mauritania,Cat 1,Elapidae,Naja katiensis,
+,Mauritania,Cat 1,Elapidae,Naja nigricollis,
+,Mauritania,Cat 1,Viperidae,Bitis arietans,
+,Mauritania,Cat 1,Viperidae,Echis leucogaster,
+,Mauritania,Cat 1,Viperidae,Echis jogeri,
+,Mauritania,Cat 2,Colubridae,Dispholidus typus,
+,Mauritania,Cat 2,Elapidae,Dendroaspis polylepis,
+,Mauritania,Cat 2,Elapidae,Dendroaspis viridis,
+,Mauritania,Cat 2,Elapidae,Naja melanoleuca,
+,Mauritania,Cat 1,Elapidae,Dendroaspis viridis,
+,Mauritania,Cat 1,Elapidae,Naja nigricollis,
+,Mauritania,Cat 1,Viperidae,Bitis arietans,
+,Mauritania,Cat 2,Atractaspididae,Atractaspis irregularis,
+,Mauritania,Cat 2,Colubridae,Dispholidus typus,
+,Mauritania,Cat 2,Colubridae,Thelotornis kirtlandii,
+,Mauritania,Cat 2,Elapidae,Naja melanoleuca,
+,Mauritania,Cat 2,Viperidae,Atheris chlorechis,
+,Mauritania,Cat 2,Viperidae,Bitis nasicornis,
+,Togo,Cat 1,Elapidae,Naja nigricollis,south
+,Togo,Cat 1,Elapidae,Naja senegalensis,south
+,Togo,Cat 1,Viperidae,Bitis arietans,south
+,Togo,Cat 1,Viperidae,Echis ocellatus,south
+,Togo,Cat 2,Atractaspididae,Atractaspis irregularis,
+,Togo,Cat 2,Colubridae,Dispholidus typus,
+,Togo,Cat 2,Colubridae,Thelotornis kirtlandii,
+,Togo,Cat 2,Elapidae,Dendroaspis jamesoni,
+,Togo,Cat 2,Elapidae,Dendroaspis viridis,
+,Togo,Cat 2,Elapidae,Naja katiensis,
+,Togo,Cat 2,Elapidae,Naja melanoleuca,
+,Togo,Cat 2,Elapidae,Pseudohaje goldii,
+,Togo,Cat 2,Elapidae,Pseudohaje nigra,
+,Togo,Cat 2,Viperidae,Atheris chlorechis,
+,Togo,Cat 2,Viperidae,Bitis nasicornis,
+,Armenia,Cat 1,Viperidae,Macrovipera lebetina,
+,Armenia,Cat 2,Viperidae,Montivipera raddei,
+,Armenia,Cat 2,Viperidae,Vipera eriwanensis,
+,Armenia,Cat 2,Viperidae,Vipera spp,
+,Azerbaijan,Cat 1,Viperidae,Macrovipera lebetina,
+,Azerbaijan,Cat 2,Viperidae,Gloydius halys,
+,Azerbaijan,Cat 2,Viperidae,Vipera eriwanensis,
+,Azerbaijan,Cat 2,Viperidae,Vipera spp,
+,Georgia,Cat 1,Viperidae,Macrovipera lebetina,
+,Georgia,Cat 1,Viperidae,Vipera ammodytes,
+,Georgia,Cat 2,Viperidae,Vipera kaznakovi,
+,Georgia,Cat 2,Viperidae,Vipera renardi,
+,Georgia,Cat 2,Viperidae,Vipera spp,
+,"Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan and Turkmenistan",Cat 1,Elapidae,Naja oxiana,except Kazakhstan and Kyrgyzstan;except Kyrgyzstan;except Kazakhstan and Kyrgyzstan;throughout
+,"Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan and Turkmenistan",Cat 1,Viperidae,Echis carinatus,except Kazakhstan and Kyrgyzstan;except Kyrgyzstan;except Kazakhstan and Kyrgyzstan;throughout
+,"Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan and Turkmenistan",Cat 1,Viperidae,Macrovipera lebetina,except Kazakhstan and Kyrgyzstan;except Kyrgyzstan;except Kazakhstan and Kyrgyzstan;throughout
+,"Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan and Turkmenistan",Cat 1,Viperidae,Gloydius halys,except Kazakhstan and Kyrgyzstan;except Kyrgyzstan;except Kazakhstan and Kyrgyzstan;throughout
+,"Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan and Turkmenistan",Cat 2,Viperidae,Vipera renardi,except Turkmenistan
+,Mongolia,Cat 1,Viperidae,Gloydius halys,
+,Mongolia,Cat 2,Viperidae,Vipera berus,
+,Mongolia,Cat 1,Elapidae,Bungarus multicinctus,
+,Mongolia,Cat 1,Elapidae,Naja atra,
+,Mongolia,Cat 1,Viperidae,Trimeresurus albolabris,
+,Mongolia,Cat 1,Viperidae,Daboia siamensis,
+,Mongolia,Cat 1,Viperidae,Deinagkistrodon acutus,
+,Mongolia,Cat 1,Viperidae,Gloydius brevicaudus,
+,Mongolia,Cat 1,Viperidae,Protobothrops mucrosquamatus,
+,Mongolia,Cat 2,Colubridae,Rhabdophis tigrinus,"south-east Tibet;south Tibet;south Tibet;Jilin, western Xinjiang;western Xinjiang"
+,Mongolia,Cat 2,Elapidae,Bungarus bungaroides,"south-east Tibet;south Tibet;south Tibet;Jilin, western Xinjiang;western Xinjiang"
+,Mongolia,Cat 2,Elapidae,Bungarus fasciatus,"south-east Tibet;south Tibet;south Tibet;Jilin, western Xinjiang;western Xinjiang"
+,Mongolia,Cat 2,Elapidae,Naja kaouthia,"south-east Tibet;south Tibet;south Tibet;Jilin, western Xinjiang;western Xinjiang"
+,Mongolia,Cat 2,Elapidae,Ophiophagus hannah,"south-east Tibet;south Tibet;south Tibet;Jilin, western Xinjiang;western Xinjiang"
+,Mongolia,Cat 2,Viperidae,Trimeresurus septentrionalis,"south-east Tibet;south Tibet;south Tibet;Jilin, western Xinjiang;western Xinjiang"
+,Mongolia,Cat 2,Viperidae,Gloydius halys,"south-east Tibet;south Tibet;south Tibet;Jilin, western Xinjiang;western Xinjiang"
+,Mongolia,Cat 2,Viperidae,Gloydius intermedius,"south-east Tibet;south Tibet;south Tibet;Jilin, western Xinjiang;western Xinjiang"
+,Mongolia,Cat 2,Viperidae,Gloydius ussuriensis,"south-east Tibet;south Tibet;south Tibet;Jilin, western Xinjiang;western Xinjiang"
+,Mongolia,Cat 2,Viperidae,Himalayophis tibetanus,"south-east Tibet;south Tibet;south Tibet;Jilin, western Xinjiang;western Xinjiang"
+,Mongolia,Cat 2,Viperidae,Protobothrops jerdonii,"south-east Tibet;south Tibet;south Tibet;Jilin, western Xinjiang;western Xinjiang"
+,Mongolia,Cat 2,Viperidae,Protobothrops kaulbacki,"south-east Tibet;south Tibet;south Tibet;Jilin, western Xinjiang;western Xinjiang"
+,Mongolia,Cat 2,Viperidae,Protobothrops mangshanensis,"south-east Tibet;south Tibet;south Tibet;Jilin, western Xinjiang;western Xinjiang"
+,Mongolia,Cat 2,Viperidae,Vipera berus,"south-east Tibet;south Tibet;south Tibet;Jilin, western Xinjiang;western Xinjiang"
+,Mongolia,Cat 2,Viperidae,Vipera renardi,"south-east Tibet;south Tibet;south Tibet;Jilin, western Xinjiang;western Xinjiang"
+,Mongolia,Cat 1,Elapidae,Bungarus multicinctus,
+,Mongolia,Cat 1,Elapidae,Naja atra,
+,Mongolia,Cat 1,Viperidae,Trimeresurus albolabris,
+,Mongolia,Cat 1,Elapidae,Bungarus multicinctus,
+,Mongolia,Cat 1,Elapidae,Naja atra,
+,Mongolia,Cat 1,Viperidae,Protobothrops mucrosquamatus,
+,Mongolia,Cat 1,Viperidae,Trimeresurus stejnegeri,
+,Mongolia,Cat 2,Viperidae,Deinagkistrodon acutus,
+,Mongolia,Cat 1,Viperidae,Gloydius brevicaudus,
+,Mongolia,Cat 2,Viperidae,Gloydius intermedius,including Ryukyu Islands
+,Mongolia,Cat 2,Viperidae,Gloydius ussuriensis,including Ryukyu Islands
+,Mongolia,Cat 1,Viperidae,Gloydius blomhoffii,main islands;Ryukyu Islands
+,Mongolia,Cat 1,Viperidae,Protobothrops flavoviridis,main islands;Ryukyu Islands
+,Mongolia,Cat 2,Colubridae,Rhabdophis tigrinus,Tsushima
+,Mongolia,Cat 2,Viperidae,Gloydius tsushimaensis,Tsushima
+,Mongolia,Cat 1,Viperidae,Gloydius brevicaudus,
+,Mongolia,Cat 2,Colubridae,Rhabdophis tigrinus,
+,Mongolia,Cat 2,Viperidae,Gloydius intermedius,
+,Afghanistan,Cat 1,Elapidae,Naja oxiana,
+,Afghanistan,Cat 1,Viperidae,Echis carinatus,
+,Afghanistan,Cat 1,Viperidae,Macrovipera lebetina,
+,Afghanistan,Cat 2,Elapidae,Bungarus caeruleus,east;east;poss. south-east;south-west;north
+,Afghanistan,Cat 2,Elapidae,Bungarus sindanus,east;east;poss. south-east;south-west;north
+,Afghanistan,Cat 2,Elapidae,Naja naja,east;east;poss. south-east;south-west;north
+,Afghanistan,Cat 2,Viperidae,Eristicophis macmahonii,east;east;poss. south-east;south-west;north
+,Afghanistan,Cat 2,Viperidae,Gloydius halys,east;east;poss. south-east;south-west;north
+,Bangladesh,Cat 1,Elapidae,Bungarus caeruleus,
+,Bangladesh,Cat 1,Elapidae,Bungarus niger,
+,Bangladesh,Cat 1,Elapidae,Bungarus walli,
+,Bangladesh,Cat 1,Elapidae,Naja kaouthia,
+,Bangladesh,Cat 1,Viperidae,Trimeresurus erythrurus,
+,Bangladesh,Cat 2,Elapidae,Bungarus bungaroides,far north- west;west
+,Bangladesh,Cat 2,Elapidae,Bungarus fasciatus,far north- west;west
+,Bangladesh,Cat 2,Elapidae,Bungarus lividus,far north- west;west
+,Bangladesh,Cat 2,Elapidae,Naja naja,far north- west;west
+,Bangladesh,Cat 2,Elapidae,Ophiophagus hannah,far north- west;west
+,Bangladesh,Cat 2,Viperidae,Trimeresurus albolabris,far north- west;west
+,Bangladesh,Cat 2,Viperidae,Daboia russelii,far north- west;west
+,Bhutan,Cat 1,Elapidae,Bungarus niger,
+,Bhutan,Cat 1,Elapidae,Naja naja,
+,Bhutan,Cat 2,Elapidae,Bungarus caeruleus,
+,Bhutan,Cat 2,Elapidae,Bungarus fasciatus,
+,Bhutan,Cat 2,Elapidae,Bungarus lividus,
+,Bhutan,Cat 2,Elapidae,Naja kaouthia,
+,Bhutan,Cat 2,Elapidae,Ophiophagus hannah,
+,Bhutan,Cat 2,Viperidae,Trimeresurus erythrurus,
+,Bhutan,Cat 2,Viperidae,Daboia russelii,
+,Bhutan,Cat 2,Viperidae,Protobothrops jerdonii,
+,India,Cat 1,Elapidae,Bungarus caeruleus,east;throughout;south-west
+,India,Cat 1,Elapidae,Naja kaouthia,east;throughout;south-west
+,India,Cat 1,Elapidae,Naja naja,east;throughout;south-west
+,India,Cat 1,Viperidae,Daboia russelii,east;throughout;south-west
+,India,Cat 1,Viperidae,Echis carinatus,east;throughout;south-west
+,India,Cat 1,Viperidae,Hypnale hypnale,east;throughout;south-west
+,India,Cat 2,UNSPECIFIED_IN_SOURCE,Bungarus bungaroides,"west;Andaman Islands;south, north-east, Andaman Islands;south India;south-west"
+,India,Cat 2,UNSPECIFIED_IN_SOURCE,Bungarus fasciatus,"west;Andaman Islands;south, north-east, Andaman Islands;south India;south-west"
+,India,Cat 2,UNSPECIFIED_IN_SOURCE,Bungarus lividus,"west;Andaman Islands;south, north-east, Andaman Islands;south India;south-west"
+,India,Cat 2,UNSPECIFIED_IN_SOURCE,Bungarus niger,"west;Andaman Islands;south, north-east, Andaman Islands;south India;south-west"
+,India,Cat 2,UNSPECIFIED_IN_SOURCE,Bungarus sindanus,"west;Andaman Islands;south, north-east, Andaman Islands;south India;south-west"
+,India,Cat 2,UNSPECIFIED_IN_SOURCE,Bungarus walli,"west;Andaman Islands;south, north-east, Andaman Islands;south India;south-west"
+,India,Cat 2,UNSPECIFIED_IN_SOURCE,Naja oxiana,"west;Andaman Islands;south, north-east, Andaman Islands;south India;south-west"
+,India,Cat 2,UNSPECIFIED_IN_SOURCE,Naja sagittifera,"west;Andaman Islands;south, north-east, Andaman Islands;south India;south-west"
+,India,Cat 2,UNSPECIFIED_IN_SOURCE,Ophiophagus hannah,"west;Andaman Islands;south, north-east, Andaman Islands;south India;south-west"
+,India,Cat 2,Viperidae,Trimeresurus albolabris,"west;Andaman Islands;south, north-east, Andaman Islands;south India;south-west"
+,India,Cat 2,Viperidae,Trimeresurus erythrurus,"west;Andaman Islands;south, north-east, Andaman Islands;south India;south-west"
+,India,Cat 2,Viperidae,Trimeresurus septentrionalis,"west;Andaman Islands;south, north-east, Andaman Islands;south India;south-west"
+,India,Cat 2,Viperidae,Gloydius himalayanus,"west;Andaman Islands;south, north-east, Andaman Islands;south India;south-west"
+,India,Cat 2,Viperidae,Protobothrops jerdonii,"west;Andaman Islands;south, north-east, Andaman Islands;south India;south-west"
+,India,Cat 2,Viperidae,Protobothrops kaulbacki,"west;Andaman Islands;south, north-east, Andaman Islands;south India;south-west"
+,India,Cat 2,Viperidae,Protobothrops mucrosquamatus,"west;Andaman Islands;south, north-east, Andaman Islands;south India;south-west"
+,India,Cat 2,Viperidae,Trimeresurus gramineus,"west;Andaman Islands;south, north-east, Andaman Islands;south India;south-west"
+,India,Cat 2,Viperidae,Trimeresurus malabaricus,"west;Andaman Islands;south, north-east, Andaman Islands;south India;south-west"
+,Nepal,Cat 1,Elapidae,Bungarus caeruleus,
+,Nepal,Cat 1,Elapidae,Bungarus niger,
+,Nepal,Cat 1,Elapidae,Naja naja,
+,Nepal,Cat 1,Elapidae,Naja kaouthia,
+,Nepal,Cat 1,Viperidae,Daboia russelii,
+,Nepal,Cat 2,Elapidae,Bungarus bungaroides,
+,Nepal,Cat 2,Elapidae,Bungarus fasciatus,
+,Nepal,Cat 2,Elapidae,Bungarus lividus,
+,Nepal,Cat 2,Elapidae,Bungarus walli,
+,Nepal,Cat 2,Elapidae,Ophiophagus hannah,
+,Nepal,Cat 2,Viperidae,Trimeresurus septentrionalis,
+,Nepal,Cat 2,Viperidae,Gloydius himalayanus,
+,Nepal,Cat 2,Viperidae,Himalayophis tibetanus,
+,Nepal,Cat 1,Elapidae,Bungarus caeruleus,
+,Nepal,Cat 1,Elapidae,Bungarus sindanus,
+,Nepal,Cat 1,Elapidae,Naja naja,
+,Nepal,Cat 1,Elapidae,Naja oxiana,
+,Nepal,Cat 1,Viperidae,Daboia russelii,
+,Nepal,Cat 1,Viperidae,Echis carinatus,
+,Nepal,Cat 2,Viperidae,Eristicophis macmahonii,west;north;west
+,Nepal,Cat 2,Viperidae,Gloydius himalayanus,west;north;west
+,Nepal,Cat 1,Elapidae,Bungarus caeruleus,
+,Nepal,Cat 1,Elapidae,Naja naja,
+,Nepal,Cat 1,Viperidae,Daboia russelii,
+,Nepal,Cat 1,Viperidae,Hypnale hypnale,
+,Nepal,Cat 2,Elapidae,Bungarus ceylonicus,
+,Nepal,Cat 2,Viperidae,Echis carinatus,
+,Nepal,Cat 2,Viperidae,Hypnale nepa,
+,Nepal,Cat 2,Viperidae,Hypnale zara,
+,Nepal,Cat 1,Elapidae,Naja sumatrana,
+,Nepal,Cat 2,Elapidae,Bungarus fasciatus,
+,Nepal,Cat 2,Elapidae,Bungarus flaviceps,
+,Nepal,Cat 2,Elapidae,Calliophis bivirgatus,
+,Nepal,Cat 2,Elapidae,Calliophis intestinalis,
+,Nepal,Cat 2,Elapidae,Ophiophagus hannah,
+,Nepal,Cat 2,Viperidae,Trimeresurus sumatranus,
+,Nepal,Cat 1,Elapidae,Bungarus candidus,
+,Nepal,Cat 1,Elapidae,Naja kaouthia,
+,Nepal,Cat 1,Elapidae,Naja siamensis,
+,Nepal,Cat 1,Viperidae,Calloselasma rhodostoma,
+,Nepal,Cat 1,Viperidae,Trimeresurus albolabris,
+,Nepal,Cat 1,Viperidae,Daboia siamensis,
+,Nepal,Cat 2,Elapidae,Bungarus fasciatus,"Sumatra, Java, Borneo, Sulawesi and Lesser Sunda Islands"
+,Nepal,Cat 2,Elapidae,Bungarus flaviceps,"Sumatra, Java, Borneo, Sulawesi and Lesser Sunda Islands"
+,Nepal,Cat 2,Elapidae,Ophiophagus hannah,"Sumatra, Java, Borneo, Sulawesi and Lesser Sunda Islands"
+,Nepal,Cat 1,Elapidae,Bungarus candidus,Sumatra and Java;Java and Lesser Sunda Islands;Sumatra and Borneo;Java
+,Nepal,Cat 1,Elapidae,Naja sputatrix,Sumatra and Java;Java and Lesser Sunda Islands;Sumatra and Borneo;Java
+,Nepal,Cat 1,Elapidae,Naja sumatrana,Sumatra and Java;Java and Lesser Sunda Islands;Sumatra and Borneo;Java
+,Nepal,Cat 1,Viperidae,Calloselasma rhodostoma,Sumatra and Java;Java and Lesser Sunda Islands;Sumatra and Borneo;Java
+,Nepal,Cat 1,Viperidae,Trimeresurus albolabris,Sumatra and Java;Java and Lesser Sunda Islands;Sumatra and Borneo;Java
+,Nepal,Cat 1,Viperidae,Daboia siamensis,Sumatra and Java;Java and Lesser Sunda Islands;Sumatra and Borneo;Java
+,Nepal,Cat 2,Elapidae,Bungarus fasciatus,"Sumatra and Borneo;Sumatra, Borneo & Java;Sumatra"
+,Nepal,Cat 2,Elapidae,Bungarus flaviceps,"Sumatra and Borneo;Sumatra, Borneo & Java;Sumatra"
+,Nepal,Cat 2,Elapidae,Calliophis bivirgatus,"Sumatra and Borneo;Sumatra, Borneo & Java;Sumatra"
+,Nepal,Cat 2,Elapidae,Calliophis intestinalis,"Sumatra and Borneo;Sumatra, Borneo & Java;Sumatra"
+,Nepal,Cat 2,Elapidae,Ophiophagus hannah,"Sumatra and Borneo;Sumatra, Borneo & Java;Sumatra"
+,Nepal,Cat 2,Viperidae,Trimeresurus insularis,"Sumatra and Borneo;Sumatra, Borneo & Java;Sumatra"
+,Nepal,Cat 2,Viperidae,Trimeresurus purpureomaculatus,"Sumatra and Borneo;Sumatra, Borneo & Java;Sumatra"
+,Nepal,Cat 2,Viperidae,Trimeresurus sumatranus,"Sumatra and Borneo;Sumatra, Borneo & Java;Sumatra"
+,Nepal,Cat 1,Elapidae,Bungarus candidus,north;south and east
+,Nepal,Cat 1,Elapidae,Bungarus multicinctus,north;south and east
+,Nepal,Cat 1,Elapidae,Naja atra,north;south and east
+,Nepal,Cat 1,Elapidae,Naja siamensis,north;south and east
+,Nepal,Cat 1,Viperidae,Calloselasma rhodostoma,north;south and east
+,Nepal,Cat 1,Viperidae,Trimeresurus albolabris,north;south and east
+,Nepal,Cat 2,Elapidae,Bungarus fasciatus,south and east
+,Nepal,Cat 2,Elapidae,Naja kaouthia,south and east
+,Nepal,Cat 2,Elapidae,Ophiophagus hannah,south and east
+,Nepal,Cat 2,Viperidae,Trimeresurus macrops,south and east
+,Nepal,Cat 2,Viperidae,Protobothrops jerdonii,south and east
+,Nepal,Cat 2,Viperidae,Protobothrops mucrosquamatus,south and east
+,Malaysia,Cat 1,Elapidae,Bungarus candidus,"Peninsular Malaysia;northern Peninsular Malaysia;Peninsular Malaysia, Sabah and Sarawak"
+,Malaysia,Cat 1,Elapidae,Naja kaouthia,"Peninsular Malaysia;northern Peninsular Malaysia;Peninsular Malaysia, Sabah and Sarawak"
+,Malaysia,Cat 1,Elapidae,Naja sumatrana,"Peninsular Malaysia;northern Peninsular Malaysia;Peninsular Malaysia, Sabah and Sarawak"
+,Malaysia,Cat 1,Viperidae,Calloselasma rhodostoma,"Peninsular Malaysia;northern Peninsular Malaysia;Peninsular Malaysia, Sabah and Sarawak"
+,Malaysia,Cat 2,Elapidae,Bungarus fasciatus,
+,Malaysia,Cat 2,Elapidae,Bungarus flaviceps,
+,Malaysia,Cat 2,Elapidae,Calliophis bivirgatus,
+,Malaysia,Cat 2,Elapidae,Calliophis intestinalis,
+,Malaysia,Cat 2,Elapidae,Ophiophagus hannah,
+,Malaysia,Cat 2,Viperidae,Trimeresurus purpureomaculatus,
+,Malaysia,Cat 2,Viperidae,Trimeresurus hageni,
+,Malaysia,Cat 2,Viperidae,Tropidolaemus subannulatus,
+,Myanmar,Cat 1,Elapidae,Bungarus magnimaculatus,
+,Myanmar,Cat 1,Elapidae,Bungarus multicinctus,
+,Myanmar,Cat 1,Elapidae,Naja kaouthia,
+,Myanmar,Cat 1,Elapidae,Naja mandalayensis,
+,Myanmar,Cat 1,Viperidae,Trimeresurus albolabris,
+,Myanmar,Cat 1,Viperidae,Trimeresurus erythrurus,
+,Myanmar,Cat 1,Viperidae,Daboia siamensis,
+,Myanmar,Cat 2,Elapidae,Bungarus bungaroides,Chin State;Thaninthayi Div.;east Shan State;Thaninthayi Div.;Kachin
+,Myanmar,Cat 2,Elapidae,Bungarus candidus,Chin State;Thaninthayi Div.;east Shan State;Thaninthayi Div.;Kachin
+,Myanmar,Cat 2,Elapidae,Bungarus flaviceps,Chin State;Thaninthayi Div.;east Shan State;Thaninthayi Div.;Kachin
+,Myanmar,Cat 2,Elapidae,Bungarus niger,Chin State;Thaninthayi Div.;east Shan State;Thaninthayi Div.;Kachin
+,Myanmar,Cat 2,Elapidae,Ophiophagus hannah,Chin State;Thaninthayi Div.;east Shan State;Thaninthayi Div.;Kachin
+,Myanmar,Cat 2,Viperidae,Calloselasma rhodostoma,Chin State;Thaninthayi Div.;east Shan State;Thaninthayi Div.;Kachin
+,Myanmar,Cat 2,Viperidae,Trimeresurus purpureomaculatus,Chin State;Thaninthayi Div.;east Shan State;Thaninthayi Div.;Kachin
+,Myanmar,Cat 2,Viperidae,Protobothrops jerdonii,Chin State;Thaninthayi Div.;east Shan State;Thaninthayi Div.;Kachin
+,Myanmar,Cat 2,Viperidae,Protobothrops kaulbacki,Chin State;Thaninthayi Div.;east Shan State;Thaninthayi Div.;Kachin
+,Myanmar,Cat 2,Viperidae,Protobothrops mucrosquamatus,Chin State;Thaninthayi Div.;east Shan State;Thaninthayi Div.;Kachin
+,Philippines,Cat 1,Elapidae,Naja philippinensis,Luzon;Mindanao;Palawan
+,Philippines,Cat 1,Elapidae,Naja samarensis,Luzon;Mindanao;Palawan
+,Philippines,Cat 1,Elapidae,Naja sumatrana,Luzon;Mindanao;Palawan
+,Philippines,Cat 2,Elapidae,Calliophis intestinalis,
+,Philippines,Cat 2,Elapidae,Ophiophagus hannah,
+,Philippines,Cat 2,Viperidae,Trimeresurus flavomaculatus,
+,Philippines,Cat 2,Viperidae,Tropidolaemus philippensis,
+,Philippines,Cat 2,Viperidae,Tropidolaemus subannulatus,
+,Singapore,Cat 1,Elapidae,Bungarus candidus,
+,Singapore,Cat 1,Elapidae,Naja sumatrana,
+,Singapore,Cat 2,Elapidae,Bungarus fasciatus,
+,Singapore,Cat 2,Elapidae,Calliophis bivirgatus,
+,Singapore,Cat 2,Elapidae,Calliophis intestinalis,
+,Singapore,Cat 2,Elapidae,Ophiopahgus hannah,
+,Singapore,Cat 1,Elapidae,Bungarus candidus,
+,Singapore,Cat 1,Elapidae,Naja kaouthia,
+,Singapore,Cat 1,Elapidae,Naja siamensis,
+,Singapore,Cat 1,Viperidae,Calloselasma rhodostoma,
+,Singapore,Cat 1,Viperidae,Trimeresurus albolabris,
+,Singapore,Cat 1,Viperidae,Daboia siamensis,
+,Singapore,Cat 2,Elapidae,Bungarus fasciatus,
+,Singapore,Cat 2,Elapidae,Bungarus flaviceps,
+,Singapore,Cat 2,Elapidae,Calliophis bivirgatus,
+,Singapore,Cat 2,Elapidae,Calliophis intestinalis,
+,Singapore,Cat 2,Elapidae,Naja sumatrana,
+,Singapore,Cat 2,Elapidae,Ophiophagus hannah,
+,Singapore,Cat 2,Viperidae,Trimeresurus macrops,
+,Singapore,Cat 1,Viperidae,Trimeresurus insularis,
+,Singapore,Cat 1,Elapidae,Bungarus candidus,north;north;south;throughout
+,Singapore,Cat 1,Elapidae,Bungarus multicinctus,north;north;south;throughout
+,Singapore,Cat 1,Elapidae,Bungarus slowinskii,north;north;south;throughout
+,Singapore,Cat 1,Elapidae,Naja atra,north;north;south;throughout
+,Singapore,Cat 1,Elapidae,Naja kaouthia,north;north;south;throughout
+,Singapore,Cat 1,Viperidae,Calloselasma rhodostoma,north;north;south;throughout
+,Singapore,Cat 1,Viperidae,Trimeresurus albolabris,north;north;south;throughout
+,Singapore,Cat 2,Elapidae,Bungarus fasciatus,south;south;north;including Pacific Islands;Ogmodon vitianus;Salomonelaps par; Loveridgelaps elapoides and Parapistocalamus hedigeri
+,Singapore,Cat 2,Elapidae,Bungarus flaviceps,south;south;north;including Pacific Islands;Ogmodon vitianus;Salomonelaps par; Loveridgelaps elapoides and Parapistocalamus hedigeri
+,Singapore,Cat 2,Elapidae,Naja siamensis,south;south;north;including Pacific Islands;Ogmodon vitianus;Salomonelaps par; Loveridgelaps elapoides and Parapistocalamus hedigeri
+,Singapore,Cat 2,Elapidae,Ophiophagus hannah,south;south;north;including Pacific Islands;Ogmodon vitianus;Salomonelaps par; Loveridgelaps elapoides and Parapistocalamus hedigeri
+,Singapore,Cat 2,Viperidae,Trimeresurus rubeus,south;south;north;including Pacific Islands;Ogmodon vitianus;Salomonelaps par; Loveridgelaps elapoides and Parapistocalamus hedigeri
+,Singapore,Cat 2,Viperidae,Protobothrops jerdonii,south;south;north;including Pacific Islands;Ogmodon vitianus;Salomonelaps par; Loveridgelaps elapoides and Parapistocalamus hedigeri
+,Singapore,Cat 2,Viperidae,Protobothrops mucrosquamatus,south;south;north;including Pacific Islands;Ogmodon vitianus;Salomonelaps par; Loveridgelaps elapoides and Parapistocalamus hedigeri
+,Singapore,Cat 2,Viperidae,Trimeresurus stejnegeri,south;south;north;including Pacific Islands;Ogmodon vitianus;Salomonelaps par; Loveridgelaps elapoides and Parapistocalamus hedigeri
+,Singapore,Cat 1,Elapidae,Notechis scutatus,
+,Singapore,Cat 1,Elapidae,Pseudechis australis,
+,Singapore,Cat 1,Elapidae,Pseudonaja mengdeni,
+,Singapore,Cat 1,Elapidae,Pseudonaja nuchalis,
+,Singapore,Cat 1,Elapidae,Pseudonaja textilis,
+,Singapore,Cat 2,Elapidae,Acanthophis antarcticus,
+,Singapore,Cat 2,Elapidae,Acanthophis cryptamydros,
+,Singapore,Cat 2,Elapidae,Acanthophis spp,
+,Singapore,Cat 2,Elapidae,Austrelaps spp,
+,Singapore,Cat 2,Elapidae,Hoplocephalus spp,
+,Singapore,Cat 2,Elapidae,Oxyuranus microlepidotus,
+,Singapore,Cat 2,Elapidae,Oxyuranus scutellatus,
+,Singapore,Cat 2,Elapidae,Oxyuranus temporalis,
+,Singapore,Cat 2,Elapidae,Pseudechis spp,
+,Singapore,Cat 2,Elapidae,Pseudonaja aspidorhyncha,
+,Singapore,Cat 2,Elapidae,Pseudonaja spp,
+,Indonesia (West Papua and Maluku),Cat 1,Elapidae,Acanthophis laevis,
+,Indonesia (West Papua and Maluku),Cat 2,Elapidae,Acanthophis rugosus,
+,Indonesia (West Papua and Maluku),Cat 2,Elapidae,Micropechis ikaheka,
+,Indonesia (West Papua and Maluku),Cat 2,Elapidae,Oxyuranus scutellatus,
+,Indonesia (West Papua and Maluku),Cat 2,Elapidae,Pseudechis papuanus,
+,Indonesia (West Papua and Maluku),Cat 2,Elapidae,Pseudechis rossignolii,
+,Indonesia (West Papua and Maluku),Cat 2,Elapidae,Pseudonaja textilis,
+,Papua New Guinea,Cat 1,Elapidae,Acanthophis laevis,
+,Papua New Guinea,Cat 1,Elapidae,Oxyuranus scutellatus,
+,Papua New Guinea,Cat 2,Elapidae,Acanthophis rugosus,
+,Papua New Guinea,Cat 2,Elapidae,Micropechis ikaheka,
+,Papua New Guinea,Cat 2,Elapidae,Pseudonaja textilis,
+,Papua New Guinea,Cat 2,Elapidae,Pseudechis papuanus,
+,Republic of Macedonia,Cat 1,Viperidae,Vipera ammodytes,
+,Republic of Macedonia,Cat 2,Viperidae,Vipera berus,
+,Bosnia and Herzegovina,Cat 1,Viperidae,Vipera ammodytes,
+,Bosnia and Herzegovina,Cat 2,Viperidae,Vipera berus,
+,Croatia,Cat 1,Viperidae,Vipera ammodytes,
+,Croatia,Cat 2,Viperidae,Vipera berus,
+,Czechia,Cat 2,Viperidae,Vipera berus,
+,Greece,Cat 1,Viperidae,Vipera ammodytes,
+,Greece,Cat 2,Viperidae,Macrovipera schweizeri,
+,Greece,Cat 2,Viperidae,Montivipera xanthina,
+,Greece,Cat 2,Viperidae,Vipera berus,Moldova
+,Greece,Cat 1,Viperidae,Vipera berus,
+,Greece,Cat 2,Viperidae,Gloydius halys,far-east Russia;Dagestan
+,Greece,Cat 2,Viperidae,Gloydius intermedius,far-east Russia;Dagestan
+,Greece,Cat 2,Viperidae,Gloydius ussuriensis,far-east Russia;Dagestan
+,Greece,Cat 2,Viperidae,Macrovipera lebetina,far-east Russia;Dagestan
+,Greece,Cat 2,Viperidae,Vipera nikolskii,far-east Russia;Dagestan
+,Greece,Cat 2,Viperidae,Vipera renardi,far-east Russia;Dagestan
+,Greece,Cat 2,Viperidae,Vipera berus,
+,Greece,Cat 2,Viperidae,Vipera nikolskii,
+,Greece,Cat 2,Viperidae,Vipera ammodytes,
+,Greece,Cat 2,Viperidae,Vipera berus,
+,Denmark,Cat 2,Viperidae,Vipera berus,
+,Finland,Cat 2,Viperidae,Vipera berus,
+,France,Cat 1,Viperidae,Vipera aspis,
+,France,Cat 2,Viperidae,Vipera berus,
+,Germany,Cat 2,Viperidae,Vipera berus,
+,Italy,Cat 1,Viperidae,Vipera aspis,
+,Italy,Cat 2,Viperidae,Vipera ammodytes,
+,Italy,Cat 2,Viperidae,Vipera berus,
+,Norway,Cat 2,Viperidae,Vipera berus,
+,Portugal,Cat 2,Viperidae,Vipera latastei,
+,Portugal,Cat 2,Viperidae,Vipera seoanei,
+,Spain,Cat 2,Viperidae,Vipera aspis,
+,Spain,Cat 2,Viperidae,Vipera latastei,
+,Spain,Cat 1,Viperidae,Vipera berus,
+,Spain,Cat 2,Viperidae,Vipera aspis,
+,Spain,Cat 1,Viperidae,Vipera berus,not Northern Ireland
+,Spain,Cat 2,Viperidae,Crotalus oreganus,
+,Spain,Cat 2,Viperidae,Crotalus viridis,
+,Spain,Cat 1,Viperidae,Agkistrodon bilineatus,
+,Spain,Cat 1,Viperidae,Agkistrodon taylori,
+,Spain,Cat 1,Viperidae,Crotalus atrox,
+,Spain,Cat 1,Viperidae,Crotalus scutulatus,
+,Spain,Cat 1,Viperidae,Crotalus simus,
+,Spain,Cat 1,Viperidae,Crotalus molossus,
+,Spain,Cat 1,Viperidae,Bothrops asper,
+,Spain,Cat 2,Elapidae,Micruroides euryxanthus,
+,Spain,Cat 2,Elapidae,Micrurus nigrocinctus,
+,Spain,Cat 2,Elapidae,Micrurus tener,
+,Spain,Cat 2,Elapidae,Micrurus spp,
+,Spain,Cat 2,Viperidae,Agkistrodon contortrix,
+,Spain,Cat 2,Viperidae,Agkistrodon russeolus,
+,Spain,Cat 2,Viperidae,Atropoides mexicanus,
+,Spain,Cat 2,Viperidae,Atropoides occiduus,
+,Spain,Cat 2,Viperidae,Atropoides spp,
+,Spain,Cat 2,Viperidae,Bothriechis schlegelii,
+,Spain,Cat 2,Viperidae,Bothriechis spp,
+,Spain,Cat 2,Viperidae,Cerrophidion godmani,
+,Spain,Cat 2,Viperidae,Cerrophidion spp,
+,Spain,Cat 2,Viperidae,Crotalus basiliscus,
+,Spain,Cat 2,Viperidae,Crotalus totonacus,
+,Spain,Cat 2,Viperidae,Crotalus oreganus,
+,Spain,Cat 2,Viperidae,Crotalus ruber,
+,Spain,Cat 2,Viperidae,Crotalus tzabcan,
+,Spain,Cat 2,Viperidae,Crotalus viridis,
+,Spain,Cat 2,Viperidae,Crotalus spp,
+,Spain,Cat 2,Viperidae,Ophryacus spp,
+,Spain,Cat 2,Viperidae,Porthidium nasutum,
+,Spain,Cat 2,Viperidae,Porthidium spp,
+,Spain,Cat 1,Viperidae,Agkistrodon contortrix,
+,Spain,Cat 1,Viperidae,Agkistrodon piscivorus,
+,Spain,Cat 1,Viperidae,Crotalus adamanteus,
+,Spain,Cat 1,Viperidae,Crotalus atrox,
+,Spain,Cat 1,Viperidae,Crotalus horridus,
+,Spain,Cat 1,Viperidae,Crotalus oreganus,
+,Spain,Cat 1,Viperidae,Crotalus scutulatus,
+,Spain,Cat 1,Viperidae,Crotalus viridis,
+,Spain,Cat 2,Elapidae,Micrurus fulvius,
+,Spain,Cat 2,Elapidae,Micrurus tener,
+,Spain,Cat 2,Viperidae,Crotalus molossus,
+,Spain,Cat 2,Viperidae,Crotalus ornatus,
+,Spain,Cat 2,Viperidae,Crotalus ruber,
+,Spain,Cat 2,Viperidae,Crotalus spp,
+,Spain,Cat 2,Viperidae,Sistrurus catenatus,
+,Belize,Cat 1,Viperidae,Bothrops asper,
+,Belize,Cat 2,Elapidae,Micrurus spp,
+,Belize,Cat 2,Viperidae,Agkistrodon russeolus,
+,Belize,Cat 2,Viperidae,Atropoides mexicanus,
+,Belize,Cat 2,Viperidae,Bothriechis schlegelii,
+,Belize,Cat 2,Viperidae,Crotalus tzabcan,
+,Belize,Cat 2,Viperidae,Porthidium nasutum,
+,Costa Rica,Cat 1,Viperidae,Bothrops asper,
+,Costa Rica,Cat 1,Viperidae,Crotalus simus,
+,Costa Rica,Cat 2,Elapidae,Micrurus nigrocinctus,
+,Costa Rica,Cat 2,Elapidae,Micrurus spp,
+,Costa Rica,Cat 2,Viperidae,Agkistrodon howardgloydi,
+,Costa Rica,Cat 2,Viperidae,Atropoides mexicanus,
+,Costa Rica,Cat 2,Viperidae,Atropoides picadoi,
+,Costa Rica,Cat 2,Viperidae,Bothriechis schlegelii,
+,Costa Rica,Cat 2,Viperidae,Bothriechis lateralis,
+,Costa Rica,Cat 2,Viperidae,Bothriechis spp,
+,Costa Rica,Cat 2,Viperidae,Cerrophidion sasai,
+,Costa Rica,Cat 2,Viperidae,Lachesis melanocephala,
+,Costa Rica,Cat 2,Viperidae,Lachesis stenophrys,
+,Costa Rica,Cat 2,Viperidae,Porthidium nasutum,
+,Costa Rica,Cat 2,Viperidae,Porthidium ophrymegas,
+,Costa Rica,Cat 2,Viperidae,Porthidium spp,
+,El Salvador,Cat 1,Viperidae,Crotalus simus,
+,El Salvador,Cat 2,Elapidae,Micrurus nigrocinctus,
+,El Salvador,Cat 2,Elapidae,Micrurus spp,
+,El Salvador,Cat 2,Viperidae,Agkistrodon bilineatus,
+,El Salvador,Cat 2,Viperidae,Atropoides occiduus,
+,El Salvador,Cat 2,Viperidae,Bothriechis spp,
+,El Salvador,Cat 2,Viperidae,Cerrophidion wilsoni,
+,El Salvador,Cat 2,Viperidae,Porthidium ophryomegas,
+,Guatemala,Cat 1,Viperidae,Bothrops asper,
+,Guatemala,Cat 1,Viperidae,Crotalus simus,
+,Guatemala,Cat 2,Elapidae,Micrurus nigrocinctus,
+,Guatemala,Cat 2,Elapidae,Micrurus spp,
+,Guatemala,Cat 2,Viperidae,Agkistrodon bilineatus,
+,Guatemala,Cat 2,Viperidae,Agkistrodon russeolus,
+,Guatemala,Cat 2,Viperidae,Atropoides mexicanus,
+,Guatemala,Cat 2,Viperidae,Atropoides occiduus,
+,Guatemala,Cat 2,Viperidae,Bothriechis schlegelii,
+,Guatemala,Cat 2,Viperidae,Bothriechis spp,
+,Guatemala,Cat 2,Viperidae,Cerrophidion godmani,
+,Guatemala,Cat 2,Viperidae,Crotalus tzabcan,
+,Guatemala,Cat 2,Viperidae,Porthidium nasutum,
+,Guatemala,Cat 2,Viperidae,Porthidium ophryomegas,
+,Honduras,Cat 1,Viperidae,Bothrops asper,
+,Honduras,Cat 2,Elapidae,Micrurus nigrocinctus,
+,Honduras,Cat 2,Elapidae,Micrurus spp,
+,Honduras,Cat 2,Viperidae,Agkistrodon howardgloydi,
+,Honduras,Cat 2,Viperidae,Atropoides mexicanus,
+,Honduras,Cat 2,Viperidae,Atropoides spp,
+,Honduras,Cat 2,Viperidae,Bothriechis marchi,
+,Honduras,Cat 2,Viperidae,Bothriechis schlegelii,
+,Honduras,Cat 2,Viperidae,Bothriechis spp,
+,Honduras,Cat 2,Viperidae,Cerrophidion wilsoni,
+,Honduras,Cat 2,Viperidae,Crotalus simus,
+,Honduras,Cat 2,Viperidae,Porthidium nasutum,
+,Honduras,Cat 1,Viperidae,Bothrops asper,
+,Honduras,Cat 1,Viperidae,Crotalus simus,
+,Honduras,Cat 2,Elapidae,Micrurus nigrocinctus,
+,Honduras,Cat 2,Elapidae,Micrurus spp,
+,Honduras,Cat 2,Viperidae,Agkistrodon howardgloydi,
+,Honduras,Cat 2,Viperidae,Atropoides mexicanus,
+,Honduras,Cat 2,Viperidae,Bothriechis schlegelii,
+,Honduras,Cat 2,Viperidae,Cerrophidion godmani,
+,Honduras,Cat 2,Viperidae,Lachesis stenophrys,
+,Honduras,Cat 2,Viperidae,Porthidium nasutum,
+,Honduras,Cat 1,Viperidae,Bothrops asper,
+,Honduras,Cat 2,Elapidae,Micrurus mipartitus,
+,Honduras,Cat 2,Elapidae,Micrurus nigrocinctus,
+,Honduras,Cat 2,Elapidae,Micrurus spp,
+,Honduras,Cat 2,Viperidae,Atropoides mexicanus,
+,Honduras,Cat 2,Viperidae,Atropoides spp,
+,Honduras,Cat 2,Viperidae,Bothriechis lateralis,
+,Honduras,Cat 2,Viperidae,Bothriechis schlegelii,
+,Honduras,Cat 2,Viperidae,Bothriechis spp,
+,Honduras,Cat 2,Viperidae,Cerrophidion sasai,
+,Honduras,Cat 2,Viperidae,Lachesis acrochorda,
+,Honduras,Cat 2,Viperidae,Lachesis stenophrys,
+,Honduras,Cat 2,Viperidae,Porthidium nasutum,
+,Honduras,Cat 2,Viperidae,Porthidium lansbergii,
+,Honduras,Cat 1,Viperidae,Bothrops caribbaeus,Trinidad;St Lucia;Martinique;Aruba
+,Honduras,Cat 1,Viperidae,Bothrops lanceolatus,Trinidad;St Lucia;Martinique;Aruba
+,Honduras,Cat 1,Viperidae,Crotalus durissus,Trinidad;St Lucia;Martinique;Aruba
+,Honduras,Cat 2,Elapidae,Micrurus circinalis,Trinidad;Trinidad;Trinidad
+,Honduras,Cat 2,Elapidae,Micrurus lemniscatus,Trinidad;Trinidad;Trinidad
+,Honduras,Cat 1,Viperidae,Bothrops alternatus,
+,Honduras,Cat 1,Viperidae,Bothrops diporus,
+,Honduras,Cat 1,Viperidae,Crotalus durissus,
+,Honduras,Cat 2,Elapidae,Micrurus corallinus,
+,Honduras,Cat 2,Elapidae,Micrurus lemniscatus,
+,Honduras,Cat 2,Elapidae,Micrurus spp,
+,Honduras,Cat 2,Viperidae,Bothrops ammodytoides,
+,Honduras,Cat 2,Viperidae,Bothrops jararaca,
+,Honduras,Cat 2,Viperidae,Bothrops jararacussu,
+,Honduras,Cat 2,Viperidae,Bothrops mattogrossensis,
+,Honduras,Cat 2,Viperidae,Bothrops neuwiedi,
+,Honduras,Cat 2,Viperidae,Bothrops pubescens,
+,Bolivia (Plurinational State of),Cat 1,Viperidae,Bothrops atrox,
+,Bolivia (Plurinational State of),Cat 1,Viperidae,Bothrops mattogrossensis,
+,Bolivia (Plurinational State of),Cat 1,Viperidae,Crotalus durissus,
+,Bolivia (Plurinational State of),Cat 2,Elapidae,Micrurus lemniscatus,
+,Bolivia (Plurinational State of),Cat 2,Elapidae,Micrurus spixii,
+,Bolivia (Plurinational State of),Cat 2,Elapidae,Micrurus surinamensis,
+,Bolivia (Plurinational State of),Cat 2,Elapidae,Micrurus spp,
+,Bolivia (Plurinational State of),Cat 2,Viperidae,Bothrocophias hyoprora,
+,Bolivia (Plurinational State of),Cat 2,Viperidae,Bothrocophias microphthalmus,
+,Bolivia (Plurinational State of),Cat 2,Viperidae,Bothrops bilineatus,
+,Bolivia (Plurinational State of),Cat 2,Viperidae,Bothrops brazili,
+,Bolivia (Plurinational State of),Cat 2,Viperidae,Bothrops jararacussu,
+,Bolivia (Plurinational State of),Cat 2,Viperidae,Bothrops jonathani,
+,Bolivia (Plurinational State of),Cat 2,Viperidae,Bothrops moojeni,
+,Bolivia (Plurinational State of),Cat 2,Viperidae,Bothrops sanctaecrucis,
+,Bolivia (Plurinational State of),Cat 2,Viperidae,Bothrops spp,
+,Bolivia (Plurinational State of),Cat 2,Viperidae,Bothrops taeniatus,
+,Bolivia (Plurinational State of),Cat 2,Viperidae,Lachesis muta,
+,Brazil,Cat 1,Viperidae,Bothrops atrox,
+,Brazil,Cat 1,Viperidae,Bothrops jararaca,
+,Brazil,Cat 1,Viperidae,Bothrops jararacussu,
+,Brazil,Cat 1,Viperidae,Bothrops leucurus,
+,Brazil,Cat 1,Viperidae,Bothrops moojeni,
+,Brazil,Cat 1,Viperidae,Crotalus durissus,
+,Brazil,Cat 2,Elapidae,Micrurus corallinus,
+,Brazil,Cat 2,Elapidae,Micrurus lemniscatus,
+,Brazil,Cat 2,Elapidae,Micrurus spixii,
+,Brazil,Cat 2,Elapidae,Micrurus surinamensis,
+,Brazil,Cat 2,Elapidae,Micrurus spp,
+,Brazil,Cat 2,Viperidae,Bothrocophias hyoprora,
+,Brazil,Cat 2,Viperidae,Bothrocophias microphthalmus,
+,Brazil,Cat 2,Viperidae,Bothrops alternatus,
+,Brazil,Cat 2,Viperidae,Bothrops bilineatus,
+,Brazil,Cat 2,Viperidae,Bothrops brazili,
+,Brazil,Cat 2,Viperidae,Bothrops diporus,
+,Brazil,Cat 2,Viperidae,Bothrops mattogrossensis,
+,Brazil,Cat 2,Viperidae,Bothrops neuwiedi,
+,Brazil,Cat 2,Viperidae,Bothrops pubescens,
+,Brazil,Cat 2,Viperidae,Bothrops taeniatus,
+,Brazil,Cat 2,Viperidae,Bothrops spp,
+,Brazil,Cat 2,Viperidae,Lachesis muta,
+,Colombia,Cat 1,Viperidae,Bothrops asper,
+,Colombia,Cat 1,Viperidae,Bothrops atrox,
+,Colombia,Cat 1,Viperidae,Bothrops bilineatus,
+,Colombia,Cat 1,Viperidae,Crotalus durissus,
+,Colombia,Cat 2,Elapidae,Micrurus lemniscatus,
+,Colombia,Cat 2,Elapidae,Micrurus mipartitus,
+,Colombia,Cat 2,Elapidae,Micrurus nigrocinctus,
+,Colombia,Cat 2,Elapidae,Micrurus spixii,
+,Colombia,Cat 2,Elapidae,Micrurus surinamensis,
+,Colombia,Cat 2,Elapidae,Micrurus spp,
+,Colombia,Cat 2,Viperidae,Bothriechis schlegelii,
+,Colombia,Cat 2,Viperidae,Bothrocophias hyoprora,
+,Colombia,Cat 2,Viperidae,Bothrocophias microphthalmus,
+,Colombia,Cat 2,Viperidae,Bothrocophias spp,
+,Colombia,Cat 2,Viperidae,Bothrops brazili,
+,Colombia,Cat 2,Viperidae,Bothrops taeniatus,
+,Colombia,Cat 2,Viperidae,Bothrops spp,
+,Colombia,Cat 2,Viperidae,Lachesis acrochorda,
+,Colombia,Cat 2,Viperidae,Lachesis muta,
+,Colombia,Cat 2,Viperidae,Porthidium nasutum,
+,Colombia,Cat 2,Viperidae,Porthidium lansbergii,
+,Ecuador,Cat 1,Viperidae,Bothrops asper,
+,Ecuador,Cat 1,Viperidae,Bothrops atrox,
+,Ecuador,Cat 1,Viperidae,Bothrops bilineatus,
+,Ecuador,Cat 1,Viperidae,Lachesis muta,
+,Ecuador,Cat 2,Elapidae,Micrurus lemniscatus,
+,Ecuador,Cat 2,Elapidae,Micrurus mipartitus,
+,Ecuador,Cat 2,Elapidae,Micrurus spixii,
+,Ecuador,Cat 2,Elapidae,Micrurus surinamensis,
+,Ecuador,Cat 2,Elapidae,Micrurus spp,
+,Ecuador,Cat 2,Viperidae,Bothriechis schlegelii,
+,Ecuador,Cat 2,Viperidae,Bothrocophias hyoprora,
+,Ecuador,Cat 2,Viperidae,Bothrocophias microphthalmus,
+,Ecuador,Cat 2,Viperidae,Bothrocophias spp,
+,Ecuador,Cat 2,Viperidae,Bothrops brazili,
+,Ecuador,Cat 2,Viperidae,Bothrops taeniatus,
+,Ecuador,Cat 2,Viperidae,Bothrops spp,
+,Ecuador,Cat 2,Viperidae,Lachesis acrochorda,
+,Ecuador,Cat 2,Viperidae,Porthidium nasutum,
+,Ecuador,Cat 2,Viperidae,Porthidium spp,
+,French Guiana (France),Cat 1,Viperidae,Bothrops atrox,
+,French Guiana (France),Cat 1,Viperidae,Bothrops bilineatus,
+,French Guiana (France),Cat 1,Viperidae,Crotalus durissus,
+,French Guiana (France),Cat 2,Elapidae,Micrurus lemniscatus,
+,French Guiana (France),Cat 2,Elapidae,Micrurus surinamensis,
+,French Guiana (France),Cat 2,Elapidae,Micrurus spp,
+,French Guiana (France),Cat 2,Viperidae,Bothrops brazili,
+,French Guiana (France),Cat 2,Viperidae,Bothrops taeniatus,
+,French Guiana (France),Cat 1,Viperidae,Bothrops atrox,
+,French Guiana (France),Cat 1,Viperidae,Bothrops bilineatus,
+,French Guiana (France),Cat 1,Viperidae,Crotalus durissus,
+,French Guiana (France),Cat 2,Elapidae,Micrurus lemniscatus,
+,French Guiana (France),Cat 2,Elapidae,Micrurus surinamensis,
+,French Guiana (France),Cat 2,Elapidae,Micrurus spp,
+,French Guiana (France),Cat 2,Viperidae,Bothrops brazili,
+,French Guiana (France),Cat 2,Viperidae,Bothrops taeniatus,
+,French Guiana (France),Cat 1,Viperidae,Bothrops alternatus,
+,French Guiana (France),Cat 1,Viperidae,Crotalus durissus,
+,French Guiana (France),Cat 2,Elapidae,Micrurus corallinus,
+,French Guiana (France),Cat 2,Elapidae,Micrurus lemniscatus,
+,French Guiana (France),Cat 2,Elapidae,Micrurus spixii,
+,French Guiana (France),Cat 2,Elapidae,Micrurus spp,
+,French Guiana (France),Cat 2,Viperidae,Bothrops diporus,
+,French Guiana (France),Cat 2,Viperidae,Bothrops jararaca,
+,French Guiana (France),Cat 2,Viperidae,Bothrops jararacussu,
+,French Guiana (France),Cat 2,Viperidae,Bothrops mattogrossensis,
+,French Guiana (France),Cat 2,Viperidae,Bothrops moojeni,
+,French Guiana (France),Cat 2,Viperidae,Bothrops neuwiedi,
+,French Guiana (France),Cat 1,Viperidae,Bothrops atrox,
+,French Guiana (France),Cat 1,Viperidae,Bothrops bilineatus,
+,French Guiana (France),Cat 1,Viperidae,Bothrops pictus,
+,French Guiana (France),Cat 1,Viperidae,Crotalus durissus,
+,French Guiana (France),Cat 1,Viperidae,Lachesis muta,
+,French Guiana (France),Cat 2,Elapidae,Micrurus lemniscatus,
+,French Guiana (France),Cat 2,Elapidae,Micrurus mipartitus,
+,French Guiana (France),Cat 2,Elapidae,Micrurus spixii,
+,French Guiana (France),Cat 2,Elapidae,Micrurus surinamensis,
+,French Guiana (France),Cat 2,Elapidae,Micrurus spp,
+,French Guiana (France),Cat 2,Viperidae,Bothriechis schlegelii,
+,French Guiana (France),Cat 2,Viperidae,Bothrocophias hyoprora,
+,French Guiana (France),Cat 2,Viperidae,Bothrocophias microphthalmus,
+,French Guiana (France),Cat 2,Viperidae,Bothrops asper,
+,French Guiana (France),Cat 2,Viperidae,Bothrops brazili,
+,French Guiana (France),Cat 2,Viperidae,Bothrops mattogrossensis,
+,French Guiana (France),Cat 2,Viperidae,Bothrops taeniatus,
+,French Guiana (France),Cat 1,Viperidae,Bothrops atrox,
+,French Guiana (France),Cat 1,Viperidae,Bothrops bilineatus,
+,French Guiana (France),Cat 1,Viperidae,Crotalus durissus,
+,French Guiana (France),Cat 2,Elapidae,Micrurus lemniscatus,
+,French Guiana (France),Cat 2,Elapidae,Micrurus surinamensis,
+,French Guiana (France),Cat 2,Elapidae,Micrurus spp,
+,French Guiana (France),Cat 2,Viperidae,Bothrops brazili,
+,French Guiana (France),Cat 2,Viperidae,Bothrops taeniatus,
+,French Guiana (France),Cat 1,Viperidae,Bothrops alternatus,
+,French Guiana (France),Cat 1,Viperidae,Bothrops pubescens,
+,French Guiana (France),Cat 2,Elapidae,Micrurus corallinus,Bolivarian Republic of
+,French Guiana (France),Cat 2,Elapidae,Micrurus spp,Bolivarian Republic of
+,French Guiana (France),Cat 1,Viperidae,Bothrops atrox,including Isla de Margarita
+,French Guiana (France),Cat 1,Viperidae,Bothrops venezuelensis,including Isla de Margarita
+,French Guiana (France),Cat 1,Viperidae,Crotalus durissus,including Isla de Margarita
+,French Guiana (France),Cat 2,Elapidae,Micrurus circinalis,"Reptilia, Elapidae, Bungarinae;4;Crotalus molossus Baird and Girard, 1853;1;Viperidae;Ophidia: Viperidae;Serpentes, Colubridae;Serpentes: Colubridae: Dispholidini;MALDI-TOF-MS;NY;type species;Reptilia: Squamata: Viperidae;Serpentes: Viperidae;1;Serpentes: Viperidae: Crotalinae;Squamata: Viperidae: Crotalinae;Reptilia: Viperidae;Reptilia: Viperidae;Acanthophis: Serpentes: Elapidae;3;Squamata: Viperidae: Hypnale;Trimeresurus and Ovophis;Ophidia: Elapidae;Squamata: Viperidae;1;Colubroidea;2;3;Crotalus durissus complex;Daboia russelii;Serpentes: Viperidae: Crotalinae;Boie, 1827;Duméril, Bibron and Duméril;Serpentes: Elapidae: Hydrophiinae;Serpentes: Elapidae: Acanthophis, Oxyuranus and Pseudechis;Serpentes: Elapidae: Naja;Squamata: Serpentes: Elapidae: Naja;Serpentes: Viperidae;Serpentes: Elapidae;Symposia of the Zoological Society of London, No. 70;Serpentes: Elapidae: Naja nigricollis complex;es;if any;if applicable;intact IgG, fragments;if applicable;if used;if applicable;freeze-dried product;if used;typed"
+,French Guiana (France),Cat 2,Elapidae,Micrurus lemniscatus,"Reptilia, Elapidae, Bungarinae;4;Crotalus molossus Baird and Girard, 1853;1;Viperidae;Ophidia: Viperidae;Serpentes, Colubridae;Serpentes: Colubridae: Dispholidini;MALDI-TOF-MS;NY;type species;Reptilia: Squamata: Viperidae;Serpentes: Viperidae;1;Serpentes: Viperidae: Crotalinae;Squamata: Viperidae: Crotalinae;Reptilia: Viperidae;Reptilia: Viperidae;Acanthophis: Serpentes: Elapidae;3;Squamata: Viperidae: Hypnale;Trimeresurus and Ovophis;Ophidia: Elapidae;Squamata: Viperidae;1;Colubroidea;2;3;Crotalus durissus complex;Daboia russelii;Serpentes: Viperidae: Crotalinae;Boie, 1827;Duméril, Bibron and Duméril;Serpentes: Elapidae: Hydrophiinae;Serpentes: Elapidae: Acanthophis, Oxyuranus and Pseudechis;Serpentes: Elapidae: Naja;Squamata: Serpentes: Elapidae: Naja;Serpentes: Viperidae;Serpentes: Elapidae;Symposia of the Zoological Society of London, No. 70;Serpentes: Elapidae: Naja nigricollis complex;es;if any;if applicable;intact IgG, fragments;if applicable;if used;if applicable;freeze-dried product;if used;typed"
+,French Guiana (France),Cat 2,Elapidae,Micrurus mipartitus,"Reptilia, Elapidae, Bungarinae;4;Crotalus molossus Baird and Girard, 1853;1;Viperidae;Ophidia: Viperidae;Serpentes, Colubridae;Serpentes: Colubridae: Dispholidini;MALDI-TOF-MS;NY;type species;Reptilia: Squamata: Viperidae;Serpentes: Viperidae;1;Serpentes: Viperidae: Crotalinae;Squamata: Viperidae: Crotalinae;Reptilia: Viperidae;Reptilia: Viperidae;Acanthophis: Serpentes: Elapidae;3;Squamata: Viperidae: Hypnale;Trimeresurus and Ovophis;Ophidia: Elapidae;Squamata: Viperidae;1;Colubroidea;2;3;Crotalus durissus complex;Daboia russelii;Serpentes: Viperidae: Crotalinae;Boie, 1827;Duméril, Bibron and Duméril;Serpentes: Elapidae: Hydrophiinae;Serpentes: Elapidae: Acanthophis, Oxyuranus and Pseudechis;Serpentes: Elapidae: Naja;Squamata: Serpentes: Elapidae: Naja;Serpentes: Viperidae;Serpentes: Elapidae;Symposia of the Zoological Society of London, No. 70;Serpentes: Elapidae: Naja nigricollis complex;es;if any;if applicable;intact IgG, fragments;if applicable;if used;if applicable;freeze-dried product;if used;typed"
+,French Guiana (France),Cat 2,Elapidae,Micrurus spixii,"Reptilia, Elapidae, Bungarinae;4;Crotalus molossus Baird and Girard, 1853;1;Viperidae;Ophidia: Viperidae;Serpentes, Colubridae;Serpentes: Colubridae: Dispholidini;MALDI-TOF-MS;NY;type species;Reptilia: Squamata: Viperidae;Serpentes: Viperidae;1;Serpentes: Viperidae: Crotalinae;Squamata: Viperidae: Crotalinae;Reptilia: Viperidae;Reptilia: Viperidae;Acanthophis: Serpentes: Elapidae;3;Squamata: Viperidae: Hypnale;Trimeresurus and Ovophis;Ophidia: Elapidae;Squamata: Viperidae;1;Colubroidea;2;3;Crotalus durissus complex;Daboia russelii;Serpentes: Viperidae: Crotalinae;Boie, 1827;Duméril, Bibron and Duméril;Serpentes: Elapidae: Hydrophiinae;Serpentes: Elapidae: Acanthophis, Oxyuranus and Pseudechis;Serpentes: Elapidae: Naja;Squamata: Serpentes: Elapidae: Naja;Serpentes: Viperidae;Serpentes: Elapidae;Symposia of the Zoological Society of London, No. 70;Serpentes: Elapidae: Naja nigricollis complex;es;if any;if applicable;intact IgG, fragments;if applicable;if used;if applicable;freeze-dried product;if used;typed"
+,French Guiana (France),Cat 2,Elapidae,Micrurus surinamensis,"Reptilia, Elapidae, Bungarinae;4;Crotalus molossus Baird and Girard, 1853;1;Viperidae;Ophidia: Viperidae;Serpentes, Colubridae;Serpentes: Colubridae: Dispholidini;MALDI-TOF-MS;NY;type species;Reptilia: Squamata: Viperidae;Serpentes: Viperidae;1;Serpentes: Viperidae: Crotalinae;Squamata: Viperidae: Crotalinae;Reptilia: Viperidae;Reptilia: Viperidae;Acanthophis: Serpentes: Elapidae;3;Squamata: Viperidae: Hypnale;Trimeresurus and Ovophis;Ophidia: Elapidae;Squamata: Viperidae;1;Colubroidea;2;3;Crotalus durissus complex;Daboia russelii;Serpentes: Viperidae: Crotalinae;Boie, 1827;Duméril, Bibron and Duméril;Serpentes: Elapidae: Hydrophiinae;Serpentes: Elapidae: Acanthophis, Oxyuranus and Pseudechis;Serpentes: Elapidae: Naja;Squamata: Serpentes: Elapidae: Naja;Serpentes: Viperidae;Serpentes: Elapidae;Symposia of the Zoological Society of London, No. 70;Serpentes: Elapidae: Naja nigricollis complex;es;if any;if applicable;intact IgG, fragments;if applicable;if used;if applicable;freeze-dried product;if used;typed"
+,French Guiana (France),Cat 2,Elapidae,Micrurus spp,"Reptilia, Elapidae, Bungarinae;4;Crotalus molossus Baird and Girard, 1853;1;Viperidae;Ophidia: Viperidae;Serpentes, Colubridae;Serpentes: Colubridae: Dispholidini;MALDI-TOF-MS;NY;type species;Reptilia: Squamata: Viperidae;Serpentes: Viperidae;1;Serpentes: Viperidae: Crotalinae;Squamata: Viperidae: Crotalinae;Reptilia: Viperidae;Reptilia: Viperidae;Acanthophis: Serpentes: Elapidae;3;Squamata: Viperidae: Hypnale;Trimeresurus and Ovophis;Ophidia: Elapidae;Squamata: Viperidae;1;Colubroidea;2;3;Crotalus durissus complex;Daboia russelii;Serpentes: Viperidae: Crotalinae;Boie, 1827;Duméril, Bibron and Duméril;Serpentes: Elapidae: Hydrophiinae;Serpentes: Elapidae: Acanthophis, Oxyuranus and Pseudechis;Serpentes: Elapidae: Naja;Squamata: Serpentes: Elapidae: Naja;Serpentes: Viperidae;Serpentes: Elapidae;Symposia of the Zoological Society of London, No. 70;Serpentes: Elapidae: Naja nigricollis complex;es;if any;if applicable;intact IgG, fragments;if applicable;if used;if applicable;freeze-dried product;if used;typed"
+,French Guiana (France),Cat 2,Viperidae,Bothriechis schlegelii,"Reptilia, Elapidae, Bungarinae;4;Crotalus molossus Baird and Girard, 1853;1;Viperidae;Ophidia: Viperidae;Serpentes, Colubridae;Serpentes: Colubridae: Dispholidini;MALDI-TOF-MS;NY;type species;Reptilia: Squamata: Viperidae;Serpentes: Viperidae;1;Serpentes: Viperidae: Crotalinae;Squamata: Viperidae: Crotalinae;Reptilia: Viperidae;Reptilia: Viperidae;Acanthophis: Serpentes: Elapidae;3;Squamata: Viperidae: Hypnale;Trimeresurus and Ovophis;Ophidia: Elapidae;Squamata: Viperidae;1;Colubroidea;2;3;Crotalus durissus complex;Daboia russelii;Serpentes: Viperidae: Crotalinae;Boie, 1827;Duméril, Bibron and Duméril;Serpentes: Elapidae: Hydrophiinae;Serpentes: Elapidae: Acanthophis, Oxyuranus and Pseudechis;Serpentes: Elapidae: Naja;Squamata: Serpentes: Elapidae: Naja;Serpentes: Viperidae;Serpentes: Elapidae;Symposia of the Zoological Society of London, No. 70;Serpentes: Elapidae: Naja nigricollis complex;es;if any;if applicable;intact IgG, fragments;if applicable;if used;if applicable;freeze-dried product;if used;typed"
+,French Guiana (France),Cat 2,Viperidae,Bothrops asper,"Reptilia, Elapidae, Bungarinae;4;Crotalus molossus Baird and Girard, 1853;1;Viperidae;Ophidia: Viperidae;Serpentes, Colubridae;Serpentes: Colubridae: Dispholidini;MALDI-TOF-MS;NY;type species;Reptilia: Squamata: Viperidae;Serpentes: Viperidae;1;Serpentes: Viperidae: Crotalinae;Squamata: Viperidae: Crotalinae;Reptilia: Viperidae;Reptilia: Viperidae;Acanthophis: Serpentes: Elapidae;3;Squamata: Viperidae: Hypnale;Trimeresurus and Ovophis;Ophidia: Elapidae;Squamata: Viperidae;1;Colubroidea;2;3;Crotalus durissus complex;Daboia russelii;Serpentes: Viperidae: Crotalinae;Boie, 1827;Duméril, Bibron and Duméril;Serpentes: Elapidae: Hydrophiinae;Serpentes: Elapidae: Acanthophis, Oxyuranus and Pseudechis;Serpentes: Elapidae: Naja;Squamata: Serpentes: Elapidae: Naja;Serpentes: Viperidae;Serpentes: Elapidae;Symposia of the Zoological Society of London, No. 70;Serpentes: Elapidae: Naja nigricollis complex;es;if any;if applicable;intact IgG, fragments;if applicable;if used;if applicable;freeze-dried product;if used;typed"
+,French Guiana (France),Cat 2,Viperidae,Bothrops brazili,"Reptilia, Elapidae, Bungarinae;4;Crotalus molossus Baird and Girard, 1853;1;Viperidae;Ophidia: Viperidae;Serpentes, Colubridae;Serpentes: Colubridae: Dispholidini;MALDI-TOF-MS;NY;type species;Reptilia: Squamata: Viperidae;Serpentes: Viperidae;1;Serpentes: Viperidae: Crotalinae;Squamata: Viperidae: Crotalinae;Reptilia: Viperidae;Reptilia: Viperidae;Acanthophis: Serpentes: Elapidae;3;Squamata: Viperidae: Hypnale;Trimeresurus and Ovophis;Ophidia: Elapidae;Squamata: Viperidae;1;Colubroidea;2;3;Crotalus durissus complex;Daboia russelii;Serpentes: Viperidae: Crotalinae;Boie, 1827;Duméril, Bibron and Duméril;Serpentes: Elapidae: Hydrophiinae;Serpentes: Elapidae: Acanthophis, Oxyuranus and Pseudechis;Serpentes: Elapidae: Naja;Squamata: Serpentes: Elapidae: Naja;Serpentes: Viperidae;Serpentes: Elapidae;Symposia of the Zoological Society of London, No. 70;Serpentes: Elapidae: Naja nigricollis complex;es;if any;if applicable;intact IgG, fragments;if applicable;if used;if applicable;freeze-dried product;if used;typed"
+,French Guiana (France),Cat 2,Viperidae,Bothrops bilineatus,"Reptilia, Elapidae, Bungarinae;4;Crotalus molossus Baird and Girard, 1853;1;Viperidae;Ophidia: Viperidae;Serpentes, Colubridae;Serpentes: Colubridae: Dispholidini;MALDI-TOF-MS;NY;type species;Reptilia: Squamata: Viperidae;Serpentes: Viperidae;1;Serpentes: Viperidae: Crotalinae;Squamata: Viperidae: Crotalinae;Reptilia: Viperidae;Reptilia: Viperidae;Acanthophis: Serpentes: Elapidae;3;Squamata: Viperidae: Hypnale;Trimeresurus and Ovophis;Ophidia: Elapidae;Squamata: Viperidae;1;Colubroidea;2;3;Crotalus durissus complex;Daboia russelii;Serpentes: Viperidae: Crotalinae;Boie, 1827;Duméril, Bibron and Duméril;Serpentes: Elapidae: Hydrophiinae;Serpentes: Elapidae: Acanthophis, Oxyuranus and Pseudechis;Serpentes: Elapidae: Naja;Squamata: Serpentes: Elapidae: Naja;Serpentes: Viperidae;Serpentes: Elapidae;Symposia of the Zoological Society of London, No. 70;Serpentes: Elapidae: Naja nigricollis complex;es;if any;if applicable;intact IgG, fragments;if applicable;if used;if applicable;freeze-dried product;if used;typed"
+,French Guiana (France),Cat 2,Viperidae,Lachesis muta,"Reptilia, Elapidae, Bungarinae;4;Crotalus molossus Baird and Girard, 1853;1;Viperidae;Ophidia: Viperidae;Serpentes, Colubridae;Serpentes: Colubridae: Dispholidini;MALDI-TOF-MS;NY;type species;Reptilia: Squamata: Viperidae;Serpentes: Viperidae;1;Serpentes: Viperidae: Crotalinae;Squamata: Viperidae: Crotalinae;Reptilia: Viperidae;Reptilia: Viperidae;Acanthophis: Serpentes: Elapidae;3;Squamata: Viperidae: Hypnale;Trimeresurus and Ovophis;Ophidia: Elapidae;Squamata: Viperidae;1;Colubroidea;2;3;Crotalus durissus complex;Daboia russelii;Serpentes: Viperidae: Crotalinae;Boie, 1827;Duméril, Bibron and Duméril;Serpentes: Elapidae: Hydrophiinae;Serpentes: Elapidae: Acanthophis, Oxyuranus and Pseudechis;Serpentes: Elapidae: Naja;Squamata: Serpentes: Elapidae: Naja;Serpentes: Viperidae;Serpentes: Elapidae;Symposia of the Zoological Society of London, No. 70;Serpentes: Elapidae: Naja nigricollis complex;es;if any;if applicable;intact IgG, fragments;if applicable;if used;if applicable;freeze-dried product;if used;typed"
+,French Guiana (France),Cat 2,Viperidae,Crotalus viridis,"Reptilia, Elapidae, Bungarinae;4;Crotalus molossus Baird and Girard, 1853;1;Viperidae;Ophidia: Viperidae;Serpentes, Colubridae;Serpentes: Colubridae: Dispholidini;MALDI-TOF-MS;NY;type species;Reptilia: Squamata: Viperidae;Serpentes: Viperidae;1;Serpentes: Viperidae: Crotalinae;Squamata: Viperidae: Crotalinae;Reptilia: Viperidae;Reptilia: Viperidae;Acanthophis: Serpentes: Elapidae;3;Squamata: Viperidae: Hypnale;Trimeresurus and Ovophis;Ophidia: Elapidae;Squamata: Viperidae;1;Colubroidea;2;3;Crotalus durissus complex;Daboia russelii;Serpentes: Viperidae: Crotalinae;Boie, 1827;Duméril, Bibron and Duméril;Serpentes: Elapidae: Hydrophiinae;Serpentes: Elapidae: Acanthophis, Oxyuranus and Pseudechis;Serpentes: Elapidae: Naja;Squamata: Serpentes: Elapidae: Naja;Serpentes: Viperidae;Serpentes: Elapidae;Symposia of the Zoological Society of London, No. 70;Serpentes: Elapidae: Naja nigricollis complex;es;if any;if applicable;intact IgG, fragments;if applicable;if used;if applicable;freeze-dried product;if used;typed"
