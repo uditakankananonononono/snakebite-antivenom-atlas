@@ -1,0 +1,277 @@
+CHECK|AUS|australia|Asia and Australasia|Acanthophis antarcticus
+CHECK|IDN|indonesia|Asia and Australasia|Acanthophis antarcticus
+CHECK|PNG|papua new guinea|Asia and Australasia|Acanthophis antarcticus
+CHECK|PNG|papua new guinea|Asia and Australasia|Acanthophis laevis
+CHECK|IDN|indonesia|Asia and Australasia|Acanthophis laevis
+CHECK|AUS|australia|Asia and Australasia|Acanthophis laevis
+CHECK|AUS|australia|Asia and Australasia|Acanthophis rugosus
+CHECK|IDN|indonesia|Asia and Australasia|Acanthophis rugosus
+CHECK|AUS|australia|Asia and Australasia|Acanthophis spp
+CHECK|PNG|papua new guinea|Asia and Australasia|Acanthophis spp
+CHECK|IDN|indonesia|Asia and Australasia|Acanthophis spp
+CHECK|AUS|australia|Asia and Australasia|Acanthophis spp
+CHECK|AUS|australia|Asia and Australasia|Acanthophis spp
+CHECK|CIV|cote d'ivoire|Africa and the Middle East|Atheris chlorechis
+CHECK|LBR|liberia|Africa and the Middle East|Atheris chlorechis
+CHECK|CMR|cameroon|Africa and the Middle East|Atheris squamigera
+CHECK|SWZ|eswatini|Africa and the Middle East|Atractaspis bibronii
+CHECK|BEN|benin|Africa and the Middle East|Atractaspis irregularis
+CHECK|NGA|nigeria|Africa and the Middle East|Atractaspis irregularis
+CHECK|CMR|cameroon|Africa and the Middle East|Atractaspis irregularis
+CHECK|AUS|australia|Asia and Australasia|Austrelaps spp
+CHECK|AUS|australia|Asia and Australasia|Austrelaps spp
+CHECK|AUS|australia|Asia and Australasia|Austrelaps spp
+CHECK|GMB|gambia|Africa and the Middle East|Bitis arietans
+CHECK|BEN|benin|Africa and the Middle East|Bitis arietans
+CHECK|TGO|togo|Africa and the Middle East|Bitis arietans
+CHECK|GNB|guinea-bissau|Africa and the Middle East|Bitis arietans
+CHECK|SWZ|eswatini|Africa and the Middle East|Bitis arietans
+CHECK|CIV|cote d'ivoire|Africa and the Middle East|Bitis arietans
+CHECK|BFA|burkina faso|Africa and the Middle East|Bitis arietans
+CHECK|SEN|senegal|Africa and the Middle East|Bitis arietans
+CHECK|NGA|nigeria|Africa and the Middle East|Bitis gabonica
+CHECK|BEN|benin|Africa and the Middle East|Bitis gabonica
+CHECK|CMR|cameroon|Africa and the Middle East|Bitis gabonica
+CHECK|LBR|liberia|Africa and the Middle East|Bitis gabonica
+CHECK|CIV|cote d'ivoire|Africa and the Middle East|Bitis gabonica
+CHECK|TGO|togo|Africa and the Middle East|Bitis gabonica
+CHECK|CMR|cameroon|Africa and the Middle East|Bitis nasicornis
+CHECK|BEN|benin|Africa and the Middle East|Bitis nasicornis
+CHECK|CIV|cote d'ivoire|Africa and the Middle East|Bitis nasicornis
+CHECK|NGA|nigeria|Africa and the Middle East|Bitis nasicornis
+CHECK|BEN|benin|Africa and the Middle East|Bitis rhinoceros
+CHECK|LBR|liberia|Africa and the Middle East|Bitis rhinoceros
+CHECK|MMR|myanmar|Asia and Australasia|Bungarus bungaroides
+CHECK|PAK|pakistan|Asia and Australasia|Bungarus caeruleus
+CHECK|LKA|sri lanka|Asia and Australasia|Bungarus caeruleus
+CHECK|MMR|myanmar|Asia and Australasia|Bungarus caeruleus
+CHECK|IDN|indonesia|Asia and Australasia|Bungarus candidus
+CHECK|LAO|lao|Asia and Australasia|Bungarus candidus
+CHECK|KHM|cambodia|Asia and Australasia|Bungarus candidus
+CHECK|THA|thailand|Asia and Australasia|Bungarus candidus
+CHECK|SGP|singapore|Asia and Australasia|Bungarus candidus
+CHECK|MYS|malaysia|Asia and Australasia|Bungarus candidus
+CHECK|LKA|sri lanka|Asia and Australasia|Bungarus ceylonicus
+CHECK|IDN|indonesia|Asia and Australasia|Bungarus fasciatus
+CHECK|LAO|lao|Asia and Australasia|Bungarus fasciatus
+CHECK|MMR|myanmar|Asia and Australasia|Bungarus fasciatus
+CHECK|KHM|cambodia|Asia and Australasia|Bungarus fasciatus
+CHECK|VNM|viet nam|Asia and Australasia|Bungarus fasciatus
+CHECK|PHL|philippines|Asia and Australasia|Bungarus fasciatus
+CHECK|THA|thailand|Asia and Australasia|Bungarus fasciatus
+CHECK|MYS|malaysia|Asia and Australasia|Bungarus fasciatus
+CHECK|IDN|indonesia|Asia and Australasia|Bungarus flaviceps
+CHECK|MYS|malaysia|Asia and Australasia|Bungarus flaviceps
+CHECK|MMR|myanmar|Asia and Australasia|Bungarus magnimaculatus
+CHECK|VNM|viet nam|Asia and Australasia|Bungarus multicinctus
+CHECK|LAO|lao|Asia and Australasia|Bungarus multicinctus
+CHECK|MMR|myanmar|Asia and Australasia|Bungarus multicinctus
+CHECK|THA|thailand|Asia and Australasia|Bungarus multicinctus
+CHECK|MMR|myanmar|Asia and Australasia|Bungarus niger
+CHECK|IDN|indonesia|Asia and Australasia|Calliophis intestinalis
+CHECK|MYS|malaysia|Asia and Australasia|Calliophis intestinalis
+CHECK|SGP|singapore|Asia and Australasia|Calliophis intestinalis
+CHECK|PHL|philippines|Asia and Australasia|Calliophis intestinalis
+CHECK|IDN|indonesia|Asia and Australasia|Calloselasma rhodostoma
+CHECK|MYS|malaysia|Asia and Australasia|Calloselasma rhodostoma
+CHECK|VNM|viet nam|Asia and Australasia|Calloselasma rhodostoma
+CHECK|THA|thailand|Asia and Australasia|Calloselasma rhodostoma
+CHECK|LAO|lao|Asia and Australasia|Calloselasma rhodostoma
+CHECK|MRT|mauritania|Africa and the Middle East|Cerastes cerastes
+CHECK|LAO|lao|Asia and Australasia|Cryptelytrops albolabris
+CHECK|IDN|indonesia|Asia and Australasia|Cryptelytrops albolabris
+CHECK|LAO|lao|Asia and Australasia|Cryptelytrops macrops
+CHECK|THA|thailand|Asia and Australasia|Cryptelytrops macrops
+CHECK|SGP|singapore|Asia and Australasia|Cryptelytrops purpureomaculatus
+CHECK|LKA|sri lanka|Asia and Australasia|Daboia russelii
+CHECK|MMR|myanmar|Asia and Australasia|Daboia russelii
+CHECK|PAK|pakistan|Asia and Australasia|Daboia russelii
+CHECK|MMR|myanmar|Asia and Australasia|Daboia siamensis
+CHECK|THA|thailand|Asia and Australasia|Daboia siamensis
+CHECK|IDN|indonesia|Asia and Australasia|Daboia siamensis
+CHECK|VNM|viet nam|Asia and Australasia|Deinagkistrodon acutus
+CHECK|CMR|cameroon|Africa and the Middle East|Dendroaspis jamesoni
+CHECK|BEN|benin|Africa and the Middle East|Dendroaspis jamesoni
+CHECK|TGO|togo|Africa and the Middle East|Dendroaspis jamesoni
+CHECK|NGA|nigeria|Africa and the Middle East|Dendroaspis jamesoni
+CHECK|NER|niger|Africa and the Middle East|Dendroaspis jamesoni
+CHECK|SEN|senegal|Africa and the Middle East|Dendroaspis polylepis
+CHECK|SWZ|eswatini|Africa and the Middle East|Dendroaspis polylepis
+CHECK|CMR|cameroon|Africa and the Middle East|Dendroaspis viridis
+CHECK|BEN|benin|Africa and the Middle East|Dendroaspis viridis
+CHECK|TGO|togo|Africa and the Middle East|Dendroaspis viridis
+CHECK|CIV|cote d'ivoire|Africa and the Middle East|Dendroaspis viridis
+CHECK|SEN|senegal|Africa and the Middle East|Dispholidus typus
+CHECK|NER|niger|Africa and the Middle East|Echis carinatus
+CHECK|PAK|pakistan|Asia and Australasia|Echis carinatus
+CHECK|BHR|bahrain|Africa and the Middle East|Echis coloratus
+CHECK|NER|niger|Africa and the Middle East|Echis leucogaster
+CHECK|SEN|senegal|Africa and the Middle East|Echis leucogaster
+CHECK|MRT|mauritania|Africa and the Middle East|Echis leucogaster
+CHECK|NGA|nigeria|Africa and the Middle East|Echis ocellatus
+CHECK|BEN|benin|Africa and the Middle East|Echis ocellatus
+CHECK|TGO|togo|Africa and the Middle East|Echis ocellatus
+CHECK|CIV|cote d'ivoire|Africa and the Middle East|Echis ocellatus
+CHECK|NER|niger|Africa and the Middle East|Echis ocellatus
+CHECK|BFA|burkina faso|Africa and the Middle East|Echis ocellatus
+CHECK|SEN|senegal|Africa and the Middle East|Echis ocellatus
+CHECK|CIV|cote d'ivoire|Africa and the Middle East|Echis pyramidum
+CHECK|NER|niger|Africa and the Middle East|Echis pyramidum
+CHECK|MRT|mauritania|Africa and the Middle East|Echis pyramidum
+CHECK|RUS|russia|Asia and Australasia|Gloydius blomhoffi
+CHECK|RUS|russia|Asia and Australasia|Gloydius halys
+CHECK|RUS|russia|Asia and Australasia|Gloydius ussuriensis
+CHECK|SWZ|eswatini|Africa and the Middle East|Hemachatus haemachatus
+CHECK|AUS|australia|Asia and Australasia|Hoplocephalus spp
+CHECK|AUS|australia|Asia and Australasia|Hoplocephalus spp
+CHECK|AUS|australia|Asia and Australasia|Hoplocephalus spp
+CHECK|LKA|sri lanka|Asia and Australasia|Hypnale hypnale
+CHECK|LKA|sri lanka|Asia and Australasia|Hypnale nepa
+CHECK|PNG|papua new guinea|Asia and Australasia|Micropechis ikaheka
+CHECK|IDN|indonesia|Asia and Australasia|Micropechis ikaheka
+CHECK|GRC|greece|Europe|Montivipera xanthina
+CHECK|SWZ|eswatini|Africa and the Middle East|Naja annulifera
+CHECK|VNM|viet nam|Asia and Australasia|Naja atra
+CHECK|SEN|senegal|Africa and the Middle East|Naja haje
+CHECK|BFA|burkina faso|Africa and the Middle East|Naja haje
+CHECK|MMR|myanmar|Asia and Australasia|Naja kaouthia
+CHECK|VNM|viet nam|Asia and Australasia|Naja kaouthia
+CHECK|SEN|senegal|Africa and the Middle East|Naja katiensis
+CHECK|MMR|myanmar|Asia and Australasia|Naja mandalayensis
+CHECK|CMR|cameroon|Africa and the Middle East|Naja melanoleuca
+CHECK|BEN|benin|Africa and the Middle East|Naja melanoleuca
+CHECK|GMB|gambia|Africa and the Middle East|Naja melanoleuca
+CHECK|TGO|togo|Africa and the Middle East|Naja melanoleuca
+CHECK|CIV|cote d'ivoire|Africa and the Middle East|Naja melanoleuca
+CHECK|STP|sao tome|Africa and the Middle East|Naja melanoleuca
+CHECK|NGA|nigeria|Africa and the Middle East|Naja melanoleuca
+CHECK|SEN|senegal|Africa and the Middle East|Naja melanoleuca
+CHECK|LBR|liberia|Africa and the Middle East|Naja melanoleuca
+CHECK|SWZ|eswatini|Africa and the Middle East|Naja mossambica
+CHECK|VNM|viet nam|Asia and Australasia|Naja naja
+CHECK|LKA|sri lanka|Asia and Australasia|Naja naja
+CHECK|PHL|philippines|Asia and Australasia|Naja naja
+CHECK|SGP|singapore|Asia and Australasia|Naja naja
+CHECK|MYS|malaysia|Asia and Australasia|Naja naja
+CHECK|IDN|indonesia|Asia and Australasia|Naja naja
+CHECK|PAK|pakistan|Asia and Australasia|Naja naja
+CHECK|CMR|cameroon|Africa and the Middle East|Naja nigricollis
+CHECK|BEN|benin|Africa and the Middle East|Naja nigricollis
+CHECK|SLE|sierra leone|Africa and the Middle East|Naja nigricollis
+CHECK|TGO|togo|Africa and the Middle East|Naja nigricollis
+CHECK|NGA|nigeria|Africa and the Middle East|Naja nigricollis
+CHECK|GMB|gambia|Africa and the Middle East|Naja nigricollis
+CHECK|BFA|burkina faso|Africa and the Middle East|Naja nigricollis
+CHECK|NER|niger|Africa and the Middle East|Naja nigricollis
+CHECK|SEN|senegal|Africa and the Middle East|Naja nigricollis
+CHECK|PHL|philippines|Asia and Australasia|Naja philippinensis
+CHECK|PHL|philippines|Asia and Australasia|Naja samarensis
+CHECK|SEN|senegal|Africa and the Middle East|Naja senegalensis
+CHECK|BEN|benin|Africa and the Middle East|Naja senegalensis
+CHECK|LAO|lao|Asia and Australasia|Naja siamensis
+CHECK|IDN|indonesia|Asia and Australasia|Naja sputatrix
+CHECK|SGP|singapore|Asia and Australasia|Naja sputatrix
+CHECK|IDN|indonesia|Asia and Australasia|Naja sumatrana
+CHECK|MYS|malaysia|Asia and Australasia|Naja sumatrana
+CHECK|SGP|singapore|Asia and Australasia|Naja sumatrana
+CHECK|AUS|australia|Asia and Australasia|Notechis scutatus
+CHECK|IDN|indonesia|Asia and Australasia|Ophiophagus hannah
+CHECK|THA|thailand|Asia and Australasia|Ophiophagus hannah
+CHECK|LAO|lao|Asia and Australasia|Ophiophagus hannah
+CHECK|MYS|malaysia|Asia and Australasia|Ophiophagus hannah
+CHECK|SGP|singapore|Asia and Australasia|Ophiophagus hannah
+CHECK|KHM|cambodia|Asia and Australasia|Ophiophagus hannah
+CHECK|MMR|myanmar|Asia and Australasia|Ophiophagus hannah
+CHECK|VNM|viet nam|Asia and Australasia|Ophiophagus hannah
+CHECK|PHL|philippines|Asia and Australasia|Ophiophagus hannah
+CHECK|AUS|australia|Asia and Australasia|Oxyuranus microlepidotus
+CHECK|PNG|papua new guinea|Asia and Australasia|Oxyuranus scutellatus
+CHECK|AUS|australia|Asia and Australasia|Oxyuranus scutellatus
+CHECK|AUS|australia|Asia and Australasia|Oxyuranus temporalis
+CHECK|MMR|myanmar|Asia and Australasia|Protobothrops jerdonii
+CHECK|VNM|viet nam|Asia and Australasia|Protobothrops jerdonii
+CHECK|MMR|myanmar|Asia and Australasia|Protobothrops kaulbacki
+CHECK|VNM|viet nam|Asia and Australasia|Protobothrops mucrosquamatus
+CHECK|MMR|myanmar|Asia and Australasia|Protobothrops mucrosquamatus
+CHECK|AUS|australia|Asia and Australasia|Pseudechis australis
+CHECK|IDN|indonesia|Asia and Australasia|Pseudechis australis
+CHECK|AUS|australia|Asia and Australasia|Pseudechis papuanus
+CHECK|PNG|papua new guinea|Asia and Australasia|Pseudechis papuanus
+CHECK|PNG|papua new guinea|Asia and Australasia|Pseudechis rossignolii
+CHECK|AUS|australia|Asia and Australasia|Pseudechis spp
+CHECK|AUS|australia|Asia and Australasia|Pseudechis spp
+CHECK|AUS|australia|Asia and Australasia|Pseudechis spp
+CHECK|AUS|australia|Asia and Australasia|Pseudechis spp
+CHECK|AUS|australia|Asia and Australasia|Pseudechis spp
+CHECK|CMR|cameroon|Africa and the Middle East|Pseudohaje goldii
+CHECK|NGA|nigeria|Africa and the Middle East|Pseudohaje nigra
+CHECK|CIV|cote d'ivoire|Africa and the Middle East|Pseudohaje nigra
+CHECK|TGO|togo|Africa and the Middle East|Pseudohaje nigra
+CHECK|AUS|australia|Asia and Australasia|Pseudonaja affinis
+CHECK|AUS|australia|Asia and Australasia|Pseudonaja aspidorhyncha
+CHECK|AUS|australia|Asia and Australasia|Pseudonaja mengdeni
+CHECK|AUS|australia|Asia and Australasia|Pseudonaja nuchalis
+CHECK|AUS|australia|Asia and Australasia|Pseudonaja spp
+CHECK|AUS|australia|Asia and Australasia|Pseudonaja spp
+CHECK|AUS|australia|Asia and Australasia|Pseudonaja spp
+CHECK|AUS|australia|Asia and Australasia|Pseudonaja spp
+CHECK|AUS|australia|Asia and Australasia|Pseudonaja textilis
+CHECK|PNG|papua new guinea|Asia and Australasia|Pseudonaja textilis
+CHECK|THA|thailand|Asia and Australasia|Rhabdophis tigrinus
+CHECK|RUS|russia|Asia and Australasia|Rhabdophis tigrinus
+CHECK|SWZ|eswatini|Africa and the Middle East|Thelotornis capensis
+CHECK|CMR|cameroon|Africa and the Middle East|Thelotornis capensis
+CHECK|NGA|nigeria|Africa and the Middle East|Thelotornis kirtlandii
+CHECK|CMR|cameroon|Africa and the Middle East|Thelotornis kirtlandii
+CHECK|BEN|benin|Africa and the Middle East|Thelotornis kirtlandii
+CHECK|TGO|togo|Africa and the Middle East|Thelotornis kirtlandii
+CHECK|CIV|cote d'ivoire|Africa and the Middle East|Thelotornis kirtlandii
+CHECK|VNM|viet nam|Asia and Australasia|Trimeresurus gramineus
+CHECK|IDN|indonesia|Asia and Australasia|Trimeresurus gramineus
+CHECK|LKA|sri lanka|Asia and Australasia|Trimeresurus trigonocephalus
+CHECK|AUS|australia|Asia and Australasia|Tropidechis carinatus
+CHECK|PHL|philippines|Asia and Australasia|Tropidolaemus philippensis
+CHECK|MYS|malaysia|Asia and Australasia|Tropidolaemus subannulatus
+CHECK|IDN|indonesia|Asia and Australasia|Tropidolaemus subannulatus
+CHECK|BRN|brunei|Asia and Australasia|Tropidolaemus subannulatus
+CHECK|PHL|philippines|Asia and Australasia|Tropidolaemus subannulatus
+CHECK|ITA|italy|Europe|Vipera ammodytes
+CHECK|ALB|albania|Europe|Vipera ammodytes
+CHECK|GRC|greece|Europe|Vipera ammodytes
+CHECK|HRV|croatia|Europe|Vipera ammodytes
+CHECK|SVN|slovenia|Europe|Vipera ammodytes
+CHECK|BGR|bulgaria|Europe|Vipera ammodytes
+CHECK|AUT|austria|Europe|Vipera ammodytes
+CHECK|POL|poland|Europe|Vipera ammodytes
+CHECK|ROU|romania|Europe|Vipera ammodytes
+CHECK|BIH|bosnia|Europe|Vipera ammodytes
+CHECK|ITA|italy|Europe|Vipera aspis
+CHECK|CHE|switzerland|Europe|Vipera aspis
+CHECK|FRA|france|Europe|Vipera aspis
+CHECK|ESP|spain|Europe|Vipera aspis
+CHECK|AND|andorra|Europe|Vipera aspis
+CHECK|DEU|germany|Europe|Vipera aspis
+CHECK|BEL|belgium|Europe|Vipera aspis
+CHECK|RUS|russia|Asia and Australasia|Vipera berus
+CHECK|NOR|norway|Europe|Vipera berus
+CHECK|GBR|united kingdom|Europe|Vipera berus
+CHECK|DEU|germany|Europe|Vipera berus
+CHECK|FRA|france|Europe|Vipera berus
+CHECK|BEL|belgium|Europe|Vipera berus
+CHECK|ITA|italy|Europe|Vipera berus
+CHECK|SWE|sweden|Europe|Vipera berus
+CHECK|AUT|austria|Europe|Vipera berus
+CHECK|BGR|bulgaria|Europe|Vipera berus
+CHECK|ROU|romania|Europe|Vipera berus
+CHECK|HRV|croatia|Europe|Vipera berus
+CHECK|ESP|spain|Europe|Vipera latastei
+CHECK|PRT|portugal|Europe|Vipera latastei
+CHECK|DEU|germany|Europe|Vipera nikolskii
+CHECK|UKR|ukraine|Europe|Vipera renardi
+CHECK|ESP|spain|Europe|Vipera seoanei
+CHECK|FRA|france|Europe|Vipera seoanei
+CHECK|PRT|portugal|Europe|Vipera seoanei
+CHECK|RUS|russia|Asia and Australasia|Vipera spp
+CHECK|HUN|hungary|Europe|Vipera ursinii
+CHECK|ROU|romania|Europe|Vipera ursinii
+CHECK|AUT|austria|Europe|Vipera ursinii

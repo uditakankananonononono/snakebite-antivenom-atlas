@@ -13,15 +13,27 @@
   per species comes from Longbottom structured CSV. Old country-parser attempt kept
   at git history, superseded.
 
+## Done (contd, run 1)
+- results/consolidated_species.csv: 291 species; 232 both sources, 30 WHO-only, 59 LB-only.
+- results/toxin_inventory.csv: 5131 toxins, 3516 matched to in-scope species, 18-family
+  rule-based classification (mapping documented in code/build_audit_tables.py).
+- results/antivenom_coverage_long.csv: 94 products, 451 species-product pairs.
+- results/gap_table.csv: per-species gap class by WHO region:
+  16 CRITICAL (Cat1 + no antivenom listed), 113 HIGH (no antivenom), 41 DATA GAP
+  (covered but zero toxin records), 121 covered.
+
 ## Next (in order)
-1. Cross-check WHO-appendix species vs Longbottom species (synonym-aware via its
-   previous/alternate/new name columns) -> consolidated species table + disagreement table.
-2. Join UniProt toxins to consolidated species -> per-species toxin inventory,
-   family classification, PDB xref + evidence flags; negatives = species with 0 toxins.
-3. Parse antivenom.csv into long-form coverage (species x product).
-4. AlphaFold DB availability per toxin accession (API), RCSB PDB mapping.
-5. Coverage-gap scoring (direct coverage + toxin-similarity cross-reactivity heuristic),
-   stats, tool, paper (Times font, blue borders), full slice manifest.
+1. Synonym pass: join 114 orphan toxin organism names (e.g. Macrovipera lebetinus,
+   Trimeresurus stejnegeri) to listed species via NCBI taxonomy eutils; re-run tables.
+2. Clean who_species_not_in_longbottom negatives (bare genera / 'complex' phrases vs
+   true taxonomy drift like Gloydius blomhoffii) -> disagreement table for paper.
+3. Quiet region_validation.txt noise (277 flags are name-fragment false alarms,
+   e.g. subsection ordering; verify section line ranges) - region map itself stands.
+4. AlphaFold DB availability per toxin accession + RCSB PDB detail pull.
+5. Cross-reactivity heuristic: cluster toxins by family (3FTx/PLA2/...), pairwise
+   identity of uncovered-species toxins vs antivenom-covered species -> inferred coverage.
+6. Stats (region x gap contingency, toxin-richness vs coverage correlation),
+   coverage_atlas.py tool, paper (Times font, blue borders), full slice manifest, seal.
 
 ## Blockers/notes
 - Deploy key rotated to this builder; push works (4c965fe on origin/main).
