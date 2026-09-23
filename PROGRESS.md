@@ -32,8 +32,13 @@
   WHO-2017 vs Longbottom-2018 species-list drift.
 - Tables re-run: 296 species, 3620/5131 toxins matched, 168 species with toxin data.
 
+## Done (structure coverage)
+- results/structure_coverage.txt: in-scope toxins 3620; PDB experimental structures
+  221 (6.1%); AlphaFoldDB models 3307 (91.4%). Experimental-structure gap is a
+  paper finding; AlphaFold used as predicted-structure layer (documented as such).
+
 ## Next (in order)
-1. (done - see above)
+1. (synonym pass done - see above)
 2. Clean who_species_not_in_longbottom negatives (bare genera / 'complex' phrases vs
    true taxonomy drift like Gloydius blomhoffii) -> disagreement table for paper.
 3. Quiet region_validation.txt noise (277 flags are name-fragment false alarms,
