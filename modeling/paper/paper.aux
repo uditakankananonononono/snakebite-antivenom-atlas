@@ -1,0 +1,92 @@
+\relax 
+\citation{who-factsheet}
+\citation{who-trs1004}
+\citation{longbottom2018}
+\citation{gutierrez2009}
+\citation{gutierrez2010}
+\citation{who-trs1004}
+\citation{longbottom2018}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Problem}{3}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {2}Background and data sources}{3}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Snakebite, antivenoms, and cross-reactivity}{3}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}The committed atlas foundation (B09)}{3}{}\protected@file@percent }
+\citation{uniprot}
+\citation{afdb2024}
+\citation{edlib}
+\citation{gutierrez2009}
+\citation{gutierrez2010}
+\citation{tmscore2004}
+\citation{afdb2024}
+\citation{edlib}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3}The antivenom product landscape}{4}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.4}Prior art}{4}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3}Methods}{4}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Pre-registration}{4}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Panel}{5}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Leakage-safe validation}{5}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4}The cascade score (frozen definition)}{5}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5}Sequence stage and prefilter}{5}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.6}Structural stage}{6}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.7}Metrics and the win criterion}{6}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4}Results}{6}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Baseline equivalence (gate M4)}{6}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Structure acquisition}{6}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Held-out evaluation}{6}{}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Pair-level discrimination on the held-out test split (8,110 toxin--product pairs, 370 positives, 21 species).}}{7}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Precision--recall on held-out species for the three locked predictors.}}{7}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4}Calibration}{7}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.5}Target set: modeled atlas coverage}{7}{}\protected@file@percent }
+\gdef \LT@i {\LT@entry 
+    {2}{178.71193pt}\LT@entry 
+    {1}{86.50264pt}\LT@entry 
+    {1}{59.30359pt}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Per-family AUPRC on the test split. The model's gain concentrates in the large, structurally homogeneous families (3FTx, SVMP, SVSP, PLA2); small families are noisy by pair count.}}{8}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.6}Product priors}{8}{}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {2}{The 12 most broadly indicated products in the committed matrix (of 94 total; median 3 indicated species per product). The naive control's prior for a product is its fraction of the 85 calibration species it covers.}}{8}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Threshold calibration on the calibration split only; the chosen $\tau $ was frozen before any test-split or target-set scoring.}}{9}{}\protected@file@percent }
+\newlabel{fig:cal}{{3}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.7}Worked examples}{9}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Model score versus baseline identity on the test split. Structure re-ranks pairs in both directions around the baseline's T=80 line; sequence-only fallback pairs (orange) lie on the diagonal by construction.}}{10}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.8}Honest negatives}{10}{}\protected@file@percent }
+\gdef \LT@ii {\LT@entry 
+    {3}{79.5175pt}\LT@entry 
+    {3}{121.19226pt}\LT@entry 
+    {3}{48.05824pt}\LT@entry 
+    {3}{42.11246pt}\LT@entry 
+    {3}{31.16248pt}\LT@entry 
+    {3}{70.99785pt}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Target-set coverage by family: model at frozen $\tau $ versus the committed heuristic at T=80.}}{11}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.9}Discordance analysis}{11}{}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {3}{Discordant target toxins: model at $\tau $ versus committed heuristic at T=80 disagree on 39 of 290 toxins (13.4\%). S = model max score; I = baseline best identity.}}{11}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {5}The tool}{12}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}Per-species detail (test split)}{12}{}\protected@file@percent }
+\gdef \LT@iii {\LT@entry 
+    {3}{124.36751pt}\LT@entry 
+    {1}{38.7724pt}\LT@entry 
+    {1}{49.71143pt}\LT@entry 
+    {1}{49.97446pt}\LT@entry 
+    {1}{64.64755pt}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Test-split score distributions by committed label. The classes separate but overlap -- the honest picture behind the AUPRC numbers; $\tau $ sits at the calibration optimum, not at a visual valley.}}{13}{}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {4}{Held-out test species: panel size, true indicated products, product recovery and inventory coverage at frozen $\tau =0.5727$. One of the 21 test species had no scorable (toxin, product) pair (no indicated reference passed the prefilter) and is omitted here -- recorded as a negative.}}{13}{}\protected@file@percent }
+\gdef \LT@iv {\LT@entry 
+    {3}{158.10406pt}\LT@entry 
+    {3}{62.49pt}\LT@entry 
+    {1}{38.7724pt}\LT@entry 
+    {1}{39.3747pt}\LT@entry 
+    {1}{47.88258pt}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Per-species detail (target set)}{14}{}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {5}{Target set: all 38 CRITICAL/HIGH species with toxin records. Toxins = in-panel toxins; model / baseline = toxins inferred-covered by the cascade at $\tau $ and by the committed heuristic at T=80.}}{14}{}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {6}{\ignorespaces Pipeline statistics (all artifacts committed; every count regenerable from \texttt  {modeling/code/}).}}{15}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {6}Discussion and limitations}{15}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {7}Reproducibility}{15}{}\protected@file@percent }
+\bibcite{who-factsheet}{1}
+\bibcite{who-trs1004}{2}
+\bibcite{longbottom2018}{3}
+\bibcite{uniprot}{4}
+\bibcite{afdb2024}{5}
+\bibcite{gutierrez2009}{6}
+\bibcite{gutierrez2010}{7}
+\bibcite{tmscore2004}{8}
+\bibcite{edlib}{9}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Structure confidence across the fetched model set: mean global pLDDT 84.3, 89.9\% of models at pLDDT $\geq 70$, 0.8\% below 50. Structural comparisons in this slice rest almost entirely on high-confidence models.}}{16}{}\protected@file@percent }
+\gdef \@abspage@last{17}

@@ -1,0 +1,29 @@
+\contentsline {section}{\numberline {1}Problem}{3}{}%
+\contentsline {section}{\numberline {2}Background and data sources}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Snakebite, antivenoms, and cross-reactivity}{3}{}%
+\contentsline {subsection}{\numberline {2.2}The committed atlas foundation (B09)}{3}{}%
+\contentsline {subsection}{\numberline {2.3}The antivenom product landscape}{4}{}%
+\contentsline {subsection}{\numberline {2.4}Prior art}{4}{}%
+\contentsline {section}{\numberline {3}Methods}{4}{}%
+\contentsline {subsection}{\numberline {3.1}Pre-registration}{4}{}%
+\contentsline {subsection}{\numberline {3.2}Panel}{5}{}%
+\contentsline {subsection}{\numberline {3.3}Leakage-safe validation}{5}{}%
+\contentsline {subsection}{\numberline {3.4}The cascade score (frozen definition)}{5}{}%
+\contentsline {subsection}{\numberline {3.5}Sequence stage and prefilter}{5}{}%
+\contentsline {subsection}{\numberline {3.6}Structural stage}{6}{}%
+\contentsline {subsection}{\numberline {3.7}Metrics and the win criterion}{6}{}%
+\contentsline {section}{\numberline {4}Results}{6}{}%
+\contentsline {subsection}{\numberline {4.1}Baseline equivalence (gate M4)}{6}{}%
+\contentsline {subsection}{\numberline {4.2}Structure acquisition}{6}{}%
+\contentsline {subsection}{\numberline {4.3}Held-out evaluation}{6}{}%
+\contentsline {subsection}{\numberline {4.4}Calibration}{7}{}%
+\contentsline {subsection}{\numberline {4.5}Target set: modeled atlas coverage}{7}{}%
+\contentsline {subsection}{\numberline {4.6}Product priors}{8}{}%
+\contentsline {subsection}{\numberline {4.7}Worked examples}{9}{}%
+\contentsline {subsection}{\numberline {4.8}Honest negatives}{10}{}%
+\contentsline {subsection}{\numberline {4.9}Discordance analysis}{11}{}%
+\contentsline {section}{\numberline {5}The tool}{12}{}%
+\contentsline {subsection}{\numberline {5.1}Per-species detail (test split)}{12}{}%
+\contentsline {subsection}{\numberline {5.2}Per-species detail (target set)}{14}{}%
+\contentsline {section}{\numberline {6}Discussion and limitations}{15}{}%
+\contentsline {section}{\numberline {7}Reproducibility}{15}{}%

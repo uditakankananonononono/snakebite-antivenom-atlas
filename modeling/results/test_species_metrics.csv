@@ -1,0 +1,21 @@
+species,n_toxins,n_products,product_recovery,inventory_covered_frac
+Acanthophis spp,15,2,0.5,0.4666666666666667
+Bitis gabonica,9,2,0.5,0.4444444444444444
+Bothriechis schlegelii,3,1,1.0,1.0
+Bothrops mattogrossensis,5,2,0.0,0.4
+Bungarus fasciatus,13,3,0.3333333333333333,0.5384615384615384
+Crotalus atrox,44,2,1.0,0.75
+Crotalus horridus,45,1,1.0,0.8888888888888888
+Crotalus molossus,9,2,1.0,0.7777777777777778
+Crotalus viridis,20,2,1.0,0.7
+Daboia russelii,40,4,1.0,0.775
+Dendroaspis jamesoni,9,2,1.0,0.5555555555555556
+Gloydius halys,28,1,0.0,0.6071428571428571
+Gloydius ussuriensis,12,1,1.0,0.9166666666666666
+Naja annulifera,18,1,1.0,0.9444444444444444
+Naja melanoleuca,8,2,1.0,0.75
+Naja samarensis,1,1,1.0,1.0
+Naja sputatrix,31,1,0.0,0.8064516129032258
+Ophiophagus hannah,118,2,0.5,0.2542372881355932
+Porthidium ophryomegas,1,1,0.0,0.0
+Vipera ursinii,1,1,0.0,1.0
