@@ -1,0 +1,210 @@
+unit_id,name,source_rows,category,n_toxins,n_products,products,regions,gap_class,inherited_group_indications
+100989,Tropidechis carinatus,261,2,22,2,CSL Polyvalent antivenom|CSL Tiger Snake antivenom,Asia and Australasia,covered,no
+101163,Trimeresurus purpureomaculatus,118|294,2,5,2,Green Pit Viper Antivenin QSMI|Haemato polyvalent snake antivenom QSMI,Asia and Australasia,covered,no
+103942,Vipera ursinii,276,2,1,1,Viper venom antitoxin European,Asia and Australasia|Europe,covered,no
+103944,Protobothrops mucrosquamatus,229,2,29,1,Antivenom Tr mucrosquamatus stejnegeri,Asia and Australasia,covered,no
+1043006,Crotalus tzabcan,112,2,8,0,,The Americas,HIGH,no
+1043007,Crotalus simus,109,1,1,2,Antivipmyn|Polyvalent Antivenom ICP,The Americas,covered,no
+106598,Bothrops taeniatus,76,2,0,0,,,HIGH,no
+106599,Porthidium lansbergii,214,2,0,1,Antiofidico Polivalente,The Americas,DATA GAP,no
+109782,Trimeresurus hageni,290,2,0,1,Green Pit Viper Antivenin QSMI,,DATA GAP,no
+109787,Trimeresurus trigonocephalus,260,2,0,0,,Asia and Australasia,HIGH,no
+109979,Agkistrodon howardgloydi,281,2,0,0,,,HIGH,no
+109980,Agkistrodon russeolus,282,2,0,0,,,HIGH,no
+110123,Agkistrodon taylori,11,1,0,0,,The Americas,CRITICAL,no
+110202,Cerastes gasperettii,95,2,0,1,Polyvalent Snake Antivenom,Africa and the Middle East,DATA GAP,no
+110203,Daboia deserti,120,2,0,1,Favirept,,DATA GAP,no
+110204,Daboia mauritanica,121,1,0,0,,Africa and the Middle East,CRITICAL,no
+110205,Macrovipera schweizeri,163,2,0,0,,,HIGH,no
+110207,Montivipera xanthina,177,1,0,0,,Asia and Australasia|Europe,CRITICAL,no
+110211,Vipera seoanei,271,2,0,0,,Europe,HIGH,no
+110212,Montivipera raddei,176,2,1,1,Polyvalent Snake Antivenom Razi,Asia and Australasia,covered,no
+110216,Atheris chlorechis,13,2,1,0,,Africa and the Middle East,HIGH,no
+110218,Proatheris superciliaris,223,2,2,0,,Africa and the Middle East,HIGH,no
+110225,Atheris squamigera,14,2,1,0,,Africa and the Middle East,HIGH,no
+1107943,Bothrops diporus,56,2,4,5,Antibotropico bivalente|Antiofidico Polivalente BIOL|Antiveneno Bothropico Bivalente|Antiveneno Bothropico Crotalico|Antiveneno Bothropico Tetravalente,The Americas,covered,no
+1108807,Naja sumatrana,204,1,1,3,Cobra Antivenin QSMI|Monovalent Naja philippinensis Cobra Antivenin|Neuro polyvalent snake antivenom QSMI,Asia and Australasia,covered,no
+111177,Oxyuranus microlepidotus,209,2,23,2,CSL Polyvalent antivenom|CSL Taipan antivenom,Asia and Australasia,covered,no
+1114301,Micrurus tener,175,2,2,2,Antivenin Micrurus fulvius|Coralmyn,The Americas,covered,no
+1170827,Bothrops pubescens,66,2,0,1,Antiofidico Bivalente Antibothropico,The Americas,DATA GAP,no
+1170828,Daboia palaestinae,122,1,7,0,,Africa and the Middle East,CRITICAL,no
+1170829,Gloydius tsushimaensis,149,2,1,0,,,HIGH,no
+1170830,Lachesis acrochorda,158,2,0,0,,The Americas,HIGH,no
+1171125,Bothrops mattogrossensis,62,2,5,2,Antiofidico Polivalente Botropico Crotalico|Antiofidico Polivalente Botropico Laquetico,The Americas,covered,no
+1200835,Cerrophidion sasai,285,2,1,0,,,HIGH,no
+1200836,Cerrophidion wilsoni,286,2,0,0,,,HIGH,no
+1216351,Bitis parviocula,32,2,0,0,,Africa and the Middle East,HIGH,no
+126484,Rhabdophis tigrinus,251,2,1,1,Anti Yamakagashi Antivenom,Asia and Australasia,covered,no
+129464,Micrurus lemniscatus,169,2,1,0,,The Americas,HIGH,no
+129469,Micrurus spixii,172,2,0,0,,The Americas,HIGH,no
+129470,Micrurus surinamensis,174,2,6,0,,The Americas,HIGH,no
+1296667,Bungarus ceylonicus,81,2,0,0,,Asia and Australasia,HIGH,no
+1297012,Hypnale nepa,157,2,0,0,,Asia and Australasia,HIGH,no
+1297013,Hypnale zara,288,2,0,0,,,HIGH,no
+1328036,Thelotornis mossambicanus,256,2,0,0,,Africa and the Middle East,HIGH,no
+1328037,Thelotornis usambaricus,257,2,0,0,,Africa and the Middle East,HIGH,no
+132961,Bungarus caeruleus,79,1,7,4,Polyvalent Antisnake Venom|Polyvalent Snake Antivenin Asia|Snake Venom Antiserum IP Asia|Snake antivenin IP Asia,Asia and Australasia,covered,no
+133440,Bothrops pictus,65,1,3,1,Antibotropico Polivalente,The Americas,covered,no
+1343144,Atractaspis engaddensis,17,2,3,0,,Africa and the Middle East,HIGH,no
+1355908,Pseudocerastes fieldi,238,2,3,0,,Africa and the Middle East,HIGH,no
+1457320,Trimeresurus cardamomensis,289,2,0,0,,,HIGH,no
+1489342,Pseudechis rossignolii,232,2,5,2,CSL Black Snake antivenom|CSL Polyvalent antivenom,Asia and Australasia,covered,no
+1545503,Pseudohaje goldii,240,2,0,0,,Africa and the Middle East,HIGH,no
+157295,Bothrops leucurus,61,1,10,0,,The Americas,CRITICAL,no
+157546,Bothrops brazili,53,2,6,1,Antibotropico Polivalente,The Americas,covered,no
+157547,Bothrops caribbaeus,54,1,0,1,BothroFAV,,DATA GAP,no
+157553,Bothrops lanceolatus,60,1,0,1,BothroFAV,The Americas,DATA GAP,no
+1686054,Trimeresurus rubeus,291,2,0,0,,,HIGH,no
+169857,Bothrops ammodytoides,49,2,1,2,Antiveneno Bothropico Bivalente|Antiveneno Bothropico Tetravalente,The Americas,covered,no
+1752123,Acanthophis cryptamydros,280,2,0,1,CSL Death Adder antivenom,,DATA GAP,no
+1808362,Vipera nikolskii,269,2,5,0,,Europe,HIGH,no
+186441,Naja nubiae,195,2,0,0,,Africa and the Middle East,HIGH,no
+186609,Thelotornis capensis,254,2,0,0,,Africa and the Middle East,HIGH,no
+1928468,Calliophis intestinalis,92,2,0,0,,Asia and Australasia,HIGH,no
+195058,Naja sagittifera,199,1,2,0,,,CRITICAL,no
+1969162,Bungarus magnimaculatus,85,1,0,0,,Asia and Australasia,CRITICAL,no
+2058925,Bothrops venezuelensis,77,1,0,1,Antiofidico Polivalente CDBiotecnologia,The Americas,DATA GAP,no
+2202122,Atractaspis fallax,18,2,0,0,,Africa and the Middle East,HIGH,no
+2202123,Bitis harenna,283,2,0,0,,,HIGH,no
+2202451,Pseudonaja mengdeni,244,1,0,2,CSL Brown Snake antivenom|CSL Polyvalent antivenom,Asia and Australasia,DATA GAP,no
+230468,Bothrocophias microphthalmus,44,2,0,0,,The Americas,HIGH,no
+230469,Bothrocophias hyoprora,43,2,2,1,Antibotropico Polivalente,The Americas,covered,no
+239748,Acanthophis rugosus,3,2,1,2,CSL Death Adder antivenom|CSL Polyvalent antivenom,Asia and Australasia,covered,no
+239753,Acanthophis laevis,2,1,0,2,CSL Death Adder antivenom|CSL Polyvalent antivenom,Asia and Australasia,DATA GAP,no
+242058,Protobothrops mangshanensis,228,2,2,0,,,HIGH,no
+242841,Protobothrops jerdonii,226,2,19,0,,Asia and Australasia,HIGH,no
+246179,Vipera latastei,268,2,0,0,,Europe,HIGH,no
+2596810,Crotalus ornatus,287,2,0,2,Antivipmyn|Polyvalent crotalid antivenom CroFab,,DATA GAP,no
+2606507,Micrurus circinalis,166,2,0,0,,The Americas,HIGH,no
+263737,Naja anchietae,178,1,1,0,,Africa and the Middle East,CRITICAL,no
+2784008,Walterinnesia morgani,279,2,0,2,Bivalent Naja Walterinnesia Snake AV|Polyvalent Snake Antivenom,,DATA GAP,no
+282163,Bungarus sindanus,88,2,0,0,,,HIGH,no
+282164,Bungarus bungaroides,78,2,0,0,,Asia and Australasia,HIGH,no
+282406,Bungarus niger,87,2,0,0,,Asia and Australasia,HIGH,no
+2851568,Bungarus lividus,84,2,0,0,,,HIGH,no
+2875555,Gloydius himalayanus,147,2,0,0,,,HIGH,no
+292880,Thelotornis kirtlandii,255,2,0,0,,Africa and the Middle East,HIGH,no
+2929635,Pseudonaja aspidorhyncha,243,2,0,2,CSL Brown Snake antivenom|CSL Polyvalent antivenom,Asia and Australasia,DATA GAP,no
+2985274,Bothrops jonathani,59,2,0,0,,,HIGH,no
+306041,Crotalus totonacus,111,1,0,0,,The Americas,CRITICAL,no
+31155,Vipera berus,266,2,13,4,Anti viper anti adder venom|Viper Venom Antitoxin|Viper venom antitoxin European|Viperfav,Asia and Australasia|Europe,covered,no
+3141370,Bungarus walli,90,2,0,0,,,HIGH,no
+3146394,Echis megalocephalus,138,2,0,0,,,HIGH,no
+332624,Crotalus oreganus,106,2,0,1,Polyvalent crotalid antivenom CroFab,The Americas,DATA GAP,no
+335858,Atropoides occiduus,21,2,0,0,,,HIGH,no
+33626,Naja sputatrix,203,1,31,1,Polyvalent Anti Snake Venom,Asia and Australasia,covered,no
+340908,Pseudonaja affinis,242,1,0,2,CSL Brown Snake antivenom|CSL Polyvalent antivenom,Asia and Australasia,DATA GAP,no
+340913,Pseudonaja nuchalis,245,1,0,2,CSL Brown Snake antivenom|CSL Polyvalent antivenom,Asia and Australasia,DATA GAP,no
+343250,Daboia siamensis,124,1,39,3,Haemato polyvalent snake antivenom QSMI|Russells viper antivenin QSMI|Viper antivenin,Asia and Australasia,covered,no
+35024,Crotalus horridus,104,1,47,1,Polyvalent crotalid antivenom CroFab,The Americas,covered,no
+35670,Naja naja,191,1,233,5,Polyvalent Antisnake Venom|Polyvalent Snake Antivenin Asia|Polyvalent Snake Antivenom Asia|Snake Venom Antiserum IP Asia|Snake antivenin IP Asia,Africa and the Middle East|Asia and Australasia,covered,no
+35671,Gloydius ussuriensis,150,2,12,1,Agkistrodon Salmusa Antivenom,Asia and Australasia,covered,no
+361629,Bothriechis marchi,35,2,0,0,,The Americas,HIGH,no
+36307,Deinagkistrodon acutus,125,1,51,2,Agkistrodon Acutus antivenin|Monovalent Antivenin Snorkel Viper,Asia and Australasia,covered,no
+364521,Bungarus slowinskii,89,1,0,0,,,CRITICAL,no
+39080,Micruroides euryxanthus,165,2,0,0,,The Americas,HIGH,no
+393198,Protobothrops kaulbacki,227,2,0,0,,Asia and Australasia,HIGH,no
+39682,Trimeresurus stejnegeri,277|292,2,68,1,Antivenom Tr mucrosquamatus stejnegeri,,covered,no
+40353,Echis carinatus,132,1,66,6,Polyvalent Antisnake Venom|Polyvalent Snake Antivenin Asia|Polyvalent Snake Antivenom Asia|Polyvalent Snake Antivenom Razi|Snake Venom Antiserum IP Asia|Snake antivenin IP Asia,Africa and the Middle East|Asia and Australasia,covered,no
+409859,Naja katiensis,187,2,0,0,,Africa and the Middle East,HIGH,no
+409860,Naja nigricincta,192,2,0,0,,Africa and the Middle East,HIGH,no
+430902,Micrurus mipartitus,170,2,15,0,,The Americas,HIGH,no
+439933,Oxyuranus temporalis,211,2,0,2,CSL Polyvalent antivenom|CSL Taipan antivenom,Asia and Australasia,DATA GAP,no
+44717,Porthidium ophryomegas,216,2,1,1,Polyvalent Antivenom ICP,The Americas,covered,no
+44720,Hypnale hypnale,156,1,0,0,,Asia and Australasia,CRITICAL,no
+44722,Cerrophidion godmani,96,2,8,1,Polyvalent Antivenom ICP,The Americas,covered,no
+44724,Bothrops bilineatus,52,1,1,0,,The Americas,CRITICAL,no
+44725,Bothriechis schlegelii,36,2,3,1,Polyvalent Antivenom ICP,The Americas,covered,no
+44727,Bothriechis lateralis,34,2,4,1,Polyvalent Antivenom ICP,The Americas,covered,no
+44732,Gloydius intermedius,148,2,19,1,Agkistrodon Salmusa Antivenom,Africa and the Middle East|Asia and Australasia,covered,no
+46295,Dispholidus typus,130,2,4,1,SAIMR Boomslang antivenom,Africa and the Middle East,covered,no
+47769,Pseudocerastes persicus,239,2,2,1,Polyvalent Snake Antivenom Razi,Africa and the Middle East,covered,no
+504457,Echis leucogaster,137,2,2,2,FAV Afrique|Favirept,Africa and the Middle East,covered,no
+512568,Atractaspis irregularis,19,2,2,0,,Africa and the Middle East,HIGH,no
+54390,Micrurus corallinus,167,2,9,3,Antielapidico Butantan|Antielapidico FUNED|Antiveneno Micrurus,The Americas,covered,no
+547331,Echis omanensis,140,1,0,1,Polyvalent Snake Antivenom,Africa and the Middle East,DATA GAP,no
+548885,Echis khosatzkii,136,2,0,0,,,HIGH,no
+60220,Lachesis melanocephala,159,2,0,1,Polyvalent Antivenom ICP,The Americas,DATA GAP,no
+61265,Pseudechis papuanus,231,2,5,2,CSL Black Snake antivenom|CSL Polyvalent antivenom,Asia and Australasia,covered,no
+61304,Atractaspis bibronii,16,2,1,0,,Africa and the Middle East,HIGH,no
+64174,Bothrops alternatus,48,1,11,16,Antibotropico Butantan|Antibotropico CPPI|Antibotropico FUNED|Antibotropico IVB|Antibotropico bivalente|Antibotropico crotalico Butantan|Antibotropico crotalico FUNED|Antibotropico crotalico IVB|Antibotropico laquetico Butantan|Antibotropico laquetico FUNED|Antibotropico laquetico IVB|Antiofidico Bivalente Antibothropico|Antiofidico Polivalente BIOL|Antiveneno Bothropico Bivalente|Antiveneno Bothropico Crotalico|Antiveneno Bothropico Tetravalente,The Americas,covered,no
+64175,Echis coloratus,133,1,147,1,Polyvalent Snake Antivenom,Africa and the Middle East,covered,no
+64182,Walterinnesia aegyptia,278,2,11,2,Bivalent Naja Walterinnesia Snake AV|Polyvalent Snake Antivenom,Africa and the Middle East,covered,no
+696809,Echis jogeri,135,1,0,0,,,CRITICAL,no
+696810,Echis borkini,131,1,0,1,Polyvalent Snake Antivenom,Africa and the Middle East,DATA GAP,no
+696811,Naja ashei,182,1,0,0,,Africa and the Middle East,CRITICAL,no
+699373,Tropidolaemus subannulatus,263,2,0,0,,Asia and Australasia,HIGH,no
+715877,Bitis rhinoceros,33,2,10,0,,Africa and the Middle East,HIGH,no
+74558,Porthidium nasutum,215,2,1,2,Antivipmyn|Polyvalent Antivenom ICP,The Americas,covered,no
+796011,Vipera eriwanensis,267,2,0,0,,Asia and Australasia,HIGH,no
+8600,Atractaspis andersonii,15,1,2,0,,,CRITICAL,no
+8605,Acanthophis antarcticus,1,2,10,2,CSL Death Adder antivenom|CSL Polyvalent antivenom,Asia and Australasia,covered,no
+8609,Naja annulata,179,2,2,0,,Africa and the Middle East,HIGH,no
+8611,Naja christyi,184,2,1,0,,,HIGH,no
+8613,Bungarus fasciatus,82,2,25,3,Banded krait antivenin QSMI|Neuro polyvalent snake antivenom QSMI|Polyvalent Anti Snake Venom,Asia and Australasia,covered,no
+8614,Bungarus flaviceps,83,2,22,0,,Asia and Australasia,HIGH,no
+8616,Bungarus multicinctus,86,1,48,3,Antivenom B multicinctus N n naja|Bungarus Antivenom|Bungarus multicinctus antivenin,Asia and Australasia,covered,no
+8618,Dendroaspis angusticeps,126,1,34,1,SAIMR Polyvalent Snake antivenom,Africa and the Middle East,covered,no
+8621,Dendroaspis viridis,129,1,8,1,FAV Afrique,Africa and the Middle East,covered,no
+862237,Naja arabica,181,2,0,2,Bivalent Naja Walterinnesia Snake AV|Polyvalent Snake Antivenom,Africa and the Middle East,DATA GAP,no
+862238,Naja senegalensis,201,1,0,1,FAV Afrique,Africa and the Middle East,DATA GAP,no
+8623,Dendroaspis jamesoni,127,1,11,2,FAV Afrique|SAIMR Polyvalent Snake antivenom,Africa and the Middle East,covered,no
+8624,Dendroaspis polylepis,128,1,21,2,FAV Afrique|SAIMR Polyvalent Snake antivenom,Africa and the Middle East,covered,no
+8626,Hemachatus haemachatus,151,2,15,1,SAIMR Polyvalent Snake antivenom,Africa and the Middle East,covered,no
+8633,Calliophis bivirgatus,91,2,22,0,,,HIGH,no
+8635,Micrurus nigrocinctus,171,2,9,2,Anticoral monovalent|Coralmyn,The Americas,covered,no
+8637,Micrurus fulvius,168,2,29,1,Antivenin Micrurus fulvius,The Americas,covered,no
+8639,Naja haje,185,1,11,5,Bivalent Naja Walterinnesia Snake AV|FAV Afrique|Favirept|Polyvalent Snake Antivenom|Polyvalent Snake Antivenom VACSERA,Africa and the Middle East,covered,no
+8643,Naja melanoleuca,189,2,10,2,FAV Afrique|SAIMR Polyvalent Snake antivenom,Africa and the Middle East,covered,no
+8644,Naja mossambica,190,1,12,1,SAIMR Polyvalent Snake antivenom,Africa and the Middle East,covered,no
+8649,Naja kaouthia,186,1,32,4,Cobra Antivenin QSMI|Cobra antivenin|Neuro polyvalent snake antivenom QSMI|SAV Naja,Asia and Australasia,covered,no
+8654,Naja nigricollis,193,1,4,3,FAV Afrique|Favirept|Polyvalent Snake Antivenom VACSERA,Africa and the Middle East,covered,no
+8655,Naja nivea,194,1,7,1,SAIMR Polyvalent Snake antivenom,Africa and the Middle East,covered,no
+8656,Naja atra,183,1,61,2,Antivenom B multicinctus N n naja|Naja naja atra antivenom,Asia and Australasia,covered,no
+8657,Naja oxiana,196,1,9,1,Polyvalent Snake Antivenom Razi,Asia and Australasia,covered,no
+8658,Naja pallida,197,2,3,0,,Africa and the Middle East,HIGH,no
+8659,Naja philippinensis,198,1,1,1,Monovalent Naja philippinensis Cobra Antivenin,Asia and Australasia,covered,no
+8660,Naja samarensis,200,1,1,1,Monovalent Naja philippinensis Cobra Antivenin,Asia and Australasia,covered,no
+8663,Notechis scutatus,205,1,190,2,CSL Polyvalent antivenom|CSL Tiger Snake antivenom,Asia and Australasia,covered,no
+8665,Ophiophagus hannah,206,2,144,2,King cobra antivenin QSMI|Neuro polyvalent snake antivenom QSMI,Asia and Australasia,covered,no
+8668,Oxyuranus scutellatus,210,1,26,2,CSL Polyvalent antivenom|CSL Taipan antivenom,Asia and Australasia,covered,no
+8670,Pseudechis australis,230,1,18,2,CSL Black Snake antivenom|CSL Polyvalent antivenom,Asia and Australasia,covered,no
+8673,Pseudonaja textilis,250,2,208,2,CSL Brown Snake antivenom|CSL Polyvalent antivenom,Asia and Australasia,covered,no
+8692,Bitis arietans,29,1,20,4,FAV Afrique|Favirept|Polyvalent Snake Antivenom|SAIMR Polyvalent Snake antivenom,Africa and the Middle East,covered,no
+8694,Bitis gabonica,30,1,11,2,FAV Afrique|SAIMR Polyvalent Snake antivenom,Africa and the Middle East,covered,no
+8695,Bitis nasicornis,31,2,3,0,,Africa and the Middle East,HIGH,no
+8697,Cerastes cerastes,94,2,15,6,Anti viperin|Favirept|Gamma Vip|Polyvalent Anti viper Venom VACSERA|Polyvalent Snake Antivenom|Polyvalent Snake Antivenom VACSERA,Africa and the Middle East,covered,no
+8700,Echis pyramidum,141,1,79,2,Polyvalent Anti viper Venom VACSERA|SAIMR Echis antivenom,Africa and the Middle East,covered,no
+8704,Vipera ammodytes,264,1,66,3,Viper Venom Antitoxin|Viper venom antitoxin European|Viperfav,Africa and the Middle East|Europe,covered,no
+8706,Vipera aspis,265,2,34,3,Viper Venom Antitoxin|Viper venom antitoxin European|Viperfav,Europe,covered,no
+8707,Daboia russelii,123,1,50,4,Polyvalent Antisnake Venom|Polyvalent Snake Antivenin Asia|Snake Venom Antiserum IP Asia|Snake antivenin IP Asia,Asia and Australasia,covered,no
+8714,Gloydius halys,145,1,29,1,Agkistrodon halys antivenin,Africa and the Middle East|Asia and Australasia,covered,no
+8715,Agkistrodon piscivorus,10,1,14,2,Antivipmyn|Polyvalent crotalid antivenom CroFab,The Americas,covered,no
+8717,Calloselasma rhodostoma,93,1,19,3,Haemato polyvalent snake antivenom QSMI|Malayan pit viper antivenin QSMI|Polyvalent Anti Snake Venom,Asia and Australasia,covered,no
+8718,Agkistrodon bilineatus,8,2,6,2,Faboterapico Polivalente Antiviperino|Polyvalent Antivenom ICP,The Americas,covered,no
+8720,Agkistrodon contortrix,9,1,28,1,Polyvalent crotalid antivenom CroFab,The Americas,covered,no
+8722,Bothrops asper,50,1,13,6,Antiofidico Bothropico Polivalente|Antiofidico Polivalente CDBiotecnologia|Antivipmyn|Antivipmyn TRI|Faboterapico Polivalente Antiviperino|Polyvalent Antivenom ICP,The Americas,covered,no
+8724,Bothrops jararaca,57,2,109,11,Antibotropico Butantan|Antibotropico CPPI|Antibotropico FUNED|Antibotropico IVB|Antibotropico crotalico Butantan|Antibotropico crotalico FUNED|Antibotropico crotalico IVB|Antibotropico laquetico Butantan|Antibotropico laquetico FUNED|Antibotropico laquetico IVB|Antiveneno Bothropico Tetravalente,The Americas,covered,no
+8725,Bothrops atrox,51,1,145,15,Antibotropico Butantan|Antibotropico CPPI|Antibotropico FUNED|Antibotropico IVB|Antibotropico Polivalente|Antibotropico crotalico Butantan|Antibotropico crotalico FUNED|Antibotropico crotalico IVB|Antibotropico laquetico Butantan|Antibotropico laquetico FUNED|Antibotropico laquetico IVB|Antiofidico Bothropico Polivalente|Antiofidico Polivalente Botropico Crotalico|Antiofidico Polivalente Botropico Laquetico|Antiofidico Polivalente CDBiotecnologia,The Americas,covered,no
+8726,Bothrops jararacussu,58,2,19,11,Antibotropico Butantan|Antibotropico CPPI|Antibotropico FUNED|Antibotropico IVB|Antibotropico crotalico Butantan|Antibotropico crotalico FUNED|Antibotropico crotalico IVB|Antibotropico laquetico Butantan|Antibotropico laquetico FUNED|Antibotropico laquetico IVB|Antiveneno Bothropico Tetravalente,The Americas,covered,no
+8729,Crotalus adamanteus,100,1,298,1,Polyvalent crotalid antivenom CroFab,The Americas,covered,no
+8730,Crotalus atrox,101,1,45,2,Antivipmyn|Polyvalent crotalid antivenom CroFab,The Americas,covered,no
+8731,Crotalus durissus,103,1,61,13,Antibotropico crotalico Butantan|Antibotropico crotalico FUNED|Antibotropico crotalico IVB|Anticrotalico Butantan|Anticrotalico FUNED|Anticrotalico IVB|Anticrotalico Monovalente|Antiofidico Polivalente|Antiofidico Polivalente BIOL|Antiofidico Polivalente Botropico Crotalico|Antiveneno Bothropico Crotalico|Antiveneno Crotalico|Antivipmyn TRI,The Americas,covered,no
+8733,Crotalus molossus,105,2,9,2,Antivipmyn|Polyvalent crotalid antivenom CroFab,The Americas,covered,no
+8735,Crotalus ruber,107,2,3,0,,The Americas,HIGH,no
+8737,Crotalus scutulatus,108,1,14,2,Antivipmyn|Polyvalent crotalid antivenom CroFab,The Americas,covered,no
+8739,Crotalus viridis,113,2,23,2,Antivipmyn|Polyvalent crotalid antivenom CroFab,The Americas,covered,no
+8744,Crotalus basiliscus,102,2,5,1,Faboterapico Polivalente Antiviperino,The Americas,covered,no
+8752,Lachesis muta,160,2,21,7,Antibotropico laquetico Butantan|Antibotropico laquetico FUNED|Antibotropico laquetico IVB|Antilachesico Monovalente|Antiofidico Polivalente Botropico Laquetico|Antiofidico Polivalente CDBiotecnologia|Antivipmyn TRI,The Americas,covered,no
+8756,Sistrurus catenatus,252,2,18,1,Antivipmyn,The Americas,covered,no
+8758,Sistrurus miliarius,253,2,3,1,Polyvalent crotalid antivenom CroFab,Asia and Australasia|The Americas,covered,no
+8765,Trimeresurus albolabris,114|293,1,18,3,Green Pit Viper Antivenin QSMI|Haemato polyvalent snake antivenom QSMI|SAV Tri,Asia and Australasia,covered,no
+88086,Protobothrops elegans,224,2,23,0,,,HIGH,no
+88087,Protobothrops flavoviridis,225,1,75,1,Habu antivenom,Asia and Australasia,covered,no
+92438,Bungarus candidus,80,1,35,2,Malayan krait antivenin QSMI|Neuro polyvalent snake antivenom QSMI,Asia and Australasia,covered,no
+927686,Vipera renardi,270,2,7,0,,Asia and Australasia|Europe,HIGH,no
+95648,Bothrops neuwiedi,64,2,12,17,Antibotropico Butantan|Antibotropico CPPI|Antibotropico FUNED|Antibotropico IVB|Antibotropico bivalente|Antibotropico crotalico Butantan|Antibotropico crotalico FUNED|Antibotropico crotalico IVB|Antibotropico laquetico Butantan|Antibotropico laquetico FUNED|Antibotropico laquetico IVB|Antiofidico Polivalente BIOL|Antiofidico Polivalente Botropico Crotalico|Antiofidico Polivalente Botropico Laquetico|Antiveneno Bothropico Bivalente|Antiveneno Bothropico Crotalico|Antiveneno Bothropico Tetravalente,The Americas,covered,no
+96794,Naja annulifera,180,1,20,1,SAIMR Polyvalent Snake antivenom,Africa and the Middle East,covered,no
+96795,Naja mandalayensis,188,1,0,0,,Asia and Australasia,CRITICAL,no
+98334,Bothrops moojeni,63,2,17,10,Antibotropico Butantan|Antibotropico CPPI|Antibotropico FUNED|Antibotropico IVB|Antibotropico crotalico Butantan|Antibotropico crotalico FUNED|Antibotropico crotalico IVB|Antibotropico laquetico Butantan|Antibotropico laquetico FUNED|Antibotropico laquetico IVB,The Americas,covered,no
+99586,Echis ocellatus,139,1,77,2,FAV Afrique|SAIMR Echis antivenom,Africa and the Middle East,covered,no

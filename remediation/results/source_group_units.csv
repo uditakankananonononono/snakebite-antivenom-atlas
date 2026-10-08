@@ -1,0 +1,253 @@
+unit_id,name,source_rows,category,n_toxins,n_products,products,regions,gap_class,inherited_group_indications
+Acanthophis antarcticus,Acanthophis antarcticus,1,2,10,2,CSL Death Adder antivenom|CSL Polyvalent antivenom,Asia and Australasia,covered,no
+Acanthophis cryptamydros,Acanthophis cryptamydros,1,2,0,1,CSL Death Adder antivenom,,DATA GAP,no
+Acanthophis laevis,Acanthophis laevis,1,1,0,2,CSL Death Adder antivenom|CSL Polyvalent antivenom,Asia and Australasia,DATA GAP,no
+Acanthophis rugosus,Acanthophis rugosus,1,2,1,2,CSL Death Adder antivenom|CSL Polyvalent antivenom,Asia and Australasia,covered,no
+Acanthophis spp,Acanthophis spp,1|2|3|4,2,15,2,CSL Death Adder antivenom|CSL Polyvalent antivenom,Asia and Australasia,covered,no
+Agkistrodon bilineatus,Agkistrodon bilineatus,1,2,6,2,Faboterapico Polivalente Antiviperino|Polyvalent Antivenom ICP,The Americas,covered,no
+Agkistrodon contortrix,Agkistrodon contortrix,1,1,28,1,Polyvalent crotalid antivenom CroFab,The Americas,covered,no
+Agkistrodon howardgloydi,Agkistrodon howardgloydi,1,2,0,0,,,HIGH,no
+Agkistrodon piscivorus,Agkistrodon piscivorus,1,1,14,2,Antivipmyn|Polyvalent crotalid antivenom CroFab,The Americas,covered,no
+Agkistrodon russeolus,Agkistrodon russeolus,1,2,0,0,,,HIGH,no
+Agkistrodon taylori,Agkistrodon taylori,1,1,0,0,,The Americas,CRITICAL,no
+Atheris broadleyi,Atheris broadleyi,1,2,0,0,,,HIGH,no
+Atheris chlorechis,Atheris chlorechis,1,2,1,0,,Africa and the Middle East,HIGH,no
+Atheris squamigera,Atheris squamigera,1,2,1,0,,Africa and the Middle East,HIGH,no
+Atractaspis andersonii,Atractaspis andersonii,1,1,2,0,,,CRITICAL,no
+Atractaspis bibronii,Atractaspis bibronii,1,2,1,0,,Africa and the Middle East,HIGH,no
+Atractaspis engaddensis,Atractaspis engaddensis,1,2,3,0,,Africa and the Middle East,HIGH,no
+Atractaspis fallax,Atractaspis fallax,1,2,0,0,,Africa and the Middle East,HIGH,no
+Atractaspis irregularis,Atractaspis irregularis,1,2,2,0,,Africa and the Middle East,HIGH,no
+Atropoides mexicanus,Atropoides mexicanus,1,2,0,1,Polyvalent Antivenom ICP,The Americas,DATA GAP,no
+Atropoides occiduus,Atropoides occiduus,1,2,0,0,,,HIGH,no
+Atropoides spp,Atropoides spp,1|2|3|4,2,2,0,,The Americas,HIGH,no
+Austrelaps spp,Austrelaps spp,1|2|3,2,63,2,CSL Polyvalent antivenom|CSL Tiger Snake antivenom,Asia and Australasia,covered,no
+Bitis arietans,Bitis arietans,1,1,20,4,FAV Afrique|Favirept|Polyvalent Snake Antivenom|SAIMR Polyvalent Snake antivenom,Africa and the Middle East,covered,no
+Bitis gabonica,Bitis gabonica,1,1,11,2,FAV Afrique|SAIMR Polyvalent Snake antivenom,Africa and the Middle East,covered,no
+Bitis harenna,Bitis harenna,1,2,0,0,,,HIGH,no
+Bitis nasicornis,Bitis nasicornis,1,2,3,0,,Africa and the Middle East,HIGH,no
+Bitis parviocula,Bitis parviocula,1,2,0,0,,Africa and the Middle East,HIGH,no
+Bitis rhinoceros,Bitis rhinoceros,1,2,10,0,,Africa and the Middle East,HIGH,no
+Bothriechis lateralis,Bothriechis lateralis,1,2,4,1,Polyvalent Antivenom ICP,The Americas,covered,no
+Bothriechis marchi,Bothriechis marchi,1,2,0,0,,The Americas,HIGH,no
+Bothriechis schlegelii,Bothriechis schlegelii,1,2,3,1,Polyvalent Antivenom ICP,The Americas,covered,no
+Bothriechis spp,Bothriechis spp,1|2|3|4|5|6,2,1,0,,The Americas,HIGH,no
+Bothrocophias hyoprora,Bothrocophias hyoprora,1,2,2,1,Antibotropico Polivalente,The Americas,covered,no
+Bothrocophias microphthalmus,Bothrocophias microphthalmus,1,2,0,0,,The Americas,HIGH,no
+Bothrocophias spp,Bothrocophias spp,1|2|3,2,0,0,,The Americas,HIGH,no
+Bothrops alternatus,Bothrops alternatus,1,1,11,16,Antibotropico Butantan|Antibotropico CPPI|Antibotropico FUNED|Antibotropico IVB|Antibotropico bivalente|Antibotropico crotalico Butantan|Antibotropico crotalico FUNED|Antibotropico crotalico IVB|Antibotropico laquetico Butantan|Antibotropico laquetico FUNED|Antibotropico laquetico IVB|Antiofidico Bivalente Antibothropico|Antiofidico Polivalente BIOL|Antiveneno Bothropico Bivalente|Antiveneno Bothropico Crotalico|Antiveneno Bothropico Tetravalente,The Americas,covered,no
+Bothrops ammodytoides,Bothrops ammodytoides,1,2,1,2,Antiveneno Bothropico Bivalente|Antiveneno Bothropico Tetravalente,The Americas,covered,no
+Bothrops asper,Bothrops asper,1,1,13,6,Antiofidico Bothropico Polivalente|Antiofidico Polivalente CDBiotecnologia|Antivipmyn|Antivipmyn TRI|Faboterapico Polivalente Antiviperino|Polyvalent Antivenom ICP,The Americas,covered,no
+Bothrops atrox,Bothrops atrox,1,1,145,15,Antibotropico Butantan|Antibotropico CPPI|Antibotropico FUNED|Antibotropico IVB|Antibotropico Polivalente|Antibotropico crotalico Butantan|Antibotropico crotalico FUNED|Antibotropico crotalico IVB|Antibotropico laquetico Butantan|Antibotropico laquetico FUNED|Antibotropico laquetico IVB|Antiofidico Bothropico Polivalente|Antiofidico Polivalente Botropico Crotalico|Antiofidico Polivalente Botropico Laquetico|Antiofidico Polivalente CDBiotecnologia,The Americas,covered,no
+Bothrops bilineatus,Bothrops bilineatus,1,1,1,0,,The Americas,CRITICAL,no
+Bothrops brazili,Bothrops brazili,1,2,6,1,Antibotropico Polivalente,The Americas,covered,no
+Bothrops caribbaeus,Bothrops caribbaeus,1,1,0,1,BothroFAV,,DATA GAP,no
+Bothrops cf atrox,Bothrops cf atrox,1,1,0,1,Antiofidico Polivalente CDBiotecnologia,,DATA GAP,no
+Bothrops diporus,Bothrops diporus,1,2,4,5,Antibotropico bivalente|Antiofidico Polivalente BIOL|Antiveneno Bothropico Bivalente|Antiveneno Bothropico Crotalico|Antiveneno Bothropico Tetravalente,The Americas,covered,no
+Bothrops jararaca,Bothrops jararaca,1,2,109,11,Antibotropico Butantan|Antibotropico CPPI|Antibotropico FUNED|Antibotropico IVB|Antibotropico crotalico Butantan|Antibotropico crotalico FUNED|Antibotropico crotalico IVB|Antibotropico laquetico Butantan|Antibotropico laquetico FUNED|Antibotropico laquetico IVB|Antiveneno Bothropico Tetravalente,The Americas,covered,no
+Bothrops jararacussu,Bothrops jararacussu,1,2,19,11,Antibotropico Butantan|Antibotropico CPPI|Antibotropico FUNED|Antibotropico IVB|Antibotropico crotalico Butantan|Antibotropico crotalico FUNED|Antibotropico crotalico IVB|Antibotropico laquetico Butantan|Antibotropico laquetico FUNED|Antibotropico laquetico IVB|Antiveneno Bothropico Tetravalente,The Americas,covered,no
+Bothrops jonathani,Bothrops jonathani,1,2,0,0,,,HIGH,no
+Bothrops lanceolatus,Bothrops lanceolatus,1,1,0,1,BothroFAV,The Americas,DATA GAP,no
+Bothrops leucurus,Bothrops leucurus,1,1,10,0,,The Americas,CRITICAL,no
+Bothrops mattogrossensis,Bothrops mattogrossensis,1,2,5,2,Antiofidico Polivalente Botropico Crotalico|Antiofidico Polivalente Botropico Laquetico,The Americas,covered,no
+Bothrops moojeni,Bothrops moojeni,1,2,17,10,Antibotropico Butantan|Antibotropico CPPI|Antibotropico FUNED|Antibotropico IVB|Antibotropico crotalico Butantan|Antibotropico crotalico FUNED|Antibotropico crotalico IVB|Antibotropico laquetico Butantan|Antibotropico laquetico FUNED|Antibotropico laquetico IVB,The Americas,covered,no
+Bothrops neuwiedi,Bothrops neuwiedi,1,2,12,17,Antibotropico Butantan|Antibotropico CPPI|Antibotropico FUNED|Antibotropico IVB|Antibotropico bivalente|Antibotropico crotalico Butantan|Antibotropico crotalico FUNED|Antibotropico crotalico IVB|Antibotropico laquetico Butantan|Antibotropico laquetico FUNED|Antibotropico laquetico IVB|Antiofidico Polivalente BIOL|Antiofidico Polivalente Botropico Crotalico|Antiofidico Polivalente Botropico Laquetico|Antiveneno Bothropico Bivalente|Antiveneno Bothropico Crotalico|Antiveneno Bothropico Tetravalente,The Americas,covered,no
+Bothrops pictus,Bothrops pictus,1,1,3,1,Antibotropico Polivalente,The Americas,covered,no
+Bothrops pubescens,Bothrops pubescens,1,2,0,1,Antiofidico Bivalente Antibothropico,The Americas,DATA GAP,no
+Bothrops sanctaecrucis,Bothrops sanctaecrucis,1,2,0,0,,The Americas,HIGH,no
+Bothrops spp,Bothrops spp,1|2|3|4|5|6|7|8,2,10,1,Antibotropico Polivalente,The Americas,covered,no
+Bothrops taeniatus,Bothrops taeniatus,1,2,0,0,,,HIGH,no
+Bothrops venezuelensis,Bothrops venezuelensis,1,1,0,1,Antiofidico Polivalente CDBiotecnologia,The Americas,DATA GAP,no
+Bungarus bungaroides,Bungarus bungaroides,1,2,0,0,,Asia and Australasia,HIGH,no
+Bungarus caeruleus,Bungarus caeruleus,1,1,7,4,Polyvalent Antisnake Venom|Polyvalent Snake Antivenin Asia|Snake Venom Antiserum IP Asia|Snake antivenin IP Asia,Asia and Australasia,covered,no
+Bungarus candidus,Bungarus candidus,1,1,35,2,Malayan krait antivenin QSMI|Neuro polyvalent snake antivenom QSMI,Asia and Australasia,covered,no
+Bungarus ceylonicus,Bungarus ceylonicus,1,2,0,0,,Asia and Australasia,HIGH,no
+Bungarus fasciatus,Bungarus fasciatus,1,2,25,3,Banded krait antivenin QSMI|Neuro polyvalent snake antivenom QSMI|Polyvalent Anti Snake Venom,Asia and Australasia,covered,no
+Bungarus flaviceps,Bungarus flaviceps,1,2,22,0,,Asia and Australasia,HIGH,no
+Bungarus lividus,Bungarus lividus,1,2,0,0,,,HIGH,no
+Bungarus magnimaculatus,Bungarus magnimaculatus,1,1,0,0,,Asia and Australasia,CRITICAL,no
+Bungarus multicinctus,Bungarus multicinctus,1,1,48,3,Antivenom B multicinctus N n naja|Bungarus Antivenom|Bungarus multicinctus antivenin,Asia and Australasia,covered,no
+Bungarus niger,Bungarus niger,1,2,0,0,,Asia and Australasia,HIGH,no
+Bungarus persicus,Bungarus persicus,1,2,0,0,,,HIGH,no
+Bungarus sindanus,Bungarus sindanus,1,2,0,0,,,HIGH,no
+Bungarus slowinskii,Bungarus slowinskii,1,1,0,0,,,CRITICAL,no
+Bungarus walli,Bungarus walli,1,2,0,0,,,HIGH,no
+Calliophis bivirgatus,Calliophis bivirgatus,1,2,22,0,,,HIGH,no
+Calliophis intestinalis,Calliophis intestinalis,1,2,0,0,,Asia and Australasia,HIGH,no
+Calloselasma rhodostoma,Calloselasma rhodostoma,1,1,19,3,Haemato polyvalent snake antivenom QSMI|Malayan pit viper antivenin QSMI|Polyvalent Anti Snake Venom,Asia and Australasia,covered,no
+Cerastes cerastes,Cerastes cerastes,1,2,15,6,Anti viperin|Favirept|Gamma Vip|Polyvalent Anti viper Venom VACSERA|Polyvalent Snake Antivenom|Polyvalent Snake Antivenom VACSERA,Africa and the Middle East,covered,no
+Cerastes gasperettii,Cerastes gasperettii,1,2,0,1,Polyvalent Snake Antivenom,Africa and the Middle East,DATA GAP,no
+Cerrophidion godmani,Cerrophidion godmani,1,2,8,1,Polyvalent Antivenom ICP,The Americas,covered,no
+Cerrophidion sasai,Cerrophidion sasai,1,2,1,0,,,HIGH,no
+Cerrophidion spp,Cerrophidion spp,1|2|3,2,0,0,,The Americas,HIGH,no
+Cerrophidion wilsoni,Cerrophidion wilsoni,1,2,0,0,,,HIGH,no
+Crotalus adamanteus,Crotalus adamanteus,1,1,298,1,Polyvalent crotalid antivenom CroFab,The Americas,covered,no
+Crotalus atrox,Crotalus atrox,1,1,45,2,Antivipmyn|Polyvalent crotalid antivenom CroFab,The Americas,covered,no
+Crotalus basiliscus,Crotalus basiliscus,1,2,5,1,Faboterapico Polivalente Antiviperino,The Americas,covered,no
+Crotalus durissus,Crotalus durissus,1,1,61,13,Antibotropico crotalico Butantan|Antibotropico crotalico FUNED|Antibotropico crotalico IVB|Anticrotalico Butantan|Anticrotalico FUNED|Anticrotalico IVB|Anticrotalico Monovalente|Antiofidico Polivalente|Antiofidico Polivalente BIOL|Antiofidico Polivalente Botropico Crotalico|Antiveneno Bothropico Crotalico|Antiveneno Crotalico|Antivipmyn TRI,The Americas,covered,no
+Crotalus horridus,Crotalus horridus,1,1,47,1,Polyvalent crotalid antivenom CroFab,The Americas,covered,no
+Crotalus molossus,Crotalus molossus,1,2,9,2,Antivipmyn|Polyvalent crotalid antivenom CroFab,The Americas,covered,no
+Crotalus oreganus,Crotalus oreganus,1,2,0,1,Polyvalent crotalid antivenom CroFab,The Americas,DATA GAP,no
+Crotalus ornatus,Crotalus ornatus,1,2,0,2,Antivipmyn|Polyvalent crotalid antivenom CroFab,,DATA GAP,no
+Crotalus ruber,Crotalus ruber,1,2,3,0,,The Americas,HIGH,no
+Crotalus scutulatus,Crotalus scutulatus,1,1,14,2,Antivipmyn|Polyvalent crotalid antivenom CroFab,The Americas,covered,no
+Crotalus simus,Crotalus simus,1,1,1,2,Antivipmyn|Polyvalent Antivenom ICP,The Americas,covered,no
+Crotalus spp,Crotalus spp,1,2,0,0,,The Americas,HIGH,no
+Crotalus totonacus,Crotalus totonacus,1,1,0,0,,The Americas,CRITICAL,no
+Crotalus tzabcan,Crotalus tzabcan,1,2,8,0,,The Americas,HIGH,no
+Crotalus viridis,Crotalus viridis,1,2,23,2,Antivipmyn|Polyvalent crotalid antivenom CroFab,The Americas,covered,no
+Cryptelytrops albolabris,Cryptelytrops albolabris,1,1,0,3,Green Pit Viper Antivenin QSMI|Haemato polyvalent snake antivenom QSMI|SAV Tri,Asia and Australasia,DATA GAP,no
+Cryptelytrops erythrurus,Cryptelytrops erythrurus,1,2,0,0,,,HIGH,no
+Cryptelytrops insularis,Cryptelytrops insularis,1,2,0,2,Green Pit Viper Antivenin QSMI|Haemato polyvalent snake antivenom QSMI,,DATA GAP,no
+Cryptelytrops macrops,Cryptelytrops macrops,1,2,0,1,Green Pit Viper Antivenin QSMI,Asia and Australasia,DATA GAP,no
+Cryptelytrops purpureomaculatus,Cryptelytrops purpureomaculatus,1,2,0,2,Green Pit Viper Antivenin QSMI|Haemato polyvalent snake antivenom QSMI,Asia and Australasia,DATA GAP,no
+Cryptelytrops septentrionalis,Cryptelytrops septentrionalis,1,2,0,0,,,HIGH,no
+Daboia deserti,Daboia deserti,1,2,0,1,Favirept,,DATA GAP,no
+Daboia mauritanica,Daboia mauritanica,1,1,0,0,,Africa and the Middle East,CRITICAL,no
+Daboia palaestinae,Daboia palaestinae,1,1,7,0,,Africa and the Middle East,CRITICAL,no
+Daboia russelii,Daboia russelii,1,1,50,4,Polyvalent Antisnake Venom|Polyvalent Snake Antivenin Asia|Snake Venom Antiserum IP Asia|Snake antivenin IP Asia,Asia and Australasia,covered,no
+Daboia siamensis,Daboia siamensis,1,1,39,3,Haemato polyvalent snake antivenom QSMI|Russells viper antivenin QSMI|Viper antivenin,Asia and Australasia,covered,no
+Deinagkistrodon acutus,Deinagkistrodon acutus,1,1,51,2,Agkistrodon Acutus antivenin|Monovalent Antivenin Snorkel Viper,Asia and Australasia,covered,no
+Dendroaspis angusticeps,Dendroaspis angusticeps,1,1,34,1,SAIMR Polyvalent Snake antivenom,Africa and the Middle East,covered,no
+Dendroaspis jamesoni,Dendroaspis jamesoni,1,1,11,2,FAV Afrique|SAIMR Polyvalent Snake antivenom,Africa and the Middle East,covered,no
+Dendroaspis polylepis,Dendroaspis polylepis,1,1,21,2,FAV Afrique|SAIMR Polyvalent Snake antivenom,Africa and the Middle East,covered,no
+Dendroaspis viridis,Dendroaspis viridis,1,1,8,1,FAV Afrique,Africa and the Middle East,covered,no
+Dispholidus typus,Dispholidus typus,1,2,4,1,SAIMR Boomslang antivenom,Africa and the Middle East,covered,no
+Echis borkini,Echis borkini,1,1,0,1,Polyvalent Snake Antivenom,Africa and the Middle East,DATA GAP,no
+Echis carinatus,Echis carinatus,1,1,66,6,Polyvalent Antisnake Venom|Polyvalent Snake Antivenin Asia|Polyvalent Snake Antivenom Asia|Polyvalent Snake Antivenom Razi|Snake Venom Antiserum IP Asia|Snake antivenin IP Asia,Africa and the Middle East|Asia and Australasia,covered,no
+Echis coloratus,Echis coloratus,1,1,147,1,Polyvalent Snake Antivenom,Africa and the Middle East,covered,no
+Echis hughesi,Echis hughesi,1,2,0,0,,Africa and the Middle East,HIGH,no
+Echis jogeri,Echis jogeri,1,1,0,0,,,CRITICAL,no
+Echis khosatzkii,Echis khosatzkii,1,2,0,0,,,HIGH,no
+Echis leucogaster,Echis leucogaster,1,2,2,2,FAV Afrique|Favirept,Africa and the Middle East,covered,no
+Echis megalocephalus,Echis megalocephalus,1,2,0,0,,,HIGH,no
+Echis ocellatus,Echis ocellatus,1,1,77,2,FAV Afrique|SAIMR Echis antivenom,Africa and the Middle East,covered,no
+Echis omanensis,Echis omanensis,1,1,0,1,Polyvalent Snake Antivenom,Africa and the Middle East,DATA GAP,no
+Echis pyramidum,Echis pyramidum,1,1,79,2,Polyvalent Anti viper Venom VACSERA|SAIMR Echis antivenom,Africa and the Middle East,covered,no
+Eristocophis macmahoni,Eristocophis macmahoni,1,2,6,0,,,HIGH,no
+Gloydius blomhoffi,Gloydius blomhoffi,1,1,12,1,Mamushi Antivenom Kaketsuken,Asia and Australasia,covered,no
+Gloydius brevicaudus,Gloydius brevicaudus,1,1,18,2,Agkistrodon Salmusa Antivenom|Mamushi Antivenom Kaketsuken,Asia and Australasia,covered,no
+Gloydius halys,Gloydius halys,1,1,29,1,Agkistrodon halys antivenin,Africa and the Middle East|Asia and Australasia,covered,no
+Gloydius halys caucasicus,Gloydius halys caucasicus,1,2,0,1,Polyvalent Snake Antivenom Razi,,DATA GAP,no
+Gloydius himalayanus,Gloydius himalayanus,1,2,0,0,,,HIGH,no
+Gloydius intermedius,Gloydius intermedius,1,2,19,1,Agkistrodon Salmusa Antivenom,Africa and the Middle East|Asia and Australasia,covered,no
+Gloydius tsushimaensis,Gloydius tsushimaensis,1,2,1,0,,,HIGH,no
+Gloydius ussuriensis,Gloydius ussuriensis,1,2,12,1,Agkistrodon Salmusa Antivenom,Asia and Australasia,covered,no
+Hemachatus haemachatus,Hemachatus haemachatus,1,2,15,1,SAIMR Polyvalent Snake antivenom,Africa and the Middle East,covered,no
+Himalayophis tibetanus,Himalayophis tibetanus,1,2,0,0,,,HIGH,no
+Hoplocephalus spp,Hoplocephalus spp,1|2|3,2,49,2,CSL Polyvalent antivenom|CSL Tiger Snake antivenom,Asia and Australasia,covered,no
+Hypnale hypnale,Hypnale hypnale,1,1,0,0,,Asia and Australasia,CRITICAL,no
+Hypnale nepa,Hypnale nepa,1,2,0,0,,Asia and Australasia,HIGH,no
+Hypnale zara,Hypnale zara,1,2,0,0,,,HIGH,no
+Lachesis acrochorda,Lachesis acrochorda,1,2,0,0,,The Americas,HIGH,no
+Lachesis melanocephala,Lachesis melanocephala,1,2,0,1,Polyvalent Antivenom ICP,The Americas,DATA GAP,no
+Lachesis muta,Lachesis muta,1,2,21,7,Antibotropico laquetico Butantan|Antibotropico laquetico FUNED|Antibotropico laquetico IVB|Antilachesico Monovalente|Antiofidico Polivalente Botropico Laquetico|Antiofidico Polivalente CDBiotecnologia|Antivipmyn TRI,The Americas,covered,no
+Lachesis stenophyrs,Lachesis stenophyrs,1,2,1,1,Polyvalent Antivenom ICP,,covered,no
+Macrovipera lebetina,Macrovipera lebetina,1,1,4,3,Anti viperin|Gamma Vip|Polyvalent Snake Antivenom Razi,Africa and the Middle East|Asia and Australasia,covered,no
+Macrovipera schweizeri,Macrovipera schweizeri,1,2,0,0,,,HIGH,no
+Micropechis ikaheka,Micropechis ikaheka,1,2,0,1,CSL Polyvalent antivenom,Asia and Australasia,DATA GAP,no
+Micruroides euryxanthus,Micruroides euryxanthus,1,2,0,0,,The Americas,HIGH,no
+Micrurus circinalis,Micrurus circinalis,1,2,0,0,,The Americas,HIGH,no
+Micrurus corallinus,Micrurus corallinus,1,2,9,3,Antielapidico Butantan|Antielapidico FUNED|Antiveneno Micrurus,The Americas,covered,no
+Micrurus fulvius,Micrurus fulvius,1,2,29,1,Antivenin Micrurus fulvius,The Americas,covered,no
+Micrurus lemniscatus,Micrurus lemniscatus,1,2,1,0,,The Americas,HIGH,no
+Micrurus mipartitus,Micrurus mipartitus,1,2,15,0,,The Americas,HIGH,no
+Micrurus nigrocinctus,Micrurus nigrocinctus,1,2,9,2,Anticoral monovalent|Coralmyn,The Americas,covered,no
+Micrurus spixii,Micrurus spixii,1,2,0,0,,The Americas,HIGH,no
+Micrurus spp,Micrurus spp,1,2,0,3,Antielapidico Butantan|Antielapidico FUNED|Antiveneno Micrurus,The Americas,DATA GAP,no
+Micrurus surinamensis,Micrurus surinamensis,1,2,6,0,,The Americas,HIGH,no
+Micrurus tener,Micrurus tener,1,2,2,2,Antivenin Micrurus fulvius|Coralmyn,The Americas,covered,no
+Montivipera raddei,Montivipera raddei,1,2,1,1,Polyvalent Snake Antivenom Razi,Asia and Australasia,covered,no
+Montivipera xanthina,Montivipera xanthina,1,1,0,0,,Asia and Australasia|Europe,CRITICAL,no
+Naja anchietae,Naja anchietae,1,1,1,0,,Africa and the Middle East,CRITICAL,no
+Naja annulata,Naja annulata,1,2,2,0,,Africa and the Middle East,HIGH,no
+Naja annulifera,Naja annulifera,1,1,20,1,SAIMR Polyvalent Snake antivenom,Africa and the Middle East,covered,no
+Naja arabica,Naja arabica,1,2,0,2,Bivalent Naja Walterinnesia Snake AV|Polyvalent Snake Antivenom,Africa and the Middle East,DATA GAP,no
+Naja ashei,Naja ashei,1,1,0,0,,Africa and the Middle East,CRITICAL,no
+Naja atra,Naja atra,1,1,61,2,Antivenom B multicinctus N n naja|Naja naja atra antivenom,Asia and Australasia,covered,no
+Naja christyi,Naja christyi,1,2,1,0,,,HIGH,no
+Naja haje,Naja haje,1,1,11,5,Bivalent Naja Walterinnesia Snake AV|FAV Afrique|Favirept|Polyvalent Snake Antivenom|Polyvalent Snake Antivenom VACSERA,Africa and the Middle East,covered,no
+Naja kaouthia,Naja kaouthia,1,1,32,4,Cobra Antivenin QSMI|Cobra antivenin|Neuro polyvalent snake antivenom QSMI|SAV Naja,Asia and Australasia,covered,no
+Naja katiensis,Naja katiensis,1,2,0,0,,Africa and the Middle East,HIGH,no
+Naja mandalayensis,Naja mandalayensis,1,1,0,0,,Asia and Australasia,CRITICAL,no
+Naja melanoleuca,Naja melanoleuca,1,2,10,2,FAV Afrique|SAIMR Polyvalent Snake antivenom,Africa and the Middle East,covered,no
+Naja mossambica,Naja mossambica,1,1,12,1,SAIMR Polyvalent Snake antivenom,Africa and the Middle East,covered,no
+Naja naja,Naja naja,1,1,233,5,Polyvalent Antisnake Venom|Polyvalent Snake Antivenin Asia|Polyvalent Snake Antivenom Asia|Snake Venom Antiserum IP Asia|Snake antivenin IP Asia,Africa and the Middle East|Asia and Australasia,covered,no
+Naja nigricincta,Naja nigricincta,1,2,0,0,,Africa and the Middle East,HIGH,no
+Naja nigricollis,Naja nigricollis,1,1,4,3,FAV Afrique|Favirept|Polyvalent Snake Antivenom VACSERA,Africa and the Middle East,covered,no
+Naja nivea,Naja nivea,1,1,7,1,SAIMR Polyvalent Snake antivenom,Africa and the Middle East,covered,no
+Naja nubiae,Naja nubiae,1,2,0,0,,Africa and the Middle East,HIGH,no
+Naja oxiana,Naja oxiana,1,1,9,1,Polyvalent Snake Antivenom Razi,Asia and Australasia,covered,no
+Naja pallida,Naja pallida,1,2,3,0,,Africa and the Middle East,HIGH,no
+Naja philippinensis,Naja philippinensis,1,1,1,1,Monovalent Naja philippinensis Cobra Antivenin,Asia and Australasia,covered,no
+Naja sagittifera,Naja sagittifera,1,1,2,0,,,CRITICAL,no
+Naja samarensis,Naja samarensis,1,1,1,1,Monovalent Naja philippinensis Cobra Antivenin,Asia and Australasia,covered,no
+Naja senegalensis,Naja senegalensis,1,1,0,1,FAV Afrique,Africa and the Middle East,DATA GAP,no
+Naja siamensis,Naja siamensis,1,1,0,2,Cobra Antivenin QSMI|Neuro polyvalent snake antivenom QSMI,Asia and Australasia,DATA GAP,no
+Naja sputatrix,Naja sputatrix,1,1,31,1,Polyvalent Anti Snake Venom,Asia and Australasia,covered,no
+Naja sumatrana,Naja sumatrana,1,1,1,3,Cobra Antivenin QSMI|Monovalent Naja philippinensis Cobra Antivenin|Neuro polyvalent snake antivenom QSMI,Asia and Australasia,covered,no
+Notechis scutatus,Notechis scutatus,1,1,190,2,CSL Polyvalent antivenom|CSL Tiger Snake antivenom,Asia and Australasia,covered,no
+Ophiophagus hannah,Ophiophagus hannah,1,2,144,2,King cobra antivenin QSMI|Neuro polyvalent snake antivenom QSMI,Asia and Australasia,covered,no
+Ophryacus spp,Ophryacus spp,1|2,2,0,0,,The Americas,HIGH,no
+Oxyuranus microlepidotus,Oxyuranus microlepidotus,1,2,23,2,CSL Polyvalent antivenom|CSL Taipan antivenom,Asia and Australasia,covered,no
+Oxyuranus scutellatus,Oxyuranus scutellatus,1,1,26,2,CSL Polyvalent antivenom|CSL Taipan antivenom,Asia and Australasia,covered,no
+Oxyuranus temporalis,Oxyuranus temporalis,1,2,0,2,CSL Polyvalent antivenom|CSL Taipan antivenom,Asia and Australasia,DATA GAP,no
+Parias flavomaculatus,Parias flavomaculatus,1,2,0,0,,,HIGH,no
+Parias sumatranus,Parias sumatranus,1,2,0,0,,,HIGH,no
+Porthidium lansbergii,Porthidium lansbergii,1,2,0,1,Antiofidico Polivalente,The Americas,DATA GAP,no
+Porthidium nasutum,Porthidium nasutum,1,2,1,2,Antivipmyn|Polyvalent Antivenom ICP,The Americas,covered,no
+Porthidium ophryomegas,Porthidium ophryomegas,1,2,1,1,Polyvalent Antivenom ICP,The Americas,covered,no
+Porthidium spp,Porthidium spp,1|2|3|4|5|6,2,0,0,,The Americas,HIGH,no
+Proatheris superciliaris,Proatheris superciliaris,1,2,2,0,,Africa and the Middle East,HIGH,no
+Protobothrops elegans,Protobothrops elegans,1,2,23,0,,,HIGH,no
+Protobothrops flavoviridis,Protobothrops flavoviridis,1,1,75,1,Habu antivenom,Asia and Australasia,covered,no
+Protobothrops jerdonii,Protobothrops jerdonii,1,2,19,0,,Asia and Australasia,HIGH,no
+Protobothrops kaulbacki,Protobothrops kaulbacki,1,2,0,0,,Asia and Australasia,HIGH,no
+Protobothrops mangshanensis,Protobothrops mangshanensis,1,2,2,0,,,HIGH,no
+Protobothrops mucrosquamatus,Protobothrops mucrosquamatus,1,2,29,1,Antivenom Tr mucrosquamatus stejnegeri,Asia and Australasia,covered,no
+Pseudechis australis,Pseudechis australis,1,1,18,2,CSL Black Snake antivenom|CSL Polyvalent antivenom,Asia and Australasia,covered,no
+Pseudechis papuanus,Pseudechis papuanus,1,2,5,2,CSL Black Snake antivenom|CSL Polyvalent antivenom,Asia and Australasia,covered,no
+Pseudechis rossignolii,Pseudechis rossignolii,1,2,5,2,CSL Black Snake antivenom|CSL Polyvalent antivenom,Asia and Australasia,covered,no
+Pseudechis spp,Pseudechis spp,1|2|3|4|5,2,14,3,CSL Black Snake antivenom|CSL Polyvalent antivenom|CSL Tiger Snake antivenom,Asia and Australasia,covered,no
+Pseudocerastes fieldi,Pseudocerastes fieldi,1,2,3,0,,Africa and the Middle East,HIGH,no
+Pseudocerastes persicus,Pseudocerastes persicus,1,2,2,1,Polyvalent Snake Antivenom Razi,Africa and the Middle East,covered,no
+Pseudohaje goldii,Pseudohaje goldii,1,2,0,0,,Africa and the Middle East,HIGH,no
+Pseudohaje nigra,Pseudohaje nigra,1,2,0,0,,Africa and the Middle East,HIGH,no
+Pseudonaja affinis,Pseudonaja affinis,1,1,0,2,CSL Brown Snake antivenom|CSL Polyvalent antivenom,Asia and Australasia,DATA GAP,no
+Pseudonaja aspidorhyncha,Pseudonaja aspidorhyncha,1,2,0,2,CSL Brown Snake antivenom|CSL Polyvalent antivenom,Asia and Australasia,DATA GAP,no
+Pseudonaja mengdeni,Pseudonaja mengdeni,1,1,0,2,CSL Brown Snake antivenom|CSL Polyvalent antivenom,Asia and Australasia,DATA GAP,no
+Pseudonaja nuchalis,Pseudonaja nuchalis,1,1,0,2,CSL Brown Snake antivenom|CSL Polyvalent antivenom,Asia and Australasia,DATA GAP,no
+Pseudonaja spp,Pseudonaja spp,1|2|3|4,2,0,2,CSL Brown Snake antivenom|CSL Polyvalent antivenom,Asia and Australasia,DATA GAP,no
+Pseudonaja textilis,Pseudonaja textilis,1,2,208,2,CSL Brown Snake antivenom|CSL Polyvalent antivenom,Asia and Australasia,covered,no
+Rhabdophis tigrinus,Rhabdophis tigrinus,1,2,1,1,Anti Yamakagashi Antivenom,Asia and Australasia,covered,no
+Sistrurus catenatus,Sistrurus catenatus,1,2,18,1,Antivipmyn,The Americas,covered,no
+Sistrurus miliarius,Sistrurus miliarius,1,2,3,1,Polyvalent crotalid antivenom CroFab,Asia and Australasia|The Americas,covered,no
+Thelotornis capensis,Thelotornis capensis,1,2,0,0,,Africa and the Middle East,HIGH,no
+Thelotornis kirtlandii,Thelotornis kirtlandii,1,2,0,0,,Africa and the Middle East,HIGH,no
+Thelotornis mossambicanus,Thelotornis mossambicanus,1,2,0,0,,Africa and the Middle East,HIGH,no
+Thelotornis usambaricus,Thelotornis usambaricus,1,2,0,0,,Africa and the Middle East,HIGH,no
+Trimeresurus albolabris,Trimeresurus albolabris,1,unknown,18,0,,,HIGH,no
+Trimeresurus cardamomensis,Trimeresurus cardamomensis,1,2,0,0,,,HIGH,no
+Trimeresurus gramineus,Trimeresurus gramineus,1,2,0,0,,Asia and Australasia,HIGH,no
+Trimeresurus hageni,Trimeresurus hageni,1,2,0,1,Green Pit Viper Antivenin QSMI,,DATA GAP,no
+Trimeresurus malabaricus,Trimeresurus malabaricus,1,2,0,0,,Asia and Australasia,HIGH,no
+Trimeresurus purpureomaculatus,Trimeresurus purpureomaculatus,1,unknown,5,0,,,HIGH,no
+Trimeresurus rubeus,Trimeresurus rubeus,1,2,0,0,,,HIGH,no
+Trimeresurus stejnegeri,Trimeresurus stejnegeri,1,unknown,68,0,,,HIGH,no
+Trimeresurus trigonocephalus,Trimeresurus trigonocephalus,1,2,0,0,,Asia and Australasia,HIGH,no
+Tropidechis carinatus,Tropidechis carinatus,1,2,22,2,CSL Polyvalent antivenom|CSL Tiger Snake antivenom,Asia and Australasia,covered,no
+Tropidolaemus philippensis,Tropidolaemus philippensis,1,2,0,0,,Asia and Australasia,HIGH,no
+Tropidolaemus subannulatus,Tropidolaemus subannulatus,1,2,0,0,,Asia and Australasia,HIGH,no
+Vipera ammodytes,Vipera ammodytes,1,1,66,3,Viper Venom Antitoxin|Viper venom antitoxin European|Viperfav,Africa and the Middle East|Europe,covered,no
+Vipera aspis,Vipera aspis,1,2,34,3,Viper Venom Antitoxin|Viper venom antitoxin European|Viperfav,Europe,covered,no
+Vipera berus,Vipera berus,1,2,13,4,Anti viper anti adder venom|Viper Venom Antitoxin|Viper venom antitoxin European|Viperfav,Asia and Australasia|Europe,covered,no
+Vipera eriwanensis,Vipera eriwanensis,1,2,0,0,,Asia and Australasia,HIGH,no
+Vipera latastei,Vipera latastei,1,2,0,0,,Europe,HIGH,no
+Vipera nikolskii,Vipera nikolskii,1,2,5,0,,Europe,HIGH,no
+Vipera renardi,Vipera renardi,1,2,7,0,,Asia and Australasia|Europe,HIGH,no
+Vipera seoanei,Vipera seoanei,1,2,0,0,,Europe,HIGH,no
+Vipera spp,Vipera spp,1|2|3|4,2,0,0,,Africa and the Middle East|Asia and Australasia,HIGH,no
+Vipera ursinii,Vipera ursinii,1,2,1,1,Viper venom antitoxin European,Asia and Australasia|Europe,covered,no
+Viridovipera stejnegeri,Viridovipera stejnegeri,1,2,0,1,Antivenom Tr mucrosquamatus stejnegeri,,DATA GAP,no
+Walterinnesia aegyptia,Walterinnesia aegyptia,1,2,11,2,Bivalent Naja Walterinnesia Snake AV|Polyvalent Snake Antivenom,Africa and the Middle East,covered,no
+Walterinnesia morgani,Walterinnesia morgani,1,2,0,2,Bivalent Naja Walterinnesia Snake AV|Polyvalent Snake Antivenom,,DATA GAP,no

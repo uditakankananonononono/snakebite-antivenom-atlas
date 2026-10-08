@@ -1,0 +1,284 @@
+{
+  "primary_taxid": {
+    "n": 248,
+    "unique_toxins": 3603,
+    "gap_classes": {
+      "covered": 110,
+      "HIGH": 89,
+      "DATA GAP": 33,
+      "CRITICAL": 16
+    },
+    "region_table": [
+      [
+        4,
+        22,
+        5,
+        26
+      ],
+      [
+        4,
+        14,
+        14,
+        48
+      ],
+      [
+        1,
+        4,
+        0,
+        4
+      ],
+      [
+        4,
+        25,
+        8,
+        38
+      ]
+    ],
+    "region_pearson": 12.425361744079229,
+    "region_mc_p": 0.1862,
+    "region_expected": [
+      [
+        3.3529411764705883,
+        16.764705882352942,
+        6.963800904977376,
+        29.918552036199095
+      ],
+      [
+        4.705882352941177,
+        23.529411764705884,
+        9.773755656108598,
+        41.990950226244344
+      ],
+      [
+        0.5294117647058824,
+        2.6470588235294117,
+        1.0995475113122173,
+        4.723981900452489
+      ],
+      [
+        4.411764705882353,
+        22.058823529411764,
+        9.16289592760181,
+        39.366515837104075
+      ]
+    ],
+    "expected_lt5": 7,
+    "region_min_expected": 0.5294117647058824,
+    "region_dof": 9,
+    "spearman_rho": 0.555372648384912,
+    "spearman_p": 1.8062270979780107e-21,
+    "mannwhitney_u": 11875.5,
+    "mannwhitney_p": 4.145359598397582e-16,
+    "median_covered": 9.0,
+    "median_uncovered": 0.0,
+    "covered_n": 143,
+    "uncovered_n": 105,
+    "fisher_table": [
+      [
+        20,
+        55
+      ],
+      [
+        84,
+        89
+      ]
+    ],
+    "fisher_or": 0.3852813852813853,
+    "fisher_p": 0.0013099408234238756,
+    "holm_p": {
+      "region": 0.1862,
+      "spearman": 7.224908391912043e-21,
+      "mannwhitney": 1.2436078795192746e-15,
+      "fisher": 0.0026198816468477513
+    },
+    "region_inference": "descriptive only; multi-region dependence and source-group geographic inheritance"
+  },
+  "no_inherited_indications": {
+    "n": 209,
+    "unique_toxins": 3449,
+    "gap_classes": {
+      "covered": 100,
+      "HIGH": 70,
+      "DATA GAP": 23,
+      "CRITICAL": 16
+    },
+    "region_table": [
+      [
+        4,
+        21,
+        5,
+        26
+      ],
+      [
+        4,
+        12,
+        6,
+        40
+      ],
+      [
+        1,
+        4,
+        0,
+        4
+      ],
+      [
+        4,
+        11,
+        6,
+        37
+      ]
+    ],
+    "region_pearson": 9.745696817555066,
+    "region_mc_p": 0.3688,
+    "region_expected": [
+      [
+        3.9351351351351354,
+        14.52972972972973,
+        5.145945945945946,
+        32.38918918918919
+      ],
+      [
+        4.356756756756757,
+        16.086486486486486,
+        5.697297297297298,
+        35.85945945945946
+      ],
+      [
+        0.6324324324324324,
+        2.3351351351351353,
+        0.827027027027027,
+        5.205405405405405
+      ],
+      [
+        4.075675675675676,
+        15.04864864864865,
+        5.3297297297297295,
+        33.545945945945945
+      ]
+    ],
+    "expected_lt5": 6,
+    "region_min_expected": 0.6324324324324324,
+    "region_dof": 9,
+    "spearman_rho": 0.5848571895285906,
+    "spearman_p": 1.4285421965504085e-20,
+    "mannwhitney_u": 8485.0,
+    "mannwhitney_p": 2.4485396828571536e-14,
+    "median_covered": 10.0,
+    "median_uncovered": 0.0,
+    "covered_n": 123,
+    "uncovered_n": 86,
+    "fisher_table": [
+      [
+        20,
+        55
+      ],
+      [
+        57,
+        77
+      ]
+    ],
+    "fisher_or": 0.49122807017543857,
+    "fisher_p": 0.0253239405667198,
+    "holm_p": {
+      "region": 0.3688,
+      "spearman": 5.714168786201634e-20,
+      "mannwhitney": 7.345619048571461e-14,
+      "fisher": 0.0506478811334396
+    },
+    "region_inference": "descriptive only; multi-region dependence and source-group geographic inheritance"
+  },
+  "source_groups": {
+    "n": 252,
+    "unique_toxins": 3644,
+    "gap_classes": {
+      "covered": 106,
+      "DATA GAP": 35,
+      "HIGH": 95,
+      "CRITICAL": 16
+    },
+    "region_table": [
+      [
+        4,
+        24,
+        5,
+        27
+      ],
+      [
+        4,
+        16,
+        12,
+        45
+      ],
+      [
+        1,
+        4,
+        0,
+        4
+      ],
+      [
+        4,
+        19,
+        8,
+        38
+      ]
+    ],
+    "region_pearson": 9.526901971439948,
+    "region_mc_p": 0.3858,
+    "region_expected": [
+      [
+        3.627906976744186,
+        17.58139534883721,
+        6.976744186046512,
+        31.813953488372093
+      ],
+      [
+        4.655813953488372,
+        22.56279069767442,
+        8.953488372093023,
+        40.82790697674419
+      ],
+      [
+        0.5441860465116279,
+        2.6372093023255814,
+        1.0465116279069768,
+        4.772093023255814
+      ],
+      [
+        4.1720930232558135,
+        20.218604651162792,
+        8.023255813953488,
+        36.586046511627906
+      ]
+    ],
+    "expected_lt5": 7,
+    "region_min_expected": 0.5441860465116279,
+    "region_dof": 9,
+    "spearman_rho": 0.5398110781019111,
+    "spearman_p": 1.8477737738980367e-20,
+    "mannwhitney_u": 12028.5,
+    "mannwhitney_p": 2.4304805408172253e-14,
+    "median_covered": 9.0,
+    "median_uncovered": 0.0,
+    "covered_n": 141,
+    "uncovered_n": 111,
+    "fisher_table": [
+      [
+        23,
+        57
+      ],
+      [
+        85,
+        84
+      ]
+    ],
+    "fisher_or": 0.39876160990712073,
+    "fisher_p": 0.0015885605433885127,
+    "holm_p": {
+      "region": 0.3858,
+      "spearman": 7.391095095592147e-20,
+      "mannwhitney": 7.291441622451676e-14,
+      "fisher": 0.0031771210867770254
+    },
+    "region_inference": "descriptive only; multi-region dependence and source-group geographic inheritance"
+  }
+}
