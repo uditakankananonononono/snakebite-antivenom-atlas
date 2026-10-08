@@ -1,0 +1,107 @@
+species,region,n_products,split
+Acanthophis antarcticus,Asia and Australasia,2,calibration
+Acanthophis rugosus,Asia and Australasia,2,test
+Acanthophis spp,unknown,2,test
+Agkistrodon bilineatus,The Americas,2,calibration
+Agkistrodon contortrix,The Americas,1,calibration
+Agkistrodon piscivorus,The Americas,2,calibration
+Austrelaps spp,Asia and Australasia,2,calibration
+Bitis arietans,Africa and the Middle East,4,calibration
+Bitis gabonica,Africa and the Middle East,2,test
+Bothriechis lateralis,The Americas,1,calibration
+Bothriechis schlegelii,The Americas,1,test
+Bothrocophias hyoprora,The Americas,1,calibration
+Bothrops alternatus,The Americas,16,calibration
+Bothrops ammodytoides,The Americas,2,calibration
+Bothrops asper,The Americas,6,calibration
+Bothrops atrox,The Americas,15,calibration
+Bothrops brazili,The Americas,1,calibration
+Bothrops diporus,The Americas,5,calibration
+Bothrops jararaca,The Americas,11,calibration
+Bothrops jararacussu,The Americas,11,calibration
+Bothrops mattogrossensis,The Americas,2,test
+Bothrops moojeni,The Americas,10,calibration
+Bothrops neuwiedi,The Americas,17,calibration
+Bothrops pictus,The Americas,1,calibration
+Bothrops spp,unknown,1,calibration
+Bungarus caeruleus,Asia and Australasia,4,calibration
+Bungarus candidus,Asia and Australasia,2,calibration
+Bungarus fasciatus,Asia and Australasia,3,test
+Bungarus multicinctus,Asia and Australasia,3,calibration
+Calloselasma rhodostoma,Asia and Australasia,3,calibration
+Cerastes cerastes,Africa and the Middle East,6,calibration
+Cerrophidion godmani,The Americas,1,calibration
+Crotalus adamanteus,The Americas,1,calibration
+Crotalus atrox,The Americas,2,test
+Crotalus basiliscus,The Americas,1,calibration
+Crotalus durissus,The Americas,13,calibration
+Crotalus horridus,The Americas,1,test
+Crotalus molossus,The Americas,2,test
+Crotalus scutulatus,The Americas,2,calibration
+Crotalus simus,The Americas,2,calibration
+Crotalus viridis,The Americas,2,test
+Daboia russelii,Asia and Australasia,4,test
+Daboia siamensis,Asia and Australasia,3,calibration
+Deinagkistrodon acutus,Asia and Australasia,2,calibration
+Dendroaspis angusticeps,Africa and the Middle East,1,calibration
+Dendroaspis jamesoni,Africa and the Middle East,2,test
+Dendroaspis polylepis,Africa and the Middle East,2,calibration
+Dendroaspis viridis,Africa and the Middle East,1,calibration
+Dispholidus typus,Africa and the Middle East,1,calibration
+Echis carinatus,Africa and the Middle East|Asia and Australasia,6,calibration
+Echis coloratus,Africa and the Middle East,1,calibration
+Echis leucogaster,Africa and the Middle East,2,calibration
+Echis ocellatus,Africa and the Middle East,2,calibration
+Echis pyramidum,Africa and the Middle East,2,calibration
+Gloydius blomhoffi,Asia and Australasia,1,calibration
+Gloydius brevicaudus,Asia and Australasia,2,calibration
+Gloydius halys,Africa and the Middle East|Asia and Australasia,1,test
+Gloydius intermedius,Africa and the Middle East|Asia and Australasia,1,calibration
+Gloydius ussuriensis,Asia and Australasia,1,test
+Hemachatus haemachatus,Africa and the Middle East,1,calibration
+Hoplocephalus spp,Asia and Australasia,2,calibration
+Lachesis muta,The Americas,7,calibration
+Lachesis stenophyrs,unknown,1,calibration
+Macrovipera lebetina,Africa and the Middle East|Asia and Australasia,3,calibration
+Micrurus corallinus,The Americas,3,calibration
+Micrurus fulvius,The Americas,1,calibration
+Micrurus nigrocinctus,The Americas,2,calibration
+Micrurus tener,The Americas,2,calibration
+Montivipera raddei,Asia and Australasia,1,calibration
+Naja annulifera,Africa and the Middle East,1,test
+Naja atra,Asia and Australasia,2,calibration
+Naja haje,Africa and the Middle East,5,calibration
+Naja kaouthia,Asia and Australasia,4,calibration
+Naja melanoleuca,Africa and the Middle East,2,test
+Naja mossambica,Africa and the Middle East,1,calibration
+Naja naja,Africa and the Middle East|Asia and Australasia,5,calibration
+Naja nigricollis,Africa and the Middle East,3,calibration
+Naja nivea,Africa and the Middle East,1,calibration
+Naja oxiana,Asia and Australasia,1,calibration
+Naja philippinensis,Asia and Australasia,1,calibration
+Naja samarensis,Asia and Australasia,1,test
+Naja sputatrix,Asia and Australasia,1,test
+Naja sumatrana,Asia and Australasia,3,calibration
+Notechis scutatus,Asia and Australasia,2,calibration
+Ophiophagus hannah,Asia and Australasia,2,test
+Oxyuranus microlepidotus,Asia and Australasia,2,calibration
+Oxyuranus scutellatus,Asia and Australasia,2,calibration
+Porthidium nasutum,The Americas,2,calibration
+Porthidium ophryomegas,The Americas,1,test
+Protobothrops flavoviridis,Asia and Australasia,1,calibration
+Protobothrops mucrosquamatus,Asia and Australasia,1,calibration
+Pseudechis australis,Asia and Australasia,2,calibration
+Pseudechis papuanus,Asia and Australasia,2,calibration
+Pseudechis rossignolii,Asia and Australasia,2,calibration
+Pseudechis spp,Asia and Australasia,3,calibration
+Pseudocerastes persicus,Africa and the Middle East,1,calibration
+Pseudonaja textilis,Asia and Australasia,2,calibration
+Rhabdophis tigrinus,Asia and Australasia,1,calibration
+Sistrurus catenatus,The Americas,1,calibration
+Sistrurus miliarius,Asia and Australasia|The Americas,1,calibration
+Tropidechis carinatus,Asia and Australasia,2,calibration
+Vipera ammodytes,Africa and the Middle East|Europe,3,calibration
+Vipera aspis,Europe,3,calibration
+Vipera berus,Asia and Australasia|Europe,4,calibration
+Vipera ursinii,Asia and Australasia|Europe,1,test
+Walterinnesia aegyptia,Africa and the Middle East,2,calibration

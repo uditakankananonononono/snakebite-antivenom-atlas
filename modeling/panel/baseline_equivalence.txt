@@ -1,0 +1,9 @@
+committed rows: 290, re-implemented rows: 290
+accession sets identical: True
+identity/best-hit mismatches: 0
+T=60%: toxins inferred-covered 211/290 (72.8%), species >=50% covered: 29/38
+T=70%: toxins inferred-covered 194/290 (66.9%), species >=50% covered: 27/38
+T=80%: toxins inferred-covered 161/290 (55.5%), species >=50% covered: 24/38
+T=90%: toxins inferred-covered 55/290 (19.0%), species >=50% covered: 8/38
+committed reference: T=60 211/290 (72.8%) 29/38 | T=70 194/290 (66.9%) 27/38 | T=80 161/290 (55.5%) 24/38 | T=90 55/290 (19.0%) 8/38
+EQUIVALENT

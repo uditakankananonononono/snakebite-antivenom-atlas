@@ -1,0 +1,1 @@
+models/ - 577MB of AFDB v6 PDB files, NOT committed (git bloat); sha256-locked in modeling/data/alphafold/SHA256SUMS.models and regenerable from model_url in FETCH_MANIFEST.csv

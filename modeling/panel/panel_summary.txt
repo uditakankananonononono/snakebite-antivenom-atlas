@@ -1,0 +1,7 @@
+B10 modeling panel (seed 20261008)
+targets (CRITICAL/HIGH toxins w/ seq): 290 across 38 species, families: 11
+references (covered toxins w/ seq): 3354 across 106 species
+evaluable covered species (toxins>0 AND products>0): 106  ->  calibration 85 / test 21
+products in scope: 94
+AFDB availability: targets 270/290, references 3061/3354
+regions of eval species: {'Asia and Australasia': 36, 'unknown': 3, 'The Americas': 36, 'Africa and the Middle East': 21, 'Africa and the Middle East|Asia and Australasia': 5, 'Asia and Australasia|The Americas': 1, 'Africa and the Middle East|Europe': 1, 'Europe': 1, 'Asia and Australasia|Europe': 2}
