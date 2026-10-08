@@ -1,0 +1,125 @@
+source,name,manufacturer,status,matched_baseline_label,evidence
+Longbottom historical matrix,Agkistrodon Acutus antivenin,,historical indication label,Agkistrodon Acutus antivenin,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Agkistrodon Salmusa Antivenom,,historical indication label,Agkistrodon Salmusa Antivenom,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Agkistrodon halys antivenin,,historical indication label,Agkistrodon halys antivenin,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Anti Yamakagashi Antivenom,,historical indication label,Anti Yamakagashi Antivenom,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Anti viper anti adder venom,,historical indication label,Anti viper anti adder venom,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Anti viperin,,historical indication label,Anti viperin,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antibotropico Butantan,,historical indication label,Antibotropico Butantan,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antibotropico CPPI,,historical indication label,Antibotropico CPPI,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antibotropico FUNED,,historical indication label,Antibotropico FUNED,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antibotropico IVB,,historical indication label,Antibotropico IVB,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antibotropico Polivalente,,historical indication label,Antibotropico Polivalente,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antibotropico bivalente,,historical indication label,Antibotropico bivalente,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antibotropico crotalico Butantan,,historical indication label,Antibotropico crotalico Butantan,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antibotropico crotalico FUNED,,historical indication label,Antibotropico crotalico FUNED,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antibotropico crotalico IVB,,historical indication label,Antibotropico crotalico IVB,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antibotropico laquetico Butantan,,historical indication label,Antibotropico laquetico Butantan,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antibotropico laquetico FUNED,,historical indication label,Antibotropico laquetico FUNED,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antibotropico laquetico IVB,,historical indication label,Antibotropico laquetico IVB,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Anticoral monovalent,,historical indication label,Anticoral monovalent,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Anticrotalico Butantan,,historical indication label,Anticrotalico Butantan,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Anticrotalico FUNED,,historical indication label,Anticrotalico FUNED,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Anticrotalico IVB,,historical indication label,Anticrotalico IVB,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Anticrotalico Monovalente,,historical indication label,Anticrotalico Monovalente,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antielapidico Butantan,,historical indication label,Antielapidico Butantan,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antielapidico FUNED,,historical indication label,Antielapidico FUNED,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antilachesico Monovalente,,historical indication label,Antilachesico Monovalente,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antiofidico Bivalente Antibothropico,,historical indication label,Antiofidico Bivalente Antibothropico,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antiofidico Bothropico Polivalente,,historical indication label,Antiofidico Bothropico Polivalente,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antiofidico Polivalente,,historical indication label,Antiofidico Polivalente,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antiofidico Polivalente BIOL,,historical indication label,Antiofidico Polivalente BIOL,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antiofidico Polivalente Botropico Crotalico,,historical indication label,Antiofidico Polivalente Botropico Crotalico,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antiofidico Polivalente Botropico Laquetico,,historical indication label,Antiofidico Polivalente Botropico Laquetico,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antiofidico Polivalente CDBiotecnologia,,historical indication label,Antiofidico Polivalente CDBiotecnologia,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antiveneno Bothropico Bivalente,,historical indication label,Antiveneno Bothropico Bivalente,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antiveneno Bothropico Crotalico,,historical indication label,Antiveneno Bothropico Crotalico,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antiveneno Bothropico Tetravalente,,historical indication label,Antiveneno Bothropico Tetravalente,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antiveneno Crotalico,,historical indication label,Antiveneno Crotalico,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antiveneno Micrurus,,historical indication label,Antiveneno Micrurus,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antivenin Micrurus fulvius,,historical indication label,Antivenin Micrurus fulvius,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antivenom B multicinctus N n naja,,historical indication label,Antivenom B multicinctus N n naja,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antivenom Tr mucrosquamatus stejnegeri,,historical indication label,Antivenom Tr mucrosquamatus stejnegeri,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antivipmyn,,historical indication label,Antivipmyn,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Antivipmyn TRI,,historical indication label,Antivipmyn TRI,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Banded krait antivenin QSMI,,historical indication label,Banded krait antivenin QSMI,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Bivalent Naja Walterinnesia Snake AV,,historical indication label,Bivalent Naja Walterinnesia Snake AV,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,BothroFAV,,historical indication label,BothroFAV,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Bungarus Antivenom,,historical indication label,Bungarus Antivenom,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Bungarus multicinctus antivenin,,historical indication label,Bungarus multicinctus antivenin,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,CSL Black Snake antivenom,,historical indication label,CSL Black Snake antivenom,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,CSL Brown Snake antivenom,,historical indication label,CSL Brown Snake antivenom,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,CSL Death Adder antivenom,,historical indication label,CSL Death Adder antivenom,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,CSL Polyvalent antivenom,,historical indication label,CSL Polyvalent antivenom,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,CSL Taipan antivenom,,historical indication label,CSL Taipan antivenom,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,CSL Tiger Snake antivenom,,historical indication label,CSL Tiger Snake antivenom,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Cobra Antivenin QSMI,,historical indication label,Cobra Antivenin QSMI,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Cobra antivenin,,historical indication label,Cobra antivenin,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Coralmyn,,historical indication label,Coralmyn,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,FAV Afrique,,historical indication label,FAV Afrique,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Faboterapico Polivalente Antiviperino,,historical indication label,Faboterapico Polivalente Antiviperino,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Favirept,,historical indication label,Favirept,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Gamma Vip,,historical indication label,Gamma Vip,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Green Pit Viper Antivenin QSMI,,historical indication label,Green Pit Viper Antivenin QSMI,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Habu antivenom,,historical indication label,Habu antivenom,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Haemato polyvalent snake antivenom QSMI,,historical indication label,Haemato polyvalent snake antivenom QSMI,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,King cobra antivenin QSMI,,historical indication label,King cobra antivenin QSMI,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Malayan krait antivenin QSMI,,historical indication label,Malayan krait antivenin QSMI,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Malayan pit viper antivenin QSMI,,historical indication label,Malayan pit viper antivenin QSMI,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Mamushi Antivenom Kaketsuken,,historical indication label,Mamushi Antivenom Kaketsuken,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Monovalent Antivenin Snorkel Viper,,historical indication label,Monovalent Antivenin Snorkel Viper,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Monovalent Naja philippinensis Cobra Antivenin,,historical indication label,Monovalent Naja philippinensis Cobra Antivenin,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Naja naja atra antivenom,,historical indication label,Naja naja atra antivenom,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Neuro polyvalent snake antivenom QSMI,,historical indication label,Neuro polyvalent snake antivenom QSMI,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Polyvalent Anti Snake Venom,,historical indication label,Polyvalent Anti Snake Venom,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Polyvalent Anti viper Venom VACSERA,,historical indication label,Polyvalent Anti viper Venom VACSERA,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Polyvalent Antisnake Venom,,historical indication label,Polyvalent Antisnake Venom,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Polyvalent Antivenom ICP,,historical indication label,Polyvalent Antivenom ICP,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Polyvalent Snake Antivenin Asia,,historical indication label,Polyvalent Snake Antivenin Asia,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Polyvalent Snake Antivenom,,historical indication label,Polyvalent Snake Antivenom,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Polyvalent Snake Antivenom Asia,,historical indication label,Polyvalent Snake Antivenom Asia,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Polyvalent Snake Antivenom Razi,,historical indication label,Polyvalent Snake Antivenom Razi,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Polyvalent Snake Antivenom VACSERA,,historical indication label,Polyvalent Snake Antivenom VACSERA,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Polyvalent crotalid antivenom CroFab,,historical indication label,Polyvalent crotalid antivenom CroFab,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Russells viper antivenin QSMI,,historical indication label,Russells viper antivenin QSMI,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,SAIMR Boomslang antivenom,,historical indication label,SAIMR Boomslang antivenom,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,SAIMR Echis antivenom,,historical indication label,SAIMR Echis antivenom,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,SAIMR Polyvalent Snake antivenom,,historical indication label,SAIMR Polyvalent Snake antivenom,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,SAV Naja,,historical indication label,SAV Naja,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,SAV Tri,,historical indication label,SAV Tri,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Snake Venom Antiserum IP Asia,,historical indication label,Snake Venom Antiserum IP Asia,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Snake antivenin IP Asia,,historical indication label,Snake antivenin IP Asia,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Viper Venom Antitoxin,,historical indication label,Viper Venom Antitoxin,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Viper antivenin,,historical indication label,Viper antivenin,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Viper venom antitoxin European,,historical indication label,Viper venom antitoxin European,data/longbottom/repo/antivenom.csv
+Longbottom historical matrix,Viperfav,,historical indication label,Viperfav,data/longbottom/repo/antivenom.csv
+WHO assessment outcomes 2026-10-08,EchiTAbG™,MicroPharm Ltd,positive risk-benefit assessment,,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+WHO assessment outcomes 2026-10-08,Antivipmyn Africa®,"Laboratorios Silanes, S.A. de C.V.",positive risk-benefit assessment,,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+WHO assessment outcomes 2026-10-08,PANAF-Premium™,Premium Serums and Vaccines Pvt. Ltd.,positive risk-benefit assessment,,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+WHO assessment outcomes 2026-10-08,EchiTAb-plus-ICP,Instituto Clodomiro Picado,"under assessment, no final decision",,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+WHO assessment outcomes 2026-10-08,SAIMR Polyvalent Antivenom,South African Vaccine Producers (Pty) Ltd,"under assessment, no final decision",,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+WHO assessment outcomes 2026-10-08,Snake Venom Antiserum (Afriven) I.H.S. (Lyophilised),VINS Bioproducts Limited,"under assessment, no final decision",,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+WHO assessment outcomes 2026-10-08,Inoserp™ (Pan Africa),"Inosan Biopharma, S.A.","under assessment, no final decision",,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+WHO assessment outcomes 2026-10-08,BeAfrique - 10 (Pan African),Biological E. Limited,"under assessment, no final decision",,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+WHO assessment outcomes 2026-10-08,BeAfrique - 6 (Central African),Biological E. Limited,"under assessment, no final decision",,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+WHO assessment outcomes 2026-10-08,BeAfrique - 1 (Echis ocellatus),Biological E. Limited,"under assessment, no final decision",,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+WHO assessment outcomes 2026-10-08,Snake Venom Antiserum (Echis),VINS Bioproducts Limited,"under assessment, no final decision",,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+WHO assessment outcomes 2026-10-08,Boomseven,VINS Bioproducts Limited,"under assessment, no final decision",,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+WHO assessment outcomes 2026-10-08,Afriven-S,VINS Bioproducts Limited,"under assessment, no final decision",,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+WHO assessment outcomes 2026-10-08,EchiTAbG™,MicroPharm Limited,"under assessment, no final decision",,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+WHO assessment outcomes 2026-10-08,SnaFab 5 (Polyvalent Snake Antivenom,Padra Serum Alborz,"under assessment, no final decision",,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+WHO assessment outcomes 2026-10-08,SnaFab 6 (Hexavalent Snake Antivenom),Padra Serum Alborz,"under assessment, no final decision",,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+WHO assessment outcomes 2026-10-08,Combipack of Snake Venom Antiserum with Sterile Water for Injection (North Africa) NORAF-Premium,Premium Serums and Vaccines Pvt. Ltd,"under assessment, no final decision",,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+WHO assessment outcomes 2026-10-08,Hexavalent Snake antivenom immunoglobulin (Equine),Razi Vaccine & Serum Research Institute,"under assessment, no final decision",,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+WHO assessment outcomes 2026-10-08,Snake Venom Antiserum Polyvalent Liquid,"Egyptian Company for Production of Vaccines, Sera and Drugs (EGYVAC) one of the affiliated Companies of the Holding Company for Biological Products & Vaccines (VACSERA)","under assessment, no final decision",,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+WHO assessment outcomes 2026-10-08,Vipera palaestinae Antiserum (Equine source),Kamada Limited,"under assessment, no final decision",,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+WHO assessment outcomes 2026-10-08,Echis coloratus Antiserum (Equine source),Kamada Limited,"under assessment, no final decision",,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+WHO assessment outcomes 2026-10-08,Snake Venom Antitoxin I.H.S. Lyophilised (Biosnake),VINS Bioproducts Limited,"under assessment, no final decision",,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+WHO assessment outcomes 2026-10-08,Snake Venom Antiserum (Lyophilised),Bharat Serums and Vaccines Limited,"under assessment, no final decision",,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+WHO assessment outcomes 2026-10-08,"Snake Antivenin (Polyvalent) I.P. (Liquid), 10 mL Vial Presentation",Biological E Limited,"under assessment, no final decision",,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+WHO assessment outcomes 2026-10-08,"Snake Antivenin (Polyvalent) I.P. (Lyophilised), Combipack of Snake Antivenin (Vial) along with 10 mL Sterile Water for Injection (Ampoule)",Biological E Limited,"under assessment, no final decision",,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+WHO assessment outcomes 2026-10-08,Snake Antivenin I.P.,Haffkine Bio-Pharmaceutical Corporation Limited,"under assessment, no final decision",,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+WHO assessment outcomes 2026-10-08,Polyvalent Antivenom Immunoglobulins (Liquid Purified),National Institute of Health,"under assessment, no final decision",,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+WHO assessment outcomes 2026-10-08,Combipack of Snake Venom Antiserum with Sterile Water for Injection,Premium Serums and Vaccines Pvt Ltd.,"under assessment, no final decision",,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+WHO assessment outcomes 2026-10-08,Combipack of Snake Venom Antiserum with Sterile Water for Injection – Sri Lanka,Premium Serums and Vaccines Pvt Ltd.,"under assessment, no final decision",,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+WHO assessment outcomes 2026-10-08,Snake Venom Antiserum I.P.,VINS Bioproducts Limited,"under assessment, no final decision",,https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes

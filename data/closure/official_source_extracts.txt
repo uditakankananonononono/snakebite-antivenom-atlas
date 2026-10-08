@@ -1,0 +1,612 @@
+[1] extranet.who.int
+https://extranet.who.int/prequal/vaccines/who-public-assessment-reports-whopars-snake-antivenom
+
+WHO Public Assessment Reports (WHOPARs) - Snake antivenom | WHO - Prequalification of Medical Products (IVDs, Medicines, Vaccines and Immunization Devices, Vector Control)
+
+# WHO Public Assessment Reports (WHOPARs) - Snake antivenom 
+
+A WHO Public Assessment Report (WHOPAR) may be published following completion of the risk-benefit assessment of an antivenom product.
+
+WHOPARs are posted only for those products for which the risk-benefit assessment procedure has been completed, and can be accessed through links on this website
+
+#### Sub-Saharan Africa
+
+| Commercial name | Manufacturer | Country | NRA |
+| --- | --- | --- | --- |
+| Antivipmyn Africa® | Laboratorios Silanes, S.A. de C.V. | Mexico | Comisión Federal para la Protección contra Riesgos Sanitarios (COFEPRIS) |
+
+V
+
+V
+
+[2] List of Product Assessment Outcomes | WHO - Prequalification of Medical Products (IVDs, Medicines, Vaccines and Immunization Devices, Vector Control) — extranet.who.int
+https://extranet.who.int/prequal/vaccines/list-product-assessment-outcomes
+
+List of Product Assessment Outcomes | WHO - Prequalification of Medical Products (IVDs, Medicines, Vaccines and Immunization Devices, Vector Control)
+
+# List of Product Assessment Outcomes 
+
+If an antivenom has undergone risk-benefit assessment involving thorough evaluation of relevant data, laboratory testing of samples and WHO inspection of relevant manufacturing sites — and the outcome is positive — then it may be included in the WHO List of Recommended Antivenoms.
+
+Risk-benefit assessment is a limited process for antivenoms that evaluates and compares the risk of using products that may not be completely GMP-compliant, or for which formal evidence of effectiveness is lacking, against available evidence of safety, preclinical efficacy, and clinical effectiveness from a variety of sources. Moreover, it includes a critical evaluation of current GMP-compliance.
+
+The risk-benefit assessment process aims to provide an informed evaluation of whether the potential benefits to patients of using specific products outweigh any identified risks and weaknesses.
+
+WHO uses this information to make appropriate recommendations for procurement to countries and other product users, and to assist manufacturers to identify those areas which need improvement and strengthening before more formal processes such as prequalification can be implemented.
+
+WHO cannot represent that the listed antivenoms and manufacturing sites will continue to meet the aforesaid standards and/or operational specifications. WHO may suspend or remove an antivenom from the list based on information that may subsequently become available to it (including information regarding failure of the responsible NRA to exercise independent and appropriate regulatory oversight).
+
+The list is not an exhaustive list of antivenoms used to treat snakebite envenoming. Products listed are for use in treating envenoming by particular species of snakes in specific regions of the world. It reflects those antivenoms which have been submitted to WHO for evaluation by manufacturers responding to a call for applications, and which — at the time of evaluation and site inspection — have been found to meet the criteria for a positive risk-benefit assessment.
+
+Antivenoms included in the list are — subject to the terms of the risk-benefit assessment procedure — acceptable, in principle, for procurement by UN agencies. Inclusion in the list does not imply any approval by WHO of the antivenoms and manufacturing sites in question. (This is the prerogative of the NRAs.).
+
+This list may not be used by manufacturers and suppliers for commercial or promotional purposes.
+
+Any UN organization intending to use the list of prequalified vaccines for procurement should ensure that only vaccines from the manufacturers mentioned in this list are supplied to it.
+
+Procurement agencies using this list for procurement should perform other aspects of qualification prior to purchasing, such as ensuring financial stability and standing of the supplier, ability to supply the required quantities, and other related aspects, including the registration status or other authorization of the antivenoms they wish to procure.
+
+### Outcomes of risk-benefit assessment
+
+Where there is a positive risk-benefit assessment for an antivenom, WHO will list details of the product and the recommendation notice on this website. WHO Public Assessment Reports (WHOPARs) and WHO Public Inspection Reports (WHOPIRs) will also be published as they become available.
+
+### Sub-Saharan Africa
+
+| Commercial name | Manufacturer | Country | NRA |
+| --- | --- | --- | --- |
+| EchiTAbG™ | MicroPharm Ltd | United Kingdom | Medicines and Health Products Regulatory Agency (MHRA) |
+| Antivipmyn Africa® | Laboratorios Silanes, S.A. de C.V. | Mexico | Comisión Federal para la Protección contra Riesgos Sanitarios (COFEPRIS) |
+| PANAF-Premium™ | Premium Serums and Vaccines Pvt. Ltd. | India | Central Drug Standards Control Organization (CDSCO) |
+
+Products that are currently undergoing risk-benefit assessment by WHO, and for which no final decision has yet been made are listed below:
+
+### Sub-Sahara Africa
+
+Commercial name
+
+Manufacturer
+
+Country
+
+NRA
+
+EchiTAb-plus-ICP
+
+Instituto Clodomiro Picado
+
+Costa Rica
+
+Ministry of Health
+
+SAIMR Polyvalent Antivenom
+
+South African Vaccine Producers (Pty) Ltd
+
+South Africa
+
+Medicines Control Council
+
+Snake Venom Antiserum (Afriven) I.H.S. (Lyophilised)
+
+VINS Bioproducts Limited
+
+India
+
+Central Drugs Standards Control Organization (CDSCO)
+
+Inoserp™ (Pan Africa)
+
+Inosan Biopharma, S.A.
+
+Spain
+
+Spanish Agency of Medicines and Medical Products 
+
+BeAfrique - 10 (Pan African)
+
+Biological E. Limited
+
+India
+
+Central Drugs Standards Control Organization (CDSCO)
+
+BeAfrique - 6 (Central African)
+
+Biological E. Limited
+
+India
+
+Central Drugs Standards Control Organization (CDSCO)
+
+BeAfrique - 1 (Echis ocellatus)
+
+Biological E. Limited
+
+India
+
+Central Drugs Standards Control Organization (CDSCO)
+
+Snake Venom Antiserum (Echis) 
+
+VINS Bioproducts Limited
+
+India
+
+Central Drugs Standards Control Organization (CDSCO)
+
+Boomseven
+
+VINS Bioproducts Limited
+
+India
+
+Central Drugs Standards Control Organization (CDSCO)
+
+Afriven-S
+
+VINS Bioproducts Limited
+
+India
+
+Central Drugs Standards Control Organization (CDSCO)
+
+### Eastern Mediterranean
+
+| Commercial name | Manufacturer | Country | NRA |
+| --- | --- | --- | --- |
+| EchiTAbG™ | MicroPharm Limited | United Kingdom | Medicines and Health Products Regulatory Agency (MHRA) |
+| SnaFab 5 (Polyvalent Snake Antivenom | Padra Serum Alborz | Iran | Food and Drug Administration (FDA) |
+| SnaFab 6 (Hexavalent Snake Antivenom) | Padra Serum Alborz | Iran | Food and Drug Administration (FDA) |
+| Combipack of Snake Venom Antiserum with Sterile Water for Injection (North Africa) NORAF-Premium | Premium Serums and Vaccines Pvt. Ltd | Indian | Central Drugs Standards Control Organization (CDSCO) |
+| Hexavalent Snake antivenom immunoglobulin (Equine) | Razi Vaccine & Serum Research Institute | Iran | Food and Drug Administration (FDA) |
+| Snake Venom Antiserum Polyvalent Liquid | Egyptian Company for Production of Vaccines, Sera and Drugs (EGYVAC) one of the affiliated Companies of the Holding Company for Biological Products & Vaccines (VACSERA) | Egypt | Egyptian Drug Authority (EDA) |
+| Vipera palaestinae Antiserum (Equine source) | Kamada Limited | Israel | Israeli Ministry of Health (IMOH) |
+| Echis coloratus Antiserum (Equine source) | Kamada Limited | Israel | Israeli Ministry of Health (IMOH) |
+| Snake Venom Antitoxin I.H.S. Lyophilised (Biosnake) | VINS Bioproducts Limited | India | Central Drugs Standards Control Organization (CDSCO) |
+
+### South Asia
+
+| Commercial name | Manufacturer | Country | NRA |
+| --- | --- | --- | --- |
+| Snake Venom Antiserum (Lyophilised) | Bharat Serums and Vaccines Limited | India | Central Drugs Standards Control Organization (CDSCO) |
+| Snake Antivenin (Polyvalent) I.P. (Liquid), 10 mL Vial Presentation | Biological E Limited | India | Central Drugs Standards Control Organization (CDSCO) |
+| Snake Antivenin (Polyvalent) I.P. (Lyophilised), Combipack of Snake Antivenin (Vial) along with 10 mL Sterile Water for Injection (Ampoule) | Biological E Limited | India | Central Drugs Standards Control Organization (CDSCO) |
+| Snake Antivenin I.P. | Haffkine Bio-Pharmaceutical Corporation Limited | India | Central Drugs Standards Control Organization (CDSCO) |
+| Polyvalent Antivenom Immunoglobulins (Liquid Purified) | National Institute of Health | Pakistan | Drug Regulatory Authority of Pakistan (DRAP) |
+| Combipack of Snake Venom Antiserum with Sterile Water for Injection | Premium Serums and Vaccines Pvt Ltd. | India | Central Drugs Standards Control Organization (CDSCO) |
+| Combipack of Snake Venom Antiserum with Sterile Water for Injection – Sri Lanka | Premium Serums and Vaccines Pvt Ltd. | India | Central Drugs Standards Control Organization (CDSCO) |
+| Snake Venom Antiserum I.P. | VINS Bioproducts Limited | India | Central Drugs Standards Control Organization (CDSCO) |
+
+Where a final decision has been made to terminate an assessment or withhold any positive recommendation the name of the product and the manufacturer will be listed below. Termination means that WHO stopped the risk-benefit assessment because of information that would not have enabled a positive outcome to be reached. Where a positive recommendation is withheld, this means that the risk-benefit assessment determined that risks associated with use of a product may be greater than any potential benefits.
+
+Procurement agencies should be very cautious when considering the use of any product for which WHO has either terminated an assessment or withheld any recommendation.
+
+### Sub-Saharan Africa
+
+| Commercial name | Manufacturer | Country | NRA |
+| --- | --- | --- | --- |
+
+### Sub-Saharan Africa
+
+| Commercial name | Manufacturer | Country | NRA |
+| --- | --- | --- | --- |
+
+[3] Vulnerability to snakebite envenoming: a global mapping of hotspots — pmc.ncbi.nlm.nih.gov
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6115328/
+
+Vulnerability to snakebite envenoming: a global mapping of hotspots - PMCSkip to main content
+
+An official website of the United States government
+Here's how you know
+Here's how you know
+
+**Official websites use .gov**
+A**.gov**website belongs to an official
+government organization in the United States.
+
+**Secure .gov websites use HTTPS**
+A**lock**(LockLocked padlock icon) or**https://**means you've safely
+connected to the .gov website. Share sensitive
+information only on official, secure websites.
+
+NCBI home page
+
+Search
+Log in
+* Dashboard
+* Publications
+* Account settings
+* Log out
+Search…Search NCBI
+
+Search PMC Full-Text ArchiveSearch in PMCSearch
+* Advanced Search
+* Journal List
+* User GuideNewTry this search in PMC Beta Search
+* * 
+* 
+* * * ## PERMALINK
+Copy
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+the contents by NLM or the National Institutes of Health.
+Learn more:PMC Disclaimer|PMC Copyright Notice
+Elsevier Sponsored Documents logo
+Lancet
+. 2018 Aug 25;392(10148):673–684. doi:10.1016/S0140-6736(18)31224-8
+# Vulnerability to snakebite envenoming: a global mapping of hotspots
+Joshua Longbottom
+### Joshua Longbottom,MSc
+aBig Data Institute, Li Ka Shing Centre for Health Information and Discovery, University of Oxford, Oxford, UK
+cCentre for Health Informatics, Computing and Statistics, Lancaster Medical School, Lancaster University, Lancaster, UK
+dDepartment of Vector Biology, Liverpool School of Tropical Medicine, Liverpool, UK
+Find articles byJoshua Longbottom
+a,c,d,\*\*,Freya M Shearer
+### Freya M Shearer,BSc
+aBig Data Institute, Li Ka Shing Centre for Health Information and Discovery, University of Oxford, Oxford, UK
+Find articles byFreya M Shearer
+a,Maria Devine
+### Maria Devine,MSc
+aBig Data Institute, Li Ka Shing Centre for Health Information and Discovery, University of Oxford, Oxford, UK
+Find articles byMaria Devine
+a,Gabriel Alcoba
+### Gabriel Alcoba,MD
+eDivision of Tropical and Humanitarian Medicine, University Hospitals of Geneva, Geneva, Switzerland
+fDivision of Tropical Medicine and Neglected Tropical Diseases, Médecins Sans Frontières, Geneva, Switzerland
+Find articles byGabriel Alcoba
+e,f,Francois Chappuis
+### Francois Chappuis,MD
+eDivision of Tropical and Humanitarian Medicine, University Hospitals of Geneva, Geneva, Switzerland
+Find articles byFrancois Chappuis
+e,Daniel J Weiss
+### Daniel J Weiss,PhD
+aBig Data Institute, Li Ka Shing Centre for Health Information and Discovery, University of Oxford, Oxford, UK
+Find articles byDaniel J Weiss
+a,Sarah E Ray
+### Sarah E Ray,BS
+gInstitute for Health Metrics and Evaluation, University of Washington, Seattle, WA, USA
+Find articles bySarah E Ray
+g,Nicolas Ray
+### Nicolas Ray,PhD
+hEnviroSPACE Lab, Institute for Environmental Sciences, University of Geneva, Geneva, Switzerland
+iInstitute of Global Health, Faculty of Medicine, University of Geneva, Geneva, Switzerland
+Find articles byNicolas Ray
+h,i,David A Warrell
+### David A Warrell,FMedSci
+bNuffield Department of Clinical Medicine, University of Oxford, Oxford, UK
+Find articles byDavid A Warrell
+b,Rafael Ruiz de Castañeda
+### Rafael Ruiz de Castañeda,PhD
+iInstitute of Global Health, Faculty of Medicine, University of Geneva, Geneva, Switzerland
+Find articles byRafael Ruiz de Castañeda
+i,David J Williams
+### David J Williams,PhD
+jAustralian Venom Research Unit, Department of Pharmacology and Therapeutics, University of Melbourne, Melbourne, VIC, Australia
+Find articles byDavid J Williams
+j,Simon I Hay
+### Simon I Hay,Prof, FMedSci
+gInstitute for Health Metrics and Evaluation, University of Washington, Seattle, WA, USA
+Find articles bySimon I Hay
+g,\*,David M Pigott
+### David M Pigott,DPhil
+gInstitute for Health Metrics and Evaluation, University of Washington, Seattle, WA, USA
+Find articles byDavid M Pigott
+g
+* Author information
+* Copyright and License information
+aBig Data Institute, Li Ka Shing Centre for Health Information and Discovery, University of Oxford, Oxford, UK
+bNuffield Department of Clinical Medicine, University of Oxford, Oxford, UK
+cCentre for Health Informatics, Computing and Statistics, Lancaster Medical School, Lancaster University, Lancaster, UK
+dDepartment of Vector Biology, Liverpool School of Tropical Medicine, Liverpool, UK
+eDivision of Tropical and Humanitarian Medicine, University Hospitals of Geneva, Geneva, Switzerland
+fDivision of Tropical Medicine and Neglected Tropical Diseases, Médecins Sans Frontières, Geneva, Switzerland
+gInstitute for Health Metrics and Evaluation, University of Washington, Seattle, WA, USA
+hEnviroSPACE Lab, Institute for Environmental Sciences, University of Geneva, Geneva, Switzerland
+iInstitute of Global Health, Faculty of Medicine, University of Geneva, Geneva, Switzerland
+jAustralian Venom Research Unit, Department of Pharmacology and Therapeutics, University of Melbourne, Melbourne, VIC, Australia
+\*
+Correspondence to: Prof Simon I Hay, Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA 98121, USAsihay@uw.edu
+\*\*
+Mr Joshua Longbottom, Department of Vector Biology, Liverpool School of Tropical Medicine, Liverpool L3 5QA, UKjoshua.longbottom@lstmed.ac.uk
+©2018 The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY 4.0 license
+This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+PMC Copyright notice
+PMCID: PMC6115328  PMID:30017551
+See "Addressing the global challenge of snake envenoming." with doi: 10.1016/S0140-6736(18)31328-X.
+## Summary
+### Background
+Snakebite envenoming is a frequently overlooked cause of mortality and morbidity. Data for snake ecology and existing snakebite interventions are scarce, limiting accurate burden estimation initiatives. Low global awareness stunts new interventions, adequate health resources, and available health care. Therefore, we aimed to synthesise currently available data to identify the most vulnerable populations at risk of snakebite, and where additional data to manage this global problem are needed.
+### Methods
+We assembled a list of snake species using WHO guidelines. Where relevant, we obtained expert opinion range (EOR) maps from WHO or the Clinical Toxinology Resources. We also obtained occurrence data for each snake species from a variety of websites, such as VertNet and iNaturalist, using the spocc R package (version 0.7.0). We removed duplicate occurrence data and categorised snakes into three groups: group A (no available EOR map or species occurrence records), group B (EOR map but <5 species occurrence records), and group C (EOR map and ≥5 species occurrence records). For group C species, we did a multivariate environmental similarity analysis using the 2008 WHO EOR maps and newly available evidence. Using these data and the EOR maps, we produced contemporary range maps for medically important venomous snake species at a 5 × 5 km resolution. We subsequently triangulated these data with three health system metrics (antivenom availability, accessibility to urban centres, and the Healthcare Access and Quality [HAQ] Index) to identify the populations most vulnerable to snakebite morbidity and mortality.
+### Findings
+We provide a map showing the ranges of 278 snake species globally. Although about 6·85 billion people worldwide live within range of areas inhabited by snakes, about 146·70 million live within remote areas lacking quality health-care provisioning. Comparing opposite ends of the HAQ Index, 272·91 million individuals (65·25%) of the population within the lowest decile are at risk of exposure to any snake for which no effective therapy exists compared with 519·46 million individuals (27·79%) within the highest HAQ Index decile, showing a disproportionate coverage in reported antivenom availability. Antivenoms were available for 119 (43%) of 278 snake species evaluated by WHO, while globally 750·19 million (10·95%) of those living within snake ranges live more than 1 h from population centres. In total, we identify about 92·66 million people living within these vulnerable geographies, including many sub-Saharan countries, Indonesia, and other parts of southeast Asia.
+### Interpretation
+Identifying exact populations vulnerable to the most severe outcomes of snakebite envenoming at a subnational level is important for prioritising new data collection and collation, reinforcing envenoming treatment, existing health-care systems, and deploying currently available and future interventions. These maps can guide future research efforts on snakebite envenoming from both ecological and public health perspectives and better target future estimates of the burden of this neglected tropical disease.
+### Funding
+Bill & Melinda Gates Foundation.
+## Introduction
+Snakebite envenoming is a frequently overlooked cause of mortality and morbidity, responsible for 81 000–138 000 deaths annually,1,2and between 421 000 and 1·2 million envenomings.3Contact from venomous snakes, spiders, and scorpions contribute to 1·2 million years of life lived with disability annually.4The burden remains poorly characterised because of under-reporting; as snakebite is rarely notifiable, existing estimates are typically derived from extrapolated hospital records and community surveys.5Snakebite primarily affects the poor rural communities of Asia and sub-Saharan Africa, where socioeconomic status and agricultural and other practices contribute to increased snake–human interaction.6Venomous snakebites can also inflict a heavy burden on livestock, creating economic hardship for already impoverished communities.7Medically important snake species, however, have a cosmopolitan distribution, making snakebite a global challenge.3
+In June, 2017, snakebite envenoming was classified as a category A neglected tropical disease,8,9and was the subject of a resolution passed by the World Health Assembly in May, 2018. Consequently, there is a renewed impetus to accurately assess the burden and distribution of snakebite to ensure appropriate prevention and control interventions are implemented, and that adequate resources and funding are allocated nationally and subnationally.10,11For other neglected tropical diseases, substantive global targets exist: Sustainable Development Goal target 3·3 aims to “end the epidemics” of these diseases by 2030,12,13with routine reporting, surveillance, and notification architecture in place. As a new neglected tropical disease, snakebite monitoring and evaluation should reflect these objectives.
+### Research in context.
+**Evidence before this study**
+Snakebite envenoming is a category A neglected tropical disease of particular public health importance in tropical areas of Africa, Asia, Latin America, and Papua New Guinea. It is estimated that up to 1·2 million people are envenomed annually, resulting in 81 000–138 000 fatalities. Although effective therapies exist to treat envenoming by some snakes of highest medical importance, there are many species without such treatments. The global distribution of venomous snakes and vulnerable populations remains inadequately characterised; therefore, the lack of knowledge of subnational disease burden might impede production of antivenom supplies and distribution efforts among populations currently at risk. To investigate this further, we searched for articles on PubMed published before March 1, 2017, using the search terms “snakebite”, “distribution”, and “burden”. Contemporary studies have investigated venomous snake distributions and snakebite risk at national levels (several countries in Latin America) or subnational levels (India, Nigeria, and Sri Lanka), but these studies did not encompass all medically important snake species and are limited in both geographical extent and spatial resolution. A more recent analysis mapped the distribution of venomous snakes in Central America and Latin America but was restricted to widely studied species with ample occurrence data. Although an important start, no study has coupled global ecological information about snake distributions with measures relating to public health capabilities to hone in on populations most vulnerable to this cause of mortality and morbidity.
+**Added value of this study**
+We identified populations most vulnerable to 278 medically important snake species by using expert opinion, species' ranges refined by publicly available occurrence data and multivariate analyses, information about effective therapies, and metrics of health-care quality and accessibility. Although a large proportion of the world's population live in areas where such snakes could be present, proxy metrics such as the Healthcare Access and Quality Index and urban accessibility paired with broad-scale information about market antivenom availability provide a subnationally resolved yet globally comprehensive picture of vulnerability, highlighting populations that could be most affected.
+**Implications of all the available evidence**
+We highlight locations where the combination of the presence of a variety of venomous snakes, inequalities in health care and accessibility, and possible absence of effective therapy might contribute toward increased vulnerability of snakebite envenoming. Our analyses can be used to inform the positioning of local-scale household surveys to assess the true risk of snakebite in areas where such estimates are currently inadequate. This study highlights the importance of continuing to iterate, improve, and re-evaluate existing geographical assessments of snake distributions, and the need to incorporate spatially heterogeneous risk within future burden estimation efforts. This work is a first step in trying to identify and assist the most neglected populations of this newly designated neglected tropical disease.
+Data for the presence of venomous snakes and occurrence of snakebites are sparse and incomplete at the global level, making estimation challenging.14,15Although some countries have done household-level surveys to determine the incidence of snakebites,14,15the global magnitude of this disease remains poorly characterised. Snakebite envenoming represents an interesting One Health challenge requiring clinical, ecological, and public health expertise. Consequently, this issue can be approached by considering vulnerability to snakebite envenoming as a nexus of ecological contexts and public health weaknesses, to provide an evidence base for targeting future quantitative studies.
+Clinical challenges involve appropriate case diagnosis and adequate provisioning of care whether supportive (such as ventilators) or direct treatment with antivenom, which might not be available at any given point of care.2,16Ascertainment of the correct antivenom can be challenging,17and current diagnostics can be expensive and slow.18,19Furthermore, nearly half of venomous snakes do not have antivenoms available as tracked by WHO.2,20To comprehensively address snakebites, these clinical challenges need to be considered within an ecological context by understanding snake behaviour and life-history traits that contribute to the frequency and geographical distribution of snakebites. Therefore, by contextualising contemporary knowledge about snake distributions with indicators of the quality of health-care provisioning,21the accessibility of these resources,22and antivenom availability,20we aimed to identify populations vulnerable to the worst health outcomes of an envenoming event.
+## Methods
+### Study overview
+We evaluated range maps for 278 snakes to consider their presence at a 5 × 5 km (grid cell) resolution. To identify the most vulnerable populations, this ecological information was paired with three key metrics: the market availability of antivenom therapies as reported by WHO,20accessibility to urban centres as a proxy for access to health care,22and the Healthcare Access and Quality (HAQ) Index as a proxy for adequacy and efficacy of medical interventions at health-care centres.21Figure 1shows conceptually how populations lacking in all these measures should be seen as the most vulnerable populations, and how these measures could vary geographically.
+#### Figure 1.
+Figure 1
+Open in a new tab
+Conceptual overview of vulnerability to snakebite envenoming
+(A) Vulnerability can be considered as the intersection of populations who live within the range of venomous snakes that have no antivenoms available, cannot easily access health care, and have poor quality health care in delivery of antivenoms or ensuring necessary stocks. The intersection of all three defines the most vulnerable populations. (B) These factors vary in space. By overlaying these features, the most vulnerable populations can be identified spatially (represented here by the boxes outlined in black).
+### Global list of snake species
+We assembled a list of snake species, using WHO guidelines for venomous snake species of medical importance (hereafter referred to as snakes),23which define two tiers of medical importance that reflect both ecological knowledge on propensity to interact with humans and clinical grading of toxicity. Category one species are common or widespread snakes that result in high morbidity, disability, or mortality. Category two species are snakes capable of causing morbidity, disability, or death, or for which epidemiological or clinical data are missing or are less frequently implicated.
+Where relevant, expert opinion range (EOR) maps were obtained from WHO blood products online database or the Clinical Toxinology Resources database.20,24Occurrence data for each species were obtained from theGlobal Biodiversity Information Framework,VertNet (version 2016-09-29),iNaturalist,iDigBio, andEcoengine, using the spocc R package (version 0.7.0) on May 29, 2017.25Duplicate records based upon shared collection year and latitude or longitude and those missing latitude or longitude were removed.
+Given the availability of data, we placed snakes into three groups: group A (no available EOR map or species occurrence records), group B (EOR map but <5 species occurrence records), and group C (EOR map and ≥5 species occurrence records). Group A species (n=9) were excluded from this analysis because of the absence of geographical information, reducing our species inclusion list to 278 (99 group B species and 179 group C species;appendix 1).
+### Multivariate environmental similarity surface generation and species' ranges
+For group C species with sufficient occurrence records, potential updates to the EOR maps were assessed. EOR maps were updated with data that has become publicly accessible since publication of the WHO EOR maps in 2008. Multivariate environmental similarity method was applied to the occurrence records obtained for group C species, situated within the EOR, allowing for rapid classification of occurrence records outside of the EOR within the environmental range of other records (ie, interpolation) or beyond these limits (ie, extrapolation). Multivariate environmental similarity surfaces (MESS) measure the similarity between new environments (records outside of the EOR) and those in the training sample (records within the EOR), by identifying the maximum and minimum values of environmental data within the training sample, with respect to a set of predictor variables (covariates).26We fitted species-specific MESS using occurrence records within the EOR, and eight bioclimatic covariates thought to influence snake distribution (appendix 2provides information about the MESS parameters and covariate specifics).
+Occurrence records outside of the currently accepted EOR were overlaid on top of each species-specific threshold MESS. Records located within cells of environmental interpolation (termed MESS-positive) were considered valid records of species occurrence. Proposed ranges were developed to encompass all valid MESS-positive records, generated by applying a buffer radius of 0·898° (approximately 100 km at the equator) to each MESS-positive record to address potential movement of species, and possible geopositioning errors.27,28Buffered locations were masked by the threshold MESS to remove areas of environmental extrapolation, and merged with the currently accepted EOR to produce a proposed contemporary range.
+### Global distribution of snakes
+To reflect the geographical diversity of the snakes studied, we aggregated the ranges of different species. Modified (ie, group C species with MESS-positive records [n=96]) or original EOR surfaces (group B and group C species with no MESS-positive records [n=182]) were converted into 5 × 5 km raster (gridded) files. They were then stacked by summing overlapping cell values, resulting in three composite output layers: a count of the number of unique category one or category two species per cell, or both; a count of the number of unique category one species per cell; and a count of the number of unique category two species per cell.
+### Pairing ecological measures with health system metrics
+To identify the extent to which snakebites could vary globally as a public health problem, we evaluated three key dimensions: existence of any marketed antivenom therapy, quality of health care and treatment options available, and geographical accessibility to health care. Of the 278 snakes considered, the WHO antivenoms database documents that any form of antivenom (either monospecific or polyvalent) exists for 159 species.20Coupling this availability information with each species' range we identified the geographical distribution of species with no listed antivenoms, stratified by WHO category.
+To address differences in health-care quality and therefore identify populations to whom treatment options might not be available or effectively deployed, we categorised countries or regions to identify populations living within each decile of a composite indicator measure of health care (ie, the HAQ Index).21The HAQ Index provides a metric for national levels of personal health-care access and quality, drawing from mortality rates from 32 causes that are amenable to health care. The Index uses risk-standardised cause-specific mortality rates derived from the Global Burden of Disease 2016 study,29scaled to a common 0–100 value, and aggregated using weights derived from a principal component analysis. To construct deciles, countries were ranked on the basis of the HAQ Index score, and threshold values splitting countries into ten equally sized groups were identified. Because of variable numbers of administrative units, subnational locations were not used to construct decile thresholds; subnationals for which HAQ values were estimated were assigned to the corresponding nationally derived decile on the basis of their value. To evaluate the appropriateness of the HAQ Index as a proxy metric for severe snakebite-related outcomes, we analysed the relationship between published estimates of snakebite-specific mortality numbers and the index, mimicking analyses undertaken on other development indices and mortality outcomes.6
+To reflect relative geographical isolation from health care, we coupled mortality data with a contemporary surface of accessibility to major population centres. Habib and Abubakar30identified that, for a Nigerian cohort of cases, each hour delay between envenomation and antivenom administration was associated with an increased mortality outcome of 1·01% (95% CI 1·00–1·02).30A contemporary surface of accessibility to high-density urban locations (travel time in minutes to locations with a population >50 000) was used to identify remote populations and compared with the mortality statistics above.22To evaluate the suitability of a population–centre-based metric versus a health-care-focused measure, we did a sensitivity analysis using published data for African health-care facilities.31
+Populations living within these geographical regions of vulnerability were enumerated using the most recent gridded population estimates from WorldPop, producing estimates at the 5 × 5 km pixel level, and aggregated to each country's second-level administrative division aiding government interpretation.32
+### Data sharing
+All codes used throughout this study are available athttps://github.com/joshlongbottom/snakebite.
+### Role of the funding source
+The funder of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report. The corresponding authors had full access to all the data in the study and had final responsibility for the decision to submit for publication.
+## Results
+Through the combination of publicly available data, we provide a surface showing the ranges of 278 snake species per 5 × 5 km area globally. Our MESS validation method resulted in range amendments of 96 species (appendix 1). Given the broad distribution of snakes, approximately 6·85 billion people live within the range of one or more of the species considered (figure 2A). When filtered by medical classification, 5·80 billion people live within range of category one species and 5·53 billion people live within range of category two species (appendix 2 pp 13, 14). Hotspots of venomous snake diversity include the Congo Basin, southeast Asia, and Latin America.
+### Figure 2.
+Figure 2
+Open in a new tab
+Ranges of venomous snake species and number of medically important venomous snake species per 5 × 5 km location for which no effective therapy is currently listed by WHO
+(A) Counts range from low (n=1) to high (n=13). The light grey areas represent locations where no medically important venomous snake species are present. (B) Counts range from low (n=1) to high (n=7). The light grey areas represent locations where snake species present have effective therapies listed by WHO, and the dark grey areas represent locations where no medically important venomous snake species are present.
+Using the only openly available database for antivenom availability, we identified 119 (43%) of the 278 mapped species with no specific therapy. Of these identified species, 24 (20%) were category one importance and 95 (80%) were category two importance. Hotspots of species with no listed antivenom occur throughout west Africa (eg, Ghana has ≤7 species per cell), central Africa (eg, Cameroon has ≤7 species per cell), South America (eg, Colombia has ≤7 species per cell), and south Asia (eg, India has ≤6 species per cell;figure 2B;appendix 2 pp 15, 16). Among category one snake species with no therapy, Myanmar and Bangladesh have the highest number (≤3 species per cell), with areas in west Africa (Mali, Senegal, and Guinea) and Namibia having up to two therapy-naive species per cell.
+Populations living within these ranges of snake species vary greatly in terms of accessibility to population centres and presumed health care. Although antivenoms are deployed in health facilities of some countries with very small communities, this deployment is not universal, and in the absence of exact data for antivenom access, we were required to approximate the influence of travelling time to health-care facilities via a proxy of distance to centres with more than 50 000 inhabitants. Our time-delay surface highlights that should envenoming occur in large areas of Sudan, Algeria, Indonesia, Papua New Guinea, Colombia, and Peru, the time taken to travel to a city in which we might expect to find available treatment could worsen mortality outcomes by more than 25%, assuming linear scaling of the statistic from Habib and Abubakar30(figure 3). For instance, 2 531 665 people (78·71% of the population) live within ranges of any snake species within South Sudan and 624 204 people (89·89% of the population) in Papua New Guinea live more than 1 h from locations with 50 000 people or more (appendix 2 pp 17–26); globally, 750·19 million people (10·95% of the population) potentially at risk from snakebite envenoming live more than 1 h from high-density urban areas, increasing the likelihood of delay-based mortality outcomes after envenoming.
+### Figure 3.
+Figure 3
+Open in a new tab
+Average travel time to nearest major city for populations living within snake ranges
+The light grey areas represent locations without the presence of medically important venomous snake species.
+Sensitivity analyses using African hospitals versus cities similarly showed consistent results (appendix 2 pp 34, 35).
+Separating the populations living within ranges of species by HAQ Index deciles reveals large differences across the sociodemographic spectrum (figure 4). Such differences are best highlighted when analysing populations by medical classification: approximately 389·58 million individuals (92·91%) of the population within the lowest HAQ Index decile are at risk of exposure to a category one snake compared with approximately 1·61 billion individuals (86·27%) within the highest decile (appendix 2 p 16). Furthermore, 272·91 million individuals (65·25%) of the population within the lowest decile are at risk of exposure to any snake for which no effective therapy exists compared with 519·46 million individuals (27·79%) within the highest HAQ Index decile (figure 4).
+### Figure 4.
+Figure 4
+Open in a new tab
+Proportion of populations living within range of snake species by each HAQ Index decile
+(A) Populations living within the range of one or more medically important venomous snake species (either category one or two). (B) Populations living within the range of one or more medically important venomous snake species (either category one or two), for which no effective therapy is listed. HAQ=Healthcare Access and Quality.
+Vulnerable populations (ie, people in geographical regions living within the range of any snake species who also lived more than 3 h away from major urban centres, had health systems that scored within the lowest three deciles of the HAQ Index, and were further stratified by the presence or absence of a WHO listed antivenom) are highlighted infigure 5. Vulnerability estimates for HAQ Index deciles of 1–10 are provided in thetable. Within the lowest three deciles, we highlighted regions where about 92·66 million vulnerable individuals live (table), with Angola, Pakistan, Indonesia, Ethiopia, and the Democratic Republic of the Congo ranking as the highest locations in absolute numbers. The majority of countries across Africa, many of which have some of the lowest scores on the HAQ Index, have vulnerable populations present. When excluding information about the existence of antivenoms, 146·70 million people live within remote areas lacking quality health care provisioning (deciles 1–3;appendix 2 pp 28–31).
+### Figure 5.
+Figure 5
+Open in a new tab
+Hotspots of vulnerable populations to medically important venomous snake species
+Hotspots are defined as people living in areas within the range of one or more medically important venomous snake species, and more than 3 h away from major urban centres with Healthcare Access and Quality Index deciles of 1–3. (A) Pixel-level vulnerability surface (ie, vulnerability to all species of medically important snakes). (B) Aggregated second administrative level vulnerability to all species of medically important venomous snakes, as measured by the absolute number of people. (C) Aggregated second administrative level vulnerability to only those species for which no effective therapy is currently listed by WHO, as measured by the absolute number of people.
+### Table.
+Vulnerable population count per HAQ Index decile
+||**Decile 1**|**Decile 2**|**Decile 3**|**Decile 4**|**Decile 5**|**Decile 6**|**Decile 7**|**Decile 8**|**Decile 9**|**Decile 10**|
+Afghanistan|281 586|..|..|..|..|..|..|..|..|..|
+Algeria|..|..|..|..|74 397|..|..|..|..|..|
+Angola|..|3 652 123|..|..|..|..|..|..|..|..|
+Argentina|..|..|..|..|..|78 462|..|..|..|..|
+Armenia|..|..|..|..|..|..|27 064|..|..|..|
+Azerbaijan|..|..|..|..|..|116 150|..|..|..|..|
+Bangladesh|..|..|..|359 780|..|..|..|..|..|..|
+Belize|..|..|..|..|14 532|..|..|..|..|..|
+Benin|97 491|..|..|..|..|..|..|..|..|..|
+Bhutan|..|..|..|114 385|..|..|..|..|..|..|
+Bolivia|..|..|..|1 307 831|..|..|..|..|..|..|
+Botswana|..|..|..|323 599|..|..|..|..|..|..|
+Brazil|..|..|..|..|4 107 300|2296|619|..|..|..|
+Brunei|..|..|..|..|..|..|..|9630|..|..|
+Burkina Faso|699 570|..|..|..|..|..|..|..|..|..|
+Burundi|10 597|..|..|..|..|..|..|..|..|..|
+Cambodia|..|..|43 972|..|..|..|..|..|..|..|
+Cameroon|..|1 279 030|..|..|..|..|..|..|..|..|
+Central African Republic|1 081 841|..|..|..|..|..|..|..|..|..|
+Chad|5814|..|..|..|..|..|..|..|..|..|
+China|..|..|..|167 314|6 787 216|6 793 121|11 323 668|8 414 197|14 142|..|
+Colombia|..|..|..|..|..|6 277 835|..|..|..|..|
+Congo (Brazzaville)|..|521 800|..|..|..|..|..|..|..|..|
+Costa Rica|..|..|..|..|..|..|138 011|..|..|..|
+Côte d'Ivoire|379 448|..|..|..|..|..|..|..|..|..|
+Democratic Republic of the Congo|22 586 819|..|..|..|..|..|..|..|..|..|
+Djibouti|..|73 050|..|..|..|..|..|..|..|..|
+Ecuador|..|..|..|..|552 572|..|..|..|..|..|
+Egypt|..|..|..|..|37 780|..|..|..|..|..|
+Equatorial Guinea|..|..|..|242 345|..|..|..|..|..|..|
+Eritrea|905 464|..|..|..|..|..|..|..|..|..|
+Ethiopia|10 422 734|..|..|..|..|..|..|..|..|..|
+Gabon|..|..|499 707|..|..|..|..|..|..|..|
+Georgia|..|..|..|..|..|111 973|..|..|..|..|
+Ghana|..|..|354 713|..|..|..|..|..|..|..|
+Greece|..|..|..|..|..|..|..|..|7327|..|
+Guatemala|..|..|..|533 186|..|..|..|..|..|..|
+Guinea|427 253|..|..|..|..|..|..|..|..|..|
+Guinea-Bissau|120 745|..|..|..|..|..|..|..|..|..|
+Guyana|..|..|..|138 904|..|..|..|..|..|..|
+Honduras|..|..|..|58 882|..|..|..|..|..|..|
+India|..|231 656|1 488 560|4 623 346|..|276 547|..|..|..|..|
+Indonesia|..|..|10 454 226|..|..|..|..|..|..|..|
+Iran|..|..|..|..|..|..|341 174|..|..|..|
+Iraq|..|..|..|49 668|..|..|..|..|..|..|
+Japan|..|..|..|..|..|..|..|..|38 825|6288|
+Jordan|..|..|..|..|..|..|91 671|..|..|..|
+Kazakhstan|..|..|..|..|..|..|2 494 396|..|..|..|
+Kenya|..|..|1 825 765|..|..|..|..|..|..|..|
+Kyrgyzstan|..|..|..|..|495 765|..|..|..|..|..|
+Laos|..|..|18 010|..|..|..|..|..|..|..|
+Liberia|..|664 940|..|..|..|..|..|..|..|..|
+Malawi|..|133 687|..|..|..|..|..|..|..|..|
+Malaysia|..|..|..|..|..|1 790 903|..|..|..|..|
+Mali|..|2 373 844|..|..|..|..|..|..|..|..|
+Mauritania|..|..|5129|..|..|..|..|..|..|..|
+Mexico|..|..|..|..|229 259|384 600|275 250|..|..|..|
+Morocco|..|..|..|..|93 028|..|..|..|..|..|
+Mozambique|3 206 555|..|..|..|..|..|..|..|..|..|
+Myanmar|..|..|2 544 010|..|..|..|..|..|..|..|
+Namibia|..|..|752 476|..|..|..|..|..|..|..|
+Nepal|..|..|2 665 443|..|..|..|..|..|..|..|
+Nicaragua|..|..|..|..|73 046|..|..|..|..|..|
+Niger|15 45 113|..|..|..|..|..|..|..|..|..|
+Nigeria|..|..|2 067 928|..|..|..|..|..|..|..|
+Oman|..|..|..|..|..|..|..|84 388|..|..|
+Pakistan|..|..|4 425 880|..|..|..|..|..|..|..|
+Panama|..|..|..|..|..|137 946|..|..|..|..|
+Paraguay|..|..|..|..|227 331|..|..|..|..|..|
+Peru|..|..|..|..|..|2 674 949|..|..|..|..|
+Philippines|..|..|..|1 517 133|..|..|..|..|..|..|
+Russia|..|..|..|..|..|..|..|1 205 085|..|..|
+Rwanda|..|..|32 081|..|..|..|..|..|..|..|
+Saudi Arabia|..|..|..|..|..|..|..|2  392 280|..|..|
+Senegal|..|467 056|..|..|..|..|..|..|..|..|
+Sierra Leone|154 596|..|..|..|..|..|..|..|..|..|
+Somalia|2 140 834|..|..|..|..|..|..|..|..|..|
+South Africa|..|..|..|289 322|..|..|..|..|..|..|
+South Sudan|601 410|..|..|..|..|..|..|..|..|..|
+Sri Lanka|..|..|..|..|..|..|62 951|..|..|..|
+Sudan|..|..|..|542 183|..|..|..|..|..|..|
+Suriname|..|..|..|94 635|..|..|..|..|..|..|
+Swaziland|..|..|226|..|..|..|..|..|..|..|
+Syria|..|..|..|..|..|48 738|..|..|..|..|
+Tajikistan|..|..|..|301 870|..|..|..|..|..|..|
+Tanzania|..|4 950 775|..|..|..|..|..|..|..|..|
+Thailand|..|..|..|..|..|..|77 295|..|..|..|
+The Gambia|..|3245|..|..|..|..|..|..|..|..|
+Togo|..|14 488|..|..|..|..|..|..|..|..|
+Trinidad and Tobago|..|..|..|..|..|6520|..|..|..|..|
+Turkey|..|..|..|..|..|..|48 653|..|..|..|
+Uganda|..|371 059|..|..|..|..|..|..|..|..|
+Ukraine|..|..|..|..|..|..|..|4956|..|..|
+USA|..|..|..|..|..|..|..|..|4728|..|
+Uzbekistan|..|..|..|..|805 059|..|..|..|..|..|
+Venezuela|..|..|..|..|..|3 3465 88|..|..|..|..|
+Vietnam|..|..|..|..|175 519|..|..|..|..|..|
+Yemen|..|..|3 017 147|..|..|..|..|..|..|..|
+Zambia|2 125 572|..|..|..|..|..|..|..|..|..|
+Zimbabwe|..|936 801|..|..|..|..|..|..|..|..|
+Total|46 793 442|15 673 554|30 195 273|10 664 383|13 672 804|22 046 628|14 880 752|12 110 536|65 022|6288|
+Open in a new tab
+Country-level count of vulnerable people living within the range of one or more medically important venomous snake species, for which no effective therapy exists, and with a travel time of more than 3 h from urban centres with a population of 50 000 people or more provided per HAQ Index decile (ranging from 1 [low] to 10 [high]).Appendix 2shows the vulnerability estimates not incorporating antivenom availability. HAQ=Healthcare Access and Quality.
+## Discussion
+Understanding the distribution of venomous snakes and their potential burden on health systems at national, regional, and global levels is important for effective reduction and control of snakebite.8By combining species' range maps, available information about antivenoms, and measures of quality of and distance to health care, this study provides global contemporary maps of vulnerable populations to snakebite and its clinical complications. This analysis, therefore, provides a means of identifying communities in greatest need of support from herpetologists, clinicians, and public health experts, and to prioritise new data-collection activities.
+Although this analysis is not a substitute for a full global burden estimation, there is overlap between vulnerable communities and existing burden estimates, with vulnerable countries such as Nigeria, Benin, Congo (Brazzaville), Myanmar, and Papua New Guinea identified as burdensome in country-specific estimates,1and south Asia and sub-Saharan Africa as regions with considerable mortality and morbidity.3A post-hoc analysis of national envenoming and death burden values, shows that, for vulnerable countries, such values were more likely to be estimates as opposed to data-driven numbers (χ2test at 90% significance level, p=0·0476 for envenoming and p=0·0517 for deaths).3Chippaux33similarly shows that where data are available in sub-Saharan countries, they are not necessarily contemporary information. These maps collate ecological and public health metrics, and identify opportunities where substantial improvements and refinements can be undertaken to move from broad vulnerability assessment to a more nuanced and accurate description of the most burdensome populations.
+Our study had key limitations, and future efforts can focus on addressing some of these limitations: the relative contribution of different snake species must be quantified, the factors influencing snake–human interactions and subsequent likelihood of envenoming events must be identified, and snakebite-specific measures of local preparedness, effectiveness, and coverage of existing clinical countermeasures must be taken. Paucity of data available at the global scale, despite comprehensive coverage in several high-income countries, remains one of the largest limitations throughout this study. Ultimately, quantifying these additional components will allow for estimates to be based on a bottom-up data synthesis, rather than dependence on global-level datasets and correlations.
+Mapping snake species' locations to reflect variations in snake presence is also important. Fine-scale maps, such as those of American venomous snake species,34should be extended globally—this current analysis identifies 216 species requiring updated assessments of current ranges given the quality and quantity of records available. This study also establishes a systematic prioritisation based on medical importance (appendix 2 pp 3–11). Although species occurrence surveys can be formally done by public health initiatives or during ecological assessments, citizen science has a complementary role in facilitating broad-scale data collection.35
+This assessment considers the presence of any one venomous snake as a prerequisite for vulnerability; however, different species contribute differently to envenoming risk. Species with a very high incidence of envenoming events might be the dominant cause of high snakebite burden in a locality,36regardless of the presence of other species,37as reported for*Echis ocellatus*,38*Daboia russelii,*39and others.40Identifying and quantifying, at a local scale, important species, risky human practices, and ongoing changes to subsequent interactions given climatic and socioeconomic change, are necessary.41Future vulnerability assessments can explicitly leverage interspecies' differences and weigh their relative contribution as a function of species-specific envenoming risk and associated burden. The transition of the WHO resource20into a living database documenting contemporary antivenom availability, species taxonomic changes, higher-resolution distribution data, and other information will substantially aid in this effort.42,43
+Areas where snakes are present can be further evaluated to determine the true incidence of envenoming events. Local-scale household surveys assessing incidence of snakebite have been done in several countries.11,14,15,44Questions relating to snakebite could also be nested within existing demographic and health surveys,45minimising associated costs and informing current data-poor estimates. By integrating preventive measures with existing management systems for neglected tropical diseases, many logistical obstacles to effective intervention might be overcome.46Corresponding quantification of key risky behaviours will help reflect fine-scale population heterogeneity to exposure. Surveys such as the World Bank Living Standards Measurement Survey series could be used to obtain local-scale information about agricultural practices,47further aiding the identification of communities most at risk and increasing understanding of the public health consequences of different land use. Through these steps, efforts to prevent envenoming events can be tailored to the specifics of any given population.
+In many low-income and middle-income countries, a multitude of barriers influence snakebite outcomes including health care, transport, and communications infrastructure, along with adequacy of and access to safe, effective, and affordable antivenom supplies, medical staff proficiency and training, and public health policy. When considering antivenom availability, this method is constrained to listings as reported by WHO.20Since initial compilation, new antivenoms have become available (eg, EchiTAb-Plus-ICP),48while others have ceased production (eg, Fav-Afrique by Sanofi).42Market availability of antivenom products does not translate to in-field availability and efficacy; further information regarding country-specific, contemporary stockpiles, and the positioning of antivenom holding centres is required. Given that some of the countries with the lowest HAQ Index deciles have the largest proportions of the population living in areas with snakes for which no antivenom is currently reported, documented socio-economic differences might amplify inequalities in care.6Although health system indicators and accessibility metrics act as generalised correlates for a location's ability to respond to cases, these measures will possibly underestimate or overstate local vulnerabilities in some settings. Existing analyses of health systems show variation both nationally and subnationally in treatment-seeking behaviours,49,50quality of primary point of care visits and referrals,51and general practitioner knowledge about the condition.52However, the external validity of these existing surveys is unknown. This vulnerability analysis provides a foundation for the identification of locations where further surveys of treatment-seeking behaviours, quality of care, and existing coverage of antivenom stockpiles and supply chains need to be assessed.
+The global burden of snakebite can be assessed through an approach that integrates ecological information, human behavioural data, and snakebite-specific health system functioning. The impetus to reduce and control the burden of snakebite envenoming, a thorough cataloguing of snake presence and abundance, species-specific interaction profiles with humans, and detailed understanding of logistical hurdles to intervention delivery should be long-term objectives. Contemporary assessments, such as the resources presented, provide an immediate means of identifying key hotspots and most vulnerable communities where the need for such investigations is greatest.
+## Acknowledgments
+### Acknowledgments
+This study is funded by the Bill && Melinda Gates Foundation. SIH is funded by grants from the Bill && Melinda Gates Foundation (OPP1132415), the Wellcome Trust (209142 and Senior Research Fellowship 095066), and the Fleming Fund. The Bill && Melinda Gates Foundation grant OPP1093011 supports JL and DMP. The Fleming Fund also supports MD. FMS is supported by a scholarship from The Rhodes Trust. GA, FC, NR, and RRdC are partly supported by a grant from the Swiss National Science Foundation (315130\_176271). DJWi is supported by a Doherty Biomedical Postdoctoral Fellowship from the Australian National Health and Medical Research Council. We thank C A Design Services for assistance with expert opinion range map digitisation.
+## Contributors
+JL, SIH, and DMP conceived and planned the study. JL wrote the computer code, and designed and did the analyses with input from FMS and DMP. DJWe constructed the accessibility covariate data layer. JL produced all output figures. NR, DAW, RRdC, and DJWi provided intellectual input into aspects of this study. All authors contributed to the interpretation of the results. JL wrote the first draft of the manuscript and all authors contributed to subsequent revisions.
+## Declaration of interests
+We declare no competing interests.
+## Contributor Information
+Joshua Longbottom, Email: joshua.longbottom@lstmed.ac.uk.
+Simon I Hay, Email: sihay@uw.edu.
+## Supplementary Materials
+Supplementary appendix 1
+mmc1.pdf(209MB, pdf)
+Supplementary appendix 2
+mmc2.pdf(3.7MB, pdf)
+## References
+* 1.> Chippaux JP. Snake-bites: appraisal of the global situation. Bull World Health Organ. 1998;76:515–524.
+[PMC free article] [PubMed] [Google Scholar]
+* 2.> Gutiérrez JM, Calvete JJ, Habib AG, Harrison RA, Williams DJ, Warrell DA. Snakebite envenoming. Nature. 2017;3:17063. doi: 10.1038/nrdp.2017.63.
+[DOI] [PubMed] [Google Scholar]
+* 3.> Kasturiratne A, Wickremasinghe AR, de Silva N. The global burden of snakebite: a literature analysis and modelling based on regional estimates of envenoming and deaths. PLoS Med. 2008;5:e218. doi: 10.1371/journal.pmed.0050218.
+[DOI] [PMC free article] [PubMed] [Google Scholar]
+* 4.> GBD 2015 Disease and Injury Incidence and Prevalence Collaborators Global, regional, and national incidence, prevalence, and years lived with disability for 310 diseases and injuries, 1990–2015: a systematic analysis for the Global Burden of Disease Study 2015. Lancet. 2016;388:1545–1602. doi: 10.1016/S0140-6736(16)31678-6.
+[DOI] [PMC free article] [PubMed] [Google Scholar]
+* 5.> Gutiérrez JM, Warrell DA, Williams DJ. The need for full integration of snakebite envenoming within a global strategy to combat the neglected tropical diseases: the way forward. PLoS Negl Trop Dis. 2013;7:e2162. doi: 10.1371/journal.pntd.0002162.
+[DOI] [PMC free article] [PubMed] [Google Scholar]
+* 6.> Harrison RA, Hargreaves A, Wagstaff SC, Faragher B, Lalloo DG. Snake envenoming: a disease of poverty. PLoS Negl Trop Dis. 2009;3:e569. doi: 10.1371/journal.pntd.0000569.
+[DOI] [PMC free article] [PubMed] [Google Scholar]
+* 7.> Rodriguez C, Estrada R, Herrera M. Bothrops asper envenoming in cattle: clinical features and management using equine-derived whole IgG antivenom. Vet J. 2016;207:160–163. doi: 10.1016/j.tvjl.2015.08.008.
+[DOI] [PubMed] [Google Scholar]
+* 8.> WHO . World Health Organization; Geneva: 2017. Report of the tenth meeting of the WHO Strategic and Technical Advisory Group for neglected tropical diseases.
+[Google Scholar]
+* 9.> WHO . World Health Organization; Geneva: 2017. Neglected tropical diseases.
+> http://www.who.int/neglected_diseases/diseases/en/
+[Google Scholar]
+* 10.> Hansson E, Sasa M, Mattisson K, Robles A, Gutiérrez JM. Using geographical information systems to identify populations in need of improved accessibility to antivenom treatment for snakebite envenoming in Costa Rica. PLoS Negl Trop Dis. 2013;7:e2009. doi: 10.1371/journal.pntd.0002009.
+[DOI] [PMC free article] [PubMed] [Google Scholar]
+* 11.> Habib AG. Public health aspects of snakebite care in west Africa: perspectives from Nigeria. J Venom Anim Toxins Incl Trop Dis. 2013;19:27. doi: 10.1186/1678-9199-19-27.
+[DOI] [PMC free article] [PubMed] [Google Scholar]
+* 12.> Fitzpatrick C, Engels D. Leaving no one behind: a neglected tropical disease indicator and tracers for the Sustainable Development Goals. Int Health. 2016;8(suppl 1):i15–i18. doi: 10.1093/inthealth/ihw002.
+[DOI] [PMC free article] [PubMed] [Google Scholar]
+* 13.> UN Sustainable Development Goal 3: ensure healthy lives and promote well-being for all at all ages. 2015. > http://www.un.org/sustainabledevelopment/health/
+
+* 14.> Kasturiratne A, Pathmeswaran A, Wickremasinghe AR. The socio-economic burden of snakebite in Sri Lanka. PLoS Negl Trop Dis. 2017;11:e0005647. doi: 10.1371/journal.pntd.0005647.
+[DOI] [PMC free article] [PubMed] [Google Scholar]
+* 15.> Vaiyapuri S, Vaiyapuri R, Ashokan R. Snakebite and its socio-economic impact on the rural population of Tamil Nadu, India. PLoS One. 2013;8:e80090. doi: 10.1371/journal.pone.0080090.
+[DOI] [PMC free article] [PubMed] [Google Scholar]
+* 16.> WHO . World Health Organization; Geneva: 2010. WHO guidelines for the production, control and regulation of snake
+
+[4] joshuarcarter/snakebite — github.com
+https://github.com/joshlongbottom/snakebite
+
+# joshuarcarter/snakebite
+
+Code for the generation of a venomous snake vulnerability surface.
+
+- Stars: 4
+- Forks: 5
+- Watchers: 4
+- Open issues: 1
+- Default branch: master
+- Created: 2016-11-15T18:01:32Z
+
+## Languages
+
+- R
+
+## Topics
+
+- epidemiology
+- r
+- range-modelling
+- snakebite
+- species-distribution-modelling
+
+## Top Contributors
+
+- joshuarcarter (129 contributions)
+
+---
+
+## README
+
+# Snakebite
+Code for the generation of a venomous snake species vulnerability surface, identifying populations at risk of exposure to venomous snake species.
+Project is currently in progress. Main themes of the project:
+- [x] Digitise existing expert opinion range maps for all medically important venomous snake species
+- [x] Provide recommendations for contemporary updates to the range of each of these species
+- [x] Create a contemporary medically important venomous snake distribution surface, classified by medical importance classification
+- [x] Compare this species distribution surface with population distribution, health care quality and accessibility, antivenom availability and travel time to health care data to identify the most vulnerable populations.
+
+## Description
+Expert opinion range (EOR) maps for medically important snake species were obtained from the WHO antivenom database (http://apps.who.int/bloodproducts/snakeantivenoms/database/). Each EOR map was digitized, and a shapefile was created for each unique species per map. Utilizing the `spocc` package, available species occurrence data was obtained for each species (n = 277). This species occurrence data was used to generate Multivariate Environmental Similarity Surface (MESS) for each species, highlighting locations which are environmentally similar to locations within the species occurrence data. These MES surfaces were then used to validate any occurrence data located outside of the currently accepted EOR, and to inform a process generating an amended, contemporary species range.
+
+The newly created ranges were then converted to raster format, and stacked to generate a surface identifying the global range of medically important venomous snake species. This surface was combined with population distribution information, a ranking of health care quality and accessibility (HAQ Index), antivenom availability, and travel time to urban centers to identify the most vulnerable populations.
+
+## Project workflow
+Alt text
+
+Broad overview of the project workflow. Each stage refers to a specific script within this repository.
+
+1. **get_who_snakes.R**: This script bulk downloads EOR maps from the WHO antivenom database, and converts these downloaded maps into PNG fomat to allow georeferencing and digitization in ArcMAP.
+2. **plot_occurrence_spocc.R**: This script cycles through each medically important venomous snake species and downloads available occurrence records from the online repositories GBIF, VertNet, iNaturalist, iDigBio and Ecoengine utilizing the `spocc` package (https://CRAN.R-project.org/package=spocc). This occurrence data was then overlaid on top of digitized range shapefiles to show the distribution of occurrence records for each species.
+3. **gen_mess_cluster.R**: This script utilizes the occurrence data obtained in the step above, and generates a Multivariate Environmental Similarity Surface (MESS) for each species. The MESS is constructed using occurrence records within the species' currently accepted EOR. The MESS is then used to evaluate occurrence records which are located outside of the currently accepted EOR. Records outside of the EOR, which are within interpolation space (MESS +ve) are used to create an amended, proposed range. This range is generated by buffering MESS +ve records by 100km _(tbc)_, and clipping the buffered areas by the MESS interpolation space.
+4. **convert_shp_to_raster.R**: This script converts the newly generated/modified ranges to raster format. If a species has no range modification, the original WHO EOR is rasterized. Separate rasters are created for Category 1, Category 2 and combined C1 and C2 species.
+5. **gen_species_richness.R**: This script loops through the species rasters, and creates a raster stack. Cell values across the stack are then summed to give a count of the number of medically important venomous snake species per cell. This process is performed to generate separate Category 1, Category 2 and combined C1 and C2 species richness surfaces.
+6. **gen_antivenom_coverage.R**: This script loops through each species and groups species whose envenomings can be treated using the same antivenom. Using the species' range, a surface is generated to show the maximal spatial extent of efficacy for each antivenom. This script utilizes antivenom data from the WHO antivenom database. 

@@ -1,0 +1,35 @@
+{
+  "base_commit": "6b94d537687eaf403b493934b90523bb332172e9",
+  "inventory_records": 294,
+  "distinct_species_labels": 252,
+  "distinct_split_labels": 292,
+  "species_in_both": 242,
+  "lb_only": 52,
+  "who_artifact_only": 25,
+  "toxins": 5131,
+  "matched_toxins": 3644,
+  "species_with_toxins": 170,
+  "products": 94,
+  "long_rows": 451,
+  "actual_indication_rows": 352,
+  "gap_classes": {
+    "covered": 124,
+    "DATA GAP (covered, but no toxin records)": 38,
+    "CRITICAL (Cat1, no antivenom listed)": 16,
+    "HIGH (no antivenom listed)": 116
+  },
+  "live_uniprot": 5131,
+  "baseline_accessions_in_live_query": 5131,
+  "pdb_ids": 553,
+  "afdb_accessions": 4644,
+  "who_catalogue_rows": 30,
+  "ledger_rows": 10716,
+  "ledger_status_counts": {
+    "UniProt: present_in_live_query": 5131,
+    "PDB: current_uniprot_xref_only": 553,
+    "AlphaFoldDB: current_uniprot_xref_only": 4644,
+    "species: historical_source_name_not_full_live_taxonomy_validation": 294,
+    "product: historical_label_live_identity_unresolved": 94
+  },
+  "python": "3.10.12"
+}

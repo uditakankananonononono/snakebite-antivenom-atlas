@@ -1,0 +1,67 @@
+===== build_synonym_map =====
+disagreement classes: {'genus_header': 8, 'complex_phrase': 7, 'prose_bleed': 2, 'fragment_duplicate': 8} total: 25
+toxin organisms newly resolved against Longbottom: 4
+   Gloydius brevicauda -> Gloydius brevicaudus (18 toxins)
+   Eristicophis macmahoni -> Eristocophis macmahoni (6 toxins)
+   Echis multisquamatus -> REJECTED join to Echis carinatus: name appears only in a Longbottom synonym field (6 toxins)
+   Tropidolaemus wagleri -> REJECTED join to Tropidolaemus philippensis: name appears only in a Longbottom synonym field (4 toxins)
+unclassified: []
+===== build_audit_tables =====
+species=294 who_both=242 who_only=25 lb_only=52
+toxins=5131 matched=3644 orphan_orgs=107
+products=94 coverage_pairs=451
+species_with_toxins=170 species_no_toxins=124
+species_covered_by_av=162 species_no_av=132
+===== build_gap_table =====
+{'covered': 124, 'DATA GAP (covered, but no toxin records)': 38, 'CRITICAL (Cat1, no antivenom listed)': 16, 'HIGH (no antivenom listed)': 116}
+validation flags: 25
+('Africa and the Middle East', 'CRITICAL (Cat1, no antivenom listed)') 4
+('Africa and the Middle East', 'DATA GAP (covered, but no toxin records)') 5
+('Africa and the Middle East', 'HIGH (no antivenom listed)') 24
+('Africa and the Middle East', 'covered') 27
+('Asia and Australasia', 'CRITICAL (Cat1, no antivenom listed)') 4
+('Asia and Australasia', 'DATA GAP (covered, but no toxin records)') 15
+('Asia and Australasia', 'HIGH (no antivenom listed)') 17
+('Asia and Australasia', 'covered') 55
+('Europe', 'CRITICAL (Cat1, no antivenom listed)') 1
+('Europe', 'HIGH (no antivenom listed)') 4
+('Europe', 'covered') 4
+('The Americas', 'CRITICAL (Cat1, no antivenom listed)') 4
+('The Americas', 'DATA GAP (covered, but no toxin records)') 8
+('The Americas', 'HIGH (no antivenom listed)') 34
+('The Americas', 'covered') 42
+===== stats_analysis =====
+== 1. region x gap-class contingency (species counted per region of occurrence) ==
+rows: Africa and the Middle East, Asia and Australasia, Europe, The Americas
+cols: CRITICAL (Cat1, no antivenom listed), HIGH (no antivenom listed), DATA GAP (covered, but no toxin records), covered
+[[4, 24, 5, 27], [4, 17, 15, 55], [1, 4, 0, 4], [4, 34, 8, 42]]
+chi2=15.2 dof=9 p=0.0852
+
+== 2. toxin richness vs antivenom coverage (per species) ==
+Spearman rho(n_toxins, n_products)=0.560 p=1.25e-25 n=294
+median toxins covered=10 (n=162), uncovered=0 (n=132)
+Mann-Whitney U p=1.72e-18
+
+== 3. WHO category vs absence of toxin records ==
+Cat1: 23 zero-toxin / 80 species; Cat2: 101 zero-toxin / 211
+Fisher exact odds ratio=0.44 p=0.00348
+
+===== cross_reactivity =====
+3FTx: 70 uncovered x 1022 covered, 1841 alignments
+CNP: 2 uncovered x 54 covered, 6 alignments
+CTL: 8 uncovered x 132 covered, 64 alignments
+Disintegrin: 12 uncovered x 85 covered, 179 alignments
+LAAO: 8 uncovered x 61 covered, 172 alignments
+OTHER: 41 uncovered x 533 covered, 250 alignments
+PDE: 2 uncovered x 41 covered, 38 alignments
+PLA2: 38 uncovered x 171 covered, 338 alignments
+SVMP: 44 uncovered x 902 covered, 2381 alignments
+SVSP: 62 uncovered x 321 covered, 3728 alignments
+VEGF: 3 uncovered x 15 covered, 21 alignments
+Cross-reactivity heuristic summary (uncovered species = CRITICAL+HIGH gap class)
+uncovered-species toxins scored: 290 across 38 species
+
+T=60%: toxins inferred-covered 211/290 (72.8%), species with >=50% inventory inferred-covered: 29/38
+T=70%: toxins inferred-covered 194/290 (66.9%), species with >=50% inventory inferred-covered: 27/38
+T=80%: toxins inferred-covered 161/290 (55.5%), species with >=50% inventory inferred-covered: 24/38
+T=90%: toxins inferred-covered 55/290 (19.0%), species with >=50% inventory inferred-covered: 8/38

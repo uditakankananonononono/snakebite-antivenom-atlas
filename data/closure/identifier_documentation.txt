@@ -1,0 +1,83 @@
+[1] UniProt — uniprot.org
+https://www.uniprot.org/help/accession_numbers
+
+UniProtUniProt
+
+https://www.uniprot.org/
+
+- BLAST
+- Align
+- Peptide search
+- ID mapping
+- SPARQL
+
+UniProtKB
+
+Advanced | List
+
+Search
+
+Jobs dashboard Basket Contact Help
+
+UniProtUniProt
+[
+](/)
+* [BLAST](/blast)
+* [Align](/align)
+* [Peptide search](/peptide-search)
+* [ID mapping](/id-mapping)
+* [SPARQL](https://sparql.uniprot.org/)
+UniProtKB
+Advanced | List
+Search
+[](/tool-dashboard)[](/basket/uniprotkb)[](/contact)[Help](/help)
+This website requires cookies, and the limited processing of your personal data in order to function. By using the site you are agreeing to this as outlined in our [Privacy Notice](/help/privacy).I agree, dismiss this banner
+
+[2] UniProt — uniprot.org
+https://www.uniprot.org/help/deleted_accessions
+
+UniProt
+
+# UniProt website fallback message
+
+If you are not seeing anything on this page, it might be for multiple reasons:
+
+- You might have an outdated browser: make sure that your browser is up to date as older versions might not work with the website.
+- There might have been a network issue: ensure that your connectivity is stable and try to reload the page to see if it solves the issue. Reload this page
+
+[3] https://www.ebi.ac.uk/alphafold — fetch failed: CRAWL_NOT_FOUND
+
+[4] Home - Taxonomy - NCBI — ncbi.nlm.nih.gov
+https://www.ncbi.nlm.nih.gov/taxonomy
+
+Home - Taxonomy - NCBI
+
+![U.S. flag](https://www.ncbi.nlm.nih.gov/coreutils/uswds/img/favicons/favicon-57.png)
+
+An official website of the United States government
+
+Here's how you know
+
+# Taxonomy
+
+## Index of Life
+
+Search databaseAll DatabasesAssemblyBiocollectionsBioProjectBioSampleBooksClinVarConserved DomainsdbVarGeneGenomeGEO DataSetsGEO ProfilesGTRIdentical Protein GroupsMedGenMeSHNLM CatalogNucleotideOMIMPMCProteinProtein ClustersProtein Family ModelsPubChem BioAssayPubChem CompoundPubChem SubstancePubMedSNPSRAStructureTaxonomyToolKitToolKitAllToolKitBookgh
+
+Search term
+
+Search
+
+# Taxonomy
+
+The Taxonomy Database is a curated classification and nomenclature for all of the organisms in the public sequence databases. This currently represents about 10% of the described species of life on the planet.
+
+## Using Taxonomy
+
+## Taxonomy Tools
+
+## Other Resources
+
+Follow NCBI
+
+National Library of Medicine 8600 Rockville Pike Bethesda, MD 20894
