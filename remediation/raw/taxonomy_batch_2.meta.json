@@ -1,0 +1,6 @@
+{
+  "url": "https://rest.uniprot.org/taxonomy/search?query=scientific%3A%22Bothriechis+nigroviridis%22+OR+scientific%3A%22Bothriechis+rowleyi%22+OR+scientific%3A%22Bothriechis+schlegelii%22+OR+scientific%3A%22Bothriechis+supraciliaris%22+OR+scientific%3A%22Bothriechis+thalassinus%22+OR+scientific%3A%22Bothrocophias+campbelli%22+OR+scientific%3A%22Bothrocophias+colombianus%22+OR+scientific%3A%22Bothrocophias+hyoprora%22+OR+scientific%3A%22Bothrocophias+microphthalmus%22+OR+scientific%3A%22Bothrocophias+myersi%22+OR+scientific%3A%22Bothrops+alternatus%22+OR+scientific%3A%22Bothrops+ammodytoides%22+OR+scientific%3A%22Bothrops+andianus%22+OR+scientific%3A%22Bothrops+asper%22+OR+scientific%3A%22Bothrops+atrox%22+OR+scientific%3A%22Bothrops+barnetti%22+OR+scientific%3A%22Bothrops+bilineatus%22+OR+scientific%3A%22Bothrops+brazili%22+OR+scientific%3A%22Bothrops+caribbaeus%22+OR+scientific%3A%22Bothrops+diporus%22&format=json&size=500",
+  "retrieved_at_utc": "2026-10-08T14:18:32.073270+00:00",
+  "http_status": 200,
+  "sha256": "e65963a7d9e9fbaf4cd7f5207e1ad5b823a9a58b7298eb3e70d6e0bbbeb1f6e3"
+}

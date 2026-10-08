@@ -1,0 +1,6 @@
+{
+  "url": "https://rest.uniprot.org/taxonomy/search?query=scientific%3A%22Cryptelytrops+macrops%22+OR+scientific%3A%22Cryptelytrops+purpureomaculatus%22+OR+scientific%3A%22Cryptelytrops+septentrionalis%22+OR+scientific%3A%22Daboia+deserti%22+OR+scientific%3A%22Daboia+mauritanica%22+OR+scientific%3A%22Daboia+palaestinae%22+OR+scientific%3A%22Daboia+russelii%22+OR+scientific%3A%22Daboia+siamensis%22+OR+scientific%3A%22Deinagkistrodon+acutus%22+OR+scientific%3A%22Dendroaspis+angusticeps%22+OR+scientific%3A%22Dendroaspis+jamesoni%22+OR+scientific%3A%22Dendroaspis+polylepis%22+OR+scientific%3A%22Dendroaspis+viridis%22+OR+scientific%3A%22Dispholidus+typus%22+OR+scientific%3A%22Echis+borkini%22+OR+scientific%3A%22Echis+carinatus%22+OR+scientific%3A%22Echis+coloratus%22+OR+scientific%3A%22Echis+hughesi%22+OR+scientific%3A%22Echis+jogeri%22+OR+scientific%3A%22Echis+khosatzkii%22&format=json&size=500",
+  "retrieved_at_utc": "2026-10-08T14:18:35.545533+00:00",
+  "http_status": 200,
+  "sha256": "3f83baf72b451113d151b4ce5d15e3e399b93e1501b5812418d0a3f0ca8c8001"
+}

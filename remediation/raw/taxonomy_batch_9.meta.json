@@ -1,0 +1,6 @@
+{
+  "url": "https://rest.uniprot.org/taxonomy/search?query=scientific%3A%22Naja+anchietae%22+OR+scientific%3A%22Naja+annulata%22+OR+scientific%3A%22Naja+annulifera%22+OR+scientific%3A%22Naja+arabica%22+OR+scientific%3A%22Naja+ashei%22+OR+scientific%3A%22Naja+atra%22+OR+scientific%3A%22Naja+christyi%22+OR+scientific%3A%22Naja+haje%22+OR+scientific%3A%22Naja+kaouthia%22+OR+scientific%3A%22Naja+katiensis%22+OR+scientific%3A%22Naja+mandalayensis%22+OR+scientific%3A%22Naja+melanoleuca%22+OR+scientific%3A%22Naja+mossambica%22+OR+scientific%3A%22Naja+naja%22+OR+scientific%3A%22Naja+nigricincta%22+OR+scientific%3A%22Naja+nigricollis%22+OR+scientific%3A%22Naja+nivea%22+OR+scientific%3A%22Naja+nubiae%22+OR+scientific%3A%22Naja+oxiana%22+OR+scientific%3A%22Naja+pallida%22&format=json&size=500",
+  "retrieved_at_utc": "2026-10-08T14:18:38.130142+00:00",
+  "http_status": 200,
+  "sha256": "e2018c73eb12c7067245e37f72836a8519bf1619cb2e90a2d57ced0dc138e081"
+}

@@ -1,0 +1,6 @@
+{
+  "url": "https://rest.uniprot.org/taxonomy/search?query=scientific%3A%22Bothrops+jararaca%22+OR+scientific%3A%22Bothrops+jararacussu%22+OR+scientific%3A%22Bothrops+jonathani%22+OR+scientific%3A%22Bothrops+lanceolatus%22+OR+scientific%3A%22Bothrops+leucurus%22+OR+scientific%3A%22Bothrops+lojanus%22+OR+scientific%3A%22Bothrops+marajoensis%22+OR+scientific%3A%22Bothrops+mattogrossensis%22+OR+scientific%3A%22Bothrops+moojeni%22+OR+scientific%3A%22Bothrops+neuwiedi%22+OR+scientific%3A%22Bothrops+osbornei%22+OR+scientific%3A%22Bothrops+pictus%22+OR+scientific%3A%22Bothrops+pubescens%22+OR+scientific%3A%22Bothrops+punctatus%22+OR+scientific%3A%22Bothrops+roedingeri%22+OR+scientific%3A%22Bothrops+sanctaecrucis%22+OR+scientific%3A%22Bothrops+taeniatus%22+OR+scientific%3A%22Bothrops+venezuelensis%22+OR+scientific%3A%22Bungarus+bungaroides%22+OR+scientific%3A%22Bungarus+caeruleus%22&format=json&size=500",
+  "retrieved_at_utc": "2026-10-08T14:18:32.927447+00:00",
+  "http_status": 200,
+  "sha256": "e26f4004516099b3db9a1bbad7cfa63a32f8cd1125d1968fd359a3db09fa8492"
+}

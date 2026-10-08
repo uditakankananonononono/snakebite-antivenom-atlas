@@ -1,0 +1,6 @@
+{
+  "url": "https://rest.uniprot.org/taxonomy/search?query=scientific%3A%22Pseudocerastes+fieldi%22+OR+scientific%3A%22Pseudocerastes+persicus%22+OR+scientific%3A%22Pseudohaje+goldii%22+OR+scientific%3A%22Pseudohaje+nigra%22+OR+scientific%3A%22Pseudonaja+affinis%22+OR+scientific%3A%22Pseudonaja+aspidorhyncha%22+OR+scientific%3A%22Pseudonaja+guttata%22+OR+scientific%3A%22Pseudonaja+inframacula%22+OR+scientific%3A%22Pseudonaja+ingrami%22+OR+scientific%3A%22Pseudonaja+mengdeni%22+OR+scientific%3A%22Pseudonaja+nuchalis%22+OR+scientific%3A%22Pseudonaja+tanneri%22+OR+scientific%3A%22Pseudonaja+textilis%22+OR+scientific%3A%22Rhabdophis+tigrinus%22+OR+scientific%3A%22Sistrurus+catenatus%22+OR+scientific%3A%22Sistrurus+miliarius%22+OR+scientific%3A%22Thelotornis+capensis%22+OR+scientific%3A%22Thelotornis+kirtlandii%22+OR+scientific%3A%22Thelotornis+mossambicanus%22+OR+scientific%3A%22Thelotornis+usambaricus%22&format=json&size=500",
+  "retrieved_at_utc": "2026-10-08T14:18:40.720109+00:00",
+  "http_status": 200,
+  "sha256": "7c74d7b923e76ee4733d9b61bc4c2bf1b2d18e973d0a82e396796c51972b5661"
+}

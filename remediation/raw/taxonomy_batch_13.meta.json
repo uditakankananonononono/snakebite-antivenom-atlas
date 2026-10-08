@@ -1,0 +1,6 @@
+{
+  "url": "https://rest.uniprot.org/taxonomy/search?query=scientific%3A%22Trimeresurus+albolabris%22+OR+scientific%3A%22Trimeresurus+cardamomensis%22+OR+scientific%3A%22Trimeresurus+gramineus%22+OR+scientific%3A%22Trimeresurus+hageni%22+OR+scientific%3A%22Trimeresurus+malabaricus%22+OR+scientific%3A%22Trimeresurus+purpureomaculatus%22+OR+scientific%3A%22Trimeresurus+rubeus%22+OR+scientific%3A%22Trimeresurus+stejnegeri%22+OR+scientific%3A%22Trimeresurus+trigonocephalus%22+OR+scientific%3A%22Tropidechis+carinatus%22+OR+scientific%3A%22Tropidolaemus+philippensis%22+OR+scientific%3A%22Tropidolaemus+subannulatus%22+OR+scientific%3A%22Vipera+ammodytes%22+OR+scientific%3A%22Vipera+aspis%22+OR+scientific%3A%22Vipera+berus%22+OR+scientific%3A%22Vipera+darevskii%22+OR+scientific%3A%22Vipera+ebneri%22+OR+scientific%3A%22Vipera+eriwanensis%22+OR+scientific%3A%22Vipera+kaznakovi%22+OR+scientific%3A%22Vipera+latastei%22&format=json&size=500",
+  "retrieved_at_utc": "2026-10-08T14:18:41.601637+00:00",
+  "http_status": 200,
+  "sha256": "1f11e47fe0189cdfce856fc5ad72115537ce9966faa216d70b1021cbe3ecf35b"
+}

@@ -1,0 +1,6 @@
+{
+  "url": "https://rest.uniprot.org/taxonomy/search?query=scientific%3A%22Acanthophis+antarcticus%22+OR+scientific%3A%22Acanthophis+cryptamydros%22+OR+scientific%3A%22Acanthophis+laevis%22+OR+scientific%3A%22Acanthophis+praelongus%22+OR+scientific%3A%22Acanthophis+pyrrhus%22+OR+scientific%3A%22Acanthophis+rugosus%22+OR+scientific%3A%22Acanthophis+wellsi%22+OR+scientific%3A%22Agkistrodon+bilineatus%22+OR+scientific%3A%22Agkistrodon+contortrix%22+OR+scientific%3A%22Agkistrodon+howardgloydi%22+OR+scientific%3A%22Agkistrodon+piscivorus%22+OR+scientific%3A%22Agkistrodon+russeolus%22+OR+scientific%3A%22Agkistrodon+taylori%22+OR+scientific%3A%22Atheris+broadleyi%22+OR+scientific%3A%22Atheris+chlorechis%22+OR+scientific%3A%22Atheris+squamigera%22+OR+scientific%3A%22Atractaspis+andersonii%22+OR+scientific%3A%22Atractaspis+bibronii%22+OR+scientific%3A%22Atractaspis+engaddensis%22+OR+scientific%3A%22Atractaspis+fallax%22&format=json&size=500",
+  "retrieved_at_utc": "2026-10-08T14:18:30.311947+00:00",
+  "http_status": 200,
+  "sha256": "102e6e7daf0983c3c17be664ccfc7e10850f5078947af2a8959fb52c125ddf9a"
+}

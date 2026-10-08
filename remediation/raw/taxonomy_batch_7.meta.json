@@ -1,0 +1,6 @@
+{
+  "url": "https://rest.uniprot.org/taxonomy/search?query=scientific%3A%22Echis+leucogaster%22+OR+scientific%3A%22Echis+megalocephalus%22+OR+scientific%3A%22Echis+ocellatus%22+OR+scientific%3A%22Echis+omanensis%22+OR+scientific%3A%22Echis+pyramidum%22+OR+scientific%3A%22Eristocophis+macmahoni%22+OR+scientific%3A%22Gloydius+blomhoffi%22+OR+scientific%3A%22Gloydius+brevicaudus%22+OR+scientific%3A%22Gloydius+halys%22+OR+scientific%3A%22Gloydius+himalayanus%22+OR+scientific%3A%22Gloydius+intermedius%22+OR+scientific%3A%22Gloydius+tsushimaensis%22+OR+scientific%3A%22Gloydius+ussuriensis%22+OR+scientific%3A%22Hemachatus+haemachatus%22+OR+scientific%3A%22Himalayophis+tibetanus%22+OR+scientific%3A%22Hoplocephalus+bitorquatus%22+OR+scientific%3A%22Hoplocephalus+bungaroides%22+OR+scientific%3A%22Hoplocephalus+stephensii%22+OR+scientific%3A%22Hypnale+hypnale%22+OR+scientific%3A%22Hypnale+nepa%22&format=json&size=500",
+  "retrieved_at_utc": "2026-10-08T14:18:36.406626+00:00",
+  "http_status": 200,
+  "sha256": "5034fd9e732ea70207611e6a316238f65644ea281e94fb39e762d90cd5dca465"
+}

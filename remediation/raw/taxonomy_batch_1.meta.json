@@ -1,0 +1,6 @@
+{
+  "url": "https://rest.uniprot.org/taxonomy/search?query=scientific%3A%22Atractaspis+irregularis%22+OR+scientific%3A%22Atropoides+indomitus%22+OR+scientific%3A%22Atropoides+mexicanus%22+OR+scientific%3A%22Atropoides+nummifer%22+OR+scientific%3A%22Atropoides+occiduus%22+OR+scientific%3A%22Atropoides+olmec%22+OR+scientific%3A%22Atropoides+picadoi%22+OR+scientific%3A%22Austrelaps+labialis%22+OR+scientific%3A%22Austrelaps+ramsayi%22+OR+scientific%3A%22Austrelaps+superbus%22+OR+scientific%3A%22Bitis+arietans%22+OR+scientific%3A%22Bitis+gabonica%22+OR+scientific%3A%22Bitis+harenna%22+OR+scientific%3A%22Bitis+nasicornis%22+OR+scientific%3A%22Bitis+parviocula%22+OR+scientific%3A%22Bitis+rhinoceros%22+OR+scientific%3A%22Bothriechis+aurifer%22+OR+scientific%3A%22Bothriechis+bicolor%22+OR+scientific%3A%22Bothriechis+lateralis%22+OR+scientific%3A%22Bothriechis+marchi%22&format=json&size=500",
+  "retrieved_at_utc": "2026-10-08T14:18:31.192552+00:00",
+  "http_status": 200,
+  "sha256": "6be48936bb8a43f2b5cf779098c48a9f2e8fb3d0a6951d9b34fa5ffe9e5440d5"
+}

@@ -1,0 +1,56 @@
+source_row,lb_id,species_label,split_spp,candidate,taxid,accepted_name,status,group_collision,inherited_group_indications
+4,4,Acanthophis spp,Acanthophis praelongus,Acanthophis praelongus,239746,Acanthophis praelongus,exact_live_species,yes,yes
+5,4,Acanthophis spp,Acanthophis pyrrhus,Acanthophis pyrrhus,239752,Acanthophis pyrrhus,exact_live_species,yes,yes
+6,4,Acanthophis spp,Acanthophis wellsi,Acanthophis wellsi,239747,Acanthophis wellsi,exact_live_species,yes,yes
+7,4,Acanthophis spp,Acanthophis spp,,,,group_or_blank_unresolved,yes,yes
+22,19,Atropoides spp,Atropoides indomitus,Atropoides indomitus,,,no_unique_exact_live_species,yes,yes
+23,19,Atropoides spp,Atropoides nummifer,Atropoides nummifer,,,no_unique_exact_live_species,yes,yes
+24,19,Atropoides spp,Atropoides olmec,Atropoides olmec,,,no_unique_exact_live_species,yes,yes
+25,19,Atropoides spp,Atropoides picadoi,Atropoides picadoi,44729,Atropoides picadoi,exact_live_species,yes,yes
+26,20,Austrelaps spp,Austrelaps labialis,Austrelaps labialis,471292,Austrelaps labialis,exact_live_species,yes,yes
+27,20,Austrelaps spp,Austrelaps ramsayi,Austrelaps ramsayi,,,no_unique_exact_live_species,yes,yes
+28,20,Austrelaps spp,Austrelaps superbus,Austrelaps superbus,29156,Austrelaps superbus,exact_live_species,yes,yes
+37,29,Bothriechis spp,Bothriechis bicolor,Bothriechis bicolor,361627,Bothriechis bicolor,exact_live_species,yes,yes
+38,29,Bothriechis spp,Bothriechis nigroviridis,Bothriechis nigroviridis,88079,Bothriechis nigroviridis,exact_live_species,yes,yes
+39,29,Bothriechis spp,Bothriechis rowleyi,Bothriechis rowleyi,361628,Bothriechis rowleyi,exact_live_species,yes,yes
+40,29,Bothriechis spp,Bothriechis supraciliaris,Bothriechis supraciliaris,361630,Bothriechis supraciliaris,exact_live_species,yes,yes
+41,29,Bothriechis spp,Bothriechis aurifer,Bothriechis aurifer,361626,Bothriechis aurifer,exact_live_species,yes,yes
+42,29,Bothriechis spp,Bothriechis thalassinus,Bothriechis thalassinus,361625,Bothriechis thalassinus,exact_live_species,yes,yes
+45,32,Bothrocophias spp,Bothrocophias campbelli,Bothrocophias campbelli,106597,Bothrocophias campbelli,exact_live_species,yes,yes
+46,32,Bothrocophias spp,Bothrocophias colombianus,Bothrocophias colombianus,,,no_unique_exact_live_species,yes,yes
+47,32,Bothrocophias spp,Bothrocophias myersi,Bothrocophias myersi,,,no_unique_exact_live_species,yes,yes
+68,53,Bothrops spp,Bothrops punctatus,Bothrops punctatus,157559,Bothrops punctatus,exact_live_species,yes,yes
+69,53,Bothrops spp,Bothrops osbornei,Bothrops osbornei,157556,Bothrops osbornei,exact_live_species,yes,yes
+70,53,Bothrops spp,Bothrops lojanus,Bothrops lojanus,,,no_unique_exact_live_species,yes,yes
+71,53,Bothrops spp,Bothrops barnetti,Bothrops barnetti,1051630,Bothrops barnetti,exact_live_species,yes,yes
+72,53,Bothrops spp,Bothrops roedingeri,Bothrops roedingeri,,,no_unique_exact_live_species,yes,yes
+73,53,Bothrops spp,Bothrops andianus,Bothrops andianus,,,no_unique_exact_live_species,yes,yes
+74,53,Bothrops spp,Bothrops marajoensis,Bothrops marajoensis,157554,Bothrops marajoensis,exact_live_species,yes,yes
+75,53,Bothrops spp,Bothrops spp,,,,group_or_blank_unresolved,yes,yes
+97,75,Cerrophidion spp,Cerrophidion petlalcalensis,Cerrophidion petlalcalensis,335855,Cerrophidion petlalcalensis,exact_live_species,yes,yes
+98,75,Cerrophidion spp,Cerrophidion barbouri,Cerrophidion barbouri,,,no_unique_exact_live_species,yes,yes
+99,75,Cerrophidion spp,Cerrophidion tzotzilorum,Cerrophidion tzotzilorum,335856,Cerrophidion tzotzilorum,exact_live_species,yes,yes
+153,129,Hoplocephalus spp,Hoplocephalus bitorquatus,Hoplocephalus bitorquatus,529707,Hoplocephalus bitorquatus,exact_live_species,yes,yes
+154,129,Hoplocephalus spp,Hoplocephalus bungaroides,Hoplocephalus bungaroides,83403,Hoplocephalus bungaroides,exact_live_species,yes,yes
+155,129,Hoplocephalus spp,Hoplocephalus stephensii,Hoplocephalus stephensii,196418,Hoplocephalus stephensii,exact_live_species,yes,yes
+207,181,Ophryacus spp,Ophryacus melanurus,Ophryacus melanurus,,,no_unique_exact_live_species,yes,yes
+208,181,Ophryacus spp,Ophryacus undulatus,Ophryacus undulatus,88091,Ophryacus undulatus,exact_live_species,yes,yes
+217,190,Porthidium spp,Porthidium hespere,Porthidium hespere,473785,Porthidium hespere,exact_live_species,yes,yes
+218,190,Porthidium spp,Porthidium dunni,Porthidium dunni,230465,Porthidium dunni,exact_live_species,yes,yes
+219,190,Porthidium spp,Porthidium yucatanicum,Porthidium yucatanicum,335857,Porthidium yucatanicum,exact_live_species,yes,yes
+220,190,Porthidium spp,Porthidium volcanicum,Porthidium volcanicum,,,no_unique_exact_live_species,yes,yes
+221,190,Porthidium spp,Porthidium porrasi,Porthidium porrasi,335859,Porthidium porrasi,exact_live_species,yes,yes
+222,190,Porthidium spp,Porthidium arcosae,Porthidium arcosae,548255,Porthidium arcosae,exact_live_species,yes,yes
+233,201,Pseudechis spp,Pseudechis butleri,Pseudechis butleri,239756,Pseudechis butleri,exact_live_species,yes,yes
+234,201,Pseudechis spp,Pseudechis colletti,Pseudechis colletti,239754,Pseudechis colletti,exact_live_species,yes,yes
+235,201,Pseudechis spp,Pseudechis guttatus,Pseudechis guttatus,239755,Pseudechis guttatus,exact_live_species,yes,yes
+236,201,Pseudechis spp,Pseudechis porphyriacus,Pseudechis porphyriacus,8671,Pseudechis porphyriacus,exact_live_species,yes,yes
+237,201,Pseudechis spp,Pseudechis weigeli,Pseudechis weigeli,1908289,Pseudechis weigeli,exact_live_species,yes,yes
+246,210,Pseudonaja spp,Pseudonaja guttata,Pseudonaja guttata,340909,Pseudonaja guttata,exact_live_species,yes,yes
+247,210,Pseudonaja spp,Pseudonaja ingrami,Pseudonaja ingrami,340911,Pseudonaja ingrami,exact_live_species,yes,yes
+248,210,Pseudonaja spp,Pseudonaja inframacula,Pseudonaja inframacula,340910,Pseudonaja inframacula,exact_live_species,yes,yes
+249,210,Pseudonaja spp,Pseudonaja tanneri,Pseudonaja tanneri,,,no_unique_exact_live_species,yes,yes
+272,233,Vipera spp,Vipera kaznakovi,Vipera kaznakovi,247076,Vipera kaznakovi,exact_live_species,yes,yes
+273,233,Vipera spp,Vipera lotievi,Vipera lotievi,927678,Vipera lotievi,exact_live_species,yes,yes
+274,233,Vipera spp,Vipera darevskii,Vipera darevskii,2493147,Vipera darevskii,exact_live_species,yes,yes
+275,233,Vipera spp,Vipera ebneri,Vipera ebneri,,,no_unique_exact_live_species,yes,yes

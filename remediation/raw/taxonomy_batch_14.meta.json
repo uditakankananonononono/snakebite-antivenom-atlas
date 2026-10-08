@@ -1,0 +1,6 @@
+{
+  "url": "https://rest.uniprot.org/taxonomy/search?query=scientific%3A%22Vipera+lotievi%22+OR+scientific%3A%22Vipera+nikolskii%22+OR+scientific%3A%22Vipera+renardi%22+OR+scientific%3A%22Vipera+seoanei%22+OR+scientific%3A%22Vipera+ursinii%22+OR+scientific%3A%22Viridovipera+stejnegeri%22+OR+scientific%3A%22Walterinnesia+aegyptia%22+OR+scientific%3A%22Walterinnesia+morgani%22&format=json&size=500",
+  "retrieved_at_utc": "2026-10-08T14:18:42.458275+00:00",
+  "http_status": 200,
+  "sha256": "19db041b70445fb82540a4a31c77282fd3dc3882fc08a8c646b36832de163926"
+}

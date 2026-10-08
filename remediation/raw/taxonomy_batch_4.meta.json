@@ -1,0 +1,6 @@
+{
+  "url": "https://rest.uniprot.org/taxonomy/search?query=scientific%3A%22Bungarus+candidus%22+OR+scientific%3A%22Bungarus+ceylonicus%22+OR+scientific%3A%22Bungarus+fasciatus%22+OR+scientific%3A%22Bungarus+flaviceps%22+OR+scientific%3A%22Bungarus+lividus%22+OR+scientific%3A%22Bungarus+magnimaculatus%22+OR+scientific%3A%22Bungarus+multicinctus%22+OR+scientific%3A%22Bungarus+niger%22+OR+scientific%3A%22Bungarus+persicus%22+OR+scientific%3A%22Bungarus+sindanus%22+OR+scientific%3A%22Bungarus+slowinskii%22+OR+scientific%3A%22Bungarus+walli%22+OR+scientific%3A%22Calliophis+bivirgatus%22+OR+scientific%3A%22Calliophis+intestinalis%22+OR+scientific%3A%22Calloselasma+rhodostoma%22+OR+scientific%3A%22Cerastes+cerastes%22+OR+scientific%3A%22Cerastes+gasperettii%22+OR+scientific%3A%22Cerrophidion+barbouri%22+OR+scientific%3A%22Cerrophidion+godmani%22+OR+scientific%3A%22Cerrophidion+petlalcalensis%22&format=json&size=500",
+  "retrieved_at_utc": "2026-10-08T14:18:33.797973+00:00",
+  "http_status": 200,
+  "sha256": "9d0e4f64dd213ad885b0608dcbd56ac264e2faf1ec2c80d5bcef5cbc6fd8590f"
+}

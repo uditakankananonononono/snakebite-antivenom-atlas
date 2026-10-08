@@ -1,0 +1,10 @@
+{
+  "source_rows": 294,
+  "collision_rows": 55,
+  "resolved_rows": 251,
+  "distinct_resolved_taxids": 248,
+  "collision_resolved_rows": 39,
+  "toxins_assigned": 3603,
+  "collision_group_toxins": 154,
+  "collision_group_toxins_assigned": 154
+}

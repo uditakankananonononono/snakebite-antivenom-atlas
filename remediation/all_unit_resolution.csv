@@ -1,0 +1,295 @@
+source_row,lb_id,species_label,split_spp,candidate,taxid,accepted_name,status,group_collision,inherited_group_indications
+1,1,Acanthophis antarcticus,Acanthophis antarcticus,Acanthophis antarcticus,8605,Acanthophis antarcticus,exact_live_species,no,no
+2,2,Acanthophis laevis,Acanthophis laevis,Acanthophis laevis,239753,Acanthophis laevis,exact_live_species,no,no
+3,3,Acanthophis rugosus,Acanthophis rugosus,Acanthophis rugosus,239748,Acanthophis rugosus,exact_live_species,no,no
+4,4,Acanthophis spp,Acanthophis praelongus,Acanthophis praelongus,239746,Acanthophis praelongus,exact_live_species,yes,yes
+5,4,Acanthophis spp,Acanthophis pyrrhus,Acanthophis pyrrhus,239752,Acanthophis pyrrhus,exact_live_species,yes,yes
+6,4,Acanthophis spp,Acanthophis wellsi,Acanthophis wellsi,239747,Acanthophis wellsi,exact_live_species,yes,yes
+7,4,Acanthophis spp,Acanthophis spp,,,,group_or_blank_unresolved,yes,yes
+8,5,Agkistrodon bilineatus,Agkistrodon bilineatus,Agkistrodon bilineatus,8718,Agkistrodon bilineatus,exact_live_species,no,no
+9,6,Agkistrodon contortrix,Agkistrodon contortrix,Agkistrodon contortrix,8720,Agkistrodon contortrix,exact_live_species,no,no
+10,7,Agkistrodon piscivorus,Agkistrodon piscivorus,Agkistrodon piscivorus,8715,Agkistrodon piscivorus,exact_live_species,no,no
+11,8,Agkistrodon taylori,Agkistrodon taylori,Agkistrodon taylori,110123,Agkistrodon taylori,exact_live_species,no,no
+12,9,Atheris broadleyi,Atheris broadleyi,Atheris broadleyi,,,no_unique_exact_live_species,no,no
+13,10,Atheris chlorechis,Atheris chlorechis,Atheris chlorechis,110216,Atheris chlorechis,exact_live_species,no,no
+14,11,Atheris squamigera,Atheris squamigera,Atheris squamigera,110225,Atheris squamigera,exact_live_species,no,no
+15,12,Atractaspis andersonii,Atractaspis andersonii,Atractaspis andersonii,8600,Atractaspis andersonii,exact_live_species,no,no
+16,13,Atractaspis bibronii,Atractaspis bibronii,Atractaspis bibronii,61304,Atractaspis bibronii,exact_live_species,no,no
+17,14,Atractaspis engaddensis,Atractaspis engaddensis,Atractaspis engaddensis,1343144,Atractaspis engaddensis,exact_live_species,no,no
+18,15,Atractaspis fallax,Atractaspis fallax,Atractaspis fallax,2202122,Atractaspis fallax,exact_live_species,no,no
+19,16,Atractaspis irregularis,Atractaspis irregularis,Atractaspis irregularis,512568,Atractaspis irregularis,exact_live_species,no,no
+20,17,Atropoides mexicanus,Atropoides mexicanus,Atropoides mexicanus,,,no_unique_exact_live_species,no,no
+21,18,Atropoides occiduus,Atropoides occiduus,Atropoides occiduus,335858,Atropoides occiduus,exact_live_species,no,no
+22,19,Atropoides spp,Atropoides indomitus,Atropoides indomitus,,,no_unique_exact_live_species,yes,yes
+23,19,Atropoides spp,Atropoides nummifer,Atropoides nummifer,,,no_unique_exact_live_species,yes,yes
+24,19,Atropoides spp,Atropoides olmec,Atropoides olmec,,,no_unique_exact_live_species,yes,yes
+25,19,Atropoides spp,Atropoides picadoi,Atropoides picadoi,44729,Atropoides picadoi,exact_live_species,yes,yes
+26,20,Austrelaps spp,Austrelaps labialis,Austrelaps labialis,471292,Austrelaps labialis,exact_live_species,yes,yes
+27,20,Austrelaps spp,Austrelaps ramsayi,Austrelaps ramsayi,,,no_unique_exact_live_species,yes,yes
+28,20,Austrelaps spp,Austrelaps superbus,Austrelaps superbus,29156,Austrelaps superbus,exact_live_species,yes,yes
+29,21,Bitis arietans,Bitis arietans,Bitis arietans,8692,Bitis arietans,exact_live_species,no,no
+30,22,Bitis gabonica,Bitis gabonica,Bitis gabonica,8694,Bitis gabonica,exact_live_species,no,no
+31,23,Bitis nasicornis,Bitis nasicornis,Bitis nasicornis,8695,Bitis nasicornis,exact_live_species,no,no
+32,24,Bitis parviocula,Bitis parviocula,Bitis parviocula,1216351,Bitis parviocula,exact_live_species,no,no
+33,25,Bitis rhinoceros,Bitis rhinoceros,Bitis rhinoceros,715877,Bitis rhinoceros,exact_live_species,no,no
+34,26,Bothriechis lateralis,Bothriechis lateralis,Bothriechis lateralis,44727,Bothriechis lateralis,exact_live_species,no,no
+35,27,Bothriechis marchi,Bothriechis marchi,Bothriechis marchi,361629,Bothriechis marchi,exact_live_species,no,no
+36,28,Bothriechis schlegelii,Bothriechis schlegelii,Bothriechis schlegelii,44725,Bothriechis schlegelii,exact_live_species,no,no
+37,29,Bothriechis spp,Bothriechis bicolor,Bothriechis bicolor,361627,Bothriechis bicolor,exact_live_species,yes,yes
+38,29,Bothriechis spp,Bothriechis nigroviridis,Bothriechis nigroviridis,88079,Bothriechis nigroviridis,exact_live_species,yes,yes
+39,29,Bothriechis spp,Bothriechis rowleyi,Bothriechis rowleyi,361628,Bothriechis rowleyi,exact_live_species,yes,yes
+40,29,Bothriechis spp,Bothriechis supraciliaris,Bothriechis supraciliaris,361630,Bothriechis supraciliaris,exact_live_species,yes,yes
+41,29,Bothriechis spp,Bothriechis aurifer,Bothriechis aurifer,361626,Bothriechis aurifer,exact_live_species,yes,yes
+42,29,Bothriechis spp,Bothriechis thalassinus,Bothriechis thalassinus,361625,Bothriechis thalassinus,exact_live_species,yes,yes
+43,30,Bothrocophias hyoprora,Bothrocophias hyoprora,Bothrocophias hyoprora,230469,Bothrocophias hyoprora,exact_live_species,no,no
+44,31,Bothrocophias microphthalmus,Bothrocophias microphthalmus,Bothrocophias microphthalmus,230468,Bothrocophias microphthalmus,exact_live_species,no,no
+45,32,Bothrocophias spp,Bothrocophias campbelli,Bothrocophias campbelli,106597,Bothrocophias campbelli,exact_live_species,yes,yes
+46,32,Bothrocophias spp,Bothrocophias colombianus,Bothrocophias colombianus,,,no_unique_exact_live_species,yes,yes
+47,32,Bothrocophias spp,Bothrocophias myersi,Bothrocophias myersi,,,no_unique_exact_live_species,yes,yes
+48,33,Bothrops alternatus,Bothrops alternatus,Bothrops alternatus,64174,Bothrops alternatus,exact_live_species,no,no
+49,34,Bothrops ammodytoides,Bothrops ammodytoides,Bothrops ammodytoides,169857,Bothrops ammodytoides,exact_live_species,no,no
+50,35,Bothrops asper,Bothrops asper,Bothrops asper,8722,Bothrops asper,exact_live_species,no,no
+51,36,Bothrops atrox,Bothrops atrox,Bothrops atrox,8725,Bothrops atrox,exact_live_species,no,no
+52,37,Bothrops bilineatus,Bothrops bilineatus,Bothrops bilineatus,44724,Bothrops bilineatus,exact_live_species,no,no
+53,38,Bothrops brazili,Bothrops brazili,Bothrops brazili,157546,Bothrops brazili,exact_live_species,no,no
+54,39,Bothrops caribbaeus,Bothrops caribbaeus,Bothrops caribbaeus,157547,Bothrops caribbaeus,exact_live_species,no,no
+55,40,Bothrops cf atrox,Bothrops cf atrox,,,,group_or_blank_unresolved,no,no
+56,41,Bothrops diporus,Bothrops diporus,Bothrops diporus,1107943,Bothrops diporus,exact_live_species,no,no
+57,42,Bothrops jararaca,Bothrops jararaca,Bothrops jararaca,8724,Bothrops jararaca,exact_live_species,no,no
+58,43,Bothrops jararacussu,Bothrops jararacussu,Bothrops jararacussu,8726,Bothrops jararacussu,exact_live_species,no,no
+59,44,Bothrops jonathani,Bothrops jonathani,Bothrops jonathani,2985274,Bothrops jonathani,exact_live_species,no,no
+60,45,Bothrops lanceolatus,Bothrops lanceolatus,Bothrops lanceolatus,157553,Bothrops lanceolatus,exact_live_species,no,no
+61,46,Bothrops leucurus,Bothrops leucurus,Bothrops leucurus,157295,Bothrops leucurus,exact_live_species,no,no
+62,47,Bothrops mattogrossensis,Bothrops mattogrossensis,Bothrops mattogrossensis,1171125,Bothrops mattogrossensis,exact_live_species,no,no
+63,48,Bothrops moojeni,Bothrops moojeni,Bothrops moojeni,98334,Bothrops moojeni,exact_live_species,no,no
+64,49,Bothrops neuwiedi,Bothrops neuwiedi,Bothrops neuwiedi,95648,Bothrops neuwiedi,exact_live_species,no,no
+65,50,Bothrops pictus,Bothrops pictus,Bothrops pictus,133440,Bothrops pictus,exact_live_species,no,no
+66,51,Bothrops pubescens,Bothrops pubescens,Bothrops pubescens,1170827,Bothrops pubescens,exact_live_species,no,no
+67,52,Bothrops sanctaecrucis,Bothrops sanctaecrucis,Bothrops sanctaecrucis,,,no_unique_exact_live_species,no,no
+68,53,Bothrops spp,Bothrops punctatus,Bothrops punctatus,157559,Bothrops punctatus,exact_live_species,yes,yes
+69,53,Bothrops spp,Bothrops osbornei,Bothrops osbornei,157556,Bothrops osbornei,exact_live_species,yes,yes
+70,53,Bothrops spp,Bothrops lojanus,Bothrops lojanus,,,no_unique_exact_live_species,yes,yes
+71,53,Bothrops spp,Bothrops barnetti,Bothrops barnetti,1051630,Bothrops barnetti,exact_live_species,yes,yes
+72,53,Bothrops spp,Bothrops roedingeri,Bothrops roedingeri,,,no_unique_exact_live_species,yes,yes
+73,53,Bothrops spp,Bothrops andianus,Bothrops andianus,,,no_unique_exact_live_species,yes,yes
+74,53,Bothrops spp,Bothrops marajoensis,Bothrops marajoensis,157554,Bothrops marajoensis,exact_live_species,yes,yes
+75,53,Bothrops spp,Bothrops spp,,,,group_or_blank_unresolved,yes,yes
+76,54,Bothrops taeniatus,Bothrops taeniatus,Bothrops taeniatus,106598,Bothrops taeniatus,exact_live_species,no,no
+77,55,Bothrops venezuelensis,Bothrops venezuelensis,Bothrops venezuelensis,2058925,Bothrops venezuelensis,exact_live_species,no,no
+78,56,Bungarus bungaroides,Bungarus bungaroides,Bungarus bungaroides,282164,Bungarus bungaroides,exact_live_species,no,no
+79,57,Bungarus caeruleus,Bungarus caeruleus,Bungarus caeruleus,132961,Bungarus caeruleus,exact_live_species,no,no
+80,58,Bungarus candidus,Bungarus candidus,Bungarus candidus,92438,Bungarus candidus,exact_live_species,no,no
+81,59,Bungarus ceylonicus,Bungarus ceylonicus,Bungarus ceylonicus,1296667,Bungarus ceylonicus,exact_live_species,no,no
+82,60,Bungarus fasciatus,Bungarus fasciatus,Bungarus fasciatus,8613,Bungarus fasciatus,exact_live_species,no,no
+83,61,Bungarus flaviceps,Bungarus flaviceps,Bungarus flaviceps,8614,Bungarus flaviceps,exact_live_species,no,no
+84,62,Bungarus lividus,Bungarus lividus,Bungarus lividus,2851568,Bungarus lividus,exact_live_species,no,no
+85,63,Bungarus magnimaculatus,Bungarus magnimaculatus,Bungarus magnimaculatus,1969162,Bungarus magnimaculatus,exact_live_species,no,no
+86,64,Bungarus multicinctus,Bungarus multicinctus,Bungarus multicinctus,8616,Bungarus multicinctus,exact_live_species,no,no
+87,65,Bungarus niger,Bungarus niger,Bungarus niger,282406,Bungarus niger,exact_live_species,no,no
+88,66,Bungarus sindanus,Bungarus sindanus,Bungarus sindanus,282163,Bungarus sindanus,exact_live_species,no,no
+89,67,Bungarus slowinskii,Bungarus slowinskii,Bungarus slowinskii,364521,Bungarus slowinskii,exact_live_species,no,no
+90,68,Bungarus walli,Bungarus walli,Bungarus walli,3141370,Bungarus walli,exact_live_species,no,no
+91,69,Calliophis bivirgatus,Calliophis bivirgatus,Calliophis bivirgatus,8633,Calliophis bivirgatus,exact_live_species,no,no
+92,70,Calliophis intestinalis,Calliophis intestinalis,Calliophis intestinalis,1928468,Calliophis intestinalis,exact_live_species,no,no
+93,71,Calloselasma rhodostoma,Calloselasma rhodostoma,Calloselasma rhodostoma,8717,Calloselasma rhodostoma,exact_live_species,no,no
+94,72,Cerastes cerastes,Cerastes cerastes,Cerastes cerastes,8697,Cerastes cerastes,exact_live_species,no,no
+95,73,Cerastes gasperettii,Cerastes gasperettii,Cerastes gasperettii,110202,Cerastes gasperettii,exact_live_species,no,no
+96,74,Cerrophidion godmani,Cerrophidion godmani,Cerrophidion godmani,44722,Cerrophidion godmani,exact_live_species,no,no
+97,75,Cerrophidion spp,Cerrophidion petlalcalensis,Cerrophidion petlalcalensis,335855,Cerrophidion petlalcalensis,exact_live_species,yes,yes
+98,75,Cerrophidion spp,Cerrophidion barbouri,Cerrophidion barbouri,,,no_unique_exact_live_species,yes,yes
+99,75,Cerrophidion spp,Cerrophidion tzotzilorum,Cerrophidion tzotzilorum,335856,Cerrophidion tzotzilorum,exact_live_species,yes,yes
+100,76,Crotalus adamanteus,Crotalus adamanteus,Crotalus adamanteus,8729,Crotalus adamanteus,exact_live_species,no,no
+101,77,Crotalus atrox,Crotalus atrox,Crotalus atrox,8730,Crotalus atrox,exact_live_species,no,no
+102,78,Crotalus basiliscus,Crotalus basiliscus,Crotalus basiliscus,8744,Crotalus basiliscus,exact_live_species,no,no
+103,79,Crotalus durissus,Crotalus durissus,Crotalus durissus,8731,Crotalus durissus,exact_live_species,no,no
+104,80,Crotalus horridus,Crotalus horridus,Crotalus horridus,35024,Crotalus horridus,exact_live_species,no,no
+105,81,Crotalus molossus,Crotalus molossus,Crotalus molossus,8733,Crotalus molossus,exact_live_species,no,no
+106,82,Crotalus oreganus,Crotalus oreganus,Crotalus oreganus,332624,Crotalus oreganus,exact_live_species,no,no
+107,83,Crotalus ruber,Crotalus ruber,Crotalus ruber,8735,Crotalus ruber,exact_live_species,no,no
+108,84,Crotalus scutulatus,Crotalus scutulatus,Crotalus scutulatus,8737,Crotalus scutulatus,exact_live_species,no,no
+109,85,Crotalus simus,Crotalus simus,Crotalus simus,1043007,Crotalus simus,exact_live_species,no,no
+110,86,Crotalus spp,Crotalus spp,,,,group_or_blank_unresolved,no,no
+111,87,Crotalus totonacus,Crotalus totonacus,Crotalus totonacus,306041,Crotalus totonacus,exact_live_species,no,no
+112,88,Crotalus tzabcan,Crotalus tzabcan,Crotalus tzabcan,1043006,Crotalus tzabcan,exact_live_species,no,no
+113,89,Crotalus viridis,Crotalus viridis,Crotalus viridis,8739,Crotalus viridis,exact_live_species,no,no
+114,90,Cryptelytrops albolabris,Cryptelytrops albolabris,Cryptelytrops albolabris,8765,Trimeresurus albolabris,exact_live_species,no,no
+115,91,Cryptelytrops erythrurus,Cryptelytrops erythrurus,Cryptelytrops erythrurus,,,no_unique_exact_live_species,no,no
+116,92,Cryptelytrops insularis,Cryptelytrops insularis,Cryptelytrops insularis,,,no_unique_exact_live_species,no,no
+117,93,Cryptelytrops macrops,Cryptelytrops macrops,Cryptelytrops macrops,,,no_unique_exact_live_species,no,no
+118,94,Cryptelytrops purpureomaculatus,Cryptelytrops purpureomaculatus,Cryptelytrops purpureomaculatus,101163,Trimeresurus purpureomaculatus,exact_live_species,no,no
+119,95,Cryptelytrops septentrionalis,Cryptelytrops septentrionalis,Cryptelytrops septentrionalis,,,no_unique_exact_live_species,no,no
+120,96,Daboia deserti,Daboia deserti,Daboia deserti,110203,Daboia deserti,exact_live_species,no,no
+121,97,Daboia mauritanica,Daboia mauritanica,Daboia mauritanica,110204,Daboia mauritanica,exact_live_species,no,no
+122,98,Daboia palaestinae,Daboia palaestinae,Daboia palaestinae,1170828,Daboia palaestinae,exact_live_species,no,no
+123,99,Daboia russelii,Daboia russelii,Daboia russelii,8707,Daboia russelii,exact_live_species,no,no
+124,100,Daboia siamensis,Daboia siamensis,Daboia siamensis,343250,Daboia siamensis,exact_live_species,no,no
+125,101,Deinagkistrodon acutus,Deinagkistrodon acutus,Deinagkistrodon acutus,36307,Deinagkistrodon acutus,exact_live_species,no,no
+126,102,Dendroaspis angusticeps,Dendroaspis angusticeps,Dendroaspis angusticeps,8618,Dendroaspis angusticeps,exact_live_species,no,no
+127,103,Dendroaspis jamesoni,Dendroaspis jamesoni,Dendroaspis jamesoni,8623,Dendroaspis jamesoni,exact_live_species,no,no
+128,104,Dendroaspis polylepis,Dendroaspis polylepis,Dendroaspis polylepis,8624,Dendroaspis polylepis,exact_live_species,no,no
+129,105,Dendroaspis viridis,Dendroaspis viridis,Dendroaspis viridis,8621,Dendroaspis viridis,exact_live_species,no,no
+130,106,Dispholidus typus,Dispholidus typus,Dispholidus typus,46295,Dispholidus typus,exact_live_species,no,no
+131,107,Echis borkini,Echis borkini,Echis borkini,696810,Echis borkini,exact_live_species,no,no
+132,108,Echis carinatus,Echis carinatus,Echis carinatus,40353,Echis carinatus,exact_live_species,no,no
+133,109,Echis coloratus,Echis coloratus,Echis coloratus,64175,Echis coloratus,exact_live_species,no,no
+134,110,Echis hughesi,Echis hughesi,Echis hughesi,,,no_unique_exact_live_species,no,no
+135,111,Echis jogeri,Echis jogeri,Echis jogeri,696809,Echis jogeri,exact_live_species,no,no
+136,112,Echis khosatzkii,Echis khosatzkii,Echis khosatzkii,548885,Echis khosatzkii,exact_live_species,no,no
+137,113,Echis leucogaster,Echis leucogaster,Echis leucogaster,504457,Echis leucogaster,exact_live_species,no,no
+138,114,Echis megalocephalus,Echis megalocephalus,Echis megalocephalus,3146394,Echis megalocephalus,exact_live_species,no,no
+139,115,Echis ocellatus,Echis ocellatus,Echis ocellatus,99586,Echis ocellatus,exact_live_species,no,no
+140,116,Echis omanensis,Echis omanensis,Echis omanensis,547331,Echis omanensis,exact_live_species,no,no
+141,117,Echis pyramidum,Echis pyramidum,Echis pyramidum,8700,Echis pyramidum,exact_live_species,no,no
+142,118,Eristocophis macmahoni,Eristocophis macmahoni,Eristocophis macmahoni,,,no_unique_exact_live_species,no,no
+143,119,Gloydius blomhoffi,Gloydius blomhoffi,Gloydius blomhoffi,,,no_unique_exact_live_species,no,no
+144,120,Gloydius brevicaudus,Gloydius brevicaudus,Gloydius brevicaudus,,,no_unique_exact_live_species,no,no
+145,121,Gloydius halys,Gloydius halys,Gloydius halys,8714,Gloydius halys,exact_live_species,no,no
+146,122,Gloydius halys caucasicus,Gloydius halys caucasicus,,,,group_or_blank_unresolved,no,no
+147,123,Gloydius himalayanus,Gloydius himalayanus,Gloydius himalayanus,2875555,Gloydius himalayanus,exact_live_species,no,no
+148,124,Gloydius intermedius,Gloydius intermedius,Gloydius intermedius,44732,Gloydius intermedius,exact_live_species,no,no
+149,125,Gloydius tsushimaensis,Gloydius tsushimaensis,Gloydius tsushimaensis,1170829,Gloydius tsushimaensis,exact_live_species,no,no
+150,126,Gloydius ussuriensis,Gloydius ussuriensis,Gloydius ussuriensis,35671,Gloydius ussuriensis,exact_live_species,no,no
+151,127,Hemachatus haemachatus,Hemachatus haemachatus,Hemachatus haemachatus,8626,Hemachatus haemachatus,exact_live_species,no,no
+152,128,Himalayophis tibetanus,Himalayophis tibetanus,Himalayophis tibetanus,,,no_unique_exact_live_species,no,no
+153,129,Hoplocephalus spp,Hoplocephalus bitorquatus,Hoplocephalus bitorquatus,529707,Hoplocephalus bitorquatus,exact_live_species,yes,yes
+154,129,Hoplocephalus spp,Hoplocephalus bungaroides,Hoplocephalus bungaroides,83403,Hoplocephalus bungaroides,exact_live_species,yes,yes
+155,129,Hoplocephalus spp,Hoplocephalus stephensii,Hoplocephalus stephensii,196418,Hoplocephalus stephensii,exact_live_species,yes,yes
+156,130,Hypnale hypnale,Hypnale hypnale,Hypnale hypnale,44720,Hypnale hypnale,exact_live_species,no,no
+157,131,Hypnale nepa,Hypnale nepa,Hypnale nepa,1297012,Hypnale nepa,exact_live_species,no,no
+158,132,Lachesis acrochorda,Lachesis acrochorda,Lachesis acrochorda,1170830,Lachesis acrochorda,exact_live_species,no,no
+159,133,Lachesis melanocephala,Lachesis melanocephala,Lachesis melanocephala,60220,Lachesis melanocephala,exact_live_species,no,no
+160,134,Lachesis muta,Lachesis muta,Lachesis muta,8752,Lachesis muta,exact_live_species,no,no
+161,135,Lachesis stenophyrs,Lachesis stenophyrs,Lachesis stenophyrs,,,no_unique_exact_live_species,no,no
+162,136,Macrovipera lebetina,Macrovipera lebetina,Macrovipera lebetina,,,no_unique_exact_live_species,no,no
+163,137,Macrovipera schweizeri,Macrovipera schweizeri,Macrovipera schweizeri,110205,Macrovipera schweizeri,exact_live_species,no,no
+164,138,Micropechis ikaheka,Micropechis ikaheka,Micropechis ikaheka,,,no_unique_exact_live_species,no,no
+165,139,Micruroides euryxanthus,Micruroides euryxanthus,Micruroides euryxanthus,39080,Micruroides euryxanthus,exact_live_species,no,no
+166,140,Micrurus circinalis,Micrurus circinalis,Micrurus circinalis,2606507,Micrurus circinalis,exact_live_species,no,no
+167,141,Micrurus corallinus,Micrurus corallinus,Micrurus corallinus,54390,Micrurus corallinus,exact_live_species,no,no
+168,142,Micrurus fulvius,Micrurus fulvius,Micrurus fulvius,8637,Micrurus fulvius,exact_live_species,no,no
+169,143,Micrurus lemniscatus,Micrurus lemniscatus,Micrurus lemniscatus,129464,Micrurus lemniscatus,exact_live_species,no,no
+170,144,Micrurus mipartitus,Micrurus mipartitus,Micrurus mipartitus,430902,Micrurus mipartitus,exact_live_species,no,no
+171,145,Micrurus nigrocinctus,Micrurus nigrocinctus,Micrurus nigrocinctus,8635,Micrurus nigrocinctus,exact_live_species,no,no
+172,146,Micrurus spixii,Micrurus spixii,Micrurus spixii,129469,Micrurus spixii,exact_live_species,no,no
+173,147,Micrurus spp,Micrurus spp,,,,group_or_blank_unresolved,no,no
+174,148,Micrurus surinamensis,Micrurus surinamensis,Micrurus surinamensis,129470,Micrurus surinamensis,exact_live_species,no,no
+175,149,Micrurus tener,Micrurus tener,Micrurus tener,1114301,Micrurus tener,exact_live_species,no,no
+176,150,Montivipera raddei,Montivipera raddei,Montivipera raddei,110212,Montivipera raddei,exact_live_species,no,no
+177,151,Montivipera xanthina,Montivipera xanthina,Montivipera xanthina,110207,Montivipera xanthina,exact_live_species,no,no
+178,152,Naja anchietae,Naja anchietae,Naja anchietae,263737,Naja anchietae,exact_live_species,no,no
+179,153,Naja annulata,Naja annulata,Naja annulata,8609,Naja annulata,exact_live_species,no,no
+180,154,Naja annulifera,Naja annulifera,Naja annulifera,96794,Naja annulifera,exact_live_species,no,no
+181,155,Naja arabica,Naja arabica,Naja arabica,862237,Naja arabica,exact_live_species,no,no
+182,156,Naja ashei,Naja ashei,Naja ashei,696811,Naja ashei,exact_live_species,no,no
+183,157,Naja atra,Naja atra,Naja atra,8656,Naja atra,exact_live_species,no,no
+184,158,Naja christyi,Naja christyi,Naja christyi,8611,Naja christyi,exact_live_species,no,no
+185,159,Naja haje,Naja haje,Naja haje,8639,Naja haje,exact_live_species,no,no
+186,160,Naja kaouthia,Naja kaouthia,Naja kaouthia,8649,Naja kaouthia,exact_live_species,no,no
+187,161,Naja katiensis,Naja katiensis,Naja katiensis,409859,Naja katiensis,exact_live_species,no,no
+188,162,Naja mandalayensis,Naja mandalayensis,Naja mandalayensis,96795,Naja mandalayensis,exact_live_species,no,no
+189,163,Naja melanoleuca,Naja melanoleuca,Naja melanoleuca,8643,Naja melanoleuca,exact_live_species,no,no
+190,164,Naja mossambica,Naja mossambica,Naja mossambica,8644,Naja mossambica,exact_live_species,no,no
+191,165,Naja naja,Naja naja,Naja naja,35670,Naja naja,exact_live_species,no,no
+192,166,Naja nigricincta,Naja nigricincta,Naja nigricincta,409860,Naja nigricincta,exact_live_species,no,no
+193,167,Naja nigricollis,Naja nigricollis,Naja nigricollis,8654,Naja nigricollis,exact_live_species,no,no
+194,168,Naja nivea,Naja nivea,Naja nivea,8655,Naja nivea,exact_live_species,no,no
+195,169,Naja nubiae,Naja nubiae,Naja nubiae,186441,Naja nubiae,exact_live_species,no,no
+196,170,Naja oxiana,Naja oxiana,Naja oxiana,8657,Naja oxiana,exact_live_species,no,no
+197,171,Naja pallida,Naja pallida,Naja pallida,8658,Naja pallida,exact_live_species,no,no
+198,172,Naja philippinensis,Naja philippinensis,Naja philippinensis,8659,Naja philippinensis,exact_live_species,no,no
+199,173,Naja sagittifera,Naja sagittifera,Naja sagittifera,195058,Naja sagittifera,exact_live_species,no,no
+200,174,Naja samarensis,Naja samarensis,Naja samarensis,8660,Naja samarensis,exact_live_species,no,no
+201,175,Naja senegalensis,Naja senegalensis,Naja senegalensis,862238,Naja senegalensis,exact_live_species,no,no
+202,176,Naja siamensis,Naja siamensis,Naja siamensis,,,no_unique_exact_live_species,no,no
+203,177,Naja sputatrix,Naja sputatrix,Naja sputatrix,33626,Naja sputatrix,exact_live_species,no,no
+204,178,Naja sumatrana,Naja sumatrana,Naja sumatrana,1108807,Naja sumatrana,exact_live_species,no,no
+205,179,Notechis scutatus,Notechis scutatus,Notechis scutatus,8663,Notechis scutatus,exact_live_species,no,no
+206,180,Ophiophagus hannah,Ophiophagus hannah,Ophiophagus hannah,8665,Ophiophagus hannah,exact_live_species,no,no
+207,181,Ophryacus spp,Ophryacus melanurus,Ophryacus melanurus,,,no_unique_exact_live_species,yes,yes
+208,181,Ophryacus spp,Ophryacus undulatus,Ophryacus undulatus,88091,Ophryacus undulatus,exact_live_species,yes,yes
+209,182,Oxyuranus microlepidotus,Oxyuranus microlepidotus,Oxyuranus microlepidotus,111177,Oxyuranus microlepidotus,exact_live_species,no,no
+210,183,Oxyuranus scutellatus,Oxyuranus scutellatus,Oxyuranus scutellatus,8668,Oxyuranus scutellatus,exact_live_species,no,no
+211,184,Oxyuranus temporalis,Oxyuranus temporalis,Oxyuranus temporalis,439933,Oxyuranus temporalis,exact_live_species,no,no
+212,185,Parias flavomaculatus,Parias flavomaculatus,Parias flavomaculatus,,,no_unique_exact_live_species,no,no
+213,186,Parias sumatranus,Parias sumatranus,Parias sumatranus,,,no_unique_exact_live_species,no,no
+214,187,Porthidium lansbergii,Porthidium lansbergii,Porthidium lansbergii,106599,Porthidium lansbergii,exact_live_species,no,no
+215,188,Porthidium nasutum,Porthidium nasutum,Porthidium nasutum,74558,Porthidium nasutum,exact_live_species,no,no
+216,189,Porthidium ophryomegas,Porthidium ophryomegas,Porthidium ophryomegas,44717,Porthidium ophryomegas,exact_live_species,no,no
+217,190,Porthidium spp,Porthidium hespere,Porthidium hespere,473785,Porthidium hespere,exact_live_species,yes,yes
+218,190,Porthidium spp,Porthidium dunni,Porthidium dunni,230465,Porthidium dunni,exact_live_species,yes,yes
+219,190,Porthidium spp,Porthidium yucatanicum,Porthidium yucatanicum,335857,Porthidium yucatanicum,exact_live_species,yes,yes
+220,190,Porthidium spp,Porthidium volcanicum,Porthidium volcanicum,,,no_unique_exact_live_species,yes,yes
+221,190,Porthidium spp,Porthidium porrasi,Porthidium porrasi,335859,Porthidium porrasi,exact_live_species,yes,yes
+222,190,Porthidium spp,Porthidium arcosae,Porthidium arcosae,548255,Porthidium arcosae,exact_live_species,yes,yes
+223,191,Proatheris superciliaris,Proatheris superciliaris,Proatheris superciliaris,110218,Proatheris superciliaris,exact_live_species,no,no
+224,192,Protobothrops elegans,Protobothrops elegans,Protobothrops elegans,88086,Protobothrops elegans,exact_live_species,no,no
+225,193,Protobothrops flavoviridis,Protobothrops flavoviridis,Protobothrops flavoviridis,88087,Protobothrops flavoviridis,exact_live_species,no,no
+226,194,Protobothrops jerdonii,Protobothrops jerdonii,Protobothrops jerdonii,242841,Protobothrops jerdonii,exact_live_species,no,no
+227,195,Protobothrops kaulbacki,Protobothrops kaulbacki,Protobothrops kaulbacki,393198,Protobothrops kaulbacki,exact_live_species,no,no
+228,196,Protobothrops mangshanensis,Protobothrops mangshanensis,Protobothrops mangshanensis,242058,Protobothrops mangshanensis,exact_live_species,no,no
+229,197,Protobothrops mucrosquamatus,Protobothrops mucrosquamatus,Protobothrops mucrosquamatus,103944,Protobothrops mucrosquamatus,exact_live_species,no,no
+230,198,Pseudechis australis,Pseudechis australis,Pseudechis australis,8670,Pseudechis australis,exact_live_species,no,no
+231,199,Pseudechis papuanus,Pseudechis papuanus,Pseudechis papuanus,61265,Pseudechis papuanus,exact_live_species,no,no
+232,200,Pseudechis rossignolii,Pseudechis rossignolii,Pseudechis rossignolii,1489342,Pseudechis rossignolii,exact_live_species,no,no
+233,201,Pseudechis spp,Pseudechis butleri,Pseudechis butleri,239756,Pseudechis butleri,exact_live_species,yes,yes
+234,201,Pseudechis spp,Pseudechis colletti,Pseudechis colletti,239754,Pseudechis colletti,exact_live_species,yes,yes
+235,201,Pseudechis spp,Pseudechis guttatus,Pseudechis guttatus,239755,Pseudechis guttatus,exact_live_species,yes,yes
+236,201,Pseudechis spp,Pseudechis porphyriacus,Pseudechis porphyriacus,8671,Pseudechis porphyriacus,exact_live_species,yes,yes
+237,201,Pseudechis spp,Pseudechis weigeli,Pseudechis weigeli,1908289,Pseudechis weigeli,exact_live_species,yes,yes
+238,202,Pseudocerastes fieldi,Pseudocerastes fieldi,Pseudocerastes fieldi,1355908,Pseudocerastes fieldi,exact_live_species,no,no
+239,203,Pseudocerastes persicus,Pseudocerastes persicus,Pseudocerastes persicus,47769,Pseudocerastes persicus,exact_live_species,no,no
+240,204,Pseudohaje goldii,Pseudohaje goldii,Pseudohaje goldii,1545503,Pseudohaje goldii,exact_live_species,no,no
+241,205,Pseudohaje nigra,Pseudohaje nigra,Pseudohaje nigra,,,no_unique_exact_live_species,no,no
+242,206,Pseudonaja affinis,Pseudonaja affinis,Pseudonaja affinis,340908,Pseudonaja affinis,exact_live_species,no,no
+243,207,Pseudonaja aspidorhyncha,Pseudonaja aspidorhyncha,Pseudonaja aspidorhyncha,2929635,Pseudonaja aspidorhyncha,exact_live_species,no,no
+244,208,Pseudonaja mengdeni,Pseudonaja mengdeni,Pseudonaja mengdeni,2202451,Pseudonaja mengdeni,exact_live_species,no,no
+245,209,Pseudonaja nuchalis,Pseudonaja nuchalis,Pseudonaja nuchalis,340913,Pseudonaja nuchalis,exact_live_species,no,no
+246,210,Pseudonaja spp,Pseudonaja guttata,Pseudonaja guttata,340909,Pseudonaja guttata,exact_live_species,yes,yes
+247,210,Pseudonaja spp,Pseudonaja ingrami,Pseudonaja ingrami,340911,Pseudonaja ingrami,exact_live_species,yes,yes
+248,210,Pseudonaja spp,Pseudonaja inframacula,Pseudonaja inframacula,340910,Pseudonaja inframacula,exact_live_species,yes,yes
+249,210,Pseudonaja spp,Pseudonaja tanneri,Pseudonaja tanneri,,,no_unique_exact_live_species,yes,yes
+250,211,Pseudonaja textilis,Pseudonaja textilis,Pseudonaja textilis,8673,Pseudonaja textilis,exact_live_species,no,no
+251,212,Rhabdophis tigrinus,Rhabdophis tigrinus,Rhabdophis tigrinus,126484,Rhabdophis tigrinus,exact_live_species,no,no
+252,213,Sistrurus catenatus,Sistrurus catenatus,Sistrurus catenatus,8756,Sistrurus catenatus,exact_live_species,no,no
+253,214,Sistrurus miliarius,Sistrurus miliarius,Sistrurus miliarius,8758,Sistrurus miliarius,exact_live_species,no,no
+254,215,Thelotornis capensis,Thelotornis capensis,Thelotornis capensis,186609,Thelotornis capensis,exact_live_species,no,no
+255,216,Thelotornis kirtlandii,Thelotornis kirtlandii,Thelotornis kirtlandii,292880,Thelotornis kirtlandii,exact_live_species,no,no
+256,217,Thelotornis mossambicanus,Thelotornis mossambicanus,Thelotornis mossambicanus,1328036,Thelotornis mossambicanus,exact_live_species,no,no
+257,218,Thelotornis usambaricus,Thelotornis usambaricus,Thelotornis usambaricus,1328037,Thelotornis usambaricus,exact_live_species,no,no
+258,219,Trimeresurus gramineus,Trimeresurus gramineus,Trimeresurus gramineus,,,no_unique_exact_live_species,no,no
+259,220,Trimeresurus malabaricus,Trimeresurus malabaricus,Trimeresurus malabaricus,,,no_unique_exact_live_species,no,no
+260,221,Trimeresurus trigonocephalus,Trimeresurus trigonocephalus,Trimeresurus trigonocephalus,109787,Trimeresurus trigonocephalus,exact_live_species,no,no
+261,222,Tropidechis carinatus,Tropidechis carinatus,Tropidechis carinatus,100989,Tropidechis carinatus,exact_live_species,no,no
+262,223,Tropidolaemus philippensis,Tropidolaemus philippensis,Tropidolaemus philippensis,,,no_unique_exact_live_species,no,no
+263,224,Tropidolaemus subannulatus,Tropidolaemus subannulatus,Tropidolaemus subannulatus,699373,Tropidolaemus subannulatus,exact_live_species,no,no
+264,225,Vipera ammodytes,Vipera ammodytes,Vipera ammodytes,8704,Vipera ammodytes,exact_live_species,no,no
+265,226,Vipera aspis,Vipera aspis,Vipera aspis,8706,Vipera aspis,exact_live_species,no,no
+266,227,Vipera berus,Vipera berus,Vipera berus,31155,Vipera berus,exact_live_species,no,no
+267,228,Vipera eriwanensis,Vipera eriwanensis,Vipera eriwanensis,796011,Vipera eriwanensis,exact_live_species,no,no
+268,229,Vipera latastei,Vipera latastei,Vipera latastei,246179,Vipera latastei,exact_live_species,no,no
+269,230,Vipera nikolskii,Vipera nikolskii,Vipera nikolskii,1808362,Vipera nikolskii,exact_live_species,no,no
+270,231,Vipera renardi,Vipera renardi,Vipera renardi,927686,Vipera renardi,exact_live_species,no,no
+271,232,Vipera seoanei,Vipera seoanei,Vipera seoanei,110211,Vipera seoanei,exact_live_species,no,no
+272,233,Vipera spp,Vipera kaznakovi,Vipera kaznakovi,247076,Vipera kaznakovi,exact_live_species,yes,yes
+273,233,Vipera spp,Vipera lotievi,Vipera lotievi,927678,Vipera lotievi,exact_live_species,yes,yes
+274,233,Vipera spp,Vipera darevskii,Vipera darevskii,2493147,Vipera darevskii,exact_live_species,yes,yes
+275,233,Vipera spp,Vipera ebneri,Vipera ebneri,,,no_unique_exact_live_species,yes,yes
+276,234,Vipera ursinii,Vipera ursinii,Vipera ursinii,103942,Vipera ursinii,exact_live_species,no,no
+277,235,Viridovipera stejnegeri,Viridovipera stejnegeri,Viridovipera stejnegeri,39682,Trimeresurus stejnegeri,exact_live_species,no,no
+278,236,Walterinnesia aegyptia,Walterinnesia aegyptia,Walterinnesia aegyptia,64182,Walterinnesia aegyptia,exact_live_species,no,no
+279,237,Walterinnesia morgani,Walterinnesia morgani,Walterinnesia morgani,2784008,Walterinnesia morgani,exact_live_species,no,no
+280,2016_1,Acanthophis cryptamydros,Acanthophis cryptamydros,Acanthophis cryptamydros,1752123,Acanthophis cryptamydros,exact_live_species,no,no
+281,2016_2,Agkistrodon howardgloydi,Agkistrodon howardgloydi,Agkistrodon howardgloydi,109979,Agkistrodon howardgloydi,exact_live_species,no,no
+282,2016_3,Agkistrodon russeolus,Agkistrodon russeolus,Agkistrodon russeolus,109980,Agkistrodon russeolus,exact_live_species,no,no
+283,2016_5,Bitis harenna,Bitis harenna,Bitis harenna,2202123,Bitis harenna,exact_live_species,no,no
+284,2016_6,Bungarus persicus,Bungarus persicus,Bungarus persicus,,,no_unique_exact_live_species,no,no
+285,2016_7,Cerrophidion sasai,Cerrophidion sasai,Cerrophidion sasai,1200835,Cerrophidion sasai,exact_live_species,no,no
+286,2016_8,Cerrophidion wilsoni,Cerrophidion wilsoni,Cerrophidion wilsoni,1200836,Cerrophidion wilsoni,exact_live_species,no,no
+287,2016_9,Crotalus ornatus,Crotalus ornatus,Crotalus ornatus,2596810,Crotalus ornatus,exact_live_species,no,no
+288,2016_12,Hypnale zara,Hypnale zara,Hypnale zara,1297013,Hypnale zara,exact_live_species,no,no
+289,2016_15,Trimeresurus cardamomensis,Trimeresurus cardamomensis,Trimeresurus cardamomensis,1457320,Trimeresurus cardamomensis,exact_live_species,no,no
+290,2016_16,Trimeresurus hageni,Trimeresurus hageni,Trimeresurus hageni,109782,Trimeresurus hageni,exact_live_species,no,no
+291,2016_17,Trimeresurus rubeus,Trimeresurus rubeus,Trimeresurus rubeus,1686054,Trimeresurus rubeus,exact_live_species,no,no
+292,,Trimeresurus stejnegeri,,Trimeresurus stejnegeri,39682,Trimeresurus stejnegeri,exact_live_species,no,no
+293,,Trimeresurus albolabris,,Trimeresurus albolabris,8765,Trimeresurus albolabris,exact_live_species,no,no
+294,,Trimeresurus purpureomaculatus,,Trimeresurus purpureomaculatus,101163,Trimeresurus purpureomaculatus,exact_live_species,no,no

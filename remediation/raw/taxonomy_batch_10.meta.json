@@ -1,0 +1,6 @@
+{
+  "url": "https://rest.uniprot.org/taxonomy/search?query=scientific%3A%22Naja+philippinensis%22+OR+scientific%3A%22Naja+sagittifera%22+OR+scientific%3A%22Naja+samarensis%22+OR+scientific%3A%22Naja+senegalensis%22+OR+scientific%3A%22Naja+siamensis%22+OR+scientific%3A%22Naja+sputatrix%22+OR+scientific%3A%22Naja+sumatrana%22+OR+scientific%3A%22Notechis+scutatus%22+OR+scientific%3A%22Ophiophagus+hannah%22+OR+scientific%3A%22Ophryacus+melanurus%22+OR+scientific%3A%22Ophryacus+undulatus%22+OR+scientific%3A%22Oxyuranus+microlepidotus%22+OR+scientific%3A%22Oxyuranus+scutellatus%22+OR+scientific%3A%22Oxyuranus+temporalis%22+OR+scientific%3A%22Parias+flavomaculatus%22+OR+scientific%3A%22Parias+sumatranus%22+OR+scientific%3A%22Porthidium+arcosae%22+OR+scientific%3A%22Porthidium+dunni%22+OR+scientific%3A%22Porthidium+hespere%22+OR+scientific%3A%22Porthidium+lansbergii%22&format=json&size=500",
+  "retrieved_at_utc": "2026-10-08T14:18:39.004734+00:00",
+  "http_status": 200,
+  "sha256": "3c47e1dabf98d9bc0ce633cc9c20e35c77e42c6969b47369129ad1510163ee1f"
+}

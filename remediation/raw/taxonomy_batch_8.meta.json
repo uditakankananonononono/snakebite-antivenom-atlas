@@ -1,0 +1,6 @@
+{
+  "url": "https://rest.uniprot.org/taxonomy/search?query=scientific%3A%22Hypnale+zara%22+OR+scientific%3A%22Lachesis+acrochorda%22+OR+scientific%3A%22Lachesis+melanocephala%22+OR+scientific%3A%22Lachesis+muta%22+OR+scientific%3A%22Lachesis+stenophyrs%22+OR+scientific%3A%22Macrovipera+lebetina%22+OR+scientific%3A%22Macrovipera+schweizeri%22+OR+scientific%3A%22Micropechis+ikaheka%22+OR+scientific%3A%22Micruroides+euryxanthus%22+OR+scientific%3A%22Micrurus+circinalis%22+OR+scientific%3A%22Micrurus+corallinus%22+OR+scientific%3A%22Micrurus+fulvius%22+OR+scientific%3A%22Micrurus+lemniscatus%22+OR+scientific%3A%22Micrurus+mipartitus%22+OR+scientific%3A%22Micrurus+nigrocinctus%22+OR+scientific%3A%22Micrurus+spixii%22+OR+scientific%3A%22Micrurus+surinamensis%22+OR+scientific%3A%22Micrurus+tener%22+OR+scientific%3A%22Montivipera+raddei%22+OR+scientific%3A%22Montivipera+xanthina%22&format=json&size=500",
+  "retrieved_at_utc": "2026-10-08T14:18:37.273299+00:00",
+  "http_status": 200,
+  "sha256": "c18c8fa62146bae336af0198b64e48750d449a1382c14f60e44223c6ec3de81b"
+}

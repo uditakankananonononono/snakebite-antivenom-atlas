@@ -1,0 +1,6 @@
+{
+  "url": "https://rest.uniprot.org/taxonomy/search?query=scientific%3A%22Cerrophidion+sasai%22+OR+scientific%3A%22Cerrophidion+tzotzilorum%22+OR+scientific%3A%22Cerrophidion+wilsoni%22+OR+scientific%3A%22Crotalus+adamanteus%22+OR+scientific%3A%22Crotalus+atrox%22+OR+scientific%3A%22Crotalus+basiliscus%22+OR+scientific%3A%22Crotalus+durissus%22+OR+scientific%3A%22Crotalus+horridus%22+OR+scientific%3A%22Crotalus+molossus%22+OR+scientific%3A%22Crotalus+oreganus%22+OR+scientific%3A%22Crotalus+ornatus%22+OR+scientific%3A%22Crotalus+ruber%22+OR+scientific%3A%22Crotalus+scutulatus%22+OR+scientific%3A%22Crotalus+simus%22+OR+scientific%3A%22Crotalus+totonacus%22+OR+scientific%3A%22Crotalus+tzabcan%22+OR+scientific%3A%22Crotalus+viridis%22+OR+scientific%3A%22Cryptelytrops+albolabris%22+OR+scientific%3A%22Cryptelytrops+erythrurus%22+OR+scientific%3A%22Cryptelytrops+insularis%22&format=json&size=500",
+  "retrieved_at_utc": "2026-10-08T14:18:34.672884+00:00",
+  "http_status": 200,
+  "sha256": "e7907fab7aa454dc379d4aa89ed776096450d06da42eb49d54293675ee3ae697"
+}

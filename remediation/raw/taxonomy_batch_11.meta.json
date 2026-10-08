@@ -1,0 +1,6 @@
+{
+  "url": "https://rest.uniprot.org/taxonomy/search?query=scientific%3A%22Porthidium+nasutum%22+OR+scientific%3A%22Porthidium+ophryomegas%22+OR+scientific%3A%22Porthidium+porrasi%22+OR+scientific%3A%22Porthidium+volcanicum%22+OR+scientific%3A%22Porthidium+yucatanicum%22+OR+scientific%3A%22Proatheris+superciliaris%22+OR+scientific%3A%22Protobothrops+elegans%22+OR+scientific%3A%22Protobothrops+flavoviridis%22+OR+scientific%3A%22Protobothrops+jerdonii%22+OR+scientific%3A%22Protobothrops+kaulbacki%22+OR+scientific%3A%22Protobothrops+mangshanensis%22+OR+scientific%3A%22Protobothrops+mucrosquamatus%22+OR+scientific%3A%22Pseudechis+australis%22+OR+scientific%3A%22Pseudechis+butleri%22+OR+scientific%3A%22Pseudechis+colletti%22+OR+scientific%3A%22Pseudechis+guttatus%22+OR+scientific%3A%22Pseudechis+papuanus%22+OR+scientific%3A%22Pseudechis+porphyriacus%22+OR+scientific%3A%22Pseudechis+rossignolii%22+OR+scientific%3A%22Pseudechis+weigeli%22&format=json&size=500",
+  "retrieved_at_utc": "2026-10-08T14:18:39.856760+00:00",
+  "http_status": 200,
+  "sha256": "4931c4b1803cf276a892539981d90e2bb9fad52bcafd06a23239a176f06ae5d5"
+}
