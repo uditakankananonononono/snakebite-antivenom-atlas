@@ -1,0 +1,26 @@
+{
+  "recomputations": [
+    {
+      "unit": "primary_taxid",
+      "n": 248,
+      "tests": "four effects/p-values, contingency, Holm independently recomputed",
+      "status": "PASS"
+    },
+    {
+      "unit": "no_inherited_indications",
+      "n": 209,
+      "tests": "four effects/p-values, contingency, Holm independently recomputed",
+      "status": "PASS"
+    },
+    {
+      "unit": "source_groups",
+      "n": 252,
+      "tests": "four effects/p-values, contingency, Holm independently recomputed",
+      "status": "PASS"
+    }
+  ],
+  "outside_tree_modified": [],
+  "raw_sha_checks": "PASS",
+  "baseline": "0d1fd38021dc6f5fcf66f222ac640d2ad755a073",
+  "gates_sha256": "c52c53dd3c86446db778e0627ef6734675ce60dc7749f8d74bf28d0310a87e64"
+}

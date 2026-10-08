@@ -13,3 +13,21 @@ Overall 251 of 294 source rows validated, 248 distinct primary taxids after merg
 All 154 baseline toxin accessions joined to a collision group can be assigned by
 this direct-name rule. This does not validate inherited antivenom group indications.
 See constituent_resolution.csv for every candidate/accepted name/taxid/status.
+
+## Per-label accounting
+
+Label | Collision rows | Exact-live constituents | Unresolved split labels
+--- | --- | --- | ---
+Acanthophis spp | 4 | 3 | Acanthophis spp
+Atropoides spp | 4 | 1 | Atropoides indomitus; Atropoides nummifer; Atropoides olmec
+Austrelaps spp | 3 | 2 | Austrelaps ramsayi
+Bothriechis spp | 6 | 6 | 
+Bothrocophias spp | 3 | 1 | Bothrocophias colombianus; Bothrocophias myersi
+Bothrops spp | 8 | 4 | Bothrops lojanus; Bothrops roedingeri; Bothrops andianus; Bothrops spp
+Cerrophidion spp | 3 | 2 | Cerrophidion barbouri
+Hoplocephalus spp | 3 | 3 | 
+Ophryacus spp | 2 | 1 | Ophryacus melanurus
+Porthidium spp | 6 | 5 | Porthidium volcanicum
+Pseudechis spp | 5 | 5 | 
+Pseudonaja spp | 4 | 3 | Pseudonaja tanneri
+Vipera spp | 4 | 3 | Vipera ebneri
