@@ -1,0 +1,20 @@
+B10 target-set modeled coverage at frozen tau=0.5727
+target toxins: 290 across 38 species
+MODEL: toxins inferred-covered 162/290 (55.9%), species >=50% inventory covered: 23/38
+BASELINE (committed heuristic, T=80): 161/290 (55.5%), species 24/38 (committed)
+toxin-level agreement model vs baseline: 251/290 (86.6%)
+
+per-family (n, model-covered, baseline-covered):
+  3FTx           70  model   29 (41%)  baseline   30 (43%)
+  CNP             2  model    0 (0%)  baseline    0 (0%)
+  CTL             8  model    4 (50%)  baseline    4 (50%)
+  Disintegrin    12  model    9 (75%)  baseline    9 (75%)
+  LAAO            8  model    7 (88%)  baseline    6 (75%)
+  OTHER          41  model   21 (51%)  baseline   21 (51%)
+  PDE             2  model    2 (100%)  baseline    2 (100%)
+  PLA2           38  model   17 (45%)  baseline   18 (47%)
+  SVMP           44  model   23 (52%)  baseline   21 (48%)
+  SVSP           62  model   47 (76%)  baseline   47 (76%)
+  VEGF            3  model    3 (100%)  baseline    3 (100%)
+
+GATE M9 INDIA ADDENDUM: CRITICAL/HIGH species occurring in IND per committed gap_table: ['Bungarus magnimaculatus', 'Hypnale hypnale', 'Trimeresurus gramineus', 'Trimeresurus malabaricus']; of these, species with toxin records in the panel: 0 (<3 required) -> ADDENDUM UNSUPPORTED, reported as an honest negative. No India-specific scores were computed or claimed.

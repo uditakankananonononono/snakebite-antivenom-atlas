@@ -1,0 +1,7 @@
+tau frozen from calibration: 0.5727
+test pairs: 8110 (positives 370)
+model     test AUPRC=0.0910 AUROC=0.6042
+baseline  test AUPRC=0.0694 AUROC=0.5772
+naive     test AUPRC=0.0661 AUROC=0.6510
+delta AUPRC (model - baseline): mean +0.0226, 95% CI [+0.0087, +0.0383] -> WIN (CI excludes 0)
+test species: 20; mean per-species true-product recovery at tau: 0.642; mean fraction of toxin inventory model-covered at tau: 0.679

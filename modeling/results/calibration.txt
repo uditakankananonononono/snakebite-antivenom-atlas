@@ -1,0 +1,2 @@
+tau (max Youden J on calibration pairs, n=48317): 0.5727  J=0.2357
+calibration pair prevalence: 0.1094
